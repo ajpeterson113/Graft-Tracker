@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 5:02 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 5:22 PM CT
 
 ## October
 
@@ -86,13 +86,13 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales (excl. R.C.) | $29,473.20 | $29,473.20 |
-| + Projected Grafix, net of WCC stock | $112,752.00 | $81,168.50 |
+| + Projected Grafix, net of WCC stock | $77,910.00 | $63,747.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$147,163.20** | **$115,579.70** |
+| **Projected P10 total** | **$112,321.20** | **$98,158.70** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 114.1% | 89.6% |
-| Gap to target | $0.00 | $13,435.30 |
-| **Projected commission** | **$14,716.32** | **$8,090.58** |
+| % of target | 87.1% | 76.1% |
+| Gap to target | $16,693.80 | $30,856.30 |
+| **Projected commission** | **$7,862.48** | **$6,871.11** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -107,8 +107,6 @@
 | Good Sam | Luetkehans | P.J. | 3× 16mm | Weekly | 2 | 4 | $5,106.00 | same | $5,106.00 |
 | Good Sam | Luetkehans | D.F. | 1× 5x5 | Weekly | 0 | 4 | $10,000.00 | same | $10,000.00 |
 | Good Sam | Luetkehans | L.D. | 1× 1.5x2 | Weekly | 22 | 4 | $3,120.00 | 16mm × 4 | $1,702.00 |
-| Good Sam | Bach | L.J. | 3× 5x5 | Weekly | 0 | 4 | $30,000.00 | 5x5 × 2 | $15,000.00 |
-| Good Sam | Bach | L.J. | 1× 3x4 | Weekly | 0 | 4 | $4,842.00 | 3x4 × 2 | $2,421.00 |
 | Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Lucas | J.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
