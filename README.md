@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 3:53 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 4:28 PM CT
 
 ## October
 
@@ -98,9 +98,9 @@
 | Good Sam | Ayesh | K.P. | 1× 3x4 | Biweekly | 6 | 2 | $2,421.00 | 3x3 × 2 | $2,231.00 |
 | Good Sam | Ayesh | C.B. | 1× 3x4 | Once | 3 | 0 | $0.00 | same | $0.00 |
 | Good Sam | Ayesh | C.B. | 1× 2x3 | Biweekly | 3 | 2 | $1,960.00 | same | $1,960.00 |
-| Good Sam | Luetkahans | P.J. | 3× 16mm | Weekly | 2 | 4 | $5,106.00 | same | $5,106.00 |
-| Good Sam | Luetkahans | D.F. | 1× 5x5 | Weekly | 0 | 4 | $10,000.00 | same | $10,000.00 |
-| Good Sam | Luetkahans | L.D. | 1× 1.5x2 | Weekly | 22 | 4 | $3,120.00 | 16mm × 4 | $1,702.00 |
+| Good Sam | Luetkehans | P.J. | 3× 16mm | Weekly | 2 | 4 | $5,106.00 | same | $5,106.00 |
+| Good Sam | Luetkehans | D.F. | 1× 5x5 | Weekly | 0 | 4 | $10,000.00 | same | $10,000.00 |
+| Good Sam | Luetkehans | L.D. | 1× 1.5x2 | Weekly | 22 | 4 | $3,120.00 | 16mm × 4 | $1,702.00 |
 | Good Sam | Bach | L.J. | 3× 5x5 | Weekly | 0 | 4 | $30,000.00 | 5x5 × 2 | $15,000.00 |
 | Good Sam | Bach | L.J. | 1× 3x4 | Weekly | 0 | 4 | $4,842.00 | 3x4 × 2 | $2,421.00 |
 | Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
