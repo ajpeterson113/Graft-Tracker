@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/1/26, 10:33 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/1/26, 10:37 PM CT
 
 ## October
 
@@ -10,22 +10,22 @@
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 9/29 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16016 | $360.00 | …283949 | [📄](case-sheets/dg-0929.pdf) |
-| 9/29 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260138_16031 | $360.00 | …283951 | [📄](case-sheets/tt-0929.pdf) |
-| 9/29 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16020 | $360.00 | …283950 | [📄](case-sheets/jl-0929.pdf) |
-| 9/29 | Y.L. | Suburban F&A | Grinberg | Grafix 16mm | LYA-260138_16034 | $190.00 | YL092926 | [📄](case-sheets/yl-0929.pdf) |
-| 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.pdf) |
+| 9/29 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16016 | $360.00 | …283949 | [📄](case-sheets/dg-0929.md) |
+| 9/29 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260138_16031 | $360.00 | …283951 | [📄](case-sheets/tt-0929.md) |
+| 9/29 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16020 | $360.00 | …283950 | [📄](case-sheets/jl-0929.md) |
+| 9/29 | Y.L. | Suburban F&A | Grinberg | Grafix 16mm | LYA-260138_16034 | $190.00 | YL092926 | [📄](case-sheets/yl-0929.md) |
+| 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
 
 ### 🟡 Waiting on a PO  (6 · $11,131.70)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 9/11 | N.W. | St. Alexius | Bryniczka | Stravix 2x4 | LYU-242364_24002 | $1,553.10 |  | [📄](case-sheets/nw-0911.pdf) |
-| 9/16 | A.P. | Alexian WCC | Hussain | Grafix 1.5x2 | LYA-250733_15013 | $600.00 |  | [📄](case-sheets/ap-0916.pdf) |
-| 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.pdf) |
-| 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.pdf) |
-| 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.pdf) |
-| 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 |  | [📄](case-sheets/ta-1001.pdf) |
+| 9/11 | N.W. | St. Alexius | Bryniczka | Stravix 2x4 | LYU-242364_24002 | $1,553.10 |  | [📄](case-sheets/nw-0911.md) |
+| 9/16 | A.P. | Alexian WCC | Hussain | Grafix 1.5x2 | LYA-250733_15013 | $600.00 |  | [📄](case-sheets/ap-0916.md) |
+| 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
+| 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
+| 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
+| 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 |  | [📄](case-sheets/ta-1001.md) |
 
 ### 🔵 PO with no case sheet  (1 · $0.00)
 
@@ -37,7 +37,7 @@
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.pdf) |
+| 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
 | 9/30 |  | NW Suburban F&A |  | OASIS Ultra 3x3.5 |  | $771.75 | CC100526 |  |
 | 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
 | 10/2 | R.C. | Central DuPage |  | Grafix 5x5 |  | $8,500.00 | RC100226 |  |
@@ -46,9 +46,9 @@
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 9/22 | T.T. | Alexian WCC | Lucas | Grafix 1.5x2 | LYA-260066_15012 | $600.00 | …283378 | [📄](case-sheets/tt-0922.pdf) |
-| 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.pdf) |
-| 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.pdf) |
+| 9/22 | T.T. | Alexian WCC | Lucas | Grafix 1.5x2 | LYA-260066_15012 | $600.00 | …283378 | [📄](case-sheets/tt-0922.md) |
+| 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
+| 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
 
 **October total $24,839.95** · received $14,068.25 · outstanding $11,131.70
 
@@ -167,10 +167,10 @@
 | 9/17 | D.C. | Alexian WCC | Grafix 1.5x2 | LYA-250733_15012 | $600.00 | …283163 |  |
 | 9/17 |  | Alexian Ambulatory | OASIS Burn Matrix 3x7 |  | $1,470.00 | …282978 |  |
 | 9/18 | S.A. | GlenOaks | Stravix 3x6 | LYU-251987_36004 | $2,469.00 | PO-1000841030 |  |
-| 9/22 | D.G. | Alexian WCC | Grafix 16mm | LYA-260017_16024 | $360.00 | …283377 | [📄](case-sheets/dg-0922-dashboard.pdf) |
+| 9/22 | D.G. | Alexian WCC | Grafix 16mm | LYA-260017_16024 | $360.00 | …283377 | [📄](case-sheets/dg-0922-dashboard.md) |
 | 9/23 | A.P. | Alexian WCC | Grafix 1.5x2 | LYA-260068_15004 | $600.00 | …283611 |  |
 | 9/23 | L.S. | Alexian Ambulatory | Stravix 2x4 | LYU-250662_24002 | $1,553.10 | …283496 |  |
-| 9/24 | D.C. | Alexian WCC | Grafix 16mm | LYA-260017_16015 | $360.00 | …283612 | [📄](case-sheets/dc-0924.pdf) |
+| 9/24 | D.C. | Alexian WCC | Grafix 16mm | LYA-260017_16015 | $360.00 | …283612 | [📄](case-sheets/dc-0924.md) |
 | 9/24 |  | Alexian Ambulatory | OASIS Wound Matrix 3x7 |  | $2,206.00 | …283571 |  |
 | 9/25 |  | Good Sam | Grafix 1.5x2 (x1), 16mm (x4) | LYA-260100_15001, LYA-260144_16020, LYA-260144_?, LYA-260144_?, LYA-260144_? | $2,482.00 | PO005944943 |  |
 | 9/25 |  | Good Sam | Stravix 2x4 | LYU-260468_24001 | $1,695.00 | PO005943086 |  |
