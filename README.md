@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 3:43 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 3:53 PM CT
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 4 · **Submitted, not in SFDC yet:** 4 · **⚪ In SFDC:** 4
+**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 4 · **⚪ In SFDC:** 4
 
 ### 🟢 Ready to submit to SFDC  (7 · $3,685.00)
 
@@ -18,7 +18,7 @@
 | 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
 | 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 | PO005984962 | [📄](case-sheets/ta-1001.md) |
 
-### 🟡 Waiting on a PO  (4 · $7,883.60)
+### 🟡 Waiting on a PO  (5 · $10,383.60)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -26,6 +26,7 @@
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
+| 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 |  | [📄](case-sheets/rw-1002.md) |
 
 ### Submitted, not in SFDC yet  (4 · $8,633.25)
 
@@ -45,7 +46,7 @@
 | 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
 | 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
 
-**October total $23,074.95** · received $15,191.35 · outstanding $7,883.60
+**October total $25,574.95** · received $15,191.35 · outstanding $10,383.60
 
 <details><summary><b>October notes</b></summary>
 
@@ -70,6 +71,7 @@
 | 9/30 | A.P. | App #3 of 3 (10/2 list). PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360 |
 | 10/1 | T.A. | PO005984962 approved 10/2 (Owens & Minor, OR, Dr. Farhan). Stravix 2x4 LYU-260468_24002, $1,695. Ready to submit |
 | 10/2 | R.C. | 3 x 5x5 (3 x $2,125.00), patient R.C., submitted to SFDC on PO RC100226 (4 were ordered for the 10/2 visit). Need lot/SNs |
+| 10/2 | R.W. | OR case at Good Sam (not a recurring graft patient). Case sheet on file; waiting on the Owens & Minor PO |
 
 </details>
 
@@ -77,14 +79,14 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales (excl. R.C.) | $16,699.95 | $16,699.95 |
+| Current October sales (excl. R.C.) | $19,199.95 | $19,199.95 |
 | + Projected Grafix (from next Mon) | $117,655.00 | $85,291.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$139,292.95** | **$106,929.45** |
+| **Projected P10 total** | **$141,792.95** | **$109,429.45** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 108.0% | 82.9% |
-| Gap to target | $0.00 | $22,085.55 |
-| **Projected commission** | **$13,929.30** | **$7,485.06** |
+| % of target | 109.9% | 84.8% |
+| Gap to target | $0.00 | $19,585.55 |
+| **Projected commission** | **$14,179.30** | **$7,660.06** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -122,12 +124,12 @@
 | Size | Units | Sales | % units | % $ |
 | --- | ---: | ---: | ---: | ---: |
 | Grafix 16mm | 20 | $7,488.50 | 33% | 10% |
-| Grafix 1.5 x 2 | 10 | $6,900.00 | 17% | 9% |
+| Grafix 1.5 x 2 | 10 | $6,900.00 | 16% | 9% |
 | Grafix 2 x 3 | 2 | $1,850.70 | 3% | 2% |
-| Grafix 5 x 5 | 7 | $16,375.00 | 12% | 22% |
+| Grafix 5 x 5 | 8 | $18,875.00 | 13% | 24% |
 | Grafix Prime 2 x 3 | 1 | $925.35 | 2% | 1% |
-| Stravix 2 x 4 | 11 | $18,077.40 | 18% | 24% |
-| Stravix 3 x 6 | 9 | $24,132.50 | 15% | 32% |
+| Stravix 2 x 4 | 11 | $18,077.40 | 18% | 23% |
+| Stravix 3 x 6 | 9 | $24,132.50 | 15% | 31% |
 
 </details>
 
