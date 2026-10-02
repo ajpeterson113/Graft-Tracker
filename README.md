@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 5:25 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 5:33 PM CT
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 5 · **⚪ In SFDC:** 6
+**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 5 · **⚪ In SFDC:** 6
 
 ### 🟢 Ready to submit to SFDC  (7 · $3,685.00)
 
@@ -18,7 +18,7 @@
 | 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
 | 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 | PO005984962 | [📄](case-sheets/ta-1001.md) |
 
-### 🟡 Waiting on a PO  (5 · $10,383.60)
+### 🟡 Waiting on a PO  (6 · $10,743.60)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -27,6 +27,7 @@
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
 | 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 |  | [📄](case-sheets/rw-1002.md) |
+| 10/2 | V.D. | Alexian WCC | Ramani | Grafix 16mm | LYA-260159_16004 | $360.00 |  | [📄](case-sheets/vd-1002.md) |
 
 ### Submitted, not in SFDC yet  (5 · $17,008.25)
 
@@ -49,7 +50,7 @@
 | 9/30 |  | NW Suburban F&A |  | OASIS Ultra 3x3.5 |  | $771.75 | CC100526 |  |
 | 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
 
-**October total $35,848.20** · received $25,464.60 · outstanding $10,383.60
+**October total $36,208.20** · received $25,464.60 · outstanding $10,743.60
 
 <details><summary><b>October notes</b></summary>
 
@@ -78,6 +79,7 @@
 | 10/2 | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) | 7-piece stock order shipped 10/2 (FedEx 519100056924): 1.5x2 x1 $780 + 16mm x4 $425.50 + 3x4 x2 $1,210.50 = $4,903. PO-only, no case sheet; serials not on the shipping report. Shipped order, invoices on its own |
 | 10/2 | OASIS Ultra 7x10 meshed (1 box of 5) | OASIS Ultra 7x10 meshed, 1 box of 5 sheets, shipped 10/2 (FedEx 534747002230) on PO005986967. Good Sam box price $4,243.75. OASIS is bought by the box |
 | 10/2 | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) | OASIS Wound Matrix 3x3.5: report QTY 10 = 10 sheets = 1 box (10 per box), shipped 10/2 on PO 712062784. Elgin box price $1,126.50 |
+| 10/2 | V.D. | App #6. Grafted the morning of 10/2; the case sheet is dated 10/3/26, so check that date before submitting. Down to 16mm (was 1.5x2). Waiting on the Alexian PO |
 
 </details>
 
@@ -85,14 +87,14 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales (excl. R.C.) | $29,473.20 | $29,473.20 |
-| + Projected Grafix, net of WCC stock | $77,910.00 | $63,747.50 |
+| Current October sales (excl. R.C.) | $29,833.20 | $29,833.20 |
+| + Projected Grafix, net of WCC stock | $76,950.00 | $62,667.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$112,321.20** | **$98,158.70** |
+| **Projected P10 total** | **$111,721.20** | **$97,438.70** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 87.1% | 76.1% |
-| Gap to target | $16,693.80 | $30,856.30 |
-| **Projected commission** | **$7,862.48** | **$6,871.11** |
+| % of target | 86.6% | 75.5% |
+| Gap to target | $17,293.80 | $31,576.30 |
+| **Projected commission** | **$7,820.48** | **$6,820.71** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -114,7 +116,7 @@
 | Alexian WCC | Joshi | A.N. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
-| Alexian WCC | Ramani | V.D. | 1× 1.5x2 | Weekly | 5 | 4 | $2,400.00 | 16mm × 4 | $1,440.00 |
+| Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
 | Central DuPage |  | R.C. | 3× 5x5 | Weekly | 1 | 5 | $31,875.00 | 3x 5x5 + 1x 3x4 × 5 | $29,665.00 |
 
 </details>
@@ -127,13 +129,13 @@
 
 | Size | Units | Sales | % units | % $ |
 | --- | ---: | ---: | ---: | ---: |
-| Grafix 16mm | 24 | $9,190.50 | 36% | 11% |
-| Grafix 1.5 x 2 | 11 | $7,680.00 | 17% | 10% |
+| Grafix 16mm | 25 | $9,550.50 | 37% | 12% |
+| Grafix 1.5 x 2 | 11 | $7,680.00 | 16% | 9% |
 | Grafix 2 x 3 | 2 | $1,850.70 | 3% | 2% |
 | Grafix 5 x 5 | 8 | $18,875.00 | 12% | 23% |
-| Grafix Prime 2 x 3 | 1 | $925.35 | 2% | 1% |
-| Stravix 2 x 4 | 11 | $18,077.40 | 17% | 22% |
-| Stravix 3 x 6 | 9 | $24,132.50 | 14% | 30% |
+| Grafix Prime 2 x 3 | 1 | $925.35 | 1% | 1% |
+| Stravix 2 x 4 | 11 | $18,077.40 | 16% | 22% |
+| Stravix 3 x 6 | 9 | $24,132.50 | 13% | 30% |
 
 </details>
 
