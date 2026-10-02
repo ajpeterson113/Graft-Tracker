@@ -1,15 +1,16 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/2/26, 8:29 AM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/2/26, 9:04 AM CT
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 5 · **🔵 PO with no case sheet:** 1 · **Submitted, not in SFDC yet:** 4 · **⚪ In SFDC:** 4
+**🟢 Ready to submit to SFDC:** 6 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 4 · **⚪ In SFDC:** 4
 
-### 🟢 Ready to submit to SFDC  (5 · $1,630.00)
+### 🟢 Ready to submit to SFDC  (6 · $1,990.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
+| 9/2 | M.D. | Alexian WCC | Hussain | Grafix 16mm | LYA-250856_16011 | $360.00 | …282625 | [📄](case-sheets/md-0902.md) |
 | 9/29 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16016 | $360.00 | …283949 | [📄](case-sheets/dg-0929.md) |
 | 9/29 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260138_16031 | $360.00 | …283951 | [📄](case-sheets/tt-0929.md) |
 | 9/29 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16020 | $360.00 | …283950 | [📄](case-sheets/jl-0929.md) |
@@ -25,12 +26,6 @@
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
 | 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 |  | [📄](case-sheets/ta-1001.md) |
-
-### 🔵 PO with no case sheet  (1 · $0.00)
-
-| Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
-| --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 9/2 | M.D. | Alexian WCC | Hussain |  |  |  | …282625 |  |
 
 ### Submitted, not in SFDC yet  (4 · $10,758.25)
 
@@ -50,21 +45,21 @@
 | 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
 | 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
 
-**October total $24,839.95** · received $15,621.35 · outstanding $9,578.60
+**October total $25,199.95** · received $15,621.35 · outstanding $9,578.60
 
 <details><summary><b>October notes</b></summary>
 
 | Date | Pt | Note |
 | --- | --- | --- |
-| 9/2 | M.D. | UNMATCHED PO: PS13016 16mm, $360. Patient ID 0002680445 = M.D. (Sept tab). No 9/2 case sheet on file |
+| 9/2 | M.D. | App #5 of 6 (Alexian application log). Graft LYA-250856_16011 applied 9/2; PO ...282625 received 9/14. Not in SFDC yet; no case sheet on file, create one to submit |
 | 9/11 | N.W. | Bill & replace (St. Alexius): in SFDC as inv 0985785720 on PO 660080000211873 (9/30), billed on replacement unit LYU-242364_24004. Case sheet unit used: LYU-242364_24002. Bill only; L ankle |
 | 9/16 | A.P. | App #1 of 3 (10/2 list). No PO yet (Patient ID per Sept tab) |
-| 9/22 | T.T. | App #4 of 5 (10/2 list). In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
+| 9/22 | T.T. | App #5 of 6 (Alexian application log). In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
 | 9/22 | A.N. | App #2 of 3 (10/2 list). In SFDC: inv 0985785270 on PO ...283433. Patient ID 0002817866 = A.N. |
 | 9/25 | T.W. |  |
 | 9/28 | P.C. |  |
 | 9/29 | D.G. | App #2 of 2 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. |
-| 9/29 | T.T. | App #5 of 5 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab) |
+| 9/29 | T.T. | App #6 of 6 (Alexian application log). Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab) |
 | 9/29 | J.L. | App #1 of 1 (10/2 list). Case sheet on file (initials J.L., not L.J. as on the receiving log). PO by elimination: the other two Lucas 9/29 POs are confirmed to D.G. and T.T. |
 | 9/29 | M.L. | App #1 of 1 (10/2 list). PO SWITCHED: now on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952. Bill M.L. on ...283975 |
 | 9/29 | A.N. | App #3 of 3 (10/2 list). PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
@@ -82,14 +77,14 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales (excl. R.C.) | $16,339.95 | $16,339.95 |
+| Current October sales (excl. R.C.) | $16,699.95 | $16,699.95 |
 | + Projected Grafix (from next Mon) | $130,541.40 | $97,956.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$151,819.35** | **$119,234.45** |
+| **Projected P10 total** | **$152,179.35** | **$119,594.45** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 117.7% | 92.4% |
-| Gap to target | $0.00 | $9,780.55 |
-| **Projected commission** | **$15,181.93** | **$8,346.41** |
+| % of target | 118.0% | 92.7% |
+| Gap to target | $0.00 | $9,420.55 |
+| **Projected commission** | **$15,217.93** | **$8,371.61** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -106,8 +101,8 @@
 | Good Sam | Luetkahans | L.D. | 1× 1.5x2 | Weekly | 22 | 4 | $3,120.00 | 16mm × 4 | $1,702.00 |
 | Good Sam | Bach | L.J. | 3× 5x5 | Weekly | 0 | 4 | $30,000.00 | 5x5 × 2 | $15,000.00 |
 | Good Sam | Bach | L.J. | 1× 3x4 | Weekly | 0 | 4 | $4,842.00 | 3x4 × 2 | $2,421.00 |
-| Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 5 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
-| Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
+| Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
+| Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Lucas | J.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Joshi | M.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Joshi | A.N. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
@@ -126,8 +121,8 @@
 
 | Size | Units | Sales | % units | % $ |
 | --- | ---: | ---: | ---: | ---: |
-| Grafix 16mm | 19 | $7,128.50 | 32% | 9% |
-| Grafix 1.5 x 2 | 10 | $6,900.00 | 17% | 9% |
+| Grafix 16mm | 20 | $7,488.50 | 33% | 10% |
+| Grafix 1.5 x 2 | 10 | $6,900.00 | 16% | 9% |
 | Grafix 2 x 3 | 2 | $1,850.70 | 3% | 2% |
 | Grafix 5 x 5 | 8 | $18,500.00 | 13% | 24% |
 | Grafix Prime 2 x 3 | 1 | $925.35 | 2% | 1% |
