@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/1/26, 11:12 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/1/26, 11:18 PM CT
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 6 · **🔵 PO with no case sheet:** 1 · **Submitted, not in SFDC yet:** 4 · **⚪ In SFDC:** 3
+**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 5 · **🔵 PO with no case sheet:** 1 · **Submitted, not in SFDC yet:** 4 · **⚪ In SFDC:** 4
 
 ### 🟢 Ready to submit to SFDC  (5 · $1,630.00)
 
@@ -16,11 +16,10 @@
 | 9/29 | Y.L. | Suburban F&A | Grinberg | Grafix 16mm | LYA-260138_16034 | $190.00 | YL092926 | [📄](case-sheets/yl-0929.md) |
 | 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
 
-### 🟡 Waiting on a PO  (6 · $11,131.70)
+### 🟡 Waiting on a PO  (5 · $9,578.60)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 9/11 | N.W. | St. Alexius | Bryniczka | Stravix 2x4 | LYU-242364_24002 | $1,553.10 |  | [📄](case-sheets/nw-0911.md) |
 | 9/16 | A.P. | Alexian WCC | Hussain | Grafix 1.5x2 | LYA-250733_15013 | $600.00 |  | [📄](case-sheets/ap-0916.md) |
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
@@ -42,22 +41,23 @@
 | 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
 | 10/2 | R.C. | Central DuPage |  | Grafix 5x5 |  | $8,500.00 | RC100226 |  |
 
-### ⚪ In SFDC  (3 · $1,320.00)
+### ⚪ In SFDC  (4 · $2,873.10)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
+| 9/11 | N.W. | St. Alexius | Bryniczka | Stravix 2x4 | LYU-242364_24002 | $1,553.10 | 660080000211873 | [📄](case-sheets/nw-0911.md) |
 | 9/22 | T.T. | Alexian WCC | Lucas | Grafix 1.5x2 | LYA-260066_15012 | $600.00 | …283378 | [📄](case-sheets/tt-0922.md) |
 | 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
 | 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
 
-**October total $24,839.95** · received $14,068.25 · outstanding $11,131.70
+**October total $24,839.95** · received $15,621.35 · outstanding $9,578.60
 
 <details><summary><b>October notes</b></summary>
 
 | Date | Pt | Note |
 | --- | --- | --- |
 | 9/2 | M.D. | UNMATCHED PO: PS13016 16mm, $360. Patient ID 0002680445 = M.D. (Sept tab). No 9/2 case sheet on file |
-| 9/11 | N.W. | Bill only; L ankle. Price corrected to $1,553.10 per case sheet |
+| 9/11 | N.W. | Bill & replace (St. Alexius): in SFDC as inv 0985785720 on PO 660080000211873 (9/30), billed on replacement unit LYU-242364_24004. Case sheet unit used: LYU-242364_24002. Bill only; L ankle |
 | 9/16 | A.P. | No PO yet (Patient ID per Sept tab) |
 | 9/22 | T.T. | In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
 | 9/22 | A.N. | In SFDC: inv 0985785270 on PO ...283433. Patient ID 0002817866 = A.N. |
@@ -69,7 +69,7 @@
 | 9/29 | M.L. | PO SWITCHED: now on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952. Bill M.L. on ...283975 |
 | 9/29 | A.N. | PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
 | 9/29 | Y.L. | PO on case sheet |
-| 9/29 | G.G. | Case sheet on file. $1,553.10 per case sheet. No PO yet |
+| 9/29 | G.G. | Case sheet on file. $1,553.10 per case sheet. No PO yet. St. Alexius is bill & replace: SFDC will show a replacement serial |
 | 9/30 | OASIS Ultra 3x3.5 | OASIS Ultra 3x3.5 fenestrated, 1 box (ctn 5). Ordered 9/30. Price per account quote. PO CC100526 |
 | 9/30 | OASIS Wound Matrix 3x3.5 | OASIS Wound Matrix 3x3.5, 1 box (ctn 10). Ordered 9/30. Price per account quote. PO EP093026 |
 | 9/30 | A.P. | PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360 |
