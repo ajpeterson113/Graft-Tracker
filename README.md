@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 5:22 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 5:25 PM CT
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 7 · **⚪ In SFDC:** 4
+**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 5 · **⚪ In SFDC:** 6
 
 ### 🟢 Ready to submit to SFDC  (7 · $3,685.00)
 
@@ -28,19 +28,17 @@
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
 | 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 |  | [📄](case-sheets/rw-1002.md) |
 
-### Submitted, not in SFDC yet  (7 · $18,906.50)
+### Submitted, not in SFDC yet  (5 · $17,008.25)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
-| 9/30 |  | NW Suburban F&A |  | OASIS Ultra 3x3.5 |  | $771.75 | CC100526 |  |
-| 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
 | 10/2 | R.C. | Central DuPage |  | Grafix 5x5 |  | $6,375.00 | RC100226 |  |
 | 10/2 |  | Good Sam |  | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) |  | $4,903.00 | PO005986967 |  |
 | 10/2 |  | Good Sam |  | OASIS Ultra 7x10 meshed (1 box of 5) |  | $4,243.75 | PO005986967 |  |
 | 10/2 |  | St. Joseph Elgin |  | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) |  | $1,126.50 | 712062784 |  |
 
-### ⚪ In SFDC  (4 · $2,873.10)
+### ⚪ In SFDC  (6 · $4,771.35)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -48,6 +46,8 @@
 | 9/22 | T.T. | Alexian WCC | Lucas | Grafix 1.5x2 | LYA-260066_15012 | $600.00 | …283378 | [📄](case-sheets/tt-0922.md) |
 | 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
 | 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
+| 9/30 |  | NW Suburban F&A |  | OASIS Ultra 3x3.5 |  | $771.75 | CC100526 |  |
+| 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
 
 **October total $35,848.20** · received $25,464.60 · outstanding $10,383.60
 
@@ -69,8 +69,8 @@
 | 9/29 | A.N. | App #3 of 3 (10/2 list). PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
 | 9/29 | Y.L. | PO on case sheet |
 | 9/29 | G.G. | Case sheet on file. $1,553.10 per case sheet. No PO yet. St. Alexius is bill & replace: SFDC will show a replacement serial |
-| 9/30 | OASIS Ultra 3x3.5 | OASIS Ultra 3x3.5 fenestrated, 1 box (ctn 5). Ordered 9/30. Price per account quote. PO CC100526 |
-| 9/30 | OASIS Wound Matrix 3x3.5 | OASIS Wound Matrix 3x3.5, 1 box (ctn 10). Ordered 9/30. Price per account quote. PO EP093026 |
+| 9/30 | OASIS Ultra 3x3.5 | In SFDC: inv 0985789919, transaction 10/1 (dashboard 10/2). OASIS Ultra 3x3.5 fenestrated, 1 box (ctn 5). Ordered 9/30. Price per account quote. PO CC100526 |
+| 9/30 | OASIS Wound Matrix 3x3.5 | In SFDC: inv 0985789918, transaction 10/1 (dashboard 10/2). OASIS Wound Matrix 3x3.5, 1 box (ctn 10). Ordered 9/30. Price per account quote. PO EP093026 |
 | 9/30 | A.P. | App #3 of 3 (10/2 list). PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360 |
 | 10/1 | T.A. | PO005984962 approved 10/2 (Owens & Minor, OR, Dr. Farhan). Stravix 2x4 LYU-260468_24002, $1,695. Ready to submit |
 | 10/2 | R.C. | 3 x 5x5 (3 x $2,125.00), patient R.C., submitted to SFDC on PO RC100226 (4 were ordered for the 10/2 visit). Need lot/SNs |
