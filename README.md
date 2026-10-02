@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 4:30 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 4:32 PM CT
 
 ## October
 
@@ -28,7 +28,7 @@
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
 | 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 |  | [📄](case-sheets/rw-1002.md) |
 
-### Submitted, not in SFDC yet  (7 · $13,536.25)
+### Submitted, not in SFDC yet  (7 · $18,906.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -37,8 +37,8 @@
 | 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
 | 10/2 | R.C. | Central DuPage |  | Grafix 5x5 |  | $6,375.00 | RC100226 |  |
 | 10/2 |  | Good Sam |  | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) |  | $4,903.00 | PO005986967 |  |
-| 10/2 |  | Good Sam |  | OASIS Ultra 7x10 meshed |  |  | PO005986967 |  |
-| 10/2 |  | St. Joseph Elgin |  | OASIS Wound Matrix 3x3.5 (x10) |  |  | 712062784 |  |
+| 10/2 |  | Good Sam |  | OASIS Ultra 7x10 meshed |  | $4,243.75 | PO005986967 |  |
+| 10/2 |  | St. Joseph Elgin |  | OASIS Wound Matrix 3x3.5 (x10) |  | $1,126.50 | 712062784 |  |
 
 ### ⚪ In SFDC  (4 · $2,873.10)
 
@@ -49,7 +49,7 @@
 | 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
 | 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
 
-**October total $30,477.95** · received $20,094.35 · outstanding $10,383.60
+**October total $35,848.20** · received $25,464.60 · outstanding $10,383.60
 
 <details><summary><b>October notes</b></summary>
 
@@ -76,8 +76,8 @@
 | 10/2 | R.C. | 3 x 5x5 (3 x $2,125.00), patient R.C., submitted to SFDC on PO RC100226 (4 were ordered for the 10/2 visit). Need lot/SNs |
 | 10/2 | R.W. | OR case at Good Sam (not a recurring graft patient). Case sheet on file; waiting on the Owens & Minor PO |
 | 10/2 | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) | 7-piece stock order shipped 10/2 (FedEx 519100056924): 1.5x2 x1 $780 + 16mm x4 $425.50 + 3x4 x2 $1,210.50 = $4,903. PO-only, no case sheet; serials not on the shipping report. Shipped order, invoices on its own |
-| 10/2 | OASIS Ultra 7x10 meshed | OASIS Ultra 7x10 meshed x1 shipped 10/2 (FedEx 534747002230) on PO005986967. PRICE NEEDED: no Good Sam OASIS price on file |
-| 10/2 | OASIS Wound Matrix 3x3.5 (x10) | OASIS Wound Matrix 3x3.5 x10 shipped 10/2 on PO 712062784. PRICE NEEDED: no Elgin OASIS price on file |
+| 10/2 | OASIS Ultra 7x10 meshed | OASIS Ultra 7x10 meshed x1 shipped 10/2 (FedEx 534747002230) on PO005986967. Good Sam contract price $4,243.75 |
+| 10/2 | OASIS Wound Matrix 3x3.5 (x10) | OASIS Wound Matrix 3x3.5 shipped 10/2 on PO 712062784. Report shows QTY 10, priced as one box of 10 at the Elgin contract price $1,126.50 (10 boxes would be $11,265) |
 
 </details>
 
@@ -85,14 +85,14 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales (excl. R.C.) | $24,102.95 | $24,102.95 |
+| Current October sales (excl. R.C.) | $29,473.20 | $29,473.20 |
 | + Projected Grafix (from next Mon) | $117,655.00 | $85,291.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$146,695.95** | **$114,332.45** |
+| **Projected P10 total** | **$152,066.20** | **$119,702.70** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 113.7% | 88.6% |
-| Gap to target | $0.00 | $14,682.55 |
-| **Projected commission** | **$14,669.59** | **$8,003.27** |
+| % of target | 117.9% | 92.8% |
+| Gap to target | $0.00 | $9,312.30 |
+| **Projected commission** | **$15,206.62** | **$8,379.19** |
 
 <details><summary><b>Projection by patient</b></summary>
 
