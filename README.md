@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/1/26, 11:32 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/2/26, 12:02 AM CT
 
 ## October
 
@@ -58,21 +58,21 @@
 | --- | --- | --- |
 | 9/2 | M.D. | UNMATCHED PO: PS13016 16mm, $360. Patient ID 0002680445 = M.D. (Sept tab). No 9/2 case sheet on file |
 | 9/11 | N.W. | Bill & replace (St. Alexius): in SFDC as inv 0985785720 on PO 660080000211873 (9/30), billed on replacement unit LYU-242364_24004. Case sheet unit used: LYU-242364_24002. Bill only; L ankle |
-| 9/16 | A.P. | No PO yet (Patient ID per Sept tab) |
-| 9/22 | T.T. | In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
-| 9/22 | A.N. | In SFDC: inv 0985785270 on PO ...283433. Patient ID 0002817866 = A.N. |
+| 9/16 | A.P. | App #1 of 3 (10/2 list). No PO yet (Patient ID per Sept tab) |
+| 9/22 | T.T. | App #4 of 5 (10/2 list). In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
+| 9/22 | A.N. | App #2 of 3 (10/2 list). In SFDC: inv 0985785270 on PO ...283433. Patient ID 0002817866 = A.N. |
 | 9/25 | T.W. |  |
 | 9/28 | P.C. |  |
-| 9/29 | D.G. | Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. |
-| 9/29 | T.T. | Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab) |
-| 9/29 | J.L. | Case sheet on file (initials J.L., not L.J. as on the receiving log). PO by elimination: the other two Lucas 9/29 POs are confirmed to D.G. and T.T. |
-| 9/29 | M.L. | PO SWITCHED: now on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952. Bill M.L. on ...283975 |
-| 9/29 | A.N. | PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
+| 9/29 | D.G. | App #2 of 2 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. |
+| 9/29 | T.T. | App #5 of 5 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab) |
+| 9/29 | J.L. | App #1 of 1 (10/2 list). Case sheet on file (initials J.L., not L.J. as on the receiving log). PO by elimination: the other two Lucas 9/29 POs are confirmed to D.G. and T.T. |
+| 9/29 | M.L. | App #1 of 1 (10/2 list). PO SWITCHED: now on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952. Bill M.L. on ...283975 |
+| 9/29 | A.N. | App #3 of 3 (10/2 list). PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
 | 9/29 | Y.L. | PO on case sheet |
 | 9/29 | G.G. | Case sheet on file. $1,553.10 per case sheet. No PO yet. St. Alexius is bill & replace: SFDC will show a replacement serial |
 | 9/30 | OASIS Ultra 3x3.5 | OASIS Ultra 3x3.5 fenestrated, 1 box (ctn 5). Ordered 9/30. Price per account quote. PO CC100526 |
 | 9/30 | OASIS Wound Matrix 3x3.5 | OASIS Wound Matrix 3x3.5, 1 box (ctn 10). Ordered 9/30. Price per account quote. PO EP093026 |
-| 9/30 | A.P. | PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360 |
+| 9/30 | A.P. | App #3 of 3 (10/2 list). PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360 |
 | 10/1 | T.A. | No PO yet |
 | 10/2 | R.C. | 4 x 5x5 per weekly visit (4 x $2,125.00), patient R.C. Ordered 9/30 on PO RC100226 for the 10/2 visit. Need lot/SNs |
 
