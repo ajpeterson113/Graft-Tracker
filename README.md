@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 4:32 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 4:34 PM CT
 
 ## October
 
@@ -86,13 +86,13 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales (excl. R.C.) | $29,473.20 | $29,473.20 |
-| + Projected Grafix (from next Mon) | $117,655.00 | $85,291.50 |
+| + Projected Grafix, net of WCC stock | $112,752.00 | $81,168.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$152,066.20** | **$119,702.70** |
+| **Projected P10 total** | **$147,163.20** | **$115,579.70** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 117.9% | 92.8% |
-| Gap to target | $0.00 | $9,312.30 |
-| **Projected commission** | **$15,206.62** | **$8,379.19** |
+| % of target | 114.1% | 89.6% |
+| Gap to target | $0.00 | $13,435.30 |
+| **Projected commission** | **$14,716.32** | **$8,090.58** |
 
 <details><summary><b>Projection by patient</b></summary>
 
