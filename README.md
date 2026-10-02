@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/2/26, 12:02 AM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  updated 10/2/26, 8:29 AM CT
 
 ## October
 
@@ -107,7 +107,7 @@
 | Good Sam | Bach | L.J. | 3× 5x5 | Weekly | 0 | 4 | $30,000.00 | 5x5 × 2 | $15,000.00 |
 | Good Sam | Bach | L.J. | 1× 3x4 | Weekly | 0 | 4 | $4,842.00 | 3x4 × 2 | $2,421.00 |
 | Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 5 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
-| Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 4 | $1,440.00 | same | $1,440.00 |
+| Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Lucas | J.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Joshi | M.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Joshi | A.N. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
