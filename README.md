@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/2/26, 5:44 PM CT
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/3/26, 2:31 PM CT
 
 ## October
 
@@ -88,13 +88,13 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales (excl. R.C.) | $29,833.20 | $29,833.20 |
-| + Projected Grafix, net of WCC stock | $76,950.00 | $62,667.50 |
+| + Projected Grafix, net of WCC stock | $76,950.00 | $60,457.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$111,721.20** | **$97,438.70** |
+| **Projected P10 total** | **$111,721.20** | **$95,228.70** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 86.6% | 75.5% |
-| Gap to target | $17,293.80 | $31,576.30 |
-| **Projected commission** | **$7,820.48** | **$6,820.71** |
+| % of target | 86.6% | 73.8% |
+| Gap to target | $17,293.80 | $33,786.30 |
+| **Projected commission** | **$7,820.48** | **$6,666.01** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -117,7 +117,7 @@
 | Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
-| Central DuPage |  | R.C. | 3× 5x5 | Weekly | 1 | 5 | $31,875.00 | 3x 5x5 + 1x 3x4 × 5 | $29,665.00 |
+| Central DuPage |  | R.C. | 3× 5x5 | Weekly | 1 | 5 | $31,875.00 | 2x 5x5 + 1x 3x4 × 5 | $27,455.00 |
 
 </details>
 
