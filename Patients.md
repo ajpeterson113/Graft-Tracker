@@ -1,10 +1,10 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/4/26, 10:29 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/4/26, 10:32 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
-<table><tr><td width="100%"><b>All Patients (76)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/grafting.md">Grafting (27)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (10)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-new-start.md">Potential New Start (9)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/on-hold.md">On hold (7)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (16)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (3)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (2)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (23)</a> · <a href="#alexian-wcc">Alexian WCC (20)</a> · <a href="#alexian-ambulatory">Alexian Ambulatory (2)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (18)</a> · <a href="#st-joseph-elgin">St. Joseph Elgin (4)</a> · <a href="#sherman">Sherman (3)</a> · <a href="#st-alexius">St. Alexius (4)</a> · <a href="#elmhurst">Elmhurst (1)</a> · <a href="#glenoaks">GlenOaks (1)</a></td></tr></table>
+<table><tr><td width="100%"><b>All Patients (75)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/grafting.md">Grafting (28)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (10)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-new-start.md">Potential New Start (9)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/on-hold.md">On hold (7)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (15)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (3)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (1)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (23)</a> · <a href="#alexian-wcc">Alexian WCC (20)</a> · <a href="#alexian-ambulatory">Alexian Ambulatory (1)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (18)</a> · <a href="#st-joseph-elgin">St. Joseph Elgin (4)</a> · <a href="#sherman">Sherman (3)</a> · <a href="#st-alexius">St. Alexius (4)</a> · <a href="#elmhurst">Elmhurst (1)</a> · <a href="#glenoaks">GlenOaks (1)</a></td></tr></table>
 
 🟢 0–9 · 🟡 10–11 · 🔴 12+ applications
 
@@ -44,7 +44,7 @@ Updated 10/4/26, 10:29 AM CT · [⬇ Download the patient list (Excel)](https://
 
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC · 10 grafting · 20 total</b></summary>
+<details open><summary><b>Alexian WCC · 11 grafting · 20 total</b></summary>
 
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
@@ -55,6 +55,7 @@ Updated 10/4/26, 10:29 AM CT · [⬇ Download the patient list (Excel)](https://
 | Tue 10/6 10:00 AM | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 6 | 9/29 |  |  |
 | Tue 10/6 12:50 PM | **Grafting** | <details><summary>A.N.</summary>Aloysius Newman</details> | Dr. Joshi | GRAFIX 16mm | 🟢 3 | 9/29 |  |  |
 | Tue 10/6 12:50 PM | **Potential New Start** | <details><summary>O.O.</summary>Omar osama</details> | Dr. V | GRAFIX | 🟢 0 |  | 9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |  |
+| Wed 10/7 9:30 AM | **Grafting** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  |  | Stravix follow up |  |
 | Wed 10/7 1:45 PM | **Potential New Start** | <details><summary>D.V.</summary>Donald Vondraceck</details> | Dr. Hussain | OASIS Wound 3x7 | 🟢 0 |  | Multiple 3x7 |  |
 | Wed 10/7 2:00 PM | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 3 | 9/30 |  |  |
 | Wed 10/7 2:30 PM | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 1 | 9/29 |  |  |
@@ -65,7 +66,6 @@ Updated 10/4/26, 10:29 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | **Potential New Start** | <details><summary>J.C.</summary>Jerry Cooper</details> | Dr. Joshi | GRAFIX 16mm |  |  | Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |  |
 | Thu 10/8 9:10 AM | Pending | <details><summary>X.S.</summary>Xerxes S.</details> | Dr. Robinson | GRAFIX |  |  |  |  |
 |  | Pending | <details><summary>J.T.</summary>Jeffrey Tuckman</details> | Dr. Lucas | GRAFIX |  |  | Need additional notes for prior auth |  |
-|  | Denied | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo |  |  |  | Submitted 9/11. Denied for office grafting. Had Stravix in the OR (Alexian Ambulatory) 9/23 — OR cases aren't billed through IVR. |  |
 | Wed 10/7 10:15 AM | On hold | <details><summary>M.I.</summary>Margaret Izzi</details> | Dr. Russo | OASIS Wound 3x3.5 | 🟢 2 |  | Paused |  |
 |  | Done | <details><summary>M.D.</summary>Marvin Drafall</details> | Dr. Hussain | GRAFIX 16mm | 🟢 6 | 9/16 | Patient complaining about bills, no longer grafting |  |
 |  | Done | <details><summary>M.O.</summary>Maria Ochoa</details> | Dr. Hussain | OASIS Burn 3x3.5 | 🟢 8 |  | Healed |  |
@@ -75,12 +75,11 @@ Updated 10/4/26, 10:29 AM CT · [⬇ Download the patient list (Excel)](https://
 
 
 <a name="alexian-ambulatory"></a>
-<details open><summary><b>Alexian Ambulatory · 1 grafting · 2 total</b></summary>
+<details open><summary><b>Alexian Ambulatory · 1 grafting · 1 total</b></summary>
 
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Wed 10/7 9:30 AM | **OR** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  | 9/23 · 1 wk 4 d post-op | OR case 9/23 (Stravix not billed through IVR). Office IVR was denied 9/11 — see Alexian denied list. |  |
 |  | **Grafting** | <details><summary>M.C.</summary>Martin Cozzi</details> | Dr. Lucas | OASIS Wound 3x7 | 🟡 10 |  |  |  |
 
 
