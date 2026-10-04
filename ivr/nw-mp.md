@@ -1,6 +1,6 @@
 # M.A. · NW Suburban F&A · IVR
 
-Dr. Goldkind · GRAFIX PRIME PL · **Pending**
+Dr. Goldkind · GRAFIX · **Pending**
 
 Humana - IVR pending, clinicals requested
 
