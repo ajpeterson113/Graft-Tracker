@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/4/26, 10:00 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/4/26, 10:01 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 ![Patient summary](view/patients_kpi.png)
 
@@ -98,10 +98,10 @@ Updated 10/4/26, 10:00 AM CT · [⬇ Download the patient list (Excel)](https://
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
+| Fri 10/9 | **Potential New Start** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 0 |  | Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](ivr/sj-dn.md) |
 |  | **Grafting** | J.C. | Dr. Bhagat | OASIS Wound 3x3.5 | 🟢 6 |  |  |  |
 |  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 2 d post-op | No PO yet |  |
 |  | Pending | J.D. | Dr. Bhagat | GRAFIX/OASIS |  |  | Ran on 9/9/26, needs additional clinicals, needs referral |  |
-|  | Pending | D.N. | Veronica Pappas |  |  |  | Ran on 9/18 |  |
 
 
 ## Sherman · 1 grafting · 3 total
