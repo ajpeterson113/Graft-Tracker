@@ -1,13 +1,17 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/4/26, 10:08 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 ![Patient summary](view/patients_kpi.png)
 
-🟢 0–9 · 🟡 10–11 · 🔴 12+
+<table><tr><td><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="300" alt="New patient"></a></td><td><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="300" alt="Associate notes"></a></td></tr><tr><td><details><summary><b>All Patients (76)</b></summary><br><b>All Patients (76)</b><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/grafting.md">Grafting (27)</a><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (10)</a><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-new-start.md">Potential New Start (9)</a><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/on-hold.md">On hold (7)</a><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (16)</a><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (3)</a><br><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (2)</a></details></td><td><details><summary><b>All accounts</b></summary><br><a href="#good-sam">Good Sam (23)</a><br><a href="#alexian-wcc">Alexian WCC (20)</a><br><a href="#alexian-ambulatory">Alexian Ambulatory (2)</a><br><a href="#nw-suburban-f-a">NW Suburban F&A (18)</a><br><a href="#st-joseph-elgin">St. Joseph Elgin (4)</a><br><a href="#sherman">Sherman (3)</a><br><a href="#st-alexius">St. Alexius (4)</a><br><a href="#elmhurst">Elmhurst (1)</a><br><a href="#glenoaks">GlenOaks (1)</a></details></td></tr></table>
+
+🟢 0–9 · 🟡 10–11 · 🔴 12+ applications
 
 
-## Good Sam · 8 grafting · 23 total
+<a name="good-sam"></a>
+<details open><summary><b>Good Sam · 8 grafting · 23 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
@@ -36,7 +40,12 @@ Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | Denied | <details><summary>R.T.</summary>Raymond Tarkowski</details> | Dr. Raigaga |  |  |  | Mentioned taking this patient to the operating room |  |
 
 
-## Alexian WCC · 10 grafting · 20 total
+</details>
+
+
+<a name="alexian-wcc"></a>
+<details open><summary><b>Alexian WCC · 10 grafting · 20 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
@@ -62,7 +71,12 @@ Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | Done | <details><summary>M.O.</summary>Maria Ochoa</details> | Dr. Hussain | OASIS Burn 3x3.5 | 🟢 8 |  | Healed |  |
 
 
-## Alexian Ambulatory · 1 grafting · 2 total
+</details>
+
+
+<a name="alexian-ambulatory"></a>
+<details open><summary><b>Alexian Ambulatory · 1 grafting · 2 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
@@ -70,7 +84,12 @@ Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | **Grafting** | <details><summary>M.C.</summary>Martin Cozzi</details> | Dr. Lucas | OASIS Wound 3x7 | 🟡 10 |  |  |  |
 
 
-## NW Suburban F&A · 6 grafting · 18 total
+</details>
+
+
+<a name="nw-suburban-f-a"></a>
+<details open><summary><b>NW Suburban F&A · 6 grafting · 18 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
@@ -94,7 +113,12 @@ Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | Done | <details><summary>MZ (R)</summary>Mariusz Zabrodzki</details> | Dr. Goldkind | OASIS Ultra 3x7 | 🔴 21 |  |  |  |
 
 
-## St. Joseph Elgin · 1 grafting · 4 total
+</details>
+
+
+<a name="st-joseph-elgin"></a>
+<details open><summary><b>St. Joseph Elgin · 1 grafting · 4 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
@@ -104,7 +128,12 @@ Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | Pending | J.D. | Dr. Bhagat | GRAFIX/OASIS |  |  | Ran on 9/9/26, needs additional clinicals, needs referral |  |
 
 
-## Sherman · 1 grafting · 3 total
+</details>
+
+
+<a name="sherman"></a>
+<details open><summary><b>Sherman · 1 grafting · 3 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
@@ -113,7 +142,12 @@ Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | Pending | R.B. | Dr. Perez |  |  |  |  |  |
 
 
-## St. Alexius · 0 grafting · 4 total
+</details>
+
+
+<a name="st-alexius"></a>
+<details open><summary><b>St. Alexius · 0 grafting · 4 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
@@ -123,15 +157,28 @@ Updated 10/4/26, 10:03 AM CT · [⬇ Download the patient list (Excel)](https://
 |  | **OR** | N.W. | Dr. Bryniczka | STRAVIX 2x4 |  | 9/11 · 3 wk 2 d post-op | Bill & replace |  |
 
 
-## Elmhurst · 0 grafting · 1 total
+</details>
+
+
+<a name="elmhurst"></a>
+<details open><summary><b>Elmhurst · 0 grafting · 1 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | P.C. | Dr. McGann | STRAVIX 3x6 |  | 9/28 · 0 wk 6 d post-op | No PO yet |  |
 
 
-## GlenOaks · 0 grafting · 1 total
+</details>
+
+
+<a name="glenoaks"></a>
+<details open><summary><b>GlenOaks · 0 grafting · 1 total</b></summary>
+
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | S.A. | Dr. McKanna | STRAVIX 3x6 |  | 9/18 · 2 wk 2 d post-op |  |  |
+
+
+</details>
