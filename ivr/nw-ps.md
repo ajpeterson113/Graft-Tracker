@@ -1,6 +1,6 @@
 # P.S. · NW Suburban F&A · IVR
 
-Dr. Goldkind · GRAFIX PRIME PL 16mm · **Potential New Start**
+Dr. Goldkind · GRAFIX 16mm · **Potential New Start**
 
 Covered - Cigna (PA approved)
 
