@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/4/26, 2:15 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/4/26, 2:20 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -110,7 +110,7 @@ Updated 10/4/26, 2:15 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **Grafting** | R.C. |  | GRAFIX (3) 5x5 | 🟢 1 | 10/2 | 3 x 5x5 each week starting 10/2 (10/2 on PO RC100226). Added from the Graft Tracker 10/4. |  |
+| Fri 10/9 9:15 AM | **Grafting** | R.C. | Dr. Luetkehans | GRAFIX (3) 5x5 | 🟢 1 | 10/2 | 3 x 5x5 each week starting 10/2 (10/2 on PO RC100226). 10/9 is application #2. |  |
 
 
 </details>
