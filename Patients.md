@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/5/26, 7:43 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -27,14 +27,14 @@ Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://g
 |  | **Grafting** | <details><summary>C.B.</summary>C. Baker</details> | Dr. Ayesh | GRAFIX 3x4 | 🟢 3 | 10/1 | Moving down to 2x3 for next application |  |
 |  | **Potential New Start** | <details><summary>S.W.</summary>S. Wyoski</details> | Dr. Ayesh | GRAFIX |  |  | Taking to OR in November |  |
 |  | **Potential New Start** | <details><summary>J.B.</summary>J. Buscher</details> | Dr. Raigaga | OASIS Wound Matrix 3x7 and 3x3.5 |  |  |  |  |
-|  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 2 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO pending |  |
-|  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 3 d post-op | No PO yet |  |
-|  | **OR** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | STRAVIX |  | 9/10 · 3 wk 3 d post-op |  |  |
-|  | **OR** | <details><summary>J.H.</summary>Judith Hecht</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 9/4 · 4 wk 2 d post-op |  |  |
-|  | **OR** | <details><summary>P.J.</summary>Paul Timothy Jagust</details> | Dr. Luetkehans | STRAVIX 2x4 (x3) |  | 9/2 · 4 wk 4 d post-op |  |  |
-|  | **OR** | <details><summary>A.V.</summary>Alvina Vandenend</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) + 2x4 (x2) |  | 8/25 · 5 wk 5 d post-op |  |  |
-|  | **OR** | <details><summary>L.B.</summary>Louis Edward Boivin</details> | Dr. Luetkehans | STRAVIX |  | 8/21 · 6 wk 2 d post-op |  |  |
-|  | **OR** | <details><summary>W.L.</summary>William Lopez</details> | Dr. Luetkehans | STRAVIX 3x6 |  | 8/20 · 6 wk 3 d post-op |  |  |
+|  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO pending |  |
+|  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | No PO yet |  |
+|  | **OR** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | STRAVIX |  | 9/10 · 3 wk 4 d post-op |  |  |
+|  | **OR** | <details><summary>J.H.</summary>Judith Hecht</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 9/4 · 4 wk 3 d post-op |  |  |
+|  | **OR** | <details><summary>P.J.</summary>Paul Timothy Jagust</details> | Dr. Luetkehans | STRAVIX 2x4 (x3) |  | 9/2 · 4 wk 5 d post-op |  |  |
+|  | **OR** | <details><summary>A.V.</summary>Alvina Vandenend</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) + 2x4 (x2) |  | 8/25 · 5 wk 6 d post-op |  |  |
+|  | **OR** | <details><summary>L.B.</summary>Louis Edward Boivin</details> | Dr. Luetkehans | STRAVIX |  | 8/21 · 6 wk 3 d post-op |  |  |
+|  | **OR** | <details><summary>W.L.</summary>William Lopez</details> | Dr. Luetkehans | STRAVIX 3x6 |  | 8/20 · 6 wk 4 d post-op |  |  |
 |  | **Potential IVR** | <details><summary>Z.</summary>Zahora</details> | Dr. Ayesh |  |  |  | Waiting on revascularization before running IVR |  |
 |  | **Potential IVR** | <details><summary>B.W.</summary>Bonnie Walk</details> | Dr. Bach |  |  |  | Hand ulcer, monitoring progress. Coming in 9/16 9:45 am |  |
 |  | Denied | <details><summary>R.T.</summary>Raymond Tarkowski</details> | Dr. Raigaga |  |  |  | Mentioned taking this patient to the operating room |  |
@@ -92,7 +92,7 @@ Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Mon 10/5 8:45 AM · EG | **Potential New Start** | P.S. | Dr. Goldkind | GRAFIX 16mm |  |  | 10/2: PA approved via Evicore (IVR case #06294702). L foot DFU, wound 0.5 x 1.5 x 0.2 cm. First graft expected 10/5 at Elk Grove. | [📄](ivr/nw-ps.md) |
+| Mon 10/5 8:45 AM · EG | **Potential New Start** | P.S. | Dr. Goldkind | GRAFIX 16mm |  |  | Going forward on GRAFIX 16mm. Today (10/5, A1) uses the one 16mm the clinic already bought; AJ ordering 16mm for the following weeks. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](ivr/nw-ps.md) |
 | Mon 10/5 9:45 AM · HE | **Grafting** | <details><summary>P.M.</summary>Paul Michael</details> | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 3 |  | Double-check application count (currently listed as 3) |  |
 | Mon 10/5 10:15 AM · HE | **Grafting** | <details><summary>C.C.</summary>Constance Campbell</details> | Dr. Adelstein | OASIS Ultra 3x3.5 | 🟢 9 | 9/28 |  |  |
 | Tue 10/6 11:30 AM · HE | **Grafting** | <details><summary>F.A.</summary>Frank Auman</details> | Dr. Adelstein | OASIS Ultra 3x7 | 🟡 10 |  | 10th application the week of 9/28 (exact date not recorded) |  |
@@ -123,7 +123,7 @@ Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://g
 |---|---|---|---|---|---|---|---|---|
 | Thu 10/8 1:45 PM | **Grafting** | J.C. | Dr. Bhagat | OASIS Wound 3x3.5 | 🟢 6 |  | A9 (10/1) was an eval OASIS Wound 3x3.5 |  |
 | Fri 10/9 1:00 PM | **Potential New Start** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 0 |  | Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](ivr/sj-dn.md) |
-|  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 2 d post-op | No PO yet |  |
+|  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 3 d post-op | No PO yet |  |
 |  | Pending | J.D. | Dr. Bhagat | GRAFIX/OASIS |  |  | Ran on 9/9/26, needs additional clinicals, needs referral |  |
 
 
@@ -150,10 +150,10 @@ Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **OR** | — | Dr. Liao | STRAVIX 3x6 |  | 10/16 · OR in 12 d | Upcoming case |  |
-|  | **OR** | — | Dr. Guske | STRAVIX 3x6 |  | 10/7 · OR in 3 d | Upcoming case |  |
-|  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 5 d post-op | OR case (Stravix not billed through IVR). Same patient as NWSFA pending IVR for office grafting. No PO yet. |  |
-|  | **OR** | N.W. | Dr. Bryniczka | STRAVIX 2x4 |  | 9/11 · 3 wk 2 d post-op | Bill & replace |  |
+| Wed 10/7 8:00 AM · SAMC | **OR** | — | Dr. Guske | STRAVIX 3x6 |  | 10/7 · OR in 2 d | Upcoming case |  |
+| Fri 10/16 | **OR** | — | Dr. Liao | STRAVIX 3x6 |  | 10/16 · OR in 11 d | Upcoming case |  |
+|  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 6 d post-op | OR case (Stravix not billed through IVR). Same patient as NWSFA pending IVR for office grafting. No PO yet. |  |
+|  | **OR** | N.W. | Dr. Bryniczka | STRAVIX 2x4 |  | 9/11 · 3 wk 3 d post-op | Bill & replace |  |
 
 
 </details>
@@ -165,7 +165,7 @@ Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **OR** | P.C. | Dr. McGann | STRAVIX 3x6 |  | 9/28 · 0 wk 6 d post-op | No PO yet |  |
+|  | **OR** | P.C. | Dr. McGann | STRAVIX 3x6 |  | 9/28 · 1 wk 0 d post-op | No PO yet |  |
 
 
 </details>
@@ -177,7 +177,7 @@ Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **OR** | S.A. | Dr. McKanna | STRAVIX 3x6 |  | 9/18 · 2 wk 2 d post-op |  |  |
+|  | **OR** | S.A. | Dr. McKanna | STRAVIX 3x6 |  | 9/18 · 2 wk 3 d post-op |  |  |
 
 
 </details>
