@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 5:53 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 6:11 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -95,15 +95,15 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales | $36,208.20 | $36,208.20 |
-| + Projected Grafix, net of WCC stock | $71,905.00 | $55,412.50 |
+| + Projected Grafix, net of WCC stock | $71,715.00 | $54,652.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $9,314.23 | $2,967.95 |
-| **Projected P10 total** | **$122,365.43** | **$99,526.65** |
+| **Projected P10 total** | **$122,175.43** | **$98,766.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 94.8% | 77.1% |
-| Gap to target | $6,649.57 | $29,488.35 |
-| **Projected commission** | **$8,565.58** | **$6,966.87** |
+| % of target | 94.7% | 76.6% |
+| Gap to target | $6,839.57 | $30,248.35 |
+| **Projected commission** | **$8,552.28** | **$6,913.67** |
 
 Projected visits start 10/5; sold amounts come from the October tab.
 
@@ -118,11 +118,11 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | NW Suburban F&A | $1,898.25 | $4,366.50 | $1,696.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
-| Suburban F&A | $190.00 | $760.00 | $760.00 | **$950.00** | **$950.00** |
+| Suburban F&A | $190.00 | $570.00 | $0.00 | **$760.00** | **$190.00** |
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$36,208.20** | **$86,157.23** | **$63,318.45** | **$122,365.43** | **$99,526.65** |
+| **Total** | **$36,208.20** | **$85,967.23** | **$62,558.45** | **$122,175.43** | **$98,766.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -146,7 +146,7 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
 | Central DuPage | Luetkehans | R.C. | 3× 5x5 | Weekly | 1 | 4 | $25,500.00 | 2x 5x5 + 1x 3x4 × 4 | $21,080.00 |
-| Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly | 1 | 4 | $760.00 | same | $760.00 |
+| Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly · on hold, back 10/13 | 1 | 3 | $570.00 | stays on hold | $0.00 |
 | NW Suburban F&A | Goldkind | P.S. | 1× 16mm | Weekly | 1 | 3 | $570.00 | same | $570.00 |
 
 **Upcoming Stravix**
