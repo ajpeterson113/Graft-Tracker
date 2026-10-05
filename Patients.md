@@ -27,7 +27,7 @@ Updated 10/5/26, 6:11 PM CT · [⬇ Download the patient list (Excel)](https://g
 |  | **Grafting** | <details><summary>C.B.</summary>C. Baker</details> | Dr. Ayesh | GRAFIX 3x4 | 🟢 3 | 10/1 | Moving down to 2x3 for next application |  |
 |  | **Potential New Start** | <details><summary>S.W.</summary>S. Wyoski</details> | Dr. Ayesh | GRAFIX |  |  | Taking to OR in November |  |
 |  | **Potential New Start** | <details><summary>J.B.</summary>J. Buscher</details> | Dr. Raigaga | OASIS Wound Matrix 3x7 and 3x3.5 |  |  |  |  |
-|  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO pending |  |
+|  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO005995283 approved 10/5; ready to submit |  |
 |  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | No PO yet |  |
 |  | **OR** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | STRAVIX |  | 9/10 · 3 wk 4 d post-op |  |  |
 |  | **OR** | <details><summary>J.H.</summary>Judith Hecht</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 9/4 · 4 wk 3 d post-op |  |  |

@@ -1,12 +1,12 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 6:11 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 6:14 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 5 · **⚪ In SFDC:** 6
+**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 5 · **⚪ In SFDC:** 6
 
-### 🟢 Ready to submit to SFDC  (7 · $3,685.00)
+### 🟢 Ready to submit to SFDC  (8 · $6,185.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -17,8 +17,9 @@
 | 9/29 | Y.L. | Suburban F&A | Grinberg | Grafix 16mm | LYA-260138_16034 | $190.00 | YL092926 | [📄](case-sheets/yl-0929.md) |
 | 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
 | 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 | PO005984962 | [📄](case-sheets/ta-1001.md) |
+| 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 | PO005995283 | [📄](case-sheets/rw-1002.md) |
 
-### 🟡 Waiting on a PO  (6 · $10,743.60)
+### 🟡 Waiting on a PO  (5 · $8,243.60)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -26,7 +27,6 @@
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
-| 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 |  | [📄](case-sheets/rw-1002.md) |
 | 10/2 | V.D. | Alexian WCC | Ramani | Grafix 16mm | LYA-260159_16004 | $360.00 |  | [📄](case-sheets/vd-1002.md) |
 
 ### Submitted, not in SFDC yet  (5 · $17,008.25)
@@ -56,7 +56,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | Clinic stock (earlier PO) | [📄](case-sheets/ps-1005.md) |
 
-**October total $36,208.20** · received $25,464.60 · outstanding $10,743.60
+**October total $36,208.20** · received $27,964.60 · outstanding $8,243.60
 
 <details><summary><b>October notes</b></summary>
 
@@ -81,7 +81,7 @@
 | 9/30 | A.P. | App #3 of 3 (10/2 list). PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360 |
 | 10/1 | T.A. | PO005984962 approved 10/2 (Owens & Minor, OR, Dr. Farhan). Stravix 2x4 LYU-260468_24002, $1,695. Ready to submit |
 | 10/2 | R.C. | 3 x 5x5 (3 x $2,125.00), patient R.C., submitted to SFDC on PO RC100226 (4 were ordered for the 10/2 visit). Need lot/SNs |
-| 10/2 | R.W. | OR case at Good Sam (not a recurring graft patient). Case sheet on file; waiting on the Owens & Minor PO |
+| 10/2 | R.W. | OR case at Good Sam (not a recurring graft patient). PO005995283 approved 10/5 (Owens & Minor, OR, Dr. Luetkehans; Lot/SN LYA-250878_55010 matches), $2,500. Ready to submit |
 | 10/2 | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) | 7-piece stock order shipped 10/2 (FedEx 519100056924): 1.5x2 x1 $780 + 16mm x4 $425.50 + 3x4 x2 $1,210.50 = $4,903. PO-only, no case sheet; serials not on the shipping report. Shipped order, invoices on its own |
 | 10/2 | OASIS Ultra 7x10 meshed (1 box of 5) | OASIS Ultra 7x10 meshed, 1 box of 5 sheets, shipped 10/2 (FedEx 534747002230) on PO005986967. Good Sam box price $4,243.75. OASIS is bought by the box |
 | 10/2 | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) | OASIS Wound Matrix 3x3.5: report QTY 10 = 10 sheets = 1 box (10 per box), shipped 10/2 on PO 712062784. Elgin box price $1,126.50 |
