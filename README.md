@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 6:14 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 6:29 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 5 · **⚪ In SFDC:** 6
+**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 4 · **Submitted, not in SFDC yet:** 7 · **⚪ In SFDC:** 6
 
 ### 🟢 Ready to submit to SFDC  (8 · $6,185.00)
 
@@ -19,25 +19,26 @@
 | 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 | PO005984962 | [📄](case-sheets/ta-1001.md) |
 | 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 | PO005995283 | [📄](case-sheets/rw-1002.md) |
 
-### 🟡 Waiting on a PO  (5 · $8,243.60)
+### 🟡 Waiting on a PO  (4 · $6,690.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/16 | A.P. | Alexian WCC | Hussain | Grafix 1.5x2 | LYA-250733_15013 | $600.00 |  | [📄](case-sheets/ap-0916.md) |
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
-| 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 |  | [📄](case-sheets/gg-0929.md) |
 | 10/2 | V.D. | Alexian WCC | Ramani | Grafix 16mm | LYA-260159_16004 | $360.00 |  | [📄](case-sheets/vd-1002.md) |
 
-### Submitted, not in SFDC yet  (5 · $17,008.25)
+### Submitted, not in SFDC yet  (7 · $20,886.35)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
+| 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 | 660080000212141 | [📄](case-sheets/gg-0929.md) |
 | 10/2 | R.C. | Central DuPage |  | Grafix 5x5 |  | $6,375.00 | RC100226 |  |
 | 10/2 |  | Good Sam |  | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) |  | $4,903.00 | PO005986967 |  |
 | 10/2 |  | Good Sam |  | OASIS Ultra 7x10 meshed (1 box of 5) |  | $4,243.75 | PO005986967 |  |
 | 10/2 |  | St. Joseph Elgin |  | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) |  | $1,126.50 | 712062784 |  |
+| 10/5 |  | St. Alexius |  | Grafix 5x5 (bill & replace restock, case TBD) |  | $2,325.00 | 660080000212141 |  |
 
 ### ⚪ In SFDC  (6 · $4,771.35)
 
@@ -56,7 +57,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | Clinic stock (earlier PO) | [📄](case-sheets/ps-1005.md) |
 
-**October total $36,208.20** · received $27,964.60 · outstanding $8,243.60
+**October total $38,533.20** · received $31,842.70 · outstanding $6,690.50
 
 <details><summary><b>October notes</b></summary>
 
@@ -75,7 +76,7 @@
 | 9/29 | M.L. | App #1 of 1 (10/2 list). PO SWITCHED: now on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952. Bill M.L. on ...283975 |
 | 9/29 | A.N. | App #3 of 3 (10/2 list). PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
 | 9/29 | Y.L. | PO on case sheet |
-| 9/29 | G.G. | Case sheet on file. $1,553.10 per case sheet. No PO yet. St. Alexius is bill & replace: SFDC will show a replacement serial |
+| 9/29 | G.G. | Bill & replace (St. Alexius): replacement Stravix 2x4 (PS61024) shipped 10/5 on PO 660080000212141 (same PO as the Grafix 5x5 restock). Case sheet unit used: LYU-242364_24001, $1,553.10. SFDC will show the replacement serial |
 | 9/30 | OASIS Ultra 3x3.5 | In SFDC: inv 0985789919, transaction 10/1 (dashboard 10/2). OASIS Ultra 3x3.5 fenestrated, 1 box (ctn 5). Ordered 9/30. Price per account quote. PO CC100526 |
 | 9/30 | OASIS Wound Matrix 3x3.5 | In SFDC: inv 0985789918, transaction 10/1 (dashboard 10/2). OASIS Wound Matrix 3x3.5, 1 box (ctn 10). Ordered 9/30. Price per account quote. PO EP093026 |
 | 9/30 | A.P. | App #3 of 3 (10/2 list). PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360 |
@@ -87,6 +88,7 @@
 | 10/2 | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) | OASIS Wound Matrix 3x3.5: report QTY 10 = 10 sheets = 1 box (10 per box), shipped 10/2 on PO 712062784. Elgin box price $1,126.50 |
 | 10/2 | V.D. | App #6. Case sheet corrected to 10/2/26 (regenerated from the template with the sticker photo). Down to 16mm (was 1.5x2). Waiting on the Alexian PO |
 | 10/5 | P.S. | App #1. Clinic stock: NWSFA bought this 16mm on an earlier PO, so no new sale (case sheet shows $190.00). Weekly 16mm orders start 10/12 |
+| 10/5 | Grafix 5x5 (St. Alexius) | Bill & replace restock shipped 10/5 on PO 660080000212141 (with G.G.'s Stravix). Case details not known yet (patient, surgeon, date of service, lot/SN). Dated by ship date until the case sheet is in. $2,325 |
 
 </details>
 
@@ -94,16 +96,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $36,208.20 | $36,208.20 |
+| Current October sales | $38,533.20 | $38,533.20 |
 | + Projected Grafix, net of WCC stock | $71,715.00 | $54,652.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $9,314.23 | $2,967.95 |
-| **Projected P10 total** | **$122,175.43** | **$98,766.65** |
+| **Projected P10 total** | **$124,500.43** | **$101,091.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 94.7% | 76.6% |
-| Gap to target | $6,839.57 | $30,248.35 |
-| **Projected commission** | **$8,552.28** | **$6,913.67** |
+| % of target | 96.5% | 78.4% |
+| Gap to target | $4,514.57 | $27,923.35 |
+| **Projected commission** | **$8,715.03** | **$7,076.42** |
 
 Projected visits start 10/5; sold amounts come from the October tab.
 
@@ -114,7 +116,7 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | Good Sam | $13,341.75 | $33,555.00 | $24,722.50 | **$46,896.75** | **$38,064.25** |
 | Central DuPage | $6,375.00 | $25,500.00 | $21,080.00 | **$31,875.00** | **$27,455.00** |
 | Alexian WCC | $4,440.00 | $17,037.73 | $10,121.45 | **$21,477.73** | **$14,561.45** |
-| St. Alexius | $3,106.20 | $4,938.00 | $4,938.00 | **$8,044.20** | **$8,044.20** |
+| St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $1,898.25 | $4,366.50 | $1,696.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
@@ -122,7 +124,7 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$36,208.20** | **$85,967.23** | **$62,558.45** | **$122,175.43** | **$98,766.65** |
+| **Total** | **$38,533.20** | **$85,967.23** | **$62,558.45** | **$124,500.43** | **$101,091.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
