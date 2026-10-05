@@ -50,6 +50,12 @@
 | 9/30 |  | NW Suburban F&A |  | OASIS Ultra 3x3.5 |  | $771.75 | CC100526 |  |
 | 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
 
+### Clinic stock used, no new sale  (1)
+
+| Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
+| --- | --- | --- | --- | --- | --- | ---: | --- | --- |
+| 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | Clinic stock (earlier PO) | [📄](case-sheets/ps-1005.md) |
+
 **October total $36,208.20** · received $25,464.60 · outstanding $10,743.60
 
 <details><summary><b>October notes</b></summary>
@@ -80,6 +86,7 @@
 | 10/2 | OASIS Ultra 7x10 meshed (1 box of 5) | OASIS Ultra 7x10 meshed, 1 box of 5 sheets, shipped 10/2 (FedEx 534747002230) on PO005986967. Good Sam box price $4,243.75. OASIS is bought by the box |
 | 10/2 | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) | OASIS Wound Matrix 3x3.5: report QTY 10 = 10 sheets = 1 box (10 per box), shipped 10/2 on PO 712062784. Elgin box price $1,126.50 |
 | 10/2 | V.D. | App #6. Case sheet corrected to 10/2/26 (regenerated from the template with the sticker photo). Down to 16mm (was 1.5x2). Waiting on the Alexian PO |
+| 10/5 | P.S. | App #1. Clinic stock: NWSFA bought this 16mm on an earlier PO, so no new sale (case sheet shows $190.00). Weekly 16mm orders start 10/12 |
 
 </details>
 
