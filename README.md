@@ -62,7 +62,7 @@
 
 | Date | Pt | Note |
 | --- | --- | --- |
-| 9/2 | M.D. | App #5 of 6 (Alexian application log). Graft LYA-250856_16011 applied 9/2; PO ...282625 received 9/14. Not in SFDC yet; no case sheet on file, create one to submit |
+| 9/2 | M.D. | App #5 of 6 (Alexian application log). Graft LYA-250856_16011 applied 9/2; PO ...282625 received 9/14. Case sheet created 10/5 (sticker from the Alexian application log). Not in SFDC yet. Ready to submit |
 | 9/11 | N.W. | Bill & replace (St. Alexius): in SFDC as inv 0985785720 on PO 660080000211873 (9/30), billed on replacement unit LYU-242364_24004. Case sheet unit used: LYU-242364_24002. Bill only; L ankle |
 | 9/16 | A.P. | App #1 of 3 (10/2 list). No PO yet (Patient ID per Sept tab) |
 | 9/22 | T.T. | App #5 of 6 (Alexian application log). In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
