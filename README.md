@@ -87,14 +87,35 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales (excl. R.C.) | $29,833.20 | $29,833.20 |
-| + Projected Grafix, net of WCC stock | $76,950.00 | $60,457.50 |
+| Current October sales | $36,208.20 | $36,208.20 |
+| + Projected Grafix, net of WCC stock | $71,905.00 | $55,412.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
-| **Projected P10 total** | **$111,721.20** | **$95,228.70** |
+| + Potential new starts (upside only) | $0.00 | $0.00 |
+| + OASIS reorders (estimated) | $7,472.50 | $1,126.50 |
+| **Projected P10 total** | **$120,523.70** | **$97,685.20** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 86.6% | 73.8% |
-| Gap to target | $17,293.80 | $33,786.30 |
-| **Projected commission** | **$7,820.48** | **$6,666.01** |
+| % of target | 93.4% | 75.7% |
+| Gap to target | $8,491.30 | $31,329.80 |
+| **Projected commission** | **$8,436.66** | **$6,837.96** |
+
+Projected visits start 10/5; sold amounts come from the October tab.
+
+### By account
+
+| Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Good Sam | $13,341.75 | $33,555.00 | $24,722.50 | **$46,896.75** | **$38,064.25** |
+| Central DuPage | $6,375.00 | $25,500.00 | $21,080.00 | **$31,875.00** | **$27,455.00** |
+| Alexian WCC | $4,440.00 | $15,196.00 | $8,280.00 | **$19,636.00** | **$12,720.00** |
+| St. Alexius | $3,106.20 | $4,938.00 | $4,938.00 | **$8,044.20** | **$8,044.20** |
+| NW Suburban F&A | $1,898.25 | $4,366.50 | $1,696.50 | **$6,264.75** | **$3,594.75** |
+| St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
+| Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
+| Suburban F&A | $190.00 | $760.00 | $760.00 | **$950.00** | **$950.00** |
+| Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
+| Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
+| GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
+| **Total** | **$36,208.20** | **$84,315.50** | **$61,477.00** | **$120,523.70** | **$97,685.20** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -117,7 +138,26 @@
 | Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
-| Central DuPage |  | R.C. | 3× 5x5 | Weekly | 1 | 5 | $31,875.00 | 2x 5x5 + 1x 3x4 × 5 | $27,455.00 |
+| Central DuPage | Luetkehans | R.C. | 3× 5x5 | Weekly | 1 | 4 | $25,500.00 | 2x 5x5 + 1x 3x4 × 4 | $21,080.00 |
+| Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly | 1 | 4 | $760.00 | same | $760.00 |
+| NW Suburban F&A | Goldkind | P.S. | 1× 16mm | Weekly | 1 | 3 | $570.00 | same | $570.00 |
+
+**Upcoming Stravix**
+
+| Account | Surgeon | Date | Size | Upside | Downside |
+| --- | --- | --- | --- | ---: | ---: |
+| St. Alexius | Guske | 10/7 | Stravix 3x6 | $2,469.00 | $2,469.00 |
+| St. Alexius | Liao | 10/16 | Stravix 3x6 | $2,469.00 | $2,469.00 |
+
+**OASIS reorders (estimated, by the box)**
+
+| Account | Patients | Product | Size | Boxes up | Boxes down | Box price | Upside | Downside |
+| --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
+| NW Suburban F&A | C.C. (R.D., S.B. on hold) | OASIS Ultra | 3x3.5 | 2 | 0 | $771.75 | $1,543.50 | $0.00 |
+| NW Suburban F&A | J.M., P.M., C.T., E.P. | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
+| Alexian WCC | D.V. (new start 10/7) | OASIS Wound Matrix | 3x7 | 1 | 0 | $2,206.00 | $2,206.00 | $0.00 |
+| Alexian WCC | J.B. | OASIS Burn Matrix | 3x7 | 1 | 0 | $1,470.00 | $1,470.00 | $0.00 |
+| Alexian WCC | D.S. (M.I. on hold) | OASIS Wound Matrix | 3x3.5 | 0 | 0 | $1,104.00 | $0.00 | $0.00 |
 
 </details>
 
