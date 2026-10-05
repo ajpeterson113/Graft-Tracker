@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/5/26, 7:43 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -47,7 +47,7 @@ Updated 10/4/26, 2:43 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Mon 10/5 8:45 AM · EG | **Potential New Start** | P.S. | Dr. Goldkind | GRAFIX 16mm |  |  | 10/2: PA approved via Evicore (IVR case #06294702). L foot DFU, wound 0.5 x 1.5 x 0.2 cm. First graft expected 10/5 at Elk Grove. | [📄](../ivr/nw-ps.md) |
+| Mon 10/5 8:45 AM · EG | **Potential New Start** | P.S. | Dr. Goldkind | GRAFIX 16mm |  |  | Going forward on GRAFIX 16mm. Today (10/5, A1) uses the one 16mm the clinic already bought; AJ ordering 16mm for the following weeks. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](../ivr/nw-ps.md) |
 
 
 </details>
