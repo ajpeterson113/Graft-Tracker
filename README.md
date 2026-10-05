@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 9:27 AM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 2:55 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -155,6 +155,7 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | --- | --- | --- | --- | ---: | ---: |
 | St. Alexius | Guske | 10/7 | Stravix 3x6 | $2,469.00 | $2,469.00 |
 | St. Alexius | Liao | 10/16 | Stravix 3x6 | $2,469.00 | $2,469.00 |
+| GlenOaks | Reed | Possible, this week or next | Stravix, size TBD | – | – |
 
 **OASIS reorders (estimated, by the box)**
 
@@ -164,6 +165,7 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | NW Suburban F&A | J.M., P.M., C.T., E.P. | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
 | Alexian WCC | D.V. (new start 10/7) | OASIS Wound Matrix | 3x7 | 1 | 0 | $2,206.00 | $2,206.00 | $0.00 |
 | Alexian WCC | J.B. | OASIS Burn Matrix | 3x7 | 1 | 0 | $1,470.00 | $1,470.00 | $0.00 |
+| Alexian WCC | B.P. (new start 10/5) | OASIS Burn Matrix | 5x7 meshed | 1 | 1 | not on file | $0.00 | $0.00 |
 | Alexian WCC | D.S. (M.I. on hold) | OASIS Wound Matrix | 3x3.5 | 0 | 0 | $1,104.00 | $0.00 | $0.00 |
 
 </details>
@@ -189,7 +191,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | OASIS Wound Matrix | 3x7 | 8213-1000-37 | 10 sheets | 1 | 2 | 5.0 | 11/9 | 🟢 OK | – | photo pending |
 | OASIS Burn Matrix | 3x3.5 | 8213-3000-16 | 3 sheets | – | – |  |  | No patients on it | – | 4/3/28 |
 | OASIS Burn Matrix | 3x7 | 8213-3000-18 | 4 sheets | 1 | 1 | 4.0 | 11/2 | 🟢 OK | – | 11/8/27 |
-| OASIS Burn Matrix | 5x7 meshed | 8213-3000-13 | 3 sheets | – | – |  |  | No patients on it | – | 7/11/27 |
+| OASIS Burn Matrix | 5x7 meshed | 8213-3000-13 | 3 sheets | 1 | 1 | 3.0 | 10/26 | 🟢 OK | – | 7/11/27 |
 
 <details><summary><b>Patients using the WCC stock</b></summary>
 
@@ -210,7 +212,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | D.S. | Lucas | OASIS Wound Matrix | 3x3.5 | 1 | Active | 1 |  |
 | D.V. | Hussain | OASIS Wound Matrix | 3x7 | 2 | Starting | 2 | Potential new start, first visit 10/7. Patient list says multiple 3x7; 2 per visit is a placeholder |
 | J.B. | Adelstein | OASIS Burn Matrix | 3x7 | 1 | Active | 1 |  |
-| B.P. | Joshi | OASIS | TBD | 1 | Starting | – | Potential new start, first visit 10/5. OASIS product and size not set yet, so not counted |
+| B.P. | Joshi | OASIS Burn Matrix | 5x7 meshed | 1 | Active | 1 | A1 10/5 from the shelf |
 | M.I. | Russo | OASIS Wound Matrix | 3x3.5 | 1 | Hold | – | Paused |
 
 </details>
