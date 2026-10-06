@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/6/26, 12:06 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/6/26, 2:04 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -15,7 +15,7 @@ Updated 10/6/26, 12:06 PM CT · [⬇ Download the patient list (Excel)](https://
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Tue 10/6 10:45 AM | **Grafting** | <details><summary>I.S.</summary>I. Stalilionis</details> | Dr. Patni | OASIS Wound Matrix 3x3.5 | 🟢 5 |  |  |  |
+| Tue 10/13 10:45 AM | **Grafting** | <details><summary>I.S.</summary>I. Stalilionis</details> | Dr. Patni | OASIS Wound Matrix 3x3.5 | 🟢 6 | 10/6 | A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |  |
 | Wed 10/7 9:00 AM | **Potential New Start** | <details><summary>R.T.</summary>Roger Turner</details> | Dr. Bach | OASIS Ultra 7x10 |  |  | Starting OASIS Ultra 7x10 on 10/7 (A1). OASIS approved 80%; GRAFIX still pending. |  |
 | Wed 10/7 11:00 AM | **Potential New Start** | <details><summary>L.J.</summary>Louis Marie Jacques</details> | Dr. Bach | OASIS Ultra 7x10 (1 sheet) |  |  | Starting on OASIS Ultra 7x10 (box of 5 ordered 10/2 on PO005986967). Reverified 10/4: Medicare covers OASIS Ultra; Cigna secondary terminated, so pt carries 20%. Wound L lower leg 11.3 x 8 x 0.2 cm. | [📄](ivr/gs-lj.md) |
 | Thu 10/8 1:00 PM | **Potential New Start** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | GRAFIX 5x5 | 🟢 0 |  | Stravix on 9/10, continuing treatment with GRAFIX. Starts 5x5 on 10/8 (A1). |  |
@@ -50,9 +50,9 @@ Updated 10/6/26, 12:06 PM CT · [⬇ Download the patient list (Excel)](https://
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014). |  |
+| Tue 10/13 | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014). |  |
 |  | **Grafting** | <details><summary>J.L.</summary>J. Leamann</details> | Dr. Lucas | GRAFIX 16mm | 🟢 2 | 10/6 | A2 10/6 (LYA-260159_16001). |  |
-|  | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
+| Tue 10/13 | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
 | Tue 10/6 12:50 PM | **Grafting** | <details><summary>A.N.</summary>Aloysius Newman</details> | Dr. Joshi | GRAFIX 16mm | 🟢 3 | 9/29 |  |  |
 | Tue 10/6 12:50 PM | **Potential New Start** | <details><summary>O.O.</summary>Omar osama</details> | Dr. V | GRAFIX | 🟢 0 |  | 9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |  |
 | Wed 10/7 9:30 AM | **Grafting** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  |  | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |  |

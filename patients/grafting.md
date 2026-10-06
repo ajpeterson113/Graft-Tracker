@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/6/26, 12:06 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/6/26, 2:04 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -15,7 +15,7 @@ Updated 10/6/26, 12:06 PM CT · [⬇ Download the patient list (Excel)](https://
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Tue 10/6 10:45 AM | **Grafting** | <details><summary>I.S.</summary>I. Stalilionis</details> | Dr. Patni | OASIS Wound Matrix 3x3.5 | 🟢 5 |  |  |  |
+| Tue 10/13 10:45 AM | **Grafting** | <details><summary>I.S.</summary>I. Stalilionis</details> | Dr. Patni | OASIS Wound Matrix 3x3.5 | 🟢 6 | 10/6 | A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |  |
 | Thu 10/8 2:00 PM | **Grafting** | <details><summary>P.J.</summary>Paul Jagust</details> | Dr. Luetkehans | GRAFIX (3) 16mm | 🟢 2 |  | Wants 3 for next week, but might only need 2 |  |
 | Thu 10/8 2:00 PM | **Grafting** | <details><summary>L.D.</summary>L. Dituri</details> | Dr. Luetkehans | GRAFIX 1.5x2 | 🔴 22 |  | 1.5x2 next week, then possibly moving down |  |
 |  | **Grafting** | <details><summary>W.K.</summary>W. Knudsen</details> | Dr. Ayesh | GRAFIX 16mm | 🟢 5 | 10/1 |  |  |
@@ -32,9 +32,9 @@ Updated 10/6/26, 12:06 PM CT · [⬇ Download the patient list (Excel)](https://
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014). |  |
+| Tue 10/13 | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014). |  |
 |  | **Grafting** | <details><summary>J.L.</summary>J. Leamann</details> | Dr. Lucas | GRAFIX 16mm | 🟢 2 | 10/6 | A2 10/6 (LYA-260159_16001). |  |
-|  | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
+| Tue 10/13 | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
 | Tue 10/6 12:50 PM | **Grafting** | <details><summary>A.N.</summary>Aloysius Newman</details> | Dr. Joshi | GRAFIX 16mm | 🟢 3 | 9/29 |  |  |
 | Wed 10/7 9:30 AM | **Grafting** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  |  | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |  |
 | Wed 10/7 2:00 PM | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 3 | 9/30 |  |  |

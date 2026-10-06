@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/6/26, 9:53 AM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/6/26, 2:04 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -190,7 +190,7 @@ Shelf count 10/6. Already sold, so projected visits that use it aren't counted t
 | Grafix | 16mm | 5 | LYA-260176_16009, _16010, _16011, _16012; LYA-260108_16012 | 1/13/28 | P.J. uses 3 Thu 10/8, 2 left for visits from 10/12 |
 | Grafix | 3x4 | 4 | LYA-250567_34002, _34003; LYA-250353_34003, _34004 | 6/9/27; 3/24/27 | K.P. (biweekly) |
 | Grafix | 1.5x2 | 1 | LYA-260117_15005 | 1/13/28 | L.D. uses it Thu 10/8 |
-| OASIS Wound Matrix | 3x3.5 | 4 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. 1 a week; reorder estimate 1 box (upside) |
+| OASIS Wound Matrix | 3x3.5 | 3 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. used 1 on 10/6 (A6); 1 a week; reorder estimate 1 box (upside) |
 
 ## Alexian WCC stock
 
