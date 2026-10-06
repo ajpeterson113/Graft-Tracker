@@ -61,7 +61,7 @@ Updated 10/5/26, 7:38 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Wed 10/7 11:20 AM · Lombard | **OR** | P.C. | Dr. McGann | STRAVIX 3x6 |  | 9/28 · 1 wk 0 d post-op | Stravix 3x6 OR case 9/28. Follow-up Wed 10/7 11:20 AM at Dr. McGann's Lombard office (Ramani Orthopedics). No PO yet |  |
+| Wed 10/7 11:20 AM · Lombard | **OR** | P.C. | Dr. McGann | STRAVIX 3x6 |  | 9/28 · 1 wk 0 d post-op | Stravix 3x6 OR case 9/28. Follow-up Wed 10/7 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). No PO yet |  |
 
 
 </details>
