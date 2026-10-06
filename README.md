@@ -4,7 +4,7 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 1 · **🟡 Waiting on a PO:** 4 · **Submitted, not in SFDC yet:** 9 · **⚪ In SFDC:** 12
+**🟢 Ready to submit to SFDC:** 1 · **🟡 Waiting on a PO:** 7 · **Submitted, not in SFDC yet:** 9 · **⚪ In SFDC:** 12
 
 ### 🟢 Ready to submit to SFDC  (1 · $190.00)
 
@@ -12,7 +12,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/29 | Y.L. | Suburban F&A | Grinberg | Grafix 16mm | LYA-260138_16034 | $190.00 | YL092926 | [📄](case-sheets/yl-0929.md) |
 
-### 🟡 Waiting on a PO  (4 · $6,690.50)
+### 🟡 Waiting on a PO  (7 · $7,770.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -20,6 +20,9 @@
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
 | 10/2 | V.D. | Alexian WCC | Ramani | Grafix 16mm | LYA-260159_16004 | $360.00 |  | [📄](case-sheets/vd-1002.md) |
+| 10/6 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16028 | $360.00 |  | [📄](case-sheets/tt-1006.md) |
+| 10/6 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16001 | $360.00 |  | [📄](case-sheets/jl-1006.md) |
+| 10/6 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16014 | $360.00 |  | [📄](case-sheets/dg-1006.md) |
 
 ### Submitted, not in SFDC yet  (9 · $12,730.00)
 
@@ -58,7 +61,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $44,908.20** · received $38,217.70 · outstanding $6,690.50
+**October total $45,988.20** · received $38,217.70 · outstanding $7,770.50
 
 <details><summary><b>October notes</b></summary>
 
@@ -91,6 +94,9 @@
 | 10/5 | P.S. | App #1. PO PS100626: NWSFA bought this 16mm 8/22/26 (clinic stock), so it is not an October sale (case sheet shows $190.00). Weekly 16mm orders start 10/12 |
 | 10/5 | Grafix 5x5 (St. Alexius) | Bill & replace restock (St. Alexius): Grafix 5x5 shipped 10/5 on PO 660080000212141 (with G.G.'s Stravix). Case details not known yet (patient, surgeon, date of service, lot/SN used). Dated by ship date until the case sheet is in. $2,325 per St. Alexius price quote. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
 | 10/9 | R.C. | Sale order submitted 10/5 on PO RC100926 for the 10/9 visit (application #2): 3 x 5x5 (3 x $2,125.00). Lot/SNs and case sheet after the visit |
+| 10/6 | T.T. | App #7. Alexian WCC stops at 8, so 1 left. Case sheet on file. Waiting on the Alexian PO |
+| 10/6 | J.L. | App #2. Case sheet on file. Waiting on the Alexian PO |
+| 10/6 | D.G. | App #3. Case sheet on file. Waiting on the Alexian PO |
 
 </details>
 
@@ -98,16 +104,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $44,908.20 | $44,908.20 |
-| + Projected Grafix, net of WCC stock | $55,189.50 | $44,501.50 |
+| Current October sales | $45,988.20 | $45,988.20 |
+| + Projected Grafix, net of WCC stock | $54,829.50 | $44,501.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $10,460.13 | $2,967.95 |
-| **Projected P10 total** | **$115,495.83** | **$97,315.65** |
+| **Projected P10 total** | **$116,215.83** | **$98,395.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 89.5% | 75.4% |
-| Gap to target | $13,519.17 | $31,699.35 |
-| **Projected commission** | **$8,084.71** | **$6,812.10** |
+| % of target | 90.1% | 76.3% |
+| Gap to target | $12,799.17 | $30,619.35 |
+| **Projected commission** | **$8,135.11** | **$6,887.70** |
 
 Projected visits start 10/12 (this week's visits count once filed); sold amounts come from the October tab.
 
@@ -117,7 +123,7 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Good Sam | $13,341.75 | $21,775.40 | $16,371.50 | **$35,117.15** | **$29,713.25** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
-| Alexian WCC | $4,440.00 | $13,437.73 | $8,321.45 | **$17,877.73** | **$12,761.45** |
+| Alexian WCC | $5,520.00 | $13,077.73 | $8,321.45 | **$18,597.73** | **$13,841.45** |
 | St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $1,898.25 | $4,366.50 | $1,696.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
@@ -126,13 +132,13 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$44,908.20** | **$70,587.63** | **$52,407.45** | **$115,495.83** | **$97,315.65** |
+| **Total** | **$45,988.20** | **$70,227.63** | **$52,407.45** | **$116,215.83** | **$98,395.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
 | Account | Surgeon | Pt | Units × size | Freq | Apps | Visits | Upside | Downside change | Downside |
 | --- | --- | --- | --- | --- | --- | --- | ---: | --- | ---: |
-| Good Sam | Bach | C.H. | 1× 5x5 | On hold | 0 | 0 | $0.00 | 5x5 × 1 | $0.00 |
+| Good Sam | Bach | C.H. | 1× 5x5 | On hold | 0 | 3 | $0.00 | 5x5 × 1 | $0.00 |
 | Good Sam | Ayesh | W.K. | 1× 16mm | Biweekly | 5 | 2 | $851.00 | 16mm × 1 | $425.50 |
 | Good Sam | Ayesh | K.P. | 1× 5x5 | Biweekly | 6 | 2 | $5,000.00 | 3x4 × 2 | $2,421.00 |
 | Good Sam | Ayesh | K.P. | 1× 3x4 | Biweekly | 6 | 2 | $2,421.00 | 3x3 × 2 | $2,231.00 |
@@ -141,7 +147,7 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 | Good Sam | Luetkehans | P.J. | 3× 16mm | Weekly | 2 | 3 | $3,829.50 | same | $3,829.50 |
 | Good Sam | Luetkehans | D.F. | 1× 5x5 | Weekly | 0 | 3 | $7,500.00 | same | $7,500.00 |
 | Good Sam | Luetkehans | L.D. | 1× 1.5x2 | Weekly | 22 | 3 | $2,340.00 | 16mm × 3 | $1,276.50 |
-| Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 2 (stops at 8) | $720.00 | 16mm × 1 | $360.00 |
+| Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 1 (stops at 8) | $360.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Lucas | J.L. | 1× 16mm | Weekly | 1 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Joshi | M.L. | 1× 16mm | Weekly | 1 | 3 | $1,080.00 | same | $1,080.00 |
@@ -190,14 +196,14 @@ Shelf count 10/6. Already sold, so projected visits that use it aren't counted t
 
 Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos); 10 × 16mm restock shipped 10/5 (no PO; lot/SN/expiry TBD until unpacked). Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
 
-**58 Grafix units on hand · $62,051 consignment** · targets: 16mm 10–15, other Grafix sizes 5–10 (a few over is fine)
+**55 Grafix units on hand · $60,971 consignment** · targets: 16mm 10–15, other Grafix sizes 5–10 (a few over is fine)
 
-- 🟠 **16mm at the top of the 10–15 range:** 15 on hand (5 on the shelf + 10 shipped 10/5) for 8 patients a week. This week's visits leave about 7, so plan to order about 8 by Friday to get back to 15.
+- 🟠 **16mm: 12 on hand (target 10–15).** 3 used 10/6 (T.T., J.L., D.G.). The rest of this week (A.N., A.P., M.L., D.C., V.D.) uses about 5 more, leaving about 7, so plan to order about 8 by Friday to get back to 15.
 - 🟠 **8 × 3x4 expire 12/18/26:** no Alexian patient is on 3x4 ($9,120 of consignment).
 
 | Product | Size | REF | On hand | Patients | Use / wk | Weeks left | Runs out (wk of) | Status | Order (boxes) | Next expiry |
 | --- | --- | --- | ---: | ---: | ---: | ---: | --- | --- | ---: | --- |
-| Grafix | 16mm | PS13016 | 15 | 8 | 8 | 1.9 | 10/12 | 🟢 OK (target 10–15) | – | 11/25/27 |
+| Grafix | 16mm | PS13016 | 12 | 8 | 8 | 1.5 | 10/12 | 🟢 OK (target 10–15) | – | 1/13/28 |
 | Grafix | 1.5x2 | PS13015 | 8 | – | – |  |  | No patients on it (target 5–10) | – | 6/18/27 |
 | Grafix | 2x3 | PS13023 | 10 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
 | Grafix | 3x3 | PS13033 | 5 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
@@ -243,10 +249,10 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | OASIS Burn Matrix | 5x7 meshed | LB1639811 | 3 of 5 sheets | 7/11/27 | On shelf |  |
 | OASIS Wound Matrix | 3x7 | Photo pending | 10 of 10 sheets | pending | On shelf |  |
 | Grafix | 16mm | LYA-260159 | 16003 | 1/13/28 | On shelf |  |
-| Grafix | 16mm | LYA-260159 | 16001 | 1/13/28 | On shelf |  |
-| Grafix | 16mm | LYA-260159 | 16028 | 1/13/28 | On shelf |  |
+| Grafix | 16mm | LYA-260159 | 16001 | 1/13/28 | Used 10/6 |  |
+| Grafix | 16mm | LYA-260159 | 16028 | 1/13/28 | Used 10/6 |  |
 | Grafix | 16mm | LYA-260159 | 16026 | 1/13/28 | On shelf |  |
-| Grafix | 16mm | LYA-260017 | 16014 | 11/25/27 | On shelf |  |
+| Grafix | 16mm | LYA-260017 | 16014 | 11/25/27 | Used 10/6 |  |
 | Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
 | Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
 | Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
