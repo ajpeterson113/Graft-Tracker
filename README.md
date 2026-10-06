@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 7:24 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 7:36 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -176,19 +176,19 @@ Projected visits start 10/5; sold amounts come from the October tab.
 
 Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos); 10 × 16mm restock shipped 10/5 (no PO; lot/SN/expiry TBD until unpacked). Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
 
-**58 Grafix units on hand · $62,051 consignment**
+**58 Grafix units on hand · $62,051 consignment** · targets: 16mm 10–15, other Grafix sizes 5–10 (a few over is fine)
 
-- 🔴 **Reorder 16mm now:** 15 for 8 patients a week (5 on the shelf + 10 shipped 10/5). This week uses 8, leaving 7, so it runs short the week of 10/12. Suggested order 17 (4 weeks).
+- 🟠 **16mm at the top of the 10–15 range:** 15 on hand (5 on the shelf + 10 shipped 10/5) for 8 patients a week. This week's visits leave about 7, so plan to order about 8 by Friday to get back to 15.
 - 🟠 **8 × 3x4 expire 12/18/26:** no Alexian patient is on 3x4 ($9,120 of consignment).
 
 | Product | Size | REF | On hand | Patients | Use / wk | Weeks left | Runs out (wk of) | Status | Order (boxes) | Next expiry |
 | --- | --- | --- | ---: | ---: | ---: | ---: | --- | --- | ---: | --- |
-| Grafix | 16mm | PS13016 | 15 | 8 | 8 | 1.9 | 10/12 | 🔴 Reorder now | 17 | 11/25/27 |
-| Grafix | 1.5x2 | PS13015 | 8 | – | – |  |  | No patients on it | – | 6/18/27 |
-| Grafix | 2x3 | PS13023 | 10 | – | – |  |  | No patients on it | – | 5/2/27 |
-| Grafix | 3x3 | PS13033 | 5 | – | – |  |  | No patients on it | – | 5/2/27 |
-| Grafix | 3x4 | PS13034 | 8 | – | – |  |  | No patients on it | – | **12/18/26 (8 before use)** |
-| Grafix | 5x5 | PS13055 | 12 | – | – |  |  | No patients on it | – | 11/3/27 |
+| Grafix | 16mm | PS13016 | 15 | 8 | 8 | 1.9 | 10/12 | 🟢 OK (target 10–15) | – | 11/25/27 |
+| Grafix | 1.5x2 | PS13015 | 8 | – | – |  |  | No patients on it (target 5–10) | – | 6/18/27 |
+| Grafix | 2x3 | PS13023 | 10 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
+| Grafix | 3x3 | PS13033 | 5 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
+| Grafix | 3x4 | PS13034 | 8 | – | – |  |  | No patients on it (target 5–10) | – | **12/18/26 (8 before use)** |
+| Grafix | 5x5 | PS13055 | 12 | – | – |  |  | No patients on it (target 5–10) | – | 11/3/27 |
 | OASIS Wound Matrix | 3x3.5 | 8213-1000-33 | 8 sheets | 1 | 1 | 8.0 | 11/30 | 🟢 OK | – | 1/31/28 |
 | OASIS Wound Matrix | 3x7 | 8213-1000-37 | 10 sheets | 1 | 2 | 5.0 | 11/9 | 🟢 OK | – | photo pending |
 | OASIS Burn Matrix | 3x3.5 | 8213-3000-16 | 3 sheets | – | – |  |  | No patients on it | – | 4/3/28 |
@@ -233,6 +233,16 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | Grafix | 16mm | LYA-260159 | 16028 | 1/13/28 | On shelf |  |
 | Grafix | 16mm | LYA-260159 | 16026 | 1/13/28 | On shelf |  |
 | Grafix | 16mm | LYA-260017 | 16014 | 11/25/27 | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
 | Grafix | 1.5x2 | LYA-260068 | 15003 | 11/25/27 | On shelf |  |
 | Grafix | 1.5x2 | LYA-260068 | 15002 | 11/25/27 | On shelf |  |
 | Grafix | 1.5x2 | LYA-260068 | 15005 | 11/25/27 | On shelf |  |
