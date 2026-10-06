@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/6/26, 2:20 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/6/26, 2:26 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -18,7 +18,7 @@ Updated 10/6/26, 2:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Tue 10/13 10:45 AM | **Grafting** | <details><summary>I.S.</summary>I. Stalilionis</details> | Dr. Patni | OASIS Wound Matrix 3x3.5 | 🟢 6 | 10/6 | A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |  |
 | Wed 10/7 9:00 AM | **Potential New Start** | <details><summary>R.T.</summary>Roger Turner</details> | Dr. Bach | OASIS Ultra 7x10 |  |  | Starting OASIS Ultra 7x10 on 10/7 (A1). OASIS approved 80%; GRAFIX still pending. |  |
 | Wed 10/7 11:00 AM | **Potential New Start** | <details><summary>L.J.</summary>Louis Marie Jacques</details> | Dr. Bach | OASIS Ultra 7x10 (1 sheet) |  |  | Starting on OASIS Ultra 7x10 (box of 5 ordered 10/2 on PO005986967). Reverified 10/4: Medicare covers OASIS Ultra; Cigna secondary terminated, so pt carries 20%. Wound L lower leg 11.3 x 8 x 0.2 cm. | [📄](ivr/gs-lj.md) |
-| Thu 10/8 1:00 PM | **Potential New Start** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | GRAFIX 5x5 | 🟢 0 |  | Stravix on 9/10, continuing treatment with GRAFIX. Starts 5x5 on 10/8 (A1). |  |
+| Thu 10/8 1:00 PM | **Potential New Start** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | GRAFIX 5x5 | 🟢 0 |  | Stravix on 9/10, continuing treatment with GRAFIX. Starts 5x5 on 10/8 (A1); Good Sam ordered the 5x5 on PO006001505 (10/6). |  |
 | Thu 10/8 2:00 PM | **Grafting** | <details><summary>P.J.</summary>Paul Jagust</details> | Dr. Luetkehans | GRAFIX (3) 16mm | 🟢 2 |  | Wants 3 for next week, but might only need 2 |  |
 | Thu 10/8 2:00 PM | **Grafting** | <details><summary>L.D.</summary>L. Dituri</details> | Dr. Luetkehans | GRAFIX 1.5x2 | 🔴 22 |  | 1.5x2 next week, then possibly moving down |  |
 |  | **Grafting** | <details><summary>W.K.</summary>W. Knudsen</details> | Dr. Ayesh | GRAFIX 16mm | 🟢 5 | 10/1 |  |  |

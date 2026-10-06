@@ -4,7 +4,7 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 2 · **🟡 Waiting on a PO:** 8 · **Submitted, not in SFDC yet:** 9 · **⚪ In SFDC:** 12
+**🟢 Ready to submit to SFDC:** 2 · **🟡 Waiting on a PO:** 8 · **Submitted, not in SFDC yet:** 10 · **⚪ In SFDC:** 12
 
 ### 🟢 Ready to submit to SFDC  (2 · $3,305.50)
 
@@ -26,7 +26,7 @@
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 |  | [📄](case-sheets/cl-1006.md) |
 
-### Submitted, not in SFDC yet  (9 · $12,730.00)
+### Submitted, not in SFDC yet  (10 · $15,230.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -38,6 +38,7 @@
 | 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
 | 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 | PO005984962 | [📄](case-sheets/ta-1001.md) |
 | 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 | PO005995283 | [📄](case-sheets/rw-1002.md) |
+| 10/8 | D.F. | Good Sam | Luetkehans | Grafix 5x5 (Good Sam PO, A1) |  | $2,500.00 | PO006001505 |  |
 | 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5) |  | $6,375.00 | RC100926 |  |
 
 ### ⚪ In SFDC  (12 · $25,297.70)
@@ -63,7 +64,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $51,659.20** · received $41,333.20 · outstanding $10,326.00
+**October total $54,159.20** · received $43,833.20 · outstanding $10,326.00
 
 <details><summary><b>October notes</b></summary>
 
@@ -101,6 +102,7 @@
 | 10/6 | D.G. | App #3. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | A.N. | App #4. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50). Case sheet on file; waiting on the PO |
+| 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit |
 
 </details>
 
@@ -108,16 +110,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $51,659.20 | $51,659.20 |
+| Current October sales | $54,159.20 | $54,159.20 |
 | + Projected Grafix, net of WCC stock | $54,829.50 | $44,501.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $10,460.13 | $2,967.95 |
-| **Projected P10 total** | **$121,886.83** | **$104,066.65** |
+| **Projected P10 total** | **$124,386.83** | **$106,566.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 94.5% | 80.7% |
-| Gap to target | $7,128.17 | $24,948.35 |
-| **Projected commission** | **$8,532.08** | **$7,284.67** |
+| % of target | 96.4% | 82.6% |
+| Gap to target | $4,628.17 | $22,448.35 |
+| **Projected commission** | **$8,707.08** | **$7,459.67** |
 
 Projected visits start 10/12 (this week's visits count once filed); sold amounts come from the October tab.
 
@@ -125,7 +127,7 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 
 | Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Good Sam | $18,652.75 | $21,775.40 | $16,371.50 | **$40,428.15** | **$35,024.25** |
+| Good Sam | $21,152.75 | $21,775.40 | $16,371.50 | **$42,928.15** | **$37,524.25** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
 | Alexian WCC | $5,880.00 | $13,077.73 | $8,321.45 | **$18,957.73** | **$14,201.45** |
 | St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
@@ -136,7 +138,7 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$51,659.20** | **$70,227.63** | **$52,407.45** | **$121,886.83** | **$104,066.65** |
+| **Total** | **$54,159.20** | **$70,227.63** | **$52,407.45** | **$124,386.83** | **$106,566.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
