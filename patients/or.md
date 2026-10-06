@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/5/26, 6:11 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/5/26, 7:38 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -61,7 +61,7 @@ Updated 10/5/26, 6:11 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **OR** | P.C. | Dr. McGann | STRAVIX 3x6 |  | 9/28 · 1 wk 0 d post-op | No PO yet |  |
+| Wed 10/7 11:20 AM · Lombard | **OR** | P.C. | Dr. McGann | STRAVIX 3x6 |  | 9/28 · 1 wk 0 d post-op | Stravix 3x6 OR case 9/28. Follow-up Wed 10/7 11:20 AM at Dr. McGann's Lombard office (Ramani Orthopedics). No PO yet |  |
 
 
 </details>
