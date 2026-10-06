@@ -4,26 +4,27 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 1 · **🟡 Waiting on a PO:** 8 · **Submitted, not in SFDC yet:** 9 · **⚪ In SFDC:** 12
+**🟢 Ready to submit to SFDC:** 2 · **🟡 Waiting on a PO:** 8 · **Submitted, not in SFDC yet:** 9 · **⚪ In SFDC:** 12
 
-### 🟢 Ready to submit to SFDC  (1 · $190.00)
+### 🟢 Ready to submit to SFDC  (2 · $3,305.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
+| 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 | P2325870 | [📄](case-sheets/pc-0928.md) |
 | 9/29 | Y.L. | Suburban F&A | Grinberg | Grafix 16mm | LYA-260138_16034 | $190.00 | YL092926 | [📄](case-sheets/yl-0929.md) |
 
-### 🟡 Waiting on a PO  (8 · $8,130.50)
+### 🟡 Waiting on a PO  (8 · $10,326.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/16 | A.P. | Alexian WCC | Hussain | Grafix 1.5x2 | LYA-250733_15013 | $600.00 |  | [📄](case-sheets/ap-0916.md) |
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
-| 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 |  | [📄](case-sheets/pc-0928.md) |
 | 10/2 | V.D. | Alexian WCC | Ramani | Grafix 16mm | LYA-260159_16004 | $360.00 |  | [📄](case-sheets/vd-1002.md) |
 | 10/6 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16028 | $360.00 |  | [📄](case-sheets/tt-1006.md) |
 | 10/6 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16001 | $360.00 |  | [📄](case-sheets/jl-1006.md) |
 | 10/6 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16014 | $360.00 |  | [📄](case-sheets/dg-1006.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
+| 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 |  | [📄](case-sheets/cl-1006.md) |
 
 ### Submitted, not in SFDC yet  (9 · $12,730.00)
 
@@ -62,7 +63,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $46,348.20** · received $38,217.70 · outstanding $8,130.50
+**October total $51,659.20** · received $41,333.20 · outstanding $10,326.00
 
 <details><summary><b>October notes</b></summary>
 
@@ -74,7 +75,7 @@
 | 9/22 | T.T. | App #5 of 6 (Alexian application log). In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
 | 9/22 | A.N. | App #2 of 3 (10/2 list). In SFDC: inv 0985785270 on PO ...283433. Patient ID 0002817866 = A.N. |
 | 9/25 | T.W. |  |
-| 9/28 | P.C. |  |
+| 9/28 | P.C. | OR case 9/28 at Elmhurst (Dr. McGann). PO P2325870 received 10/6 and written on the case sheet. Ready to submit |
 | 9/29 | D.G. | App #2 of 2 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. Submitted 10/5 |
 | 9/29 | T.T. | App #6 of 6 (Alexian application log). #7 expected 10/6. Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab). Submitted 10/5 |
 | 9/29 | J.L. | App #1 of 1 (10/2 list). Case sheet on file (initials J.L., not L.J. as on the receiving log). PO by elimination: the other two Lucas 9/29 POs are confirmed to D.G. and T.T. Submitted 10/5 |
@@ -99,6 +100,7 @@
 | 10/6 | J.L. | App #2. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | D.G. | App #3. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | A.N. | App #4. Case sheet on file. Waiting on the Alexian PO |
+| 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50). Case sheet on file; waiting on the PO |
 
 </details>
 
@@ -106,16 +108,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $46,348.20 | $46,348.20 |
+| Current October sales | $51,659.20 | $51,659.20 |
 | + Projected Grafix, net of WCC stock | $54,829.50 | $44,501.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $10,460.13 | $2,967.95 |
-| **Projected P10 total** | **$116,575.83** | **$98,755.65** |
+| **Projected P10 total** | **$121,886.83** | **$104,066.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 90.4% | 76.5% |
-| Gap to target | $12,439.17 | $30,259.35 |
-| **Projected commission** | **$8,160.31** | **$6,912.90** |
+| % of target | 94.5% | 80.7% |
+| Gap to target | $7,128.17 | $24,948.35 |
+| **Projected commission** | **$8,532.08** | **$7,284.67** |
 
 Projected visits start 10/12 (this week's visits count once filed); sold amounts come from the October tab.
 
@@ -123,7 +125,7 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 
 | Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Good Sam | $13,341.75 | $21,775.40 | $16,371.50 | **$35,117.15** | **$29,713.25** |
+| Good Sam | $18,652.75 | $21,775.40 | $16,371.50 | **$40,428.15** | **$35,024.25** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
 | Alexian WCC | $5,880.00 | $13,077.73 | $8,321.45 | **$18,957.73** | **$14,201.45** |
 | St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
@@ -134,7 +136,7 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$46,348.20** | **$70,227.63** | **$52,407.45** | **$116,575.83** | **$98,755.65** |
+| **Total** | **$51,659.20** | **$70,227.63** | **$52,407.45** | **$121,886.83** | **$104,066.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
