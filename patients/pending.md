@@ -44,7 +44,7 @@ Updated 10/5/26, 8:34 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 |  | Pending | J.D. | Dr. Bhagat | GRAFIX/OASIS |  |  | Ran on 9/9/26, needs additional clinicals, needs referral |  |
-|  | Pending | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas |  |  |  | IVR (insurance) ran 10/5. Not received by the team yet; may need to be refaxed. |  |
+|  | Pending | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas |  |  |  | IVR (insurance) ran 10/5. Not received by the team yet; may need to be refaxed. Gender box on the IVR wasn't checked; needs to be updated. |  |
 
 
 </details>

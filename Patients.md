@@ -126,7 +126,7 @@ Updated 10/5/26, 8:34 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Fri 10/9 1:00 PM | **Potential New Start** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 0 |  | Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](ivr/sj-dn.md) |
 |  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 3 d post-op | No PO yet |  |
 |  | Pending | J.D. | Dr. Bhagat | GRAFIX/OASIS |  |  | Ran on 9/9/26, needs additional clinicals, needs referral |  |
-|  | Pending | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas |  |  |  | IVR (insurance) ran 10/5. Not received by the team yet; may need to be refaxed. |  |
+|  | Pending | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas |  |  |  | IVR (insurance) ran 10/5. Not received by the team yet; may need to be refaxed. Gender box on the IVR wasn't checked; needs to be updated. |  |
 
 
 </details>
