@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/6/26, 2:20 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/6/26, 2:35 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -74,7 +74,7 @@ Updated 10/6/26, 2:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Wed 10/7 3:15 PM · HE | **Grafting** | <details><summary>E.P.</summary>Edmundo Punzalan</details> | Dr. Goldkind | OASIS Wound 3x3.5 | 🟢 1 | 9/30 | First application 9/30 (OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |  |
 | Thu 10/8 2:30 PM · HE | **Grafting** | C.T. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 1 | 10/1 | 1st application 10/1 |  |
 | Fri 10/9 8:15 AM · HE | **Grafting** | <details><summary>MZ (L)</summary>Mariusz Zabrodzki</details> | Dr. Goldkind | OASIS Ultra 5x7 | 🟢 4 | 10/2 | Left ankle approved for grafting. Only grafting left foot. |  |
-|  | **Grafting** | P.S. | Dr. Goldkind | GRAFIX 16mm | 🟢 1 | 10/5 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). Weekly 16mm orders from 10/12. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](../ivr/nw-ps.md) |
+| Mon 10/12 · EG | **Grafting** | P.S. | Dr. Goldkind | GRAFIX 16mm | 🟢 1 | 10/5 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). 10/12 16mm ordered on PO PS101226; weekly 16mm orders after that. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](../ivr/nw-ps.md) |
 
 
 </details>
