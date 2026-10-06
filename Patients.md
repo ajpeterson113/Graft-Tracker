@@ -27,7 +27,7 @@ Updated 10/5/26, 6:11 PM CT · [⬇ Download the patient list (Excel)](https://g
 |  | **Grafting** | <details><summary>C.B.</summary>C. Baker</details> | Dr. Ayesh | GRAFIX 3x4 | 🟢 3 | 10/1 | Moving down to 2x3 for next application |  |
 |  | **Potential New Start** | <details><summary>S.W.</summary>S. Wyoski</details> | Dr. Ayesh | GRAFIX |  |  | Taking to OR in November |  |
 |  | **Potential New Start** | <details><summary>J.B.</summary>J. Buscher</details> | Dr. Raigaga | OASIS Wound Matrix 3x7 and 3x3.5 |  |  |  |  |
-|  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO005995283 approved 10/5; ready to submit |  |
+|  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO pending |  |
 |  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | No PO yet |  |
 |  | **OR** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | STRAVIX |  | 9/10 · 3 wk 4 d post-op |  |  |
 |  | **OR** | <details><summary>J.H.</summary>Judith Hecht</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 9/4 · 4 wk 3 d post-op |  |  |
@@ -100,7 +100,7 @@ Updated 10/5/26, 6:11 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Wed 10/7 3:15 PM · HE | **Grafting** | <details><summary>E.P.</summary>Edmundo Punzalan</details> | Dr. Goldkind | OASIS Wound 3x3.5 | 🟢 1 | 9/30 | First application 9/30 (OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |  |
 | Thu 10/8 2:30 PM · HE | **Grafting** | C.T. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 1 | 10/1 | 1st application 10/1 |  |
 | Fri 10/9 8:15 AM · HE | **Grafting** | <details><summary>MZ (L)</summary>Mariusz Zabrodzki</details> | Dr. Goldkind | OASIS Ultra 5x7 | 🟢 4 | 10/2 | Left ankle approved for grafting. Only grafting left foot. |  |
-|  | **Grafting** | P.S. | Dr. Goldkind | GRAFIX 16mm | 🟢 1 | 10/5 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic already bought on an earlier PO. Weekly 16mm orders from 10/12. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](ivr/nw-ps.md) |
+|  | **Grafting** | P.S. | Dr. Goldkind | GRAFIX 16mm | 🟢 1 | 10/5 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). Weekly 16mm orders from 10/12. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](ivr/nw-ps.md) |
 |  | Pending | L.W. | Dr. Adelstein | OASIS Wound Matrix |  |  | IVR #06347152 received 10/2, clinicals in; awaiting coverage result. Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm. | [📄](ivr/nw-lw.md) |
 |  | Pending | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind |  |  |  | Verify status with Chris (not on NWSFA schedule wk of 10/5). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |  |
 |  | Pending | M.A. | Dr. Goldkind | GRAFIX |  |  | IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer. R foot DFU. (Listed as M.P. until 10/4.) | [📄](ivr/nw-mp.md) |
