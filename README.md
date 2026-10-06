@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 7:09 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 7:15 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -174,16 +174,16 @@ Projected visits start 10/5; sold amounts come from the October tab.
 
 ## Alexian WCC stock
 
-Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos). Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
+Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos); 10 × 16mm restock shipped 10/5 (no PO; lot/SN/expiry TBD until unpacked). Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
 
-**48 Grafix units on hand · $58,451 consignment**
+**58 Grafix units on hand · $62,051 consignment**
 
-- 🔴 **Reorder 16mm now:** 5 left for 8 patients a week. Four come in Tue 10/6 and A.P. and M.L. are Wed 10/7, so it's short from Wednesday. Suggested order 27 (4 weeks).
+- 🔴 **Reorder 16mm now:** 15 for 8 patients a week (5 on the shelf + 10 shipped 10/5). This week uses 8, leaving 7, so it runs short the week of 10/12. Suggested order 17 (4 weeks).
 - 🟠 **8 × 3x4 expire 12/18/26:** no Alexian patient is on 3x4 ($9,120 of consignment).
 
 | Product | Size | REF | On hand | Patients | Use / wk | Weeks left | Runs out (wk of) | Status | Order (boxes) | Next expiry |
 | --- | --- | --- | ---: | ---: | ---: | ---: | --- | --- | ---: | --- |
-| Grafix | 16mm | PS13016 | 5 | 8 | 8 | 0.6 | 10/5 | 🔴 Reorder now | 27 | 11/25/27 |
+| Grafix | 16mm | PS13016 | 15 | 8 | 8 | 1.9 | 10/12 | 🔴 Reorder now | 17 | 11/25/27 |
 | Grafix | 1.5x2 | PS13015 | 8 | – | – |  |  | No patients on it | – | 6/18/27 |
 | Grafix | 2x3 | PS13023 | 10 | – | – |  |  | No patients on it | – | 5/2/27 |
 | Grafix | 3x3 | PS13033 | 5 | – | – |  |  | No patients on it | – | 5/2/27 |
