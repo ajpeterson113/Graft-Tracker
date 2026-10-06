@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 9:17 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/5/26, 9:37 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -97,15 +97,15 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales | $38,533.20 | $38,533.20 |
-| + Projected Grafix, net of WCC stock | $78,090.00 | $59,922.50 |
+| + Projected Grafix, net of WCC stock | $76,290.00 | $59,922.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $9,314.23 | $2,967.95 |
-| **Projected P10 total** | **$130,875.43** | **$106,361.65** |
+| **Projected P10 total** | **$129,075.43** | **$106,361.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 101.4% | 82.4% |
-| Gap to target | $0.00 (over by $1,860.43) | $22,653.35 |
-| **Projected commission** | **$13,087.54** (10%) | **$7,445.32** |
+| % of target | 100.0% | 82.4% |
+| Gap to target | $0.00 (over by $60.43) | $22,653.35 |
+| **Projected commission** | **$12,907.54** (10%) | **$7,445.32** |
 
 Projected visits start 10/5; sold amounts come from the October tab.
 
@@ -115,7 +115,7 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Good Sam | $13,341.75 | $33,555.00 | $24,722.50 | **$46,896.75** | **$38,064.25** |
 | Central DuPage | $6,375.00 | $31,875.00 | $26,350.00 | **$38,250.00** | **$32,725.00** |
-| Alexian WCC | $4,440.00 | $17,037.73 | $10,121.45 | **$21,477.73** | **$14,561.45** |
+| Alexian WCC | $4,440.00 | $15,237.73 | $10,121.45 | **$19,677.73** | **$14,561.45** |
 | St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $1,898.25 | $4,366.50 | $1,696.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
@@ -124,7 +124,7 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$38,533.20** | **$92,342.23** | **$67,828.45** | **$130,875.43** | **$106,361.65** |
+| **Total** | **$38,533.20** | **$90,542.23** | **$67,828.45** | **$129,075.43** | **$106,361.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -139,14 +139,14 @@ Projected visits start 10/5; sold amounts come from the October tab.
 | Good Sam | Luetkehans | P.J. | 3× 16mm | Weekly | 2 | 4 | $5,106.00 | same | $5,106.00 |
 | Good Sam | Luetkehans | D.F. | 1× 5x5 | Weekly | 0 | 4 | $10,000.00 | same | $10,000.00 |
 | Good Sam | Luetkehans | L.D. | 1× 1.5x2 | Weekly | 22 | 4 | $3,120.00 | 16mm × 4 | $1,702.00 |
-| Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
+| Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 2 (stops at 8) | $720.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Lucas | J.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Joshi | M.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
 | Alexian WCC | Joshi | A.N. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
-| Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
+| Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 3 (stops at 8) | $1,080.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
-| Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 4 | $1,440.00 | 16mm × 1 | $360.00 |
+| Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 2 (stops at 8) | $720.00 | 16mm × 1 | $360.00 |
 | Central DuPage | Luetkehans | R.C. | 3× 5x5 | Weekly + 10/30 order (wk of 11/2) | 1 | 5 | $31,875.00 | 2x 5x5 + 1x 3x4 × 5 | $26,350.00 |
 | Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly · on hold, back 10/13 | 1 | 3 | $570.00 | stays on hold | $0.00 |
 | NW Suburban F&A | Goldkind | P.S. | 1× 16mm | Weekly | 1 | 3 | $570.00 | same | $570.00 |
