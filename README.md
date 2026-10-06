@@ -99,15 +99,15 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales | $44,908.20 | $44,908.20 |
-| + Projected Grafix, net of WCC stock | $62,689.50 | $47,001.50 |
+| + Projected Grafix, net of WCC stock | $55,189.50 | $44,501.50 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $10,460.13 | $2,967.95 |
-| **Projected P10 total** | **$122,995.83** | **$99,815.65** |
+| **Projected P10 total** | **$115,495.83** | **$97,315.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 95.3% | 77.4% |
-| Gap to target | $6,019.17 | $29,199.35 |
-| **Projected commission** | **$8,609.71** | **$6,987.10** |
+| % of target | 89.5% | 75.4% |
+| Gap to target | $13,519.17 | $31,699.35 |
+| **Projected commission** | **$8,084.71** | **$6,812.10** |
 
 Projected visits start 10/12 (this week's visits count once filed); sold amounts come from the October tab.
 
@@ -115,7 +115,7 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 
 | Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Good Sam | $13,341.75 | $29,275.40 | $18,871.50 | **$42,617.15** | **$32,213.25** |
+| Good Sam | $13,341.75 | $21,775.40 | $16,371.50 | **$35,117.15** | **$29,713.25** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
 | Alexian WCC | $4,440.00 | $13,437.73 | $8,321.45 | **$17,877.73** | **$12,761.45** |
 | St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
@@ -126,13 +126,13 @@ Projected visits start 10/12 (this week's visits count once filed); sold amounts
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$44,908.20** | **$78,087.63** | **$54,907.45** | **$122,995.83** | **$99,815.65** |
+| **Total** | **$44,908.20** | **$70,587.63** | **$52,407.45** | **$115,495.83** | **$97,315.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
 | Account | Surgeon | Pt | Units × size | Freq | Apps | Visits | Upside | Downside change | Downside |
 | --- | --- | --- | --- | --- | --- | --- | ---: | --- | ---: |
-| Good Sam | Bach | C.H. | 1× 5x5 | Weekly | 0 | 3 | $7,500.00 | 5x5 × 1 | $2,500.00 |
+| Good Sam | Bach | C.H. | 1× 5x5 | On hold | 0 | 0 | $0.00 | 5x5 × 1 | $0.00 |
 | Good Sam | Ayesh | W.K. | 1× 16mm | Biweekly | 5 | 2 | $851.00 | 16mm × 1 | $425.50 |
 | Good Sam | Ayesh | K.P. | 1× 5x5 | Biweekly | 6 | 2 | $5,000.00 | 3x4 × 2 | $2,421.00 |
 | Good Sam | Ayesh | K.P. | 1× 3x4 | Biweekly | 6 | 2 | $2,421.00 | 3x3 × 2 | $2,231.00 |
