@@ -118,12 +118,12 @@
 | + Projected Grafix, net of WCC stock | $55,359.50 | $45,457.00 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
-| + OASIS reorders (estimated) | $14,703.88 | $2,967.95 |
-| **Projected P10 total** | **$136,757.58** | **$115,119.15** |
+| + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
+| **Projected P10 total** | **$136,757.58** | **$117,325.15** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 106.0% | 89.2% |
-| Gap to target | $0.00 (over by $7,742.58) | $13,895.85 |
-| **Projected commission** | **$13,675.76** (10%) | **$8,058.34** |
+| % of target | 106.0% | 90.9% |
+| Gap to target | $0.00 (over by $7,742.58) | $11,689.85 |
+| **Projected commission** | **$13,675.76** (10%) | **$8,212.76** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -133,7 +133,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Good Sam | $21,152.75 | $26,019.15 | $16,797.00 | **$47,171.90** | **$37,949.75** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
-| Alexian WCC | $5,880.00 | $13,797.73 | $9,041.45 | **$19,677.73** | **$14,921.45** |
+| Alexian WCC | $5,880.00 | $13,797.73 | $11,247.45 | **$19,677.73** | **$17,127.45** |
 | St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
@@ -142,7 +142,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
-| **Total** | **$61,756.20** | **$75,001.38** | **$53,362.95** | **$136,757.58** | **$115,119.15** |
+| **Total** | **$61,756.20** | **$75,001.38** | **$55,568.95** | **$136,757.58** | **$117,325.15** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -183,7 +183,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | NW Suburban F&A | C.C. (R.D., S.B. on hold) | OASIS Ultra | 3x3.5 | 2 | 0 | $771.75 | $1,543.50 | $0.00 |
 | NW Suburban F&A | J.M., P.M., C.T., E.P. | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
-| Alexian WCC | D.V. (new start 10/7) | OASIS Wound Matrix | 3x7 | 1 | 0 | $2,206.00 | $2,206.00 | $0.00 |
+| Alexian WCC | D.V. (started 10/7, 3 a visit) | OASIS Wound Matrix | 3x7 | 1 | 1 | $2,206.00 | $2,206.00 | $2,206.00 |
 | Alexian WCC | J.B. | OASIS Burn Matrix | 3x7 | 1 | 0 | $1,470.28 | $1,470.28 | $0.00 |
 | Alexian WCC | B.P. (new start 10/5) | OASIS Burn Matrix | 5x7 meshed | 1 | 1 | $1,841.45 | $1,841.45 | $1,841.45 |
 | Good Sam | I.S. | OASIS Wound Matrix | 3x3.5 | 1 | 0 | $1,145.90 | $1,145.90 | $0.00 |
@@ -222,7 +222,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | Grafix | 3x4 | PS13034 | 8 | – | – |  |  | No patients on it (target 5–10) | – | **12/18/26 (8 before use)** |
 | Grafix | 5x5 | PS13055 | 12 | – | – |  |  | No patients on it (target 5–10) | – | 11/3/27 |
 | OASIS Wound Matrix | 3x3.5 | 8213-1000-33 | 8 sheets | 1 | 1 | 8.0 | 11/30 | 🟢 OK | – | 1/31/28 |
-| OASIS Wound Matrix | 3x7 | 8213-1000-37 | 10 sheets | 1 | 2 | 5.0 | 11/9 | 🟢 OK | – | photo pending |
+| OASIS Wound Matrix | 3x7 | 8213-1000-37 | 10 sheets (10/5 count; D.V. used 3 on 10/7) | 1 | 3 | 3.3 | 10/26 | 🟢 OK (box needed before 10/26) | – | photo pending |
 | OASIS Burn Matrix | 3x3.5 | 8213-3000-16 | 3 sheets | – | – |  |  | No patients on it | – | 4/3/28 |
 | OASIS Burn Matrix | 3x7 | 8213-3000-18 | 4 sheets | 1 | 1 | 4.0 | 11/2 | 🟢 OK | – | 11/8/27 |
 | OASIS Burn Matrix | 5x7 meshed | 8213-3000-13 | 3 sheets | 1 | 1 | 3.0 | 10/26 | 🟢 OK | – | 7/11/27 |
@@ -244,7 +244,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | X.S. | Robinson | Grafix | TBD | 1 | Pending | – | IVR not submitted; size not set |
 | J.T. | Lucas | Grafix | TBD | 1 | Pending | – | Needs notes for prior auth |
 | D.S. | Lucas | OASIS Wound Matrix | 3x3.5 | 1 | Active | 1 |  |
-| D.V. | Hussain | OASIS Wound Matrix | 3x7 | 2 | Starting | 2 | Potential new start, first visit 10/7. Patient list says multiple 3x7; 2 per visit is a placeholder |
+| D.V. | Hussain | OASIS Wound Matrix | 3x7 | 3 | Active | 3 | A1 10/7: 3 sheets from the shelf. 3 a visit, weekly |
 | J.B. | Adelstein | OASIS Burn Matrix | 3x7 | 1 | Active | 1 |  |
 | B.P. | Joshi | OASIS Burn Matrix | 5x7 meshed | 1 | Active | 1 | A1 10/5 from the shelf |
 | M.I. | Russo | OASIS Wound Matrix | 3x3.5 | 1 | Hold | – | Paused |
@@ -259,7 +259,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | OASIS Burn Matrix | 3x3.5 | LB1732662 | 3 of 5 sheets | 4/3/28 | On shelf |  |
 | OASIS Burn Matrix | 3x7 | LB1732663 | 4 of 5 sheets | 11/8/27 | On shelf |  |
 | OASIS Burn Matrix | 5x7 meshed | LB1639811 | 3 of 5 sheets | 7/11/27 | On shelf |  |
-| OASIS Wound Matrix | 3x7 | Photo pending | 10 of 10 sheets | pending | On shelf |  |
+| OASIS Wound Matrix | 3x7 | Photo pending | 7 of 10 sheets (D.V. used 3 on 10/7) | pending | On shelf |  |
 | Grafix | 16mm | LYA-260159 | 16003 | 1/13/28 | On shelf |  |
 | Grafix | 16mm | LYA-260159 | 16001 | 1/13/28 | Used 10/6 |  |
 | Grafix | 16mm | LYA-260159 | 16028 | 1/13/28 | Used 10/6 |  |
