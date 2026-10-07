@@ -4,7 +4,7 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 11 · **⚪ In SFDC:** 12
+**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 7 · **Submitted, not in SFDC yet:** 11 · **⚪ In SFDC:** 12
 
 ### 🟢 Ready to submit to SFDC  (5 · $4,385.50)
 
@@ -16,7 +16,7 @@
 | 10/6 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16028 | $360.00 | …284468 | [📄](case-sheets/tt-1006.md) |
 | 10/6 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16001 | $360.00 | …284467 | [📄](case-sheets/jl-1006.md) |
 
-### 🟡 Waiting on a PO  (6 · $16,653.00)
+### 🟡 Waiting on a PO  (7 · $19,122.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -26,6 +26,7 @@
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 |  | [📄](case-sheets/cl-1006.md) |
 | 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
+| 10/7 | A.B. | St. Alexius | Guske | Stravix 3x6 (OR, bill & replace) | LYU-251604_36001 | $2,469.00 |  | [📄](case-sheets/ab-1007.md) |
 
 ### Submitted, not in SFDC yet  (11 · $15,420.00)
 
@@ -66,7 +67,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $61,756.20** · received $45,103.20 · outstanding $16,653.00
+**October total $64,225.20** · received $45,103.20 · outstanding $19,122.00
 
 <details><summary><b>October notes</b></summary>
 
@@ -107,6 +108,7 @@
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
+| 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file; waiting on the replacement PO |
 
 </details>
 
@@ -114,9 +116,9 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $61,756.20 | $61,756.20 |
+| Current October sales | $64,225.20 | $64,225.20 |
 | + Projected Grafix, net of WCC stock | $55,359.50 | $45,457.00 |
-| + Upcoming Stravix | $4,938.00 | $4,938.00 |
+| + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
 | **Projected P10 total** | **$136,757.58** | **$117,325.15** |
@@ -134,7 +136,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Good Sam | $21,152.75 | $26,019.15 | $16,797.00 | **$47,171.90** | **$37,949.75** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
 | Alexian WCC | $5,880.00 | $13,797.73 | $11,247.45 | **$19,677.73** | **$17,127.45** |
-| St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
+| St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
@@ -142,7 +144,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
-| **Total** | **$61,756.20** | **$75,001.38** | **$55,568.95** | **$136,757.58** | **$117,325.15** |
+| **Total** | **$64,225.20** | **$72,532.38** | **$53,099.95** | **$136,757.58** | **$117,325.15** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -173,7 +175,6 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 | Account | Surgeon | Date | Size | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: |
-| St. Alexius | Guske | 10/7 | Stravix 3x6 | $2,469.00 | $2,469.00 |
 | St. Alexius | Liao | 10/16 | Stravix 3x6 | $2,469.00 | $2,469.00 |
 | GlenOaks | Reed | Possible, this week or next | Stravix, size TBD | – | – |
 

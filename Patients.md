@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/7/26, 2:16 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/7/26, 4:56 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -154,7 +154,7 @@ Updated 10/7/26, 2:16 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Wed 10/7 8:00 AM · SAMC | **OR** | — | Dr. Guske | STRAVIX 3x6 |  | 10/7 · OR in 2 d | Upcoming case |  |
+|  | **OR** | A.B. | Dr. Guske | STRAVIX 3x6 |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604_36001 from St. Alexius stock: bill & replace, $2,469. No PO yet |  |
 | Fri 10/16 | **OR** | — | Dr. Liao | STRAVIX 3x6 |  | 10/16 · OR in 11 d | Upcoming case |  |
 |  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 6 d post-op | OR case (Stravix not billed through IVR). Same patient as NWSFA pending IVR for office grafting. No PO yet. |  |
 |  | **OR** | N.W. | Dr. Bryniczka | STRAVIX 2x4 |  | 9/11 · 3 wk 3 d post-op | Bill & replace |  |
