@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/7/26, 4:56 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/7/26, 5:26 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -27,7 +27,7 @@ Updated 10/7/26, 4:56 PM CT · [⬇ Download the patient list (Excel)](https://g
 |  | **Potential New Start** | <details><summary>S.W.</summary>S. Wyoski</details> | Dr. Ayesh | GRAFIX |  |  | Taking to OR in November |  |
 |  | **Potential New Start** | <details><summary>J.B.</summary>J. Buscher</details> | Dr. Raigaga | OASIS Wound Matrix 3x7 and 3x3.5 |  |  |  |  |
 |  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO005995283 approved 10/5; ready to submit |  |
-|  | **OR** | C.L. | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 10/6 · 0 wk 0 d post-op | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453_36006, _36007), $5,311. No PO yet |  |
+|  | **OR** | C.L. | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 10/6 · 0 wk 0 d post-op | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453_36006, _36007), $5,311. PO PO006010271 received 10/7 (ready to submit) |  |
 |  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | No PO yet |  |
 |  | **OR** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | STRAVIX |  | 9/10 · 3 wk 4 d post-op |  |  |
 |  | **OR** | <details><summary>J.H.</summary>Judith Hecht</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 9/4 · 4 wk 3 d post-op |  |  |

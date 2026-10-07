@@ -4,9 +4,9 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 7 · **Submitted, not in SFDC yet:** 11 · **⚪ In SFDC:** 12
+**🟢 Ready to submit to SFDC:** 6 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 11 · **⚪ In SFDC:** 12
 
-### 🟢 Ready to submit to SFDC  (5 · $4,385.50)
+### 🟢 Ready to submit to SFDC  (6 · $9,696.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -15,8 +15,9 @@
 | 10/2 | V.D. | Alexian WCC | Ramani | Grafix 16mm | LYA-260159_16004 | $360.00 | …284466 | [📄](case-sheets/vd-1002.md) |
 | 10/6 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16028 | $360.00 | …284468 | [📄](case-sheets/tt-1006.md) |
 | 10/6 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16001 | $360.00 | …284467 | [📄](case-sheets/jl-1006.md) |
+| 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 | PO006010271 | [📄](case-sheets/cl-1006.md) |
 
-### 🟡 Waiting on a PO  (7 · $19,122.00)
+### 🟡 Waiting on a PO  (6 · $13,811.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -24,7 +25,6 @@
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 |  | [📄](case-sheets/tw-0925.md) |
 | 10/6 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16014 | $360.00 |  | [📄](case-sheets/dg-1006.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
-| 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 |  | [📄](case-sheets/cl-1006.md) |
 | 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
 | 10/7 | A.B. | St. Alexius | Guske | Stravix 3x6 (OR, bill & replace) | LYU-251604_36001 | $2,469.00 |  | [📄](case-sheets/ab-1007.md) |
 
@@ -67,7 +67,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $64,225.20** · received $45,103.20 · outstanding $19,122.00
+**October total $64,225.20** · received $50,414.20 · outstanding $13,811.00
 
 <details><summary><b>October notes</b></summary>
 
@@ -104,7 +104,7 @@
 | 10/6 | J.L. | App #2. PO …284467 received 10/6 (Alexian ID 0003074927). Ready to submit |
 | 10/6 | D.G. | App #3. Case sheet on file. Waiting on the Alexian PO (Alexian ID 0002861662) |
 | 10/6 | A.N. | App #4. Case sheet on file. Waiting on the Alexian PO |
-| 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50). Case sheet on file; waiting on the PO |
+| 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50): LYU-260453_36006, LYU-260453_36007. PO PO006010271 (Owens & Minor) received 10/7, $5,311. Ready to submit |
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
