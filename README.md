@@ -4,7 +4,7 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 11 · **⚪ In SFDC:** 12
+**🟢 Ready to submit to SFDC:** 5 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 11 · **⚪ In SFDC:** 12
 
 ### 🟢 Ready to submit to SFDC  (5 · $4,385.50)
 
@@ -16,7 +16,7 @@
 | 10/6 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16028 | $360.00 | …284468 | [📄](case-sheets/tt-1006.md) |
 | 10/6 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16001 | $360.00 | …284467 | [📄](case-sheets/jl-1006.md) |
 
-### 🟡 Waiting on a PO  (5 · $9,246.00)
+### 🟡 Waiting on a PO  (6 · $16,653.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -25,6 +25,7 @@
 | 10/6 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16014 | $360.00 |  | [📄](case-sheets/dg-1006.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 |  | [📄](case-sheets/cl-1006.md) |
+| 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
 
 ### Submitted, not in SFDC yet  (11 · $15,420.00)
 
@@ -65,7 +66,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $54,349.20** · received $45,103.20 · outstanding $9,246.00
+**October total $61,756.20** · received $45,103.20 · outstanding $16,653.00
 
 <details><summary><b>October notes</b></summary>
 
@@ -105,6 +106,7 @@
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50). Case sheet on file; waiting on the PO |
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit |
+| 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
 
 </details>
 
@@ -112,16 +114,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $54,349.20 | $54,349.20 |
+| Current October sales | $61,756.20 | $61,756.20 |
 | + Projected Grafix, net of WCC stock | $55,359.50 | $45,457.00 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $10,460.13 | $2,967.95 |
-| **Projected P10 total** | **$125,106.83** | **$107,712.15** |
+| **Projected P10 total** | **$132,513.83** | **$115,119.15** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 97.0% | 83.5% |
-| Gap to target | $3,908.17 | $21,302.85 |
-| **Projected commission** | **$8,757.48** | **$7,539.85** |
+| % of target | 102.7% | 89.2% |
+| Gap to target | $0.00 (over by $3,498.83) | $13,895.85 |
+| **Projected commission** | **$13,251.38** (10%) | **$8,058.34** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -139,8 +141,8 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Suburban F&A | $190.00 | $570.00 | $0.00 | **$760.00** | **$190.00** |
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| GlenOaks | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
-| **Total** | **$54,349.20** | **$70,757.63** | **$53,362.95** | **$125,106.83** | **$107,712.15** |
+| GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
+| **Total** | **$61,756.20** | **$70,757.63** | **$53,362.95** | **$132,513.83** | **$115,119.15** |
 
 <details><summary><b>Projection by patient</b></summary>
 
