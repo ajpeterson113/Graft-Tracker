@@ -118,12 +118,12 @@
 | + Projected Grafix, net of WCC stock | $55,359.50 | $45,457.00 |
 | + Upcoming Stravix | $4,938.00 | $4,938.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
-| + OASIS reorders (estimated) | $10,460.13 | $2,967.95 |
-| **Projected P10 total** | **$132,513.83** | **$115,119.15** |
+| + OASIS reorders (estimated) | $14,703.88 | $2,967.95 |
+| **Projected P10 total** | **$136,757.58** | **$115,119.15** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 102.7% | 89.2% |
-| Gap to target | $0.00 (over by $3,498.83) | $13,895.85 |
-| **Projected commission** | **$13,251.38** (10%) | **$8,058.34** |
+| % of target | 106.0% | 89.2% |
+| Gap to target | $0.00 (over by $7,742.58) | $13,895.85 |
+| **Projected commission** | **$13,675.76** (10%) | **$8,058.34** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -131,7 +131,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 | Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Good Sam | $21,152.75 | $21,775.40 | $16,797.00 | **$42,928.15** | **$37,949.75** |
+| Good Sam | $21,152.75 | $26,019.15 | $16,797.00 | **$47,171.90** | **$37,949.75** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
 | Alexian WCC | $5,880.00 | $13,797.73 | $9,041.45 | **$19,677.73** | **$14,921.45** |
 | St. Alexius | $5,431.20 | $4,938.00 | $4,938.00 | **$10,369.20** | **$10,369.20** |
@@ -142,7 +142,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
-| **Total** | **$61,756.20** | **$70,757.63** | **$53,362.95** | **$132,513.83** | **$115,119.15** |
+| **Total** | **$61,756.20** | **$75,001.38** | **$53,362.95** | **$136,757.58** | **$115,119.15** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -187,6 +187,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian WCC | J.B. | OASIS Burn Matrix | 3x7 | 1 | 0 | $1,470.28 | $1,470.28 | $0.00 |
 | Alexian WCC | B.P. (new start 10/5) | OASIS Burn Matrix | 5x7 meshed | 1 | 1 | $1,841.45 | $1,841.45 | $1,841.45 |
 | Good Sam | I.S. | OASIS Wound Matrix | 3x3.5 | 1 | 0 | $1,145.90 | $1,145.90 | $0.00 |
+| Good Sam | L.J. (started 10/7, 2 sheets) | OASIS Ultra | 7x10 meshed | 1 | 0 | $4,243.75 | $4,243.75 | $0.00 |
 | Alexian WCC | D.S. (M.I. on hold) | OASIS Wound Matrix | 3x3.5 | 0 | 0 | $1,104.00 | $0.00 | $0.00 |
 
 </details>
@@ -201,6 +202,7 @@ Shelf count 10/6. Already sold, so projected visits that use it aren't counted t
 | Grafix | 3x4 | 4 | LYA-250567_34002, _34003; LYA-250353_34003, _34004 | 6/9/27; 3/24/27 | K.P. (biweekly) |
 | Grafix | 1.5x2 | 1 | LYA-260117_15005 | 1/13/28 | L.D. uses it Thu 10/8 |
 | OASIS Wound Matrix | 3x3.5 | 3 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. used 1 on 10/6 (A6); 1 a week; reorder estimate 1 box (upside) |
+| OASIS Ultra | 7x10 meshed | 3 sheets | box of 5 (PO005986967, 10/2) | | L.J. used 2 on 10/7 (A1); next box in upside |
 
 ## Alexian WCC stock
 
