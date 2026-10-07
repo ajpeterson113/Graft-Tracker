@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/7/26, 12:59 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/7/26, 1:01 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -15,7 +15,7 @@ Updated 10/7/26, 12:59 PM CT · [⬇ Download the patient list (Excel)](https://
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Wed 10/7 9:00 AM | **Potential New Start** | <details><summary>R.T.</summary>Roger Turner</details> | Dr. Bach | OASIS Ultra 7x10 |  |  | Starting OASIS Ultra 7x10 on 10/7 (A1). OASIS approved 80%; GRAFIX still pending. |  |
+|  | **Potential New Start** | <details><summary>R.T.</summary>Roger Turner</details> | Dr. Bach | OASIS Ultra 7x10 |  |  | Not grafted 10/7 (was set to start OASIS Ultra 7x10, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |  |
 | Thu 10/8 1:00 PM | **Potential New Start** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | GRAFIX 5x5 | 🟢 0 |  | Stravix on 9/10, continuing treatment with GRAFIX. Starts 5x5 on 10/8 (A1); Good Sam ordered the 5x5 on PO006001505 (10/6). |  |
 |  | **Potential New Start** | <details><summary>S.W.</summary>S. Wyoski</details> | Dr. Ayesh | GRAFIX |  |  | Taking to OR in November |  |
 |  | **Potential New Start** | <details><summary>J.B.</summary>J. Buscher</details> | Dr. Raigaga | OASIS Wound Matrix 3x7 and 3x3.5 |  |  |  |  |
