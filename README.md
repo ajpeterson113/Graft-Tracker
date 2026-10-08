@@ -1,12 +1,12 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 12:50 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 5:05 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 22
+**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 22
 
-### 🟢 Ready to submit to SFDC  (7 · $9,886.50)
+### 🟢 Ready to submit to SFDC  (8 · $12,355.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -16,9 +16,10 @@
 | 10/6 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16028 | $360.00 | …284468 | [📄](case-sheets/tt-1006.md) |
 | 10/6 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16001 | $360.00 | …284467 | [📄](case-sheets/jl-1006.md) |
 | 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 | PO006010271 | [📄](case-sheets/cl-1006.md) |
+| 10/7 | A.B. | St. Alexius | Guske | Stravix 3x6 (OR, bill & replace) | LYU-251604_36001 | $2,469.00 | 660080000212502 | [📄](case-sheets/ab-1007.md) |
 | 10/7 | M.W. | Romano Lombard | Rojas | Grafix 16mm (new start) | LYA-260007_16005 | $190.00 | MW100726 | [📄](case-sheets/mw-1007.md) |
 
-### 🟡 Waiting on a PO  (6 · $13,811.00)
+### 🟡 Waiting on a PO  (5 · $11,342.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -27,7 +28,6 @@
 | 10/6 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16014 | $360.00 |  | [📄](case-sheets/dg-1006.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
-| 10/7 | A.B. | St. Alexius | Guske | Stravix 3x6 (OR, bill & replace) | LYU-251604_36001 | $2,469.00 |  | [📄](case-sheets/ab-1007.md) |
 
 ### Submitted, not in SFDC yet  (2 · $550.00)
 
@@ -110,7 +110,7 @@
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
-| 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file; waiting on the replacement PO |
+| 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. Ready to submit |
 | 10/7 | M.W. | New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing $95/cm2, so 16mm (2 cm2) = $190. One-off PO MW100726 (future orders go on sale-order POs). Case sheet made 10/7. Ready to submit |
 | 10/9 | A.S. | New patient. Sale order submitted 10/7 on PO AS100926 for the 10/9 9:30 AM visit (application #1): 1 x 16mm, $190. Weekly after that. Lot/SN and case sheet after the visit |
 
@@ -216,11 +216,11 @@ Shelf count 10/6, updated 10/7 (OASIS used 10/6–10/7; D.F.'s 5x5 arriving for 
 
 ## St. Alexius OR stock (bill & replace)
 
-Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a St. Alexius PO, so it is a sale when used (no projection offset). One more box in the photo had its label covered and isn't counted. Target is 7 of each size; a Stravix 2x4 restock of 6 ($9,318.60) is in upside.
+Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a St. Alexius PO, so it is a sale when used (no projection offset). One more box in the photo had its label covered and isn't counted. Target is 7 of each size; a Stravix 2x4 restock of 6 ($9,318.60) is in upside. A.B.'s 10/7 Stravix 3x6 was billed on bill & replace PO 660080000212502 (10/8); its replacement ships once the order is submitted.
 
 | Product | Size | REF | Lot / SN | Expiry |
 | --- | --- | --- | --- | --- |
-| Stravix PL | 3x6 (7) | PS61036 | LYU-251434_36001, _36002, _36003, _36004; LYU-251691_36001, _36002; LYU-251430_36002 | 7/7/27 (251434, 251430); 8/11/27 (251691) |
+| Stravix PL | 3x6 (7 + 1 replacement coming) | PS61036 | LYU-251434_36001, _36002, _36003, _36004; LYU-251691_36001, _36002; LYU-251430_36002 | 7/7/27 (251434, 251430); 8/11/27 (251691) |
 | Grafix PL Prime | 5x5 (7) | PS13055 | LYA-250878_55007, _55008, _55013; LYA-250863_55006, _55008; LYA-260018_55010, _55011 | 11/3/27 (250878, 250863); 11/25/27 (260018) |
 | Stravix PL | 2x4 (1) | PS61024 | LYU-251818_24004 | 8/18/27 |
 
