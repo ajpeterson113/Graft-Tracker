@@ -206,6 +206,16 @@ Shelf count 10/6, updated 10/7 (OASIS used 10/6–10/7; D.F.'s 5x5 arriving for 
 | OASIS Wound Matrix | 3x3.5 | 3 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. used 1 on 10/6 (A6); 1 a week; reorder estimate 1 box (upside) |
 | OASIS Ultra | 7x10 meshed | 3 sheets | box of 5 (PO005986967, 10/2) | | L.J. used 2 on 10/7 (A1); next box in upside |
 
+## St. Alexius OR stock (bill & replace)
+
+Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a St. Alexius PO, so it is a sale when used (no projection offset). One more box in the photo had its label covered and isn't counted.
+
+| Product | Size | REF | Lot / SN | Expiry |
+| --- | --- | --- | --- | --- |
+| Stravix PL | 3x6 (7) | PS61036 | LYU-251434_36001, _36002, _36003, _36004; LYU-251691_36001, _36002; LYU-251430_36002 | 7/7/27 (251434, 251430); 8/11/27 (251691) |
+| Grafix PL Prime | 5x5 (7) | PS13055 | LYA-250878_55007, _55008, _55013; LYA-250863_55006, _55008; LYA-260018_55010, _55011 | 11/3/27 (250878, 250863); 11/25/27 (260018) |
+| Stravix PL | 2x4 (1) | PS61024 | LYU-251818_24004 | 8/18/27 |
+
 ## Alexian WCC stock
 
 Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos); 10 × 16mm restock shipped 10/5 (no PO; lot/SN/expiry TBD until unpacked). Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
