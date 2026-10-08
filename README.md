@@ -118,14 +118,14 @@
 | --- | ---: | ---: |
 | Current October sales | $64,225.20 | $64,225.20 |
 | + Projected Grafix, net of WCC stock | $55,359.50 | $45,457.00 |
-| + Upcoming Stravix | $2,469.00 | $2,469.00 |
+| + Upcoming Stravix | $11,787.60 | $2,469.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$136,757.58** | **$117,325.15** |
+| **Projected P10 total** | **$146,076.18** | **$117,325.15** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 106.0% | 90.9% |
-| Gap to target | $0.00 (over by $7,742.58) | $11,689.85 |
-| **Projected commission** | **$13,675.76** (10%) | **$8,212.76** |
+| % of target | 113.2% | 90.9% |
+| Gap to target | $0.00 (over by $17,061.18) | $11,689.85 |
+| **Projected commission** | **$14,607.62** (10%) | **$8,212.76** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -136,7 +136,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Good Sam | $21,152.75 | $26,019.15 | $16,797.00 | **$47,171.90** | **$37,949.75** |
 | Central DuPage | $12,750.00 | $25,500.00 | $21,080.00 | **$38,250.00** | **$33,830.00** |
 | Alexian WCC | $5,880.00 | $13,797.73 | $11,247.45 | **$19,677.73** | **$17,127.45** |
-| St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
+| St. Alexius | $7,900.20 | $11,787.60 | $2,469.00 | **$19,687.80** | **$10,369.20** |
 | NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
@@ -144,7 +144,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
-| **Total** | **$64,225.20** | **$72,532.38** | **$53,099.95** | **$136,757.58** | **$117,325.15** |
+| **Total** | **$64,225.20** | **$81,850.98** | **$53,099.95** | **$146,076.18** | **$117,325.15** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -176,6 +176,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Account | Surgeon | Date | Size | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: |
 | St. Alexius | Liao | 10/16 | Stravix 3x6 | $2,469.00 | $2,469.00 |
+| St. Alexius | OR stock | Restock (if they order) | Stravix 2x4 × 6 (back to 7 on the shelf) | $9,318.60 | – |
 | GlenOaks | Reed | Possible, this week or next | Stravix, size TBD | – | – |
 
 **OASIS reorders (estimated, by the box)**
@@ -208,7 +209,7 @@ Shelf count 10/6, updated 10/7 (OASIS used 10/6–10/7; D.F.'s 5x5 arriving for 
 
 ## St. Alexius OR stock (bill & replace)
 
-Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a St. Alexius PO, so it is a sale when used (no projection offset). One more box in the photo had its label covered and isn't counted.
+Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a St. Alexius PO, so it is a sale when used (no projection offset). One more box in the photo had its label covered and isn't counted. Target is 7 of each size; a Stravix 2x4 restock of 6 ($9,318.60) is in upside.
 
 | Product | Size | REF | Lot / SN | Expiry |
 | --- | --- | --- | --- | --- |
