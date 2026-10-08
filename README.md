@@ -4,9 +4,9 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 6 · **🟡 Waiting on a PO:** 7 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 22
+**🟢 Ready to submit to SFDC:** 7 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 22
 
-### 🟢 Ready to submit to SFDC  (6 · $9,696.50)
+### 🟢 Ready to submit to SFDC  (7 · $9,886.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -16,8 +16,9 @@
 | 10/6 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16028 | $360.00 | …284468 | [📄](case-sheets/tt-1006.md) |
 | 10/6 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260159_16001 | $360.00 | …284467 | [📄](case-sheets/jl-1006.md) |
 | 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 | PO006010271 | [📄](case-sheets/cl-1006.md) |
+| 10/7 | M.W. | Romano Lombard | Rojas | Grafix 16mm (new start) | LYA-260007_16005 | $190.00 | MW100726 | [📄](case-sheets/mw-1007.md) |
 
-### 🟡 Waiting on a PO  (7 · $14,001.00)
+### 🟡 Waiting on a PO  (6 · $13,811.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -27,7 +28,6 @@
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
 | 10/7 | A.B. | St. Alexius | Guske | Stravix 3x6 (OR, bill & replace) | LYU-251604_36001 | $2,469.00 |  | [📄](case-sheets/ab-1007.md) |
-| 10/7 | M.W. | Romano Lombard | Rojas | Grafix 16mm (new start) | LYA-260007_16005 | $190.00 |  |  |
 
 ### Submitted, not in SFDC yet  (1 · $360.00)
 
@@ -68,7 +68,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $64,415.20** · received $50,414.20 · outstanding $14,001.00
+**October total $64,415.20** · received $50,604.20 · outstanding $13,811.00
 
 <details><summary><b>October notes</b></summary>
 
@@ -110,7 +110,7 @@
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file; waiting on the replacement PO |
-| 10/7 | M.W. | New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing $95/cm2, so 16mm (2 cm2) = $190. No case sheet or PO yet |
+| 10/7 | M.W. | New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing $95/cm2, so 16mm (2 cm2) = $190. One-off PO MW100726 (future orders go on sale-order POs). Case sheet made 10/7. Ready to submit |
 
 </details>
 

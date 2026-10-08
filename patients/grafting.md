@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/7/26, 8:09 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/7/26, 8:13 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -124,7 +124,7 @@ Updated 10/7/26, 8:09 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **Grafting** | M.W. | Dr. Rojas | GRAFIX 16mm | 🟢 1 | 10/7 | New start 10/7 (A1, LYA-260007_16005). Weekly 16mm. Romano pricing $95/cm2 (16mm = $190). |  |
+| Wed 10/14 10:30 AM · Lombard | **Grafting** | M.W. | Dr. Rojas | GRAFIX 16mm | 🟢 1 | 10/7 | New start 10/7 (A1, LYA-260007_16005, PO MW100726). Weekly 16mm; future orders go on sale-order POs. Romano pricing $95/cm2 (16mm = $190). |  |
 
 
 </details>
