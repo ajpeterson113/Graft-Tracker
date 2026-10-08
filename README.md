@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/6/26, 2:04 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 7:10 AM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -223,6 +223,16 @@ Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a
 | Stravix PL | 3x6 (7) | PS61036 | LYU-251434_36001, _36002, _36003, _36004; LYU-251691_36001, _36002; LYU-251430_36002 | 7/7/27 (251434, 251430); 8/11/27 (251691) |
 | Grafix PL Prime | 5x5 (7) | PS13055 | LYA-250878_55007, _55008, _55013; LYA-250863_55006, _55008; LYA-260018_55010, _55011 | 11/3/27 (250878, 250863); 11/25/27 (260018) |
 | Stravix PL | 2x4 (1) | PS61024 | LYU-251818_24004 | 8/18/27 |
+
+## Good Sam OR stock (consigned)
+
+Shelf count 10/8, with pieces already used taken out (Stravix 2x4 LYU-260468_24002 for T.A. 10/1; Grafix 5x5 LYA-250878_55010 for R.W. 10/2; Stravix 3x6 LYU-260453_36006, _36007 for C.L. 10/6). Each unit used is billed on its own Good Sam PO, so it is a sale when used (no projection offset).
+
+| Product | Size | REF | Lot / SN | Expiry |
+| --- | --- | --- | --- | --- |
+| Grafix PL Prime | 5x5 (3) | PS13055 | LYA-250872_55010, _55013; LYA-260275_55008 | 11/3/27 (250872); 3/20/28 (260275) |
+| Stravix PL | 2x4 (3) | PS61024 | LYU-260468_24003; LYU-260474_24001, _24002 | 2/16/28 |
+| Stravix PL | 3x6 (2) | PS61036 | LYU-260325_36002; LYU-260453_36008 | 1/12/28 (260325); 2/16/28 (260453) |
 
 ## Alexian WCC stock
 
