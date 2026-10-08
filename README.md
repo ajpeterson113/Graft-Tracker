@@ -195,13 +195,14 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 ## Good Sam WCC stock
 
-Shelf count 10/6. Already sold, so projected visits that use it aren't counted twice (offset in the projection).
+Shelf count 10/6, updated 10/7 (OASIS used 10/6–10/7; D.F.'s 5x5 arriving for Thu 10/8). Already sold, so projected visits that use it aren't counted twice (offset in the projection).
 
 | Product | Size | On hand | Lot / SN | Expiry | Note |
 | --- | --- | ---: | --- | --- | --- |
 | Grafix | 16mm | 5 | LYA-260176_16009, _16010, _16011, _16012; LYA-260108_16012 | 1/13/28 | P.J. uses 3 Thu 10/8, 2 left for visits from 10/12 |
 | Grafix | 3x4 | 4 | LYA-250567_34002, _34003; LYA-250353_34003, _34004 | 6/9/27; 3/24/27 | K.P. (biweekly) |
 | Grafix | 1.5x2 | 1 | LYA-260117_15005 | 1/13/28 | L.D. uses it Thu 10/8 |
+| Grafix | 5x5 | 1 | SFDC serial …55014 (PO006001505) | | D.F.'s order; D.F. uses it Thu 10/8 (A1) |
 | OASIS Wound Matrix | 3x3.5 | 3 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. used 1 on 10/6 (A6); 1 a week; reorder estimate 1 box (upside) |
 | OASIS Ultra | 7x10 meshed | 3 sheets | box of 5 (PO005986967, 10/2) | | L.J. used 2 on 10/7 (A1); next box in upside |
 
