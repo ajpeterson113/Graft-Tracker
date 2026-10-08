@@ -16,7 +16,7 @@ Updated 10/8/26, 5:45 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 | Tue 10/13 10:45 AM | **Grafting** | <details><summary>I.S.</summary>I. Stalilionis</details> | Dr. Patni | OASIS Wound Matrix 3x3.5 | 🟢 6 | 10/6 | A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |  |
-| Thu 10/15 2:00 PM | **Grafting** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | GRAFIX 3x4 | 🟢 1 | 10/8 | A1 10/8: 5x5 (Good Sam PO006001505). Moving to 3x4 from 10/15. |  |
+| Thu 10/15 2:00 PM | **Grafting** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | GRAFIX 3x4 | 🟢 3 | 10/8 | A3 10/8: 5x5 (Good Sam PO006001505). Moving to 3x4 from 10/15 (A4). |  |
 | Thu 10/15 | **Grafting** | <details><summary>P.J.</summary>Paul Jagust</details> | Dr. Luetkehans | GRAFIX (3) 16mm | 🟢 3 | 10/8 | A3 10/8: (3) 16mm. Next 10/15: A4, (3) 16mm. |  |
 |  | **Grafting** | <details><summary>L.J.</summary>Louis Marie Jacques</details> | Dr. Bach | OASIS Ultra 7x10 | 🟢 1 | 10/7 | A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2 (3 left). |  |
 |  | **Potential New Start** | <details><summary>R.T.</summary>Roger Turner</details> | Dr. Bach | OASIS Ultra 7x10 |  |  | Not grafted 10/7 (was set to start OASIS Ultra 7x10, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |  |

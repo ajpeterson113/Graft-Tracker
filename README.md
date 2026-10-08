@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 5:50 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 5:55 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -107,7 +107,7 @@
 | 10/6 | D.G. | App #3. Case sheet on file. Waiting on the Alexian PO (Alexian ID 0002861662) |
 | 10/6 | A.N. | App #4. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50): LYU-260453_36006, LYU-260453_36007. PO PO006010271 (Owens & Minor) received 10/7, $5,311. Ready to submit |
-| 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
+| 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s visit Thu 10/8 (A3), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. Ready to submit |
@@ -162,7 +162,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Good Sam | Ayesh | C.B. | 1× 3x4 | Once | 3 | 0 | $0.00 | same | $0.00 |
 | Good Sam | Ayesh | C.B. | 1× 2x3 | Biweekly | 3 | 2 | $1,960.00 | same | $1,960.00 |
 | Good Sam | Luetkehans | P.J. | 3× 16mm | Weekly from 10/15 (A3 10/8 done) | 3 | 3 | $3,829.50 | same | $3,829.50 |
-| Good Sam | Luetkehans | D.F. | 1× 3x4 | Weekly from 10/15 (A1 5x5 10/8 sold) | 1 | 3 | $3,631.50 | same | $3,631.50 |
+| Good Sam | Luetkehans | D.F. | 1× 3x4 | Weekly from 10/15 (A3 5x5 10/8 sold) | 3 | 3 | $3,631.50 | same | $3,631.50 |
 | Good Sam | Luetkehans | L.D. | 1× 1.5x2 | Done 10/8 | 23 | 0 | $0.00 | done | $0.00 |
 | Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 1 (stops at 8) | $360.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 3 | $1,080.00 | same | $1,080.00 |
