@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 7:37 AM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 7:50 AM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -235,6 +235,15 @@ Shelf count 10/8, with pieces already used taken out (Stravix 2x4 LYU-260468_240
 | Grafix PL Prime | 5x5 (3 + 2 incoming) | PS13055 | LYA-250872_55010, _55013; LYA-260275_55008 | 11/3/27 (250872); 3/20/28 (260275) |
 | Stravix PL | 2x4 (3 + 2 incoming) | PS61024 | LYU-260468_24003; LYU-260474_24001, _24002 | 2/16/28 |
 | Stravix PL | 3x6 (2 + 3 incoming) | PS61036 | LYU-260325_36002; LYU-260453_36008 | 1/12/28 (260325); 2/16/28 (260453) |
+
+## GlenOaks OR stock (consigned, Bill Only)
+
+Count from AJ 10/8 (after F.M.'s 10/7 case). Each unit used is billed on a Bill Only PO, so it is a sale when used (no projection offset). Lot/SN to be added from a shelf photo.
+
+| Product | Size | REF | On hand | Lot / SN |
+| --- | --- | --- | ---: | --- |
+| Stravix PL | 2x4 | PS61024 | 7 | TBD |
+| Stravix PL | 3x6 | PS61036 | 5 | TBD |
 
 ## Alexian WCC stock
 
