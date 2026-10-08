@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 5:25 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 5:50 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -121,15 +121,15 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales | $64,605.20 | $64,605.20 |
-| + Projected Grafix, net of WCC stock | $56,499.50 | $46,597.00 |
+| + Projected Grafix, net of WCC stock | $47,870.00 | $38,605.50 |
 | + Upcoming Stravix | $11,787.60 | $2,469.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$147,596.18** | **$118,845.15** |
+| **Projected P10 total** | **$138,966.68** | **$110,853.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 114.4% | 92.1% |
-| Gap to target | $0.00 (over by $18,581.18) | $10,169.85 |
-| **Projected commission** | **$14,759.62** (10%) | **$8,319.16** |
+| % of target | 107.7% | 85.9% |
+| Gap to target | $0.00 (over by $9,951.68) | $18,161.35 |
+| **Projected commission** | **$13,896.67** (10%) | **$7,759.76** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -137,7 +137,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 | Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Good Sam | $21,152.75 | $26,019.15 | $16,797.00 | **$47,171.90** | **$37,949.75** |
+| Good Sam | $21,152.75 | $17,389.65 | $8,805.50 | **$38,542.40** | **$29,958.25** |
 | Central DuPage | $12,940.00 | $26,070.00 | $21,650.00 | **$39,010.00** | **$34,590.00** |
 | Alexian WCC | $5,880.00 | $13,797.73 | $11,247.45 | **$19,677.73** | **$17,127.45** |
 | St. Alexius | $7,900.20 | $11,787.60 | $2,469.00 | **$19,687.80** | **$10,369.20** |
@@ -149,7 +149,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $570.00 | $570.00 | **$760.00** | **$760.00** |
-| **Total** | **$64,605.20** | **$82,990.98** | **$54,239.95** | **$147,596.18** | **$118,845.15** |
+| **Total** | **$64,605.20** | **$74,361.48** | **$46,248.45** | **$138,966.68** | **$110,853.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -161,9 +161,9 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Good Sam | Ayesh | K.P. | 1× 3x4 | Biweekly | 6 | 2 | $2,421.00 | 3x3 × 2 | $2,231.00 |
 | Good Sam | Ayesh | C.B. | 1× 3x4 | Once | 3 | 0 | $0.00 | same | $0.00 |
 | Good Sam | Ayesh | C.B. | 1× 2x3 | Biweekly | 3 | 2 | $1,960.00 | same | $1,960.00 |
-| Good Sam | Luetkehans | P.J. | 3× 16mm | Weekly | 2 | 4 | $5,106.00 | same | $5,106.00 |
-| Good Sam | Luetkehans | D.F. | 1× 5x5 | Weekly | 0 | 3 | $7,500.00 | same | $7,500.00 |
-| Good Sam | Luetkehans | L.D. | 1× 1.5x2 | Weekly | 22 | 4 | $3,120.00 | 16mm × 4 | $1,702.00 |
+| Good Sam | Luetkehans | P.J. | 3× 16mm | Weekly from 10/15 (A3 10/8 done) | 3 | 3 | $3,829.50 | same | $3,829.50 |
+| Good Sam | Luetkehans | D.F. | 1× 3x4 | Weekly from 10/15 (A1 5x5 10/8 sold) | 1 | 3 | $3,631.50 | same | $3,631.50 |
+| Good Sam | Luetkehans | L.D. | 1× 1.5x2 | Done 10/8 | 23 | 0 | $0.00 | done | $0.00 |
 | Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 1 (stops at 8) | $360.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Lucas | J.L. | 1× 16mm | Weekly | 1 | 3 | $1,080.00 | same | $1,080.00 |
@@ -203,14 +203,13 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 ## Good Sam WCC stock
 
-Shelf count 10/6, updated 10/7 (OASIS used 10/6–10/7; D.F.'s 5x5 arriving for Thu 10/8). Already sold, so projected visits that use it aren't counted twice (offset in the projection).
+Shelf count 10/6, updated 10/8 (P.J. used 3 × 16mm, L.D. the 1.5x2 and D.F. her 5x5 on 10/8). Already sold, so projected visits that use it aren't counted twice (offset in the projection).
 
 | Product | Size | On hand | Lot / SN | Expiry | Note |
 | --- | --- | ---: | --- | --- | --- |
-| Grafix | 16mm | 5 | LYA-260176_16009, _16010, _16011, _16012; LYA-260108_16012 | 1/13/28 | P.J. uses 3 Thu 10/8, 2 left for visits from 10/12 |
-| Grafix | 3x4 | 4 | LYA-250567_34002, _34003; LYA-250353_34003, _34004 | 6/9/27; 3/24/27 | K.P. (biweekly) |
-| Grafix | 1.5x2 | 1 | LYA-260117_15005 | 1/13/28 | L.D. uses it Thu 10/8 |
-| Grafix | 5x5 | 1 | SFDC serial …55014 (PO006001505) | | D.F.'s order; D.F. uses it Thu 10/8 (A1) |
+| Grafix | 16mm | 2 | from LYA-260176_16009–_16012, LYA-260108_16012 (which 3 were used 10/8 TBD) | 1/13/28 | P.J. used 3 on 10/8; 2 left toward his 10/15 visit |
+| Grafix | 3x4 | 4 | LYA-250567_34002, _34003; LYA-250353_34003, _34004 | 6/9/27; 3/24/27 | K.P. (biweekly) and D.F. (weekly from 10/15) |
+| Grafix | 1.5x2 | 0 | LYA-260117_15005 used 10/8 | 1/13/28 | L.D.'s last application (she's done) |
 | OASIS Wound Matrix | 3x3.5 | 3 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. used 1 on 10/6 (A6); 1 a week; reorder estimate 1 box (upside) |
 | OASIS Ultra | 7x10 meshed | 3 sheets | box of 5 (PO005986967, 10/2) | | L.J. used 2 on 10/7 (A1); next box in upside |
 
