@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/7/26, 2:16 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/7/26, 7:42 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -15,7 +15,7 @@ Updated 10/7/26, 2:16 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Wellness Center | Pending | B.K. | Dr. Ayesh | OASIS |  |  | Good Sam Wellness Center. Denied for GRAFIX with Aetna; Dr. Ayesh wants to rerun for OASIS. Emailed Karen 10/6. |  |
+| WCC | Pending | B.K. | Dr. Ayesh | OASIS |  |  | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having B.K. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6. |  |
 
 
 </details>

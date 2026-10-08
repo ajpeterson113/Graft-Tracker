@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/7/26, 5:26 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/7/26, 7:42 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -37,7 +37,7 @@ Updated 10/7/26, 5:26 PM CT · [⬇ Download the patient list (Excel)](https://g
 |  | **OR** | <details><summary>W.L.</summary>William Lopez</details> | Dr. Luetkehans | STRAVIX 3x6 |  | 8/20 · 6 wk 4 d post-op |  |  |
 |  | **Potential IVR** | <details><summary>Z.</summary>Zahora</details> | Dr. Ayesh |  |  |  | Waiting on revascularization before running IVR |  |
 |  | **Potential IVR** | <details><summary>B.W.</summary>Bonnie Walk</details> | Dr. Bach |  |  |  | Hand ulcer, monitoring progress. Coming in 9/16 9:45 am |  |
-| Wellness Center | Pending | B.K. | Dr. Ayesh | OASIS |  |  | Good Sam Wellness Center. Denied for GRAFIX with Aetna; Dr. Ayesh wants to rerun for OASIS. Emailed Karen 10/6. |  |
+| WCC | Pending | B.K. | Dr. Ayesh | OASIS |  |  | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having B.K. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6. |  |
 |  | On hold | <details><summary>C.H.</summary>Candace Hein</details> | Dr. Bach | GRAFIX 5x5 | 🟢 0 |  | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |  |
 |  | Denied | <details><summary>R.T.</summary>Raymond Tarkowski</details> | Dr. Raigaga |  |  |  | Mentioned taking this patient to the operating room |  |
 
