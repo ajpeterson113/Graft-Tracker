@@ -4,7 +4,7 @@
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 6 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 11 · **⚪ In SFDC:** 12
+**🟢 Ready to submit to SFDC:** 6 · **🟡 Waiting on a PO:** 6 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 22
 
 ### 🟢 Ready to submit to SFDC  (6 · $9,696.50)
 
@@ -28,38 +28,38 @@
 | 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
 | 10/7 | A.B. | St. Alexius | Guske | Stravix 3x6 (OR, bill & replace) | LYU-251604_36001 | $2,469.00 |  | [📄](case-sheets/ab-1007.md) |
 
-### Submitted, not in SFDC yet  (11 · $15,420.00)
+### Submitted, not in SFDC yet  (1 · $360.00)
+
+| Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
+| --- | --- | --- | --- | --- | --- | ---: | --- | --- |
+| 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
+
+### ⚪ In SFDC  (22 · $40,357.70)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/2 | M.D. | Alexian WCC | Hussain | Grafix 16mm | LYA-250856_16011 | $360.00 | …282625 | [📄](case-sheets/md-0902.md) |
-| 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
-| 9/29 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16016 | $360.00 | …283949 | [📄](case-sheets/dg-0929.md) |
-| 9/29 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260138_16031 | $360.00 | …283951 | [📄](case-sheets/tt-0929.md) |
-| 9/29 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16020 | $360.00 | …283950 | [📄](case-sheets/jl-0929.md) |
-| 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
-| 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 | PO005984962 | [📄](case-sheets/ta-1001.md) |
-| 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 | PO005995283 | [📄](case-sheets/rw-1002.md) |
-| 10/8 | D.F. | Good Sam | Luetkehans | Grafix 5x5 (Good Sam PO, A1) |  | $2,500.00 | PO006001505 |  |
-| 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5) |  | $6,375.00 | RC100926 |  |
-| 10/12 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/6) |  | $190.00 | PS101226 |  |
-
-### ⚪ In SFDC  (12 · $25,297.70)
-
-| Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
-| --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/11 | N.W. | St. Alexius | Bryniczka | Stravix 2x4 | LYU-242364_24002 | $1,553.10 | 660080000211873 | [📄](case-sheets/nw-0911.md) |
 | 9/22 | T.T. | Alexian WCC | Lucas | Grafix 1.5x2 | LYA-260066_15012 | $600.00 | …283378 | [📄](case-sheets/tt-0922.md) |
 | 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
 | 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 | 660080000212141 | [📄](case-sheets/gg-0929.md) |
+| 9/29 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16016 | $360.00 | …283949 | [📄](case-sheets/dg-0929.md) |
+| 9/29 | T.T. | Alexian WCC | Lucas | Grafix 16mm | LYA-260138_16031 | $360.00 | …283951 | [📄](case-sheets/tt-0929.md) |
+| 9/29 | J.L. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16020 | $360.00 | …283950 | [📄](case-sheets/jl-0929.md) |
 | 9/30 |  | NW Suburban F&A |  | OASIS Ultra 3x3.5 |  | $771.75 | CC100526 |  |
 | 9/30 |  | NW Suburban F&A |  | OASIS Wound Matrix 3x3.5 |  | $1,126.50 | EP093026 |  |
+| 9/30 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260141_16035 | $360.00 | …284120 | [📄](case-sheets/ap-0930.md) |
+| 10/1 | T.A. | Good Sam | Farhan | Stravix 2x4 | LYU-260468_24002 | $1,695.00 | PO005984962 | [📄](case-sheets/ta-1001.md) |
 | 10/2 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 | LYA-260354_55014, LYA-260354_55015, LYA-260328_55005 | $6,375.00 | RC100226 | [📄](case-sheets/rc-1002.md) |
 | 10/2 |  | Good Sam |  | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) |  | $4,903.00 | PO005986967 |  |
 | 10/2 |  | Good Sam |  | OASIS Ultra 7x10 meshed (1 box of 5) |  | $4,243.75 | PO005986967 |  |
 | 10/2 |  | St. Joseph Elgin |  | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) |  | $1,126.50 | 712062784 |  |
+| 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 | PO005995283 | [📄](case-sheets/rw-1002.md) |
 | 10/5 |  | St. Alexius |  | Grafix 5x5 (bill & replace restock, case TBD) |  | $2,325.00 | 660080000212141 |  |
+| 10/8 | D.F. | Good Sam | Luetkehans | Grafix 5x5 (Good Sam PO, A1) |  | $2,500.00 | PO006001505 |  |
+| 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5) |  | $6,375.00 | RC100926 |  |
+| 10/12 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/6) |  | $190.00 | PS101226 |  |
 
 ### Clinic stock used, no new sale  (1)
 
@@ -73,40 +73,40 @@
 
 | Date | Pt | Note |
 | --- | --- | --- |
-| 9/2 | M.D. | App #5 of 6 (Alexian application log). Graft LYA-250856_16011 applied 9/2; PO ...282625 received 9/14. Case sheet created 10/5 (sticker from the Alexian application log). Not in SFDC yet. Submitted 10/5 |
+| 9/2 | M.D. | App #5 of 6 (Alexian application log). Graft LYA-250856_16011 applied 9/2; PO ...282625 received 9/14. Case sheet created 10/5 (sticker from the Alexian application log). Not in SFDC yet. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
 | 9/11 | N.W. | Bill & replace (St. Alexius): in SFDC as inv 0985785720 on PO 660080000211873 (9/30), billed on replacement unit LYU-242364_24004. Case sheet unit used: LYU-242364_24002. Bill only; L ankle |
 | 9/16 | A.P. | App #1 of 3 (10/2 list). No PO yet (Patient ID per Sept tab) |
 | 9/22 | T.T. | App #5 of 6 (Alexian application log). In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
 | 9/22 | A.N. | App #2 of 3 (10/2 list). In SFDC: inv 0985785270 on PO ...283433. Patient ID 0002817866 = A.N. |
 | 9/25 | T.W. |  |
 | 9/28 | P.C. | OR case 9/28 at Elmhurst (Dr. McGann). PO P2325870 received 10/6 and written on the case sheet. Ready to submit |
-| 9/29 | D.G. | App #2 of 2 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. Submitted 10/5 |
-| 9/29 | T.T. | App #6 of 6 (Alexian application log). #7 expected 10/6. Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab). Submitted 10/5 |
-| 9/29 | J.L. | App #1 of 1 (10/2 list). Case sheet on file (initials J.L., not L.J. as on the receiving log). PO by elimination: the other two Lucas 9/29 POs are confirmed to D.G. and T.T. Submitted 10/5 |
+| 9/29 | D.G. | App #2 of 2 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
+| 9/29 | T.T. | App #6 of 6 (Alexian application log). #7 expected 10/6. Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab). In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
+| 9/29 | J.L. | App #1 of 1 (10/2 list). Case sheet on file (initials J.L., not L.J. as on the receiving log). PO by elimination: the other two Lucas 9/29 POs are confirmed to D.G. and T.T. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
 | 9/29 | M.L. | App #1 of 1 (10/2 list). PO SWITCHED: now on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952. Bill M.L. on ...283975 |
 | 9/29 | A.N. | App #3 of 3 (10/2 list). PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
 | 9/29 | Y.L. | PO on case sheet |
 | 9/29 | G.G. | Bill & replace (St. Alexius): replacement Stravix 2x4 (PS61024) shipped 10/5 on PO 660080000212141 (same PO as the Grafix 5x5 restock). Case sheet unit used: LYU-242364_24001, $1,553.10. SFDC will show the replacement serial. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
 | 9/30 | OASIS Ultra 3x3.5 | In SFDC: inv 0985789919, transaction 10/1 (dashboard 10/2). OASIS Ultra 3x3.5 fenestrated, 1 box (ctn 5). Ordered 9/30. Price per account quote. PO CC100526 |
 | 9/30 | OASIS Wound Matrix 3x3.5 | In SFDC: inv 0985789918, transaction 10/1 (dashboard 10/2). OASIS Wound Matrix 3x3.5, 1 box (ctn 10). Ordered 9/30. Price per account quote. PO EP093026 |
-| 9/30 | A.P. | App #3 of 3 (10/2 list). PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360. Submitted 10/5 |
-| 10/1 | T.A. | PO005984962 approved 10/2 (Owens & Minor, OR, Dr. Farhan). Stravix 2x4 LYU-260468_24002, $1,695. Submitted 10/5 |
+| 9/30 | A.P. | App #3 of 3 (10/2 list). PO ...284120 confirmed: Patient ID 0003068368 = A.P., DOS 9/30, PS13016 16mm $360. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
+| 10/1 | T.A. | PO005984962 approved 10/2 (Owens & Minor, OR, Dr. Farhan). Stravix 2x4 LYU-260468_24002, $1,695. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
 | 10/2 | R.C. | 3 x 5x5 (3 x $2,125.00), patient R.C., submitted to SFDC on PO RC100226. Case sheet on file: LYA-260354_55014 (exp 4/22/28), LYA-260354_55015 (exp 4/22/28), LYA-260328_55005 (exp 3/20/28). A 4th 5x5 is at Central DuPage as WFNU (waiting for notification of use): not on the PO, billed only if used. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
-| 10/2 | R.W. | OR case at Good Sam (not a recurring graft patient). PO005995283 approved 10/5 (Owens & Minor, OR, Dr. Luetkehans; Lot/SN LYA-250878_55010 matches), $2,500. Submitted 10/5 |
+| 10/2 | R.W. | OR case at Good Sam (not a recurring graft patient). PO005995283 approved 10/5 (Owens & Minor, OR, Dr. Luetkehans; Lot/SN LYA-250878_55010 matches), $2,500. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
 | 10/2 | Grafix 1.5x2 (x1), 16mm (x4), 3x4 (x2) | 7-piece stock order shipped 10/2 (FedEx 519100056924): 1.5x2 x1 $780 + 16mm x4 $425.50 + 3x4 x2 $1,210.50 = $4,903. PO-only, no case sheet; serials not on the shipping report. Shipped order, invoices on its own. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
 | 10/2 | OASIS Ultra 7x10 meshed (1 box of 5) | OASIS Ultra 7x10 meshed, 1 box of 5 sheets, shipped 10/2 (FedEx 534747002230) on PO005986967. Good Sam box price $4,243.75. OASIS is bought by the box. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
 | 10/2 | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) | OASIS Wound Matrix 3x3.5: report QTY 10 = 10 sheets = 1 box (10 per box), shipped 10/2 on PO 712062784. Elgin box price $1,126.50. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
 | 10/2 | V.D. | App #6. Graft LYA-260159_16004 applied 10/2. PO …284466 received 10/6 (Alexian ID 0003043035). Ready to submit |
 | 10/5 | P.S. | App #1. PO PS100626: NWSFA bought this 16mm 8/22/26 (clinic stock), so it is not an October sale (case sheet shows $190.00). Weekly 16mm orders start 10/12 |
 | 10/5 | Grafix 5x5 (St. Alexius) | Bill & replace restock (St. Alexius): Grafix 5x5 shipped 10/5 on PO 660080000212141 (with G.G.'s Stravix). Case details not known yet (patient, surgeon, date of service, lot/SN used). Dated by ship date until the case sheet is in. $2,325 per St. Alexius price quote. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
-| 10/9 | R.C. | Sale order submitted 10/5 on PO RC100926 for the 10/9 visit (application #2): 3 x 5x5 (3 x $2,125.00). Lot/SNs and case sheet after the visit |
+| 10/9 | R.C. | Sale order submitted 10/5 on PO RC100926 for the 10/9 visit (application #2): 3 x 5x5 (3 x $2,125.00). Lot/SNs and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serials include …55004. |
 | 10/6 | T.T. | App #7. Alexian WCC stops at 8, so 1 left. PO …284468 received 10/6 (Alexian ID 0003008184). Ready to submit |
 | 10/6 | J.L. | App #2. PO …284467 received 10/6 (Alexian ID 0003074927). Ready to submit |
 | 10/6 | D.G. | App #3. Case sheet on file. Waiting on the Alexian PO (Alexian ID 0002861662) |
 | 10/6 | A.N. | App #4. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50): LYU-260453_36006, LYU-260453_36007. PO PO006010271 (Owens & Minor) received 10/7, $5,311. Ready to submit |
-| 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit |
-| 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit |
+| 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s first visit Thu 10/8 (A1), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
+| 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file; waiting on the replacement PO |
 
