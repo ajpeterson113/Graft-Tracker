@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/8/26, 12:40 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/8/26, 12:50 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -43,7 +43,7 @@ Updated 10/8/26, 12:40 PM CT · [⬇ Download the patient list (Excel)](https://
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Wk of 10/12 | **Potential New Start** | L.W. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 0 |  | Approved 10/5 for OASIS Wound 3x3.5. Starting next week (week of 10/12), no appointment time yet. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm. | [📄](../ivr/nw-lw.md) |
+| Wk of 10/12 | **Potential New Start** | L.W. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 0 |  | Approved 10/5 for OASIS Wound 3x3.5. Starting next week (week of 10/12), no appointment time yet. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm. Held 10/8 (not grafted). | [📄](../ivr/nw-lw.md) |
 
 
 </details>

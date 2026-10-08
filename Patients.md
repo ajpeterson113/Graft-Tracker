@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/8/26, 12:40 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/8/26, 12:50 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -60,11 +60,11 @@ Updated 10/8/26, 12:40 PM CT · [⬇ Download the patient list (Excel)](https://
 | Wed 10/7 9:30 AM | **Grafting** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  |  | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |  |
 | Wed 10/7 2:00 PM | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 3 | 9/30 |  |  |
 | Wed 10/7 2:30 PM | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 1 | 9/29 |  |  |
-| Thu 10/8 8:20 AM | **Grafting** | <details><summary>J.B.</summary>Jozef B.</details> | Dr. Adelstein | OASIS Burn 3x7 | 🟢 2 |  |  |  |
-| Thu 10/8 8:45 AM | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17) |  |
 | Fri 10/9 8:00 AM | **Grafting** | <details><summary>V.D.</summary>Vladimir Dobinsky</details> | Dr. Ramani | GRAFIX 16mm | 🟢 6 | 10/2 | Down to 16mm as of 10/2 (was 1.5x2) |  |
 | Fri 10/9 12:40 PM | **Grafting** | <details><summary>D.S.</summary>D. Stanbury</details> | Dr. Lucas | OASIS Wound 3x3.5 | 🟢 7 | 10/2 |  |  |
 | Mon 10/12 | **Grafting** | <details><summary>B.P.</summary>Boguslaw Pryzybcien</details> | Dr. Joshi | OASIS Burn 5x7 | 🟢 1 | 10/5 | A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |  |
+| Thu 10/15 | **Grafting** | <details><summary>J.B.</summary>Jozef B.</details> | Dr. Adelstein | OASIS Burn 3x7 | 🟢 3 | 10/8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |  |
+| Thu 10/15 | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17) |  |
 |  | **Potential New Start** | <details><summary>J.C.</summary>Jerry Cooper</details> | Dr. Joshi | GRAFIX 16mm |  |  | Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |  |
 | Thu 10/8 9:10 AM | Pending | <details><summary>X.S.</summary>Xerxes S.</details> | Dr. Robinson | GRAFIX |  |  |  |  |
 |  | Pending | <details><summary>J.T.</summary>Jeffrey Tuckman</details> | Dr. Lucas | GRAFIX |  |  | Need additional notes for prior auth |  |
@@ -105,7 +105,7 @@ Updated 10/8/26, 12:40 PM CT · [⬇ Download the patient list (Excel)](https://
 | Thu 10/8 2:30 PM · HE | **Grafting** | C.T. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 1 | 10/1 | 1st application 10/1 |  |
 | Fri 10/9 8:15 AM · HE | **Grafting** | <details><summary>MZ (L)</summary>Mariusz Zabrodzki</details> | Dr. Goldkind | OASIS Ultra 5x7 | 🟢 4 | 10/2 | Left ankle approved for grafting. Only grafting left foot. |  |
 | Mon 10/12 · EG | **Grafting** | P.S. | Dr. Goldkind | GRAFIX 16mm | 🟢 1 | 10/5 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). 10/12 16mm ordered on PO PS101226; weekly 16mm orders after that. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](ivr/nw-ps.md) |
-| Wk of 10/12 | **Potential New Start** | L.W. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 0 |  | Approved 10/5 for OASIS Wound 3x3.5. Starting next week (week of 10/12), no appointment time yet. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm. | [📄](ivr/nw-lw.md) |
+| Wk of 10/12 | **Potential New Start** | L.W. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 0 |  | Approved 10/5 for OASIS Wound 3x3.5. Starting next week (week of 10/12), no appointment time yet. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm. Held 10/8 (not grafted). | [📄](ivr/nw-lw.md) |
 |  | Pending | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind |  |  |  | Verify status with Chris (not on NWSFA schedule wk of 10/5). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |  |
 |  | Pending | M.A. | Dr. Goldkind | GRAFIX |  |  | IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer. R foot DFU. (Listed as M.P. until 10/4.) | [📄](ivr/nw-mp.md) |
 |  | On hold | G.K. | Dr. Adelstein |  |  |  | Verify status with Chris (not on NWSFA schedule wk of 10/5) |  |
