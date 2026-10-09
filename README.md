@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 10:10 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 10:15 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **📄 PO in, waiting on case sheet:** 2 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 22
+**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **📄 PO in, waiting on case sheet:** 2 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 23
 
 ### 🟢 Ready to submit to SFDC  (8 · $12,355.50)
 
@@ -36,14 +36,13 @@
 | 10/7 | M.L. | Alexian WCC | Joshi | Grafix 16mm | case sheet to come | $360.00 | 660040000284689 |  |
 | 10/7 | A.P. | Alexian WCC | Hussain | Grafix 16mm | case sheet to come | $360.00 | 660040000284690 |  |
 
-### Submitted, not in SFDC yet  (2 · $550.00)
+### Submitted, not in SFDC yet  (1 · $360.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
-| 10/9 | A.S. | Central DuPage | Luetkehans | Grafix 16mm (new, sale order 10/7) |  | $190.00 | AS100926 |  |
 
-### ⚪ In SFDC  (22 · $40,357.70)
+### ⚪ In SFDC  (23 · $40,547.70)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -66,8 +65,9 @@
 | 10/2 |  | St. Joseph Elgin |  | OASIS Wound Matrix 3x3.5 (10 sheets = 1 box) |  | $1,126.50 | 712062784 |  |
 | 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 | PO005995283 | [📄](case-sheets/rw-1002.md) |
 | 10/5 |  | St. Alexius |  | Grafix 5x5 (bill & replace restock, case TBD) |  | $2,325.00 | 660080000212141 |  |
-| 10/8 | D.F. | Good Sam | Luetkehans | Grafix 5x5 (Good Sam PO, A1) |  | $2,500.00 | PO006001505 |  |
+| 10/8 | D.F. | Good Sam | Luetkehans | Grafix 5x5 (Good Sam PO, A3) |  | $2,500.00 | PO006001505 |  |
 | 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5) |  | $6,375.00 | RC100926 |  |
+| 10/9 | A.S. | Central DuPage | Luetkehans | Grafix 16mm (new, sale order 10/7) |  | $190.00 | AS100926 |  |
 | 10/12 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/6) |  | $190.00 | PS101226 |  |
 
 ### Clinic stock used, no new sale  (1)
@@ -121,7 +121,7 @@
 | 10/7 | M.W. | New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing $95/cm2, so 16mm (2 cm2) = $190. One-off PO MW100726 (future orders go on sale-order POs). Case sheet made 10/7. Ready to submit |
 | 10/7 | M.L. | App #2. PO 660040000284689 (10/8), Patient ID 0003052747, Dr. Joshi, 16mm $360, bill only. Case sheet to come |
 | 10/7 | A.P. | App #4. PO 660040000284690 (10/8), Patient ID 0003068368, Dr. Hussain, 16mm $360, bill only. Case sheet to come |
-| 10/9 | A.S. | New patient. Sale order submitted 10/7 on PO AS100926 for the 10/9 9:30 AM visit (application #1): 1 x 16mm, $190. Weekly after that. Lot/SN and case sheet after the visit |
+| 10/9 | A.S. | New patient. Sale order submitted 10/7 on PO AS100926 for the 10/9 9:30 AM visit (application #1): 1 x 16mm, $190. Weekly after that. Lot/SN and case sheet after the visit. In SFDC 10/8 |
 
 </details>
 
