@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 7:40 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 8:20 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 22
+**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **📄 PO in, waiting on case sheet:** 2 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 22
 
 ### 🟢 Ready to submit to SFDC  (8 · $12,355.50)
 
@@ -28,6 +28,13 @@
 | 10/6 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16014 | $360.00 |  | [📄](case-sheets/dg-1006.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
+
+### 📄 PO in, waiting on case sheet  (2 · $720.00)
+
+| Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
+| --- | --- | --- | --- | --- | --- | ---: | --- | --- |
+| 10/7 | M.L. | Alexian WCC | Joshi | Grafix 16mm | case sheet to come | $360.00 | 660040000284689 |  |
+| 10/7 | A.P. | Alexian WCC | Hussain | Grafix 16mm | case sheet to come | $360.00 | 660040000284690 |  |
 
 ### Submitted, not in SFDC yet  (2 · $550.00)
 
@@ -112,6 +119,8 @@
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. Ready to submit |
 | 10/7 | M.W. | New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing $95/cm2, so 16mm (2 cm2) = $190. One-off PO MW100726 (future orders go on sale-order POs). Case sheet made 10/7. Ready to submit |
+| 10/7 | M.L. | App #2. PO 660040000284689 (10/8), Patient ID 0003052747, Dr. Joshi, 16mm $360, bill only. Case sheet to come |
+| 10/7 | A.P. | App #4. PO 660040000284690 (10/8), Patient ID 0003068368, Dr. Hussain, 16mm $360, bill only. Case sheet to come |
 | 10/9 | A.S. | New patient. Sale order submitted 10/7 on PO AS100926 for the 10/9 9:30 AM visit (application #1): 1 x 16mm, $190. Weekly after that. Lot/SN and case sheet after the visit |
 
 </details>
@@ -120,8 +129,8 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $64,605.20 | $64,605.20 |
-| + Projected Grafix, net of WCC stock | $47,870.00 | $38,605.50 |
+| Current October sales | $65,325.20 | $65,325.20 |
+| + Projected Grafix, net of WCC stock | $47,150.00 | $37,885.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts | $11,346.00 | $3,420.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
@@ -139,7 +148,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Good Sam | $21,152.75 | $17,389.65 | $8,805.50 | **$38,542.40** | **$29,958.25** |
 | Central DuPage | $12,940.00 | $26,070.00 | $21,650.00 | **$39,010.00** | **$34,590.00** |
-| Alexian WCC | $5,880.00 | $13,797.73 | $11,247.45 | **$19,677.73** | **$17,127.45** |
+| Alexian WCC | $6,600.00 | $13,077.73 | $10,527.45 | **$19,677.73** | **$17,127.45** |
 | St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $4,221.00 | $0.00 | **$7,962.50** | **$3,741.50** |
@@ -149,7 +158,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
-| **Total** | **$64,605.20** | **$76,388.88** | **$49,668.45** | **$140,994.08** | **$114,273.65** |
+| **Total** | **$65,325.20** | **$75,668.88** | **$48,948.45** | **$140,994.08** | **$114,273.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -167,10 +176,10 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian WCC | Lucas | T.T. | 1× 16mm | Weekly | 6 | 1 (stops at 8) | $360.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Lucas | D.G. | 1× 16mm | Weekly | 2 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Lucas | J.L. | 1× 16mm | Weekly | 1 | 3 | $1,080.00 | same | $1,080.00 |
-| Alexian WCC | Joshi | M.L. | 1× 16mm | Weekly | 1 | 4 | $1,440.00 | same | $1,440.00 |
+| Alexian WCC | Joshi | M.L. | 1× 16mm | Weekly (A2 10/7 sold) | 2 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Joshi | A.N. | 1× 16mm | Weekly | 3 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 3 (stops at 8) | $1,080.00 | 16mm × 1 | $360.00 |
-| Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly | 3 | 4 | $1,440.00 | same | $1,440.00 |
+| Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly (A4 10/7 sold) | 4 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 2 (stops at 8) | $720.00 | 16mm × 1 | $360.00 |
 | Central DuPage | Luetkehans | R.C. | 3× 5x5 | Weekly from 10/16 + 10/30 order (wk of 11/2); 10/9 sold | 1 | 4 | $25,500.00 | 2x 5x5 + 1x 3x4 × 4 | $21,080.00 |
 | Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly · on hold, back 10/13 | 1 | 3 | $570.00 | stays on hold | $0.00 |

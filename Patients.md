@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/8/26, 7:40 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -58,11 +58,11 @@ Updated 10/8/26, 7:40 PM CT · [⬇ Download the patient list (Excel)](https://g
 |  | **Grafting** | <details><summary>A.N.</summary>Aloysius Newman</details> | Dr. Joshi | GRAFIX 16mm | 🟢 4 | 10/6 | A4 10/6 (LYA-260159_16026). |  |
 | Tue 10/6 12:50 PM | **Potential New Start** | <details><summary>O.O.</summary>Omar osama</details> | Dr. V | GRAFIX | 🟢 0 |  | 9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |  |
 | Wed 10/7 9:30 AM | **Grafting** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  |  | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |  |
-| Wed 10/7 2:00 PM | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 3 | 9/30 |  |  |
-| Wed 10/7 2:30 PM | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 1 | 9/29 |  |  |
 | Fri 10/9 8:00 AM | **Grafting** | <details><summary>V.D.</summary>Vladimir Dobinsky</details> | Dr. Ramani | GRAFIX 16mm | 🟢 6 | 10/2 | Down to 16mm as of 10/2 (was 1.5x2) |  |
 | Fri 10/9 12:40 PM | **Grafting** | <details><summary>D.S.</summary>D. Stanbury</details> | Dr. Lucas | OASIS Wound 3x3.5 | 🟢 7 | 10/2 |  |  |
 | Mon 10/12 | **Grafting** | <details><summary>B.P.</summary>Boguslaw Pryzybcien</details> | Dr. Joshi | OASIS Burn 5x7 | 🟢 1 | 10/5 | A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |  |
+| Wed 10/14 | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 4 | 10/7 | A4 10/7 (PO …284690); case sheet to come |  |
+| Wed 10/14 | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 2 | 10/7 | A2 10/7 (PO …284689); case sheet to come |  |
 | Thu 10/15 | **Grafting** | <details><summary>J.B.</summary>Jozef B.</details> | Dr. Adelstein | OASIS Burn 3x7 | 🟢 3 | 10/8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |  |
 | Thu 10/15 | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17) |  |
 |  | **Potential New Start** | <details><summary>J.C.</summary>Jerry Cooper</details> | Dr. Joshi | GRAFIX 16mm |  |  | Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |  |
