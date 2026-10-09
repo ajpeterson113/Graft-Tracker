@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/9/26, 5:40 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/9/26, 6:15 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -197,7 +197,7 @@ Updated 10/9/26, 5:40 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Fri 10/16 | **Grafting** | R.C. | Dr. Luetkehans | GRAFIX (3) 5x5 | 🟢 2 | 10/9 | A2 10/9: 2 x 5x5 + 1 x 3x4 (one 5x5 from the RC100926 order left at the clinic). Lot/SNs and case sheet to come. 3 x 5x5 each week (10/2 on PO RC100226, 10/9 on PO RC100926). A 4th 5x5 is at the clinic as WFNU (waiting for notification of use): not on a PO, billed only if used. |  |
+| Fri 10/16 | **Grafting** | R.C. | Dr. Luetkehans | GRAFIX 2x 5x5 + 3x4 | 🟢 2 | 10/9 | A2 10/9: 2 x 5x5 (billed on RC100926) + 1 x 3x4 (to be billed, PO to come). Lot/SNs and case sheet to come. 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on PO. |  |
 | Fri 10/16 | **Grafting** | <details><summary>A.S.</summary>Antanas Sabaluauskas</details> | Dr. Luetkehans | GRAFIX 16mm | 🟢 1 | 10/9 | A1 10/9: 16mm (sale order on PO AS100926). Weekly 16mm; next 10/16. Lot/SN and case sheet to come. |  |
 
 

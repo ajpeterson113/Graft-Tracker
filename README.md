@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 5:55 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 6:15 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 13 · **🟡 Waiting on a PO:** 2 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 23
+**🟢 Ready to submit to SFDC:** 13 · **🟡 Waiting on a PO:** 3 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 23
 
 ### 🟢 Ready to submit to SFDC  (13 · $23,457.50)
 
@@ -24,12 +24,13 @@
 | 10/7 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260174_16010 | $360.00 | …284689 | [📄](case-sheets/ml-1007.md) |
 | 10/7 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260174_16009 | $360.00 | …284690 | [📄](case-sheets/ap-1007.md) |
 
-### 🟡 Waiting on a PO  (2 · $960.00)
+### 🟡 Waiting on a PO  (3 · $1,980.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/16 | A.P. | Alexian WCC | Hussain | Grafix 1.5x2 | LYA-250733_15013 | $600.00 |  | [📄](case-sheets/ap-0916.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
+| 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 3x4 (A2, billed separately) |  | $1,020.00 |  |  |
 
 ### Submitted, not in SFDC yet  (2 · $6,991.00)
 
@@ -62,7 +63,7 @@
 | 10/2 | R.W. | Good Sam | Luetkehans | Grafix 5x5 | LYA-250878_55010 | $2,500.00 | PO005995283 | [📄](case-sheets/rw-1002.md) |
 | 10/5 |  | St. Alexius |  | Grafix 5x5 (bill & replace restock, case TBD) |  | $2,325.00 | 660080000212141 |  |
 | 10/8 | D.F. | Good Sam | Luetkehans | Grafix 5x5 (Good Sam PO, A3) |  | $2,500.00 | PO006001505 |  |
-| 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5) |  | $6,375.00 | RC100926 |  |
+| 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5; 2 used 10/9, 1 kept for 10/16) |  | $6,375.00 | RC100926 |  |
 | 10/9 | A.S. | Central DuPage | Luetkehans | Grafix 16mm (new, sale order 10/7) |  | $190.00 | AS100926 |  |
 | 10/12 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/6) |  | $190.00 | PS101226 |  |
 
@@ -112,6 +113,7 @@
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50): LYU-260453_36006, LYU-260453_36007. PO PO006010271 (Owens & Minor) received 10/7, $5,311. Ready to submit |
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s visit Thu 10/8 (A3), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
 | 10/9 | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | 5-piece WCC stock order 10/9 on PO006025726 (FedEx Priority 10:30, 519100066123): 5x5 x2 $2,500 + 16mm x2 $425.50 + 1.5x2 x1 $780 = $6,631. PO-only, no case sheet; serials from the shelf once it lands. Shipped order, invoices on its own. Covers K.P.'s 5x5 (10/15, 10/29) and P.J./W.K. 16mm on 10/15; the 1.5x2 has no projected use yet |
+| 10/9 | R.C. | A2 10/9: applied 2 x 5x5 (from the RC100926 order, already billed) + 1 x 3x4 that still needs to be billed: sale order/PO for the 3x4 ($1,020) to come. Lot/SN and case sheet to come. One 5x5 from RC100926 is left at the clinic for 10/16 |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00): LYU-250611_36004, LYU-250611_36005 (exp 4/1/27), LYU-251530_36001 (exp 7/21/27). Bill Only PO-1000931284 (10/8) received 10/9: 3 x PS61036 at $2,469, Patient ID 5010505361181, Dr. McKanna, DOS 10/7, buyer Kurt Bowman. Ready to submit |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. Ready to submit |
@@ -126,16 +128,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $71,956.20 | $71,956.20 |
-| + Projected Grafix, net of WCC stock | $40,579.00 | $36,674.50 |
+| Current October sales | $72,976.20 | $72,976.20 |
+| + Projected Grafix, net of WCC stock | $34,034.00 | $28,174.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts | $11,346.00 | $3,420.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$141,054.08** | **$119,693.65** |
+| **Projected P10 total** | **$135,529.08** | **$112,213.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 109.3% | 92.8% |
-| Gap to target | $0.00 (over by $12,039.08) | $9,321.35 |
-| **Projected commission** | **$14,105.41** (10%) | **$8,378.56** |
+| % of target | 105.0% | 87.0% |
+| Gap to target | $0.00 (over by $6,514.08) | $16,801.35 |
+| **Projected commission** | **$13,552.91** (10%) | **$7,854.96** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -144,7 +146,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Good Sam | $27,783.75 | $11,538.65 | $7,954.50 | **$39,322.40** | **$35,738.25** |
-| Central DuPage | $12,940.00 | $26,070.00 | $21,650.00 | **$39,010.00** | **$34,590.00** |
+| Central DuPage | $13,960.00 | $19,525.00 | $13,150.00 | **$33,485.00** | **$27,110.00** |
 | Alexian WCC | $6,600.00 | $12,357.73 | $10,167.45 | **$18,957.73** | **$16,767.45** |
 | St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
@@ -155,7 +157,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
-| **Total** | **$71,956.20** | **$69,097.88** | **$47,737.45** | **$141,054.08** | **$119,693.65** |
+| **Total** | **$72,976.20** | **$62,552.88** | **$39,237.45** | **$135,529.08** | **$112,213.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -178,7 +180,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 3 (stops at 8) | $1,080.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly (A4 10/7 sold) | 4 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 0 (done 10/9) | $0.00 | – | $0.00 |
-| Central DuPage | Luetkehans | R.C. | 3× 5x5 | Weekly from 10/16 + 10/30 order (wk of 11/2); 10/9 sold | 1 | 4 | $25,500.00 | 2x 5x5 + 1x 3x4 × 4 | $21,080.00 |
+| Central DuPage | Luetkehans | R.C. | 2× 5x5 + 3x4 | 10/16: leftover 5x5 + WFNU 5x5 billed + 3x4 ($3,145); then weekly + 10/30 order at $5,270 | 2 | 4 | $18,955.00 | 1x 5x5 + 3x4 from 10/23 | $12,580.00 |
 | Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly · on hold, back 10/13 | 1 | 3 | $570.00 | stays on hold | $0.00 |
 | Romano Lombard | Rojas | M.W. | 1× 16mm | Weekly | 1 | 3 | $570.00 | same | $570.00 |
 | Central DuPage | Luetkehans | A.S. | 1× 16mm | Weekly (new, A1 10/9 sold) | 0 | 3 | $570.00 | same | $570.00 |
