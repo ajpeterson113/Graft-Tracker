@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 6:20 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 7:10 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -122,14 +122,14 @@
 | --- | ---: | ---: |
 | Current October sales | $64,605.20 | $64,605.20 |
 | + Projected Grafix, net of WCC stock | $47,870.00 | $38,605.50 |
-| + Upcoming Stravix | $11,787.60 | $2,469.00 |
+| + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts (upside only) | $0.00 | $0.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$138,966.68** | **$110,853.65** |
+| **Projected P10 total** | **$129,648.08** | **$110,853.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 107.7% | 85.9% |
-| Gap to target | $0.00 (over by $9,951.68) | $18,161.35 |
-| **Projected commission** | **$13,896.67** (10%) | **$7,759.76** |
+| % of target | 100.5% | 85.9% |
+| Gap to target | $0.00 (over by $633.08) | $18,161.35 |
+| **Projected commission** | **$12,964.81** (10%) | **$7,759.76** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -140,7 +140,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Good Sam | $21,152.75 | $17,389.65 | $8,805.50 | **$38,542.40** | **$29,958.25** |
 | Central DuPage | $12,940.00 | $26,070.00 | $21,650.00 | **$39,010.00** | **$34,590.00** |
 | Alexian WCC | $5,880.00 | $13,797.73 | $11,247.45 | **$19,677.73** | **$17,127.45** |
-| St. Alexius | $7,900.20 | $11,787.60 | $2,469.00 | **$19,687.80** | **$10,369.20** |
+| St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $0.00 | $0.00 | **$3,741.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
@@ -149,7 +149,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $570.00 | $570.00 | **$760.00** | **$760.00** |
-| **Total** | **$64,605.20** | **$74,361.48** | **$46,248.45** | **$138,966.68** | **$110,853.65** |
+| **Total** | **$64,605.20** | **$65,042.88** | **$46,248.45** | **$129,648.08** | **$110,853.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -183,7 +183,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Account | Surgeon | Date | Size | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: |
 | St. Alexius | Liao | 10/16 | Stravix 3x6 | $2,469.00 | $2,469.00 |
-| St. Alexius | OR stock | Restock (if they order) | Stravix 2x4 × 6 (back to 7 on the shelf) | $9,318.60 | – |
+| St. Alexius | OR stock | Not counted (10/8) | Stravix 2x4 restock — not counting on the OR ordering; add back only if a PO comes in | – | – |
 | GlenOaks | Reed | Possible, this week or next | Stravix, size TBD | – | – |
 
 **OASIS reorders (estimated, by the box)**
@@ -215,7 +215,7 @@ Shelf count 10/6, updated 10/8 (P.J. used 3 × 16mm, L.D. the 1.5x2 and D.F. her
 
 ## St. Alexius OR stock (bill & replace)
 
-Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a St. Alexius PO, so it is a sale when used (no projection offset). One more box in the photo had its label covered and isn't counted. Target is 7 of each size; a Stravix 2x4 restock of 6 ($9,318.60) is in upside. A.B.'s 10/7 Stravix 3x6 was billed on bill & replace PO 660080000212502 (10/8); its replacement ships once the order is submitted.
+Shelf count 10/7 (after A.B.'s case). Each unit used is billed and replaced on a St. Alexius PO, so it is a sale when used (no projection offset). One more box in the photo had its label covered and isn't counted. Target is 7 of each size; a Stravix 2x4 restock is not in the projection (10/8: not counting on the OR ordering). A.B.'s 10/7 Stravix 3x6 was billed on bill & replace PO 660080000212502 (10/8); its replacement ships once the order is submitted.
 
 | Product | Size | REF | Lot / SN | Expiry |
 | --- | --- | --- | --- | --- |
