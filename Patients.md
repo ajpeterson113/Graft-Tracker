@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/9/26, 3:05 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/9/26, 5:40 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -27,7 +27,7 @@ Updated 10/9/26, 3:05 PM CT · [⬇ Download the patient list (Excel)](https://g
 |  | **Potential New Start** | <details><summary>J.B.</summary>J. Buscher</details> | Dr. Raigaga | OASIS Wound Matrix 3x7 and 3x3.5 |  |  |  |  |
 |  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO005995283 approved 10/5; ready to submit |  |
 |  | **OR** | C.L. | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 10/6 · 0 wk 0 d post-op | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453_36006, _36007), $5,311. PO PO006010271 received 10/7 (ready to submit) |  |
-|  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | No PO yet |  |
+|  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |  |
 |  | **OR** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | STRAVIX |  | 9/10 · 3 wk 4 d post-op |  |  |
 | Thu 10/15 3:15 PM | **OR** | <details><summary>J.H.</summary>Judith Hecht</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 9/4 · 5 wk post-op | 10/8 follow-up: Stravix still intact |  |
 |  | **OR** | <details><summary>P.J.</summary>Paul Timothy Jagust</details> | Dr. Luetkehans | STRAVIX 2x4 (x3) |  | 9/2 · 4 wk 5 d post-op |  |  |
@@ -51,7 +51,7 @@ Updated 10/9/26, 3:05 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Tue 10/13 9:00 AM | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014). |  |
+| Tue 10/13 9:00 AM | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014, PO …284776 received 10/9). |  |
 |  | **Grafting** | <details><summary>D.V.</summary>Donald Vondraceck</details> | Dr. Hussain | OASIS Wound 3x7 | 🟢 1 | 10/7 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |  |
 | Tue 10/13 9:40 AM | **Grafting** | <details><summary>J.L.</summary>J. Leamann</details> | Dr. Lucas | GRAFIX 16mm | 🟢 2 | 10/6 | A2 10/6 (LYA-260159_16001). |  |
 | Tue 10/13 | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
@@ -129,7 +129,7 @@ Updated 10/9/26, 3:05 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Fri 10/9 1:00 PM | **Potential New Start** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 0 |  | Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](ivr/sj-dn.md) |
 | Tue 10/13 | **Potential New Start** | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas | GRAFIX 3x3 (x2) first, then 3x4 + 2x3 | 🟢 0 |  | Approved 100% (10/8). A1 10/13: two Grafix 3x3 already bought on PO (no new sale). Then 10/20 and 10/27: a 3x4 + 2x3 each visit on new sale orders. IVR ran 10/5. |  |
 | Thu 10/15 | **Grafting** | J.C. | Dr. Bhagat | OASIS Wound 3x3.5 | 🟢 6 |  | Held 10/8: wound doesn't look good even though it had been trending the right way; she thinks it's the new brace/shoe or a small infection. A9 (10/1) was an eval OASIS Wound 3x3.5 |  |
-|  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 3 d post-op | No PO yet |  |
+|  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 3 d post-op | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |  |
 |  | Pending | J.D. | Dr. Bhagat | GRAFIX/OASIS |  |  | Ran on 9/9/26, needs additional clinicals, needs referral |  |
 
 
@@ -158,7 +158,7 @@ Updated 10/9/26, 3:05 PM CT · [⬇ Download the patient list (Excel)](https://g
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | A.B. | Dr. Guske | STRAVIX 3x6 |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604_36001 from St. Alexius stock: bill & replace, $2,469. Bill & replace PO 660080000212502 received 10/8 |  |
 | Fri 10/16 | **OR** | — | Dr. Liao | STRAVIX 3x6 |  | 10/16 · OR in 11 d | Upcoming case |  |
-|  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 6 d post-op | OR case (Stravix not billed through IVR). Same patient as NWSFA pending IVR for office grafting. No PO yet. |  |
+|  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 6 d post-op | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |  |
 |  | **OR** | N.W. | Dr. Bryniczka | STRAVIX 2x4 |  | 9/11 · 3 wk 3 d post-op | Bill & replace |  |
 
 
@@ -184,7 +184,7 @@ Updated 10/9/26, 3:05 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | S.A. | Dr. McKanna | STRAVIX 3x6 |  | 9/18 · 2 wk 3 d post-op |  |  |
-|  | **OR** | F.M. | Dr. McKanna | STRAVIX 3x6 (x3) |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611_36004, _36005; LYU-251530_36001), $7,407. Case sheet made; no PO yet |  |
+|  | **OR** | F.M. | Dr. McKanna | STRAVIX 3x6 (x3) |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611_36004, _36005; LYU-251530_36001), $7,407. PO-1000931284 received 10/9; ready to submit |  |
 |  | **OR** |  | Dr. Reed | STRAVIX |  |  | Spoke to Dr. Reed 10/5: possible Stravix this week or next on a calcaneus. Size and date TBD |  |
 
 

@@ -17,7 +17,7 @@ Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | <details><summary>R.W.</summary>Roy Walsh</details> | Dr. Luetkehans | GRAFIX 5x5 |  | 10/2 · 0 wk 3 d post-op | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878_55010, $2,500. PO005995283 approved 10/5; ready to submit |  |
 |  | **OR** | C.L. | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 10/6 · 0 wk 0 d post-op | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453_36006, _36007), $5,311. PO PO006010271 received 10/7 (ready to submit) |  |
-|  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | No PO yet |  |
+|  | **OR** | T.A. | Dr. Farhan | STRAVIX 2x4 |  | 10/1 · 0 wk 4 d post-op | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |  |
 |  | **OR** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | STRAVIX |  | 9/10 · 3 wk 4 d post-op |  |  |
 | Thu 10/15 3:15 PM | **OR** | <details><summary>J.H.</summary>Judith Hecht</details> | Dr. Luetkehans | STRAVIX 3x6 (x2) |  | 9/4 · 5 wk post-op | 10/8 follow-up: Stravix still intact |  |
 |  | **OR** | <details><summary>P.J.</summary>Paul Timothy Jagust</details> | Dr. Luetkehans | STRAVIX 2x4 (x3) |  | 9/2 · 4 wk 5 d post-op |  |  |
@@ -35,7 +35,7 @@ Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 3 d post-op | No PO yet |  |
+|  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 3 d post-op | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |  |
 
 
 </details>
@@ -49,7 +49,7 @@ Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | A.B. | Dr. Guske | STRAVIX 3x6 |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604_36001 from St. Alexius stock: bill & replace, $2,469. Bill & replace PO 660080000212502 received 10/8 |  |
 | Fri 10/16 | **OR** | — | Dr. Liao | STRAVIX 3x6 |  | 10/16 · OR in 11 d | Upcoming case |  |
-|  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 6 d post-op | OR case (Stravix not billed through IVR). Same patient as NWSFA pending IVR for office grafting. No PO yet. |  |
+|  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 6 d post-op | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |  |
 |  | **OR** | N.W. | Dr. Bryniczka | STRAVIX 2x4 |  | 9/11 · 3 wk 3 d post-op | Bill & replace |  |
 
 
@@ -75,7 +75,7 @@ Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | S.A. | Dr. McKanna | STRAVIX 3x6 |  | 9/18 · 2 wk 3 d post-op |  |  |
-|  | **OR** | F.M. | Dr. McKanna | STRAVIX 3x6 (x3) |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611_36004, _36005; LYU-251530_36001), $7,407. Case sheet made; no PO yet |  |
+|  | **OR** | F.M. | Dr. McKanna | STRAVIX 3x6 (x3) |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611_36004, _36005; LYU-251530_36001), $7,407. PO-1000931284 received 10/9; ready to submit |  |
 |  | **OR** |  | Dr. Reed | STRAVIX |  |  | Spoke to Dr. Reed 10/5: possible Stravix this week or next on a calcaneus. Size and date TBD |  |
 
 
