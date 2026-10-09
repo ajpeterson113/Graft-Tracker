@@ -42,8 +42,8 @@ Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 | Fri 10/9 8:00 AM | **Grafting** | <details><summary>V.D.</summary>Vladimir Dobinsky</details> | Dr. Ramani | GRAFIX 16mm | 🟢 6 | 10/2 | Down to 16mm as of 10/2 (was 1.5x2) |  |
 | Fri 10/9 12:40 PM | **Grafting** | <details><summary>D.S.</summary>D. Stanbury</details> | Dr. Lucas | OASIS Wound 3x3.5 | 🟢 7 | 10/2 |  |  |
 | Mon 10/12 | **Grafting** | <details><summary>B.P.</summary>Boguslaw Pryzybcien</details> | Dr. Joshi | OASIS Burn 5x7 | 🟢 1 | 10/5 | A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |  |
-| Wed 10/14 | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 4 | 10/7 | A4 10/7 (PO …284690); case sheet to come |  |
-| Wed 10/14 | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 2 | 10/7 | A2 10/7 (PO …284689); case sheet to come |  |
+| Wed 10/14 | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 4 | 10/7 | A4 10/7 (LYA-260174_16009, PO …284690); case sheet on file |  |
+| Wed 10/14 | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 2 | 10/7 | A2 10/7 (LYA-260174_16010, PO …284689); case sheet on file |  |
 | Thu 10/15 | **Grafting** | <details><summary>J.B.</summary>Jozef B.</details> | Dr. Adelstein | OASIS Burn 3x7 | 🟢 3 | 10/8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |  |
 | Thu 10/15 | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17) |  |
 

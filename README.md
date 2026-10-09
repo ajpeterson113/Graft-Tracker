@@ -1,12 +1,12 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 10:15 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 10:35 AM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 8 · **🟡 Waiting on a PO:** 5 · **📄 PO in, waiting on case sheet:** 2 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 23
+**🟢 Ready to submit to SFDC:** 10 · **🟡 Waiting on a PO:** 5 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 23
 
-### 🟢 Ready to submit to SFDC  (8 · $12,355.50)
+### 🟢 Ready to submit to SFDC  (10 · $13,075.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -18,6 +18,8 @@
 | 10/6 | C.L. | Good Sam | Luetkehans | Stravix 3x6 ×2 (OR) | LYU-260453_36006, LYU-260453_36007 | $5,311.00 | PO006010271 | [📄](case-sheets/cl-1006.md) |
 | 10/7 | A.B. | St. Alexius | Guske | Stravix 3x6 (OR, bill & replace) | LYU-251604_36001 | $2,469.00 | 660080000212502 | [📄](case-sheets/ab-1007.md) |
 | 10/7 | M.W. | Romano Lombard | Rojas | Grafix 16mm (new start) | LYA-260007_16005 | $190.00 | MW100726 | [📄](case-sheets/mw-1007.md) |
+| 10/7 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260174_16010 | $360.00 | …284689 | [📄](case-sheets/ml-1007.md) |
+| 10/7 | A.P. | Alexian WCC | Hussain | Grafix 16mm | LYA-260174_16009 | $360.00 | …284690 | [📄](case-sheets/ap-1007.md) |
 
 ### 🟡 Waiting on a PO  (5 · $11,342.00)
 
@@ -28,13 +30,6 @@
 | 10/6 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16014 | $360.00 |  | [📄](case-sheets/dg-1006.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/7 | F.M. | GlenOaks | McKanna | Stravix 3x6 ×3 (OR, Bill Only) | LYU-250611_36004, LYU-250611_36005, LYU-251530_36001 | $7,407.00 |  | [📄](case-sheets/fm-1007.md) |
-
-### 📄 PO in, waiting on case sheet  (2 · $720.00)
-
-| Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
-| --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 10/7 | M.L. | Alexian WCC | Joshi | Grafix 16mm | case sheet to come | $360.00 | 660040000284689 |  |
-| 10/7 | A.P. | Alexian WCC | Hussain | Grafix 16mm | case sheet to come | $360.00 | 660040000284690 |  |
 
 ### Submitted, not in SFDC yet  (1 · $360.00)
 
@@ -119,8 +114,8 @@
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00). Case sheet made 10/7; waiting on the PO |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. Ready to submit |
 | 10/7 | M.W. | New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing $95/cm2, so 16mm (2 cm2) = $190. One-off PO MW100726 (future orders go on sale-order POs). Case sheet made 10/7. Ready to submit |
-| 10/7 | M.L. | App #2. PO 660040000284689 (10/8), Patient ID 0003052747, Dr. Joshi, 16mm $360, bill only. Case sheet to come |
-| 10/7 | A.P. | App #4. PO 660040000284690 (10/8), Patient ID 0003068368, Dr. Hussain, 16mm $360, bill only. Case sheet to come |
+| 10/7 | M.L. | App #2. PO 660040000284689 (10/8), Patient ID 0003052747, Dr. Joshi, 16mm $360, bill only. Case sheet 10/9: LYA-260174_16010. Ready to submit |
+| 10/7 | A.P. | App #4. PO 660040000284690 (10/8), Patient ID 0003068368, Dr. Hussain, 16mm $360, bill only. Case sheet 10/9: LYA-260174_16009. Ready to submit |
 | 10/9 | A.S. | New patient. Sale order submitted 10/7 on PO AS100926 for the 10/9 9:30 AM visit (application #1): 1 x 16mm, $190. Weekly after that. Lot/SN and case sheet after the visit. In SFDC 10/8 |
 
 </details>
@@ -264,14 +259,14 @@ Count from AJ 10/8 (after F.M.'s 10/7 case). Each unit used is billed on a Bill 
 
 Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos); 10 × 16mm restock shipped 10/5 (no PO; lot/SN/expiry TBD until unpacked). Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
 
-**54 Grafix units on hand · $60,611 consignment** · targets: 16mm 10–15, other Grafix sizes 5–10 (a few over is fine)
+**52 Grafix units on hand · $59,891 consignment** · targets: 16mm 10–15, other Grafix sizes 5–10 (a few over is fine)
 
-- 🟠 **16mm: 11 on hand (target 10–15).** 4 used 10/6 (T.T., J.L., D.G., A.N.). The rest of this week (A.P., M.L., V.D.; D.C. held 10/8) uses about 3 more, leaving about 8, so plan to order about 7 by Friday to get back to 15.
+- 🟠 **16mm: 9 on hand (target 10–15).** 4 used 10/6 (T.T., J.L., D.G., A.N.) and 2 on 10/7 (A.P., M.L., lot LYA-260174 from the 10/5 shipment). V.D. today makes about 8 left; D.C. was held 10/8. Order about 7 to get back to 15.
 - 🟠 **8 × 3x4 expire 12/18/26:** no Alexian patient is on 3x4 ($9,120 of consignment).
 
 | Product | Size | REF | On hand | Patients | Use / wk | Weeks left | Runs out (wk of) | Status | Order (boxes) | Next expiry |
 | --- | --- | --- | ---: | ---: | ---: | ---: | --- | --- | ---: | --- |
-| Grafix | 16mm | PS13016 | 11 | 8 | 8 | 1.4 | 10/12 | 🟢 OK (target 10–15) | – | 1/13/28 |
+| Grafix | 16mm | PS13016 | 9 | 8 | 8 | 1.1 | 10/12 | 🟠 Below target (10–15) | – | 1/13/28 |
 | Grafix | 1.5x2 | PS13015 | 8 | – | – |  |  | No patients on it (target 5–10) | – | 6/18/27 |
 | Grafix | 2x3 | PS13023 | 10 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
 | Grafix | 3x3 | PS13033 | 5 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
@@ -321,6 +316,15 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | Grafix | 16mm | LYA-260159 | 16028 | 1/13/28 | Used 10/6 |  |
 | Grafix | 16mm | LYA-260159 | 16026 | 1/13/28 | Used 10/6 |  |
 | Grafix | 16mm | LYA-260017 | 16014 | 11/25/27 | Used 10/6 |  |
+| Grafix | 16mm | LYA-260174 | 16009 | 1/13/28 | Used 10/7 |  |
+| Grafix | 16mm | LYA-260174 | 16010 | 1/13/28 | Used 10/7 |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
+| Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
 | Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
 | Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
 | Grafix | 16mm | TBD (shipped 10/5) |  | TBD | On shelf |  |
