@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 6:40 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 7:20 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
@@ -113,7 +113,7 @@
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50): LYU-260453_36006, LYU-260453_36007. PO PO006010271 (Owens & Minor) received 10/7, $5,311. Ready to submit |
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s visit Thu 10/8 (A3), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
 | 10/9 | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | 5-piece WCC stock order 10/9 on PO006025726 (FedEx Priority 10:30, 519100066123): 5x5 x2 $2,500 + 16mm x2 $425.50 + 1.5x2 x1 $780 = $6,631. PO-only, no case sheet; serials from the shelf once it lands. Shipped order, invoices on its own. Covers K.P.'s 5x5 (10/15, 10/29) and P.J./W.K. 16mm on 10/15; the 1.5x2 has no projected use yet |
-| 10/9 | R.C. | A2 10/9: 3x4 LYA-250008_34006 (exp 12/18/26), $1,020, to be billed to Central DuPage: PO to come. It came off the Alexian WCC consignment shelf, so record the transfer. Case sheet made 10/9 |
+| 10/9 | R.C. | A2 10/9: 3x4 LYA-250008_34006 (exp 12/18/26), $1,020, to be billed to Central DuPage: PO to come. Transferred from the Alexian WCC consignment shelf; transport log filled 10/9. Case sheet made 10/9 |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00): LYU-250611_36004, LYU-250611_36005 (exp 4/1/27), LYU-251530_36001 (exp 7/21/27). Bill Only PO-1000931284 (10/8) received 10/9: 3 x PS61036 at $2,469, Patient ID 5010505361181, Dr. McKanna, DOS 10/7, buyer Kurt Bowman. Ready to submit |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. Ready to submit |
@@ -370,7 +370,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | Grafix | 3x4 | LYA-250008 | 34002 | 12/18/26 | On shelf | Expires before use |
 | Grafix | 3x4 | LYA-250008 | 34005 | 12/18/26 | On shelf | Expires before use |
 | Grafix | 3x4 | LYA-250008 | 34004 | 12/18/26 | On shelf | Expires before use |
-| Grafix | 3x4 | LYA-250008 | 34006 | 12/18/26 | Used 10/9 | R.C. at Central DuPage (transfer) |
+| Grafix | 3x4 | LYA-250008 | 34006 | 12/18/26 | Used 10/9 | Transferred to Central DuPage for R.C. (transport log 10/9) |
 | Grafix | 5x5 | LYA-250866 | 55009 | 11/3/27 | On shelf |  |
 | Grafix | 5x5 | LYA-250866 | 55013 | 11/3/27 | On shelf |  |
 | Grafix | 5x5 | LYA-250866 | 55014 | 11/3/27 | On shelf |  |
