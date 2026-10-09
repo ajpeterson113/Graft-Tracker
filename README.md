@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 10:35 AM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 3:05 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
@@ -125,15 +125,15 @@
 |  | Upside | Downside |
 | --- | ---: | ---: |
 | Current October sales | $65,325.20 | $65,325.20 |
-| + Projected Grafix, net of WCC stock | $47,150.00 | $37,885.50 |
+| + Projected Grafix, net of WCC stock | $46,430.00 | $37,525.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts | $11,346.00 | $3,420.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$140,994.08** | **$114,273.65** |
+| **Projected P10 total** | **$140,274.08** | **$113,913.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 109.3% | 88.6% |
-| Gap to target | $0.00 (over by $11,979.08) | $14,741.35 |
-| **Projected commission** | **$14,099.41** (10%) | **$7,999.16** |
+| % of target | 108.7% | 88.3% |
+| Gap to target | $0.00 (over by $11,259.08) | $15,101.35 |
+| **Projected commission** | **$14,027.41** (10%) | **$7,973.96** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -143,7 +143,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | --- | ---: | ---: | ---: | ---: | ---: |
 | Good Sam | $21,152.75 | $17,389.65 | $8,805.50 | **$38,542.40** | **$29,958.25** |
 | Central DuPage | $12,940.00 | $26,070.00 | $21,650.00 | **$39,010.00** | **$34,590.00** |
-| Alexian WCC | $6,600.00 | $13,077.73 | $10,527.45 | **$19,677.73** | **$17,127.45** |
+| Alexian WCC | $6,600.00 | $12,357.73 | $10,167.45 | **$18,957.73** | **$16,767.45** |
 | St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
 | NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
 | St. Joseph Elgin | $3,741.50 | $4,221.00 | $0.00 | **$7,962.50** | **$3,741.50** |
@@ -153,7 +153,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
-| **Total** | **$65,325.20** | **$75,668.88** | **$48,948.45** | **$140,994.08** | **$114,273.65** |
+| **Total** | **$65,325.20** | **$74,948.88** | **$48,588.45** | **$140,274.08** | **$113,913.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -175,7 +175,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian WCC | Joshi | A.N. | 1× 16mm | Weekly | 3 | 3 | $1,080.00 | same | $1,080.00 |
 | Alexian WCC | Adelstein | D.C. | 1× 16mm | Weekly | 5 | 3 (stops at 8) | $1,080.00 | 16mm × 1 | $360.00 |
 | Alexian WCC | Hussain | A.P. | 1× 16mm | Weekly (A4 10/7 sold) | 4 | 3 | $1,080.00 | same | $1,080.00 |
-| Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 2 (stops at 8) | $720.00 | 16mm × 1 | $360.00 |
+| Alexian WCC | Ramani | V.D. | 1× 16mm | Weekly | 6 | 0 (done 10/9) | $0.00 | – | $0.00 |
 | Central DuPage | Luetkehans | R.C. | 3× 5x5 | Weekly from 10/16 + 10/30 order (wk of 11/2); 10/9 sold | 1 | 4 | $25,500.00 | 2x 5x5 + 1x 3x4 × 4 | $21,080.00 |
 | Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly · on hold, back 10/13 | 1 | 3 | $570.00 | stays on hold | $0.00 |
 | Romano Lombard | Rojas | M.W. | 1× 16mm | Weekly | 1 | 3 | $570.00 | same | $570.00 |
@@ -261,12 +261,12 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 
 **52 Grafix units on hand · $59,891 consignment** · targets: 16mm 10–15, other Grafix sizes 5–10 (a few over is fine)
 
-- 🟠 **16mm: 9 on hand (target 10–15).** 4 used 10/6 (T.T., J.L., D.G., A.N.) and 2 on 10/7 (A.P., M.L., lot LYA-260174 from the 10/5 shipment). V.D. today makes about 8 left; D.C. was held 10/8. Order about 7 to get back to 15.
+- 🟠 **16mm: 9 on hand (target 10–15).** 4 used 10/6 (T.T., J.L., D.G., A.N.) and 2 on 10/7 (A.P., M.L., lot LYA-260174 from the 10/5 shipment). V.D. finished 10/9 and D.C. was held 10/8, so 9 stays through the weekend. Order about 6 to get back to 15.
 - 🟠 **8 × 3x4 expire 12/18/26:** no Alexian patient is on 3x4 ($9,120 of consignment).
 
 | Product | Size | REF | On hand | Patients | Use / wk | Weeks left | Runs out (wk of) | Status | Order (boxes) | Next expiry |
 | --- | --- | --- | ---: | ---: | ---: | ---: | --- | --- | ---: | --- |
-| Grafix | 16mm | PS13016 | 9 | 8 | 8 | 1.1 | 10/12 | 🟠 Below target (10–15) | – | 1/13/28 |
+| Grafix | 16mm | PS13016 | 9 | 7 | 7 | 1.3 | 10/12 | 🟠 Below target (10–15) | – | 1/13/28 |
 | Grafix | 1.5x2 | PS13015 | 8 | – | – |  |  | No patients on it (target 5–10) | – | 6/18/27 |
 | Grafix | 2x3 | PS13023 | 10 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
 | Grafix | 3x3 | PS13033 | 5 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
@@ -289,7 +289,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | M.L. | Joshi | Grafix | 16mm | 1 | Active | 1 |  |
 | A.P. | Hussain | Grafix | 16mm | 1 | Active | 1 |  |
 | D.C. | Adelstein | Grafix | 16mm | 1 | Active | 1 | Down to 16mm as of 9/24; held 10/8 |
-| V.D. | Ramani | Grafix | 16mm | 1 | Active | 1 | Down to 16mm as of 10/2 |
+| V.D. | Ramani | Grafix | 16mm | 1 | Done | – | Done 10/9 after 6 applications |
 | O.O. | V | Grafix | TBD | 1 | Starting | – | Potential new start, first visit 10/6. Size not set yet, so not counted |
 | J.C. | Joshi | Grafix | 16mm | 1 | Approved | – | Waiting on Mohs surgery |
 | X.S. | Robinson | Grafix | TBD | 1 | Pending | – | IVR not submitted; size not set |
