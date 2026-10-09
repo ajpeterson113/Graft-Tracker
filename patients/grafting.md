@@ -111,7 +111,7 @@ Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Fri 10/16 | **Grafting** | R.C. | Dr. Luetkehans | GRAFIX (3) 5x5 | 🟢 2 | 10/9 | A2 10/9 at Good Sam: 2 x 5x5 + 1 x 3x4. Lot/SNs and case sheet to come. 3 x 5x5 each week (10/2 on PO RC100226, 10/9 on PO RC100926). A 4th 5x5 is at the clinic as WFNU (waiting for notification of use): not on a PO, billed only if used. |  |
+| Fri 10/16 | **Grafting** | R.C. | Dr. Luetkehans | GRAFIX (3) 5x5 | 🟢 2 | 10/9 | A2 10/9: 2 x 5x5 + 1 x 3x4 (one 5x5 from the RC100926 order left at the clinic). Lot/SNs and case sheet to come. 3 x 5x5 each week (10/2 on PO RC100226, 10/9 on PO RC100926). A 4th 5x5 is at the clinic as WFNU (waiting for notification of use): not on a PO, billed only if used. |  |
 | Fri 10/16 | **Grafting** | <details><summary>A.S.</summary>Antanas Sabaluauskas</details> | Dr. Luetkehans | GRAFIX 16mm | 🟢 1 | 10/9 | A1 10/9: 16mm (sale order on PO AS100926). Weekly 16mm; next 10/16. Lot/SN and case sheet to come. |  |
 
 
