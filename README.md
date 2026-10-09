@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 7:25 PM CT · [👥 Patients dashboard](Patients.md)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/8/26, 7:40 PM CT · [👥 Patients dashboard](Patients.md)
 
 ## October
 
@@ -123,13 +123,13 @@
 | Current October sales | $64,605.20 | $64,605.20 |
 | + Projected Grafix, net of WCC stock | $47,870.00 | $38,605.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
-| + Potential new starts (upside only) | $4,221.00 | $0.00 |
+| + Potential new starts | $11,346.00 | $3,420.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$133,869.08** | **$110,853.65** |
+| **Projected P10 total** | **$140,994.08** | **$114,273.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 103.8% | 85.9% |
-| Gap to target | $0.00 (over by $4,854.08) | $18,161.35 |
-| **Projected commission** | **$13,386.91** (10%) | **$7,759.76** |
+| % of target | 109.3% | 88.6% |
+| Gap to target | $0.00 (over by $11,979.08) | $14,741.35 |
+| **Projected commission** | **$14,099.41** (10%) | **$7,999.16** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -148,8 +148,8 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Alexian Ambulatory | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
-| Romano Lombard | $190.00 | $570.00 | $570.00 | **$760.00** | **$760.00** |
-| **Total** | **$64,605.20** | **$69,263.88** | **$46,248.45** | **$133,869.08** | **$110,853.65** |
+| Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
+| **Total** | **$64,605.20** | **$76,388.88** | **$49,668.45** | **$140,994.08** | **$114,273.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -186,11 +186,12 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | St. Alexius | OR stock | Not counted (10/8) | Stravix 2x4 restock — not counting on the OR ordering; add back only if a PO comes in | – | – |
 | GlenOaks | Reed | Possible, this week or next | Stravix, size TBD | – | – |
 
-**Potential new starts (upside only)**
+**Potential new starts**
 
 | Account | Surgeon | Pt | Plan | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: |
 | St. Joseph Elgin | Pappas | P.H. | Approved 100%. A1 10/13: two Grafix 3x3 already bought (no new sale). 10/20 and 10/27: 3x4 ($1,210.50) + 2x3 ($900) each visit | $4,221.00 | – |
+| Romano Lombard | Rojas | ?? | Starts next week (initials TBD). Weekly from 10/14: 5x5 ($2,375) upside, 3x4 ($1,140) downside | $7,125.00 | $3,420.00 |
 
 **OASIS reorders (estimated, by the box)**
 

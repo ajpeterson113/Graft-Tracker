@@ -1,10 +1,10 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/8/26, 7:25 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/8/26, 7:40 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
-<table><tr><td width="100%"><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/Patients.md">All Patients (87)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/grafting.md">Grafting (33)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (9)</a> · <b>Potential New Start (9)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/on-hold.md">On hold (9)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (18)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (5)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (2)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (3)</a> · <a href="#alexian-wcc">Alexian WCC (2)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (1)</a> · <a href="#st-joseph-elgin">St. Joseph Elgin (2)</a> · <a href="#central-dupage">Central DuPage (1)</a></td></tr></table>
+<table><tr><td width="100%"><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/Patients.md">All Patients (88)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/grafting.md">Grafting (33)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (9)</a> · <b>Potential New Start (10)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/on-hold.md">On hold (9)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (18)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (5)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (2)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (3)</a> · <a href="#alexian-wcc">Alexian WCC (2)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (1)</a> · <a href="#st-joseph-elgin">St. Joseph Elgin (2)</a> · <a href="#central-dupage">Central DuPage (1)</a> · <a href="#romano-lombard">Romano Lombard (1)</a></td></tr></table>
 
 🟢 0–9 · 🟡 10–11 · 🔴 12+ applications
 
@@ -73,3 +73,13 @@ Updated 10/8/26, 7:25 PM CT · [⬇ Download the patient list (Excel)](https://g
 </details>
 
 
+<a name="romano-lombard"></a>
+<details open><summary><b>Romano Lombard · 1</b></summary>
+
+
+| Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
+|---|---|---|---|---|---|---|---|---|
+| Week of 10/12 (TBD) | **Potential New Start** | ?? | Dr. Rojas | GRAFIX 5x5 (suggested) | 🟢 0 |  | Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 ($2,375) upside, 3x4 ($1,140) downside. Romano pricing $95/cm2. |  |
+
+
+</details>
