@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 4:45 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 5:55 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 13 · **🟡 Waiting on a PO:** 2 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 23
+**🟢 Ready to submit to SFDC:** 13 · **🟡 Waiting on a PO:** 2 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 23
 
 ### 🟢 Ready to submit to SFDC  (13 · $23,457.50)
 
@@ -31,11 +31,12 @@
 | 9/16 | A.P. | Alexian WCC | Hussain | Grafix 1.5x2 | LYA-250733_15013 | $600.00 |  | [📄](case-sheets/ap-0916.md) |
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 
-### Submitted, not in SFDC yet  (1 · $360.00)
+### Submitted, not in SFDC yet  (2 · $6,991.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
+| 10/9 |  | Good Sam |  | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) |  | $6,631.00 | PO006025726 |  |
 
 ### ⚪ In SFDC  (23 · $40,547.70)
 
@@ -110,6 +111,7 @@
 | 10/6 | A.N. | App #4. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50): LYU-260453_36006, LYU-260453_36007. PO PO006010271 (Owens & Minor) received 10/7, $5,311. Ready to submit |
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s visit Thu 10/8 (A3), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
+| 10/9 | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | 5-piece WCC stock order 10/9 on PO006025726 (FedEx Priority 10:30, 519100066123): 5x5 x2 $2,500 + 16mm x2 $425.50 + 1.5x2 x1 $780 = $6,631. PO-only, no case sheet; serials from the shelf once it lands. Shipped order, invoices on its own. Covers K.P.'s 5x5 (10/15, 10/29) and P.J./W.K. 16mm on 10/15; the 1.5x2 has no projected use yet |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00): LYU-250611_36004, LYU-250611_36005 (exp 4/1/27), LYU-251530_36001 (exp 7/21/27). Bill Only PO-1000931284 (10/8) received 10/9: 3 x PS61036 at $2,469, Patient ID 5010505361181, Dr. McKanna, DOS 10/7, buyer Kurt Bowman. Ready to submit |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. Ready to submit |
@@ -124,16 +126,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $65,325.20 | $65,325.20 |
-| + Projected Grafix, net of WCC stock | $46,430.00 | $37,525.50 |
+| Current October sales | $71,956.20 | $71,956.20 |
+| + Projected Grafix, net of WCC stock | $40,579.00 | $36,674.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts | $11,346.00 | $3,420.00 |
 | + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$140,274.08** | **$113,913.65** |
+| **Projected P10 total** | **$141,054.08** | **$119,693.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 108.7% | 88.3% |
-| Gap to target | $0.00 (over by $11,259.08) | $15,101.35 |
-| **Projected commission** | **$14,027.41** (10%) | **$7,973.96** |
+| % of target | 109.3% | 92.8% |
+| Gap to target | $0.00 (over by $12,039.08) | $9,321.35 |
+| **Projected commission** | **$14,105.41** (10%) | **$8,378.56** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -141,7 +143,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 | Account | Sold | Projected upside | Projected downside | P10 upside | P10 downside |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Good Sam | $21,152.75 | $17,389.65 | $8,805.50 | **$38,542.40** | **$29,958.25** |
+| Good Sam | $27,783.75 | $11,538.65 | $7,954.50 | **$39,322.40** | **$35,738.25** |
 | Central DuPage | $12,940.00 | $26,070.00 | $21,650.00 | **$39,010.00** | **$34,590.00** |
 | Alexian WCC | $6,600.00 | $12,357.73 | $10,167.45 | **$18,957.73** | **$16,767.45** |
 | St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
@@ -153,7 +155,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
-| **Total** | **$65,325.20** | **$74,948.88** | **$48,588.45** | **$140,274.08** | **$113,913.65** |
+| **Total** | **$71,956.20** | **$69,097.88** | **$47,737.45** | **$141,054.08** | **$119,693.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -214,13 +216,14 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 ## Good Sam WCC stock
 
-Shelf count 10/6, updated 10/8 (P.J. used 3 × 16mm, L.D. the 1.5x2 and D.F. her 5x5 on 10/8). Already sold, so projected visits that use it aren't counted twice (offset in the projection).
+Shelf count 10/6, updated 10/8 (P.J. used 3 × 16mm, L.D. the 1.5x2 and D.F. her 5x5 on 10/8), plus the 10/9 order on PO006025726 (2 × 5x5, 2 × 16mm, 1 × 1.5x2, FedEx 519100066123). Already sold, so projected visits that use it aren't counted twice (offset in the projection).
 
 | Product | Size | On hand | Lot / SN | Expiry | Note |
 | --- | --- | ---: | --- | --- | --- |
-| Grafix | 16mm | 2 | from LYA-260176_16009–_16012, LYA-260108_16012 (which 3 were used 10/8 TBD) | 1/13/28 | P.J. used 3 on 10/8; 2 left toward his 10/15 visit |
+| Grafix | 5x5 | 2 (shipped 10/9) | PO006025726, serials TBD | TBD | K.P. 10/15 and 10/29 |
+| Grafix | 16mm | 2 + 2 shipped 10/9 | from LYA-260176_16009–_16012, LYA-260108_16012 (which 3 were used 10/8 TBD); PO006025726 serials TBD | 1/13/28 | P.J. (3) and W.K. (1) on 10/15 |
 | Grafix | 3x4 | 4 | LYA-250567_34002, _34003; LYA-250353_34003, _34004 | 6/9/27; 3/24/27 | K.P. (biweekly) and D.F. (weekly from 10/15) |
-| Grafix | 1.5x2 | 0 | LYA-260117_15005 used 10/8 | 1/13/28 | L.D.'s last application (she's done) |
+| Grafix | 1.5x2 | 1 (shipped 10/9) | PO006025726, serial TBD | TBD | L.D. used the last one 10/8; no patient on 1.5x2 yet |
 | OASIS Wound Matrix | 3x3.5 | 3 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. used 1 on 10/6 (A6); 1 a week; reorder estimate 1 box (upside) |
 | OASIS Ultra | 7x10 meshed | 3 sheets | box of 5 (PO005986967, 10/2) | | L.J. used 2 on 10/7 (A1); next box in upside |
 
