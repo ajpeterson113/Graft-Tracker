@@ -1,16 +1,15 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 7:45 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 8:05 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 12 · **🟡 Waiting on a PO:** 3 · **Submitted, not in SFDC yet:** 2 · **⚪ In SFDC:** 24
+**🟢 Ready to submit to SFDC:** 11 · **🟡 Waiting on a PO:** 3 · **Submitted, not in SFDC yet:** 3 · **⚪ In SFDC:** 24
 
-### 🟢 Ready to submit to SFDC  (12 · $20,988.50)
+### 🟢 Ready to submit to SFDC  (11 · $18,373.50)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
-| 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 | 712062882 | [📄](case-sheets/tw-0925.md) |
 | 9/28 | P.C. | Elmhurst | McGann | Stravix 3x6 | LYU-251987_36003 | $3,115.50 | P2325870 | [📄](case-sheets/pc-0928.md) |
 | 9/29 | Y.L. | Suburban F&A | Grinberg | Grafix 16mm | LYA-260138_16034 | $190.00 | YL092926 | [📄](case-sheets/yl-0929.md) |
 | 10/2 | V.D. | Alexian WCC | Ramani | Grafix 16mm | LYA-260159_16004 | $360.00 | …284466 | [📄](case-sheets/vd-1002.md) |
@@ -31,10 +30,11 @@
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 3x4 (A2, billed separately) | LYA-250008_34006 | $1,020.00 |  | [📄](case-sheets/rc-1009-3x4.md) |
 
-### Submitted, not in SFDC yet  (2 · $6,991.00)
+### Submitted, not in SFDC yet  (3 · $9,606.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
+| 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 | 712062882 | [📄](case-sheets/tw-0925.md) |
 | 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
 | 10/9 |  | Good Sam |  | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) |  | $6,631.00 | PO006025726 |  |
 
@@ -84,7 +84,7 @@
 | 9/16 | A.P. | App #1 of 3 (10/2 list). No PO yet (Patient ID per Sept tab) |
 | 9/22 | T.T. | App #5 of 6 (Alexian application log). In SFDC: inv 0985784425 on PO ...283378 (billing corrected 9/30). Patient ID 0003008184, PS13015 1.5x2 $600 |
 | 9/22 | A.N. | App #2 of 3 (10/2 list). In SFDC: inv 0985785270 on PO ...283433. Patient ID 0002817866 = A.N. |
-| 9/25 | T.W. | OR case 9/25 at St. Joseph Elgin. Bill Only PO 712062882-0-BO (PO date 9/25) received 10/9: 1 x PS61036 at $2,615, proc date 9/25, patient ID ***2296, practitioner listed as Adam Bryniczka. Prime Healthcare vendor acct 296620; acknowledgement required. Ready to submit |
+| 9/25 | T.W. | OR case 9/25 at St. Joseph Elgin. Bill Only PO 712062882-0-BO (PO date 9/25) received 10/9: 1 x PS61036 at $2,615, proc date 9/25, patient ID ***2296, practitioner listed as Adam Bryniczka. Prime Healthcare vendor acct 296620; acknowledgement required. Submitted 10/9, not in SFDC yet |
 | 9/28 | P.C. | OR case 9/28 at Elmhurst (Dr. McGann). PO P2325870 received 10/6 and written on the case sheet. Ready to submit |
 | 9/29 | D.G. | App #2 of 2 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
 | 9/29 | T.T. | App #6 of 6 (Alexian application log). #7 expected 10/6. Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab). In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
