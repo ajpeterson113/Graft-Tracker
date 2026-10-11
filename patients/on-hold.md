@@ -1,10 +1,10 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/11/26, 5:45 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
-<table><tr><td width="100%"><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/Patients.md">All Patients (88)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/grafting.md">Grafting (33)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (9)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-new-start.md">Potential New Start (9)</a> · <b>On hold (9)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (18)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (6)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (2)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (1)</a> · <a href="#alexian-wcc">Alexian WCC (1)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (6)</a> · <a href="#suburban-f-a">Suburban F&A (1)</a></td></tr></table>
+<table><tr><td width="100%"><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/Patients.md">All Patients (88)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/grafting.md">Grafting (34)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (9)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-new-start.md">Potential New Start (9)</a> · <b>On hold (8)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (18)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (6)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (2)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (1)</a> · <a href="#alexian-wcc">Alexian WCC (1)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (5)</a> · <a href="#suburban-f-a">Suburban F&A (1)</a></td></tr></table>
 
 🟢 0–9 · 🟡 10–11 · 🔴 12+ applications
 
@@ -34,17 +34,16 @@ Updated 10/8/26, 8:20 PM CT · [⬇ Download the patient list (Excel)](https://g
 
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&A · 6</b></summary>
+<details open><summary><b>NW Suburban F&A · 5</b></summary>
 
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-|  | On hold | G.K. | Dr. Adelstein |  |  |  | Verify status with Chris (not on NWSFA schedule wk of 10/5) |  |
-|  | On hold | <details><summary>J.R.</summary>James Roshbach</details> | Dr. Goldkind | GRAFIX 16mm | 🟢 6 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5) |  |
-|  | On hold | <details><summary>R.D.</summary>Roosevelt Dunlap</details> | Dr. Hussain | OASIS Ultra 3x3.5 | 🟡 10 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5) |  |
-|  | On hold | <details><summary>J.C.</summary>Jeffrey Chase</details> | Dr. Hussain | Oasis Ultra 7x20 | 🔴 12 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5). Last 7/27/26 |  |
-|  | On hold | <details><summary>J.S.</summary>John Snyder</details> | Dr. Hussain | GRAFIX 2x3 | 🟡 11 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5) |  |
-|  | On hold | <details><summary>S.B.</summary>Shirley Ballard</details> | Home Visit | OASIS Ultra 3x3.5 | 🟡 11 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5). Home visit patient |  |
+|  | On hold | <details><summary>J.R.</summary>James Roshbach</details> | Dr. Goldkind | GRAFIX 16mm | 🟢 6 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |  |
+|  | On hold | <details><summary>R.D.</summary>Roosevelt Dunlap</details> | Dr. Hussain | OASIS Ultra 3x3.5 | 🟡 10 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |  |
+|  | On hold | <details><summary>J.C.</summary>Jeffrey Chase</details> | Dr. Hussain | Oasis Ultra 7x20 | 🔴 12 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Last 7/27/26 |  |
+|  | On hold | <details><summary>J.S.</summary>John Snyder</details> | Dr. Hussain | GRAFIX 2x3 | 🟡 11 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |  |
+|  | On hold | <details><summary>S.B.</summary>Shirley Ballard</details> | Home Visit | OASIS Ultra 3x3.5 | 🟡 11 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Home visit patient |  |
 
 
 </details>

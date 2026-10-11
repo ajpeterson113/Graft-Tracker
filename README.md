@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 5:30 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 5:45 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
@@ -132,12 +132,12 @@
 | + Projected Grafix, net of WCC stock | $34,034.00 | $28,174.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts | $11,346.00 | $3,420.00 |
-| + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$135,529.08** | **$112,213.65** |
+| + OASIS reorders (estimated) | $16,231.88 | $6,701.95 |
+| **Projected P10 total** | **$137,057.08** | **$113,741.65** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 105.0% | 87.0% |
-| Gap to target | $0.00 (over by $6,514.08) | $16,801.35 |
-| **Projected commission** | **$13,552.91** (10%) | **$7,854.96** |
+| % of target | 106.2% | 88.2% |
+| Gap to target | $0.00 (over by $8,042.08) | $15,273.35 |
+| **Projected commission** | **$13,705.71** (10%) | **$7,961.92** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -149,7 +149,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Central DuPage | $13,960.00 | $19,525.00 | $13,150.00 | **$33,485.00** | **$27,110.00** |
 | Alexian WCC | $6,600.00 | $12,357.73 | $10,167.45 | **$18,957.73** | **$16,767.45** |
 | St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
-| NW Suburban F&A | $2,088.25 | $4,176.50 | $1,506.50 | **$6,264.75** | **$3,594.75** |
+| NW Suburban F&A | $2,088.25 | $5,704.50 | $3,034.50 | **$7,792.75** | **$5,122.75** |
 | St. Joseph Elgin | $3,741.50 | $4,221.00 | $0.00 | **$7,962.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
 | Suburban F&A | $190.00 | $570.00 | $0.00 | **$760.00** | **$190.00** |
@@ -157,7 +157,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
-| **Total** | **$72,976.20** | **$62,552.88** | **$39,237.45** | **$135,529.08** | **$112,213.65** |
+| **Total** | **$72,976.20** | **$64,080.88** | **$40,765.45** | **$137,057.08** | **$113,741.65** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -206,7 +206,8 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Account | Patients | Product | Size | Boxes up | Boxes down | Box price | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | NW Suburban F&A | C.C. (R.D., S.B. on hold) | OASIS Ultra | 3x3.5 | 2 | 0 | $771.75 | $1,543.50 | $0.00 |
-| NW Suburban F&A | J.M., P.M., C.T., E.P. | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
+| NW Suburban F&A | J.M., P.M., C.T., E.P. (+ L.W. from 10/15) | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
+| NW Suburban F&A | M.Z. (L) (clinic asked us to order, list wk of 10/12) | OASIS Ultra | 5x7 | 1 | 1 | $1,528.00 | $1,528.00 | $1,528.00 |
 | Alexian WCC | D.V. (started 10/7, 3 a visit) | OASIS Wound Matrix | 3x7 | 1 | 1 | $2,206.00 | $2,206.00 | $2,206.00 |
 | Alexian WCC | J.B. | OASIS Burn Matrix | 3x7 | 1 | 0 | $1,470.28 | $1,470.28 | $0.00 |
 | Alexian WCC | B.P. (new start 10/5) | OASIS Burn Matrix | 5x7 meshed | 1 | 1 | $1,841.45 | $1,841.45 | $1,841.45 |
