@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/9/26, 8:05 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 5:30 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 11 · **🟡 Waiting on a PO:** 3 · **Submitted, not in SFDC yet:** 3 · **⚪ In SFDC:** 24
+**🟢 Ready to submit to SFDC:** 11 · **🟡 Waiting on a PO:** 3 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 26
 
 ### 🟢 Ready to submit to SFDC  (11 · $18,373.50)
 
@@ -30,15 +30,13 @@
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 3x4 (A2, billed separately) | LYA-250008_34006 | $1,020.00 |  | [📄](case-sheets/rc-1009-3x4.md) |
 
-### Submitted, not in SFDC yet  (3 · $9,606.00)
+### Submitted, not in SFDC yet  (1 · $2,615.00)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 | 712062882 | [📄](case-sheets/tw-0925.md) |
-| 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
-| 10/9 |  | Good Sam |  | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) |  | $6,631.00 | PO006025726 |  |
 
-### ⚪ In SFDC  (24 · $43,016.70)
+### ⚪ In SFDC  (26 · $50,007.70)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
@@ -46,6 +44,7 @@
 | 9/11 | N.W. | St. Alexius | Bryniczka | Stravix 2x4 | LYU-242364_24002 | $1,553.10 | 660080000211873 | [📄](case-sheets/nw-0911.md) |
 | 9/22 | T.T. | Alexian WCC | Lucas | Grafix 1.5x2 | LYA-260066_15012 | $600.00 | …283378 | [📄](case-sheets/tt-0922.md) |
 | 9/22 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260017_16012 | $360.00 | …283433 | [📄](case-sheets/an-0922.md) |
+| 9/29 | M.L. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16032 | $360.00 | …283975 | [📄](case-sheets/ml-0929.md) |
 | 9/29 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260138_16033 | $360.00 | …283952 | [📄](case-sheets/an-0929.md) |
 | 9/29 | G.G. | St. Alexius | Goldkind | Stravix 2x4 | LYU-242364_24001 | $1,553.10 | 660080000212141 | [📄](case-sheets/gg-0929.md) |
 | 9/29 | D.G. | Alexian WCC | Lucas | Grafix 16mm | LYA-260017_16016 | $360.00 | …283949 | [📄](case-sheets/dg-0929.md) |
@@ -65,6 +64,7 @@
 | 10/8 | D.F. | Good Sam | Luetkehans | Grafix 5x5 (Good Sam PO, A3) |  | $2,500.00 | PO006001505 |  |
 | 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5; 2 used 10/9, 1 kept for 10/16) | LYA-260337_55005, LYA-260335_55004 | $6,375.00 | RC100926 | [📄](case-sheets/rc-1009.md) |
 | 10/9 | A.S. | Central DuPage | Luetkehans | Grafix 16mm (new, sale order 10/7) |  | $190.00 | AS100926 |  |
+| 10/9 |  | Good Sam |  | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | LYA-260353_55004, LYA-260206_16003, LYA-260132_15013 (+2) | $6,631.00 | PO006025726 |  |
 | 10/12 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/6) |  | $190.00 | PS101226 |  |
 
 ### Clinic stock used, no new sale  (1)
@@ -89,7 +89,7 @@
 | 9/29 | D.G. | App #2 of 2 (10/2 list). Case sheet on file. PO confirmed: Patient ID 0002861662 = D.G. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
 | 9/29 | T.T. | App #6 of 6 (Alexian application log). #7 expected 10/6. Case sheet on file. PO confirmed: Patient ID 0003008184 = T.T. (Sept tab). In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
 | 9/29 | J.L. | App #1 of 1 (10/2 list). Case sheet on file (initials J.L., not L.J. as on the receiving log). PO by elimination: the other two Lucas 9/29 POs are confirmed to D.G. and T.T. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). |
-| 9/29 | M.L. | App #1 of 1 (10/2 list). PO SWITCHED: submitted 10/8 on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952 (M.L.'s PO). Not in SFDC yet |
+| 9/29 | M.L. | App #1 of 1 (10/2 list). PO SWITCHED: submitted 10/8 on ...283975 (A.N.'s PO, Patient ID 0002817866) because A.N. was billed on ...283952 (M.L.'s PO). In SFDC: inv 0985813797 (10/9) |
 | 9/29 | A.N. | App #3 of 3 (10/2 list). PO SWITCHED: billed on ...283952 (inv 0985785272), which was M.L.'s PO (Patient ID 0003052747). A.N.'s own PO ...283975 now sits on M.L. In SFDC |
 | 9/29 | Y.L. | PO on case sheet |
 | 9/29 | G.G. | Bill & replace (St. Alexius): replacement Stravix 2x4 (PS61024) shipped 10/5 on PO 660080000212141 (same PO as the Grafix 5x5 restock). Case sheet unit used: LYU-242364_24001, $1,553.10. SFDC will show the replacement serial. In SFDC 10/5 (SFDC P10 report: $25,298, 46 units) |
@@ -112,7 +112,7 @@
 | 10/6 | A.N. | App #4. Case sheet on file. Waiting on the Alexian PO |
 | 10/6 | C.L. | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x Stravix 3x6 (2 x $2,655.50): LYU-260453_36006, LYU-260453_36007. PO PO006010271 (Owens & Minor) received 10/7, $5,311. Ready to submit |
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s visit Thu 10/8 (A3), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
-| 10/9 | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | 5-piece WCC stock order 10/9 on PO006025726 (FedEx Priority 10:30, 519100066123): 5x5 x2 $2,500 + 16mm x2 $425.50 + 1.5x2 x1 $780 = $6,631. PO-only, no case sheet; serials from the shelf once it lands. Shipped order, invoices on its own. Covers K.P.'s 5x5 (10/15, 10/29) and P.J./W.K. 16mm on 10/15; the 1.5x2 has no projected use yet |
+| 10/9 | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | 5-piece WCC stock order 10/9 on PO006025726 (FedEx Priority 10:30, 519100066123): 5x5 x2 $2,500 + 16mm x2 $425.50 + 1.5x2 x1 $780 = $6,631. PO-only, no case sheet; serials from the shelf once it lands. Shipped order, invoices on its own. Covers K.P.'s 5x5 (10/15, 10/29) and P.J./W.K. 16mm on 10/15; the 1.5x2 has no projected use yet. In SFDC: inv 0985817049 (10/9); serials 5x5 LYA-260353_55004 (+1), 16mm LYA-260206_16003 (+1), 1.5x2 LYA-260132_15013 |
 | 10/9 | R.C. | A2 10/9: 3x4 LYA-250008_34006 (exp 12/18/26), $1,020, to be billed to Central DuPage: PO to come. Transferred from the Alexian WCC consignment shelf; transport log filled 10/9. Case sheet made 10/9 |
 | 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00): LYU-250611_36004, LYU-250611_36005 (exp 4/1/27), LYU-251530_36001 (exp 7/21/27). Bill Only PO-1000931284 (10/8) received 10/9: 3 x PS61036 at $2,469, Patient ID 5010505361181, Dr. McKanna, DOS 10/7, buyer Kurt Bowman. Ready to submit |
@@ -222,10 +222,10 @@ Shelf count 10/6, updated 10/8 (P.J. used 3 × 16mm, L.D. the 1.5x2 and D.F. her
 
 | Product | Size | On hand | Lot / SN | Expiry | Note |
 | --- | --- | ---: | --- | --- | --- |
-| Grafix | 5x5 | 2 (shipped 10/9) | PO006025726, serials TBD | TBD | K.P. 10/15 and 10/29 |
-| Grafix | 16mm | 2 + 2 shipped 10/9 | from LYA-260176_16009–_16012, LYA-260108_16012 (which 3 were used 10/8 TBD); PO006025726 serials TBD | 1/13/28 | P.J. (3) and W.K. (1) on 10/15 |
+| Grafix | 5x5 | 2 (shipped 10/9) | PO006025726: LYA-260353_55004 + 1 more | TBD | K.P. 10/15 and 10/29 |
+| Grafix | 16mm | 2 + 2 shipped 10/9 | from LYA-260176_16009–_16012, LYA-260108_16012 (which 3 were used 10/8 TBD); PO006025726: LYA-260206_16003 + 1 more | 1/13/28 | P.J. (3) and W.K. (1) on 10/15 |
 | Grafix | 3x4 | 4 | LYA-250567_34002, _34003; LYA-250353_34003, _34004 | 6/9/27; 3/24/27 | K.P. (biweekly) and D.F. (weekly from 10/15) |
-| Grafix | 1.5x2 | 1 (shipped 10/9) | PO006025726, serial TBD | TBD | L.D. used the last one 10/8; no patient on 1.5x2 yet |
+| Grafix | 1.5x2 | 1 (shipped 10/9) | LYA-260132_15013 (PO006025726) | TBD | L.D. used the last one 10/8; no patient on 1.5x2 yet |
 | OASIS Wound Matrix | 3x3.5 | 3 sheets | LB1641553 (box of 10) | 7/28/27 | I.S. used 1 on 10/6 (A6); 1 a week; reorder estimate 1 box (upside) |
 | OASIS Ultra | 7x10 meshed | 3 sheets | box of 5 (PO005986967, 10/2) | | L.J. used 2 on 10/7 (A1); next box in upside |
 
