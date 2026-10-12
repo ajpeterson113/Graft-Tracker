@@ -267,7 +267,7 @@ Count from AJ 10/8 (after F.M.'s 10/7 case). Each unit used is billed on a Bill 
 
 ## Alexian WCC stock
 
-Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos); 10 × 16mm restock shipped 10/5 (no PO; lot/SN/expiry TBD until unpacked). Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
+Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry to come with the photos); 10 × 16mm restock shipped 10/5 (no PO; lot/SN/expiry TBD until unpacked). OASIS sheet counts rolled forward 10/12 for last week's use. Grafix on hand drops by itself as Alexian cases are filed (lot + SN). Use per week = active and starting patients at their current size.
 
 **51 Grafix units on hand · $58,751 consignment** · targets: 16mm 10–15, other Grafix sizes 5–10 (a few over is fine)
 
@@ -282,11 +282,11 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | Grafix | 3x3 | PS13033 | 5 | – | – |  |  | No patients on it (target 5–10) | – | 5/2/27 |
 | Grafix | 3x4 | PS13034 | 7 | – | – |  |  | No patients on it (target 5–10) | – | **12/18/26 (7 before use)** |
 | Grafix | 5x5 | PS13055 | 12 | – | – |  |  | No patients on it (target 5–10) | – | 11/3/27 |
-| OASIS Wound Matrix | 3x3.5 | 8213-1000-33 | 8 sheets | 1 | 1 | 8.0 | 11/30 | 🟢 OK | – | 1/31/28 |
-| OASIS Wound Matrix | 3x7 | 8213-1000-37 | 10 sheets (10/5 count; D.V. used 3 on 10/7) | 1 | 3 | 3.3 | 10/26 | 🟢 OK (box needed before 10/26) | – | photo pending |
+| OASIS Wound Matrix | 3x3.5 | 8213-1000-33 | 7 sheets (D.S. used 1 on 10/9) | 1 | 1 | 7.0 | 11/30 | 🟢 OK | – | 1/31/28 |
+| OASIS Wound Matrix | 3x7 | 8213-1000-37 | 7 sheets (10 at the 10/5 count; D.V. used 3 on 10/7) | 1 | 3 | 2.3 | 10/26 | 🟠 Order soon | 1 | photo pending |
 | OASIS Burn Matrix | 3x3.5 | 8213-3000-16 | 3 sheets | – | – |  |  | No patients on it | – | 4/3/28 |
 | OASIS Burn Matrix | 3x7 | 8213-3000-18 | 3 sheets (J.B. used 1 on 10/8) | 1 | 1 | 3.0 | 10/26 | 🟢 OK | – | 11/8/27 |
-| OASIS Burn Matrix | 5x7 meshed | 8213-3000-13 | 3 sheets | 1 | 1 | 3.0 | 10/26 | 🟢 OK | – | 7/11/27 |
+| OASIS Burn Matrix | 5x7 meshed | 8213-3000-13 | 2 sheets (B.P. used 1 on 10/5) | 1 | 1 | 2.0 | 10/26 | 🟠 Order soon | 1 | 7/11/27 |
 
 <details><summary><b>Patients using the WCC stock</b></summary>
 
@@ -316,10 +316,10 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 
 | Product | Size | Lot | SN / sheets left | Expiry | Status | Flag |
 | --- | --- | --- | --- | --- | --- | --- |
-| OASIS Wound Matrix | 3x3.5 | LB1741499 | 8 of 10 sheets | 1/31/28 | On shelf |  |
+| OASIS Wound Matrix | 3x3.5 | LB1741499 | 7 of 10 sheets | 1/31/28 | On shelf |  |
 | OASIS Burn Matrix | 3x3.5 | LB1732662 | 3 of 5 sheets | 4/3/28 | On shelf |  |
 | OASIS Burn Matrix | 3x7 | LB1732663 | 3 of 5 sheets | 11/8/27 | On shelf |  |
-| OASIS Burn Matrix | 5x7 meshed | LB1639811 | 3 of 5 sheets | 7/11/27 | On shelf |  |
+| OASIS Burn Matrix | 5x7 meshed | LB1639811 | 2 of 5 sheets | 7/11/27 | On shelf |  |
 | OASIS Wound Matrix | 3x7 | Photo pending | 7 of 10 sheets (D.V. used 3 on 10/7) | pending | On shelf |  |
 | Grafix | 16mm | LYA-260159 | 16003 | 1/13/28 | On shelf |  |
 | Grafix | 16mm | LYA-260159 | 16001 | 1/13/28 | Used 10/6 |  |
