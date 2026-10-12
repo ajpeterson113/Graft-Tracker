@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 10:20 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 10:25 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
@@ -389,7 +389,7 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 
 ## Transfers
 
-Used grafts that were consigned to a different account. Checked every used lot/SN against the BIOT Chicago district consignment report (10/11): 8 units were still on another account's consignment. Each has a typed S+N transport log (reason "Needed same day", day used 7am to 8am); the units are also on the Transfers tab of the Excel file.
+Used grafts that were consigned to a different account. Checked every used lot/SN against the BIOT Chicago district consignment report (10/11): 8 units were still on another account's consignment, plus Y.L.'s 16mm (9/29), which came off the Alexian WCC shelf (same lot as T.T., M.L. and A.N. that day). Each has a typed S+N transport log (reason "Needed same day", day used 7am to 8am); the units are also on the Transfers tab of the Excel file.
 
 | Used | Pt | Graft | Lot / SN | From (consignment) | To | Received by | Links |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -401,6 +401,7 @@ Used grafts that were consigned to a different account. Checked every used lot/S
 | 10/7 | F.M. | Stravix 3x6 | LYU-250611_36005 | Advocate Condell Medical Center (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) · [case sheet](case-sheets/fm-1007.md) |
 | 10/7 | F.M. | Stravix 3x6 | LYU-251530_36001 | Advocate Sherman Hospital (210494) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) · [case sheet](case-sheets/fm-1007.md) |
 | 10/7 | M.W. | Grafix 16mm | LYA-260007_16005 | UChicago Medicine AdventHealth La Grange (198740) | Romano Orthopaedics - Lombard (acct # TBD) | Dr. Rojas | [log](case-sheets/mw-1007-transport-log.jpg) · [case sheet](case-sheets/mw-1007.md) |
+| 9/29 | Y.L. | Grafix 16mm | LYA-260138_16034 | Alexian WCC (253985) | Suburban F&A, Elmhurst (acct # TBD) | Dr. Grinberg | [log](case-sheets/yl-0929-transport-log.jpg) · [case sheet](case-sheets/yl-0929.md) |
 
 L.S.: the handwritten log (IMG_6895) shows lot LYU-250622; the system lot is **LYU-250662**. The typed log uses LYU-250662.
 
