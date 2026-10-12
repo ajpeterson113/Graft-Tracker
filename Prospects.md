@@ -327,3 +327,89 @@ Built 10/8/26 from the Contact Claims Chi West export (1,974 providers), the hos
 | 3 | **Stanley Kim**, MD | Vascular & Interventional Radiology |  · 25 N Winfield Rd, Winfield (per claims | 630-933-2489 · fax 630-933-2827 | 0 / 70 / 0 (0) |  |
 
 **Still open:** Wound center medical directors for both CDH and Delnor are not published on nm.org; need a phone call (CDH 630-933-1199 / Delnor 630-208-4460) or LinkedIn to identify the supervising physician(s) for  · nm.org physician profiles do not show office addresses/phones (JS-rendered); Havelka and Wilkinson office phone is inferred from Qureshi's NPI (NMG Vascular Winfield Ste 103, 630-933-1600) — verify. · nm.org location pages for Vascular Surgery Winfield and General Surgery Geneva (351 Delnor Dr) returned errors — phone for Ryan/Keung/Woodard general surgery office not found. · Michael Schwartzman DPM NPI 1477547131 resolves to Whiting, IN — the West Chicago address in the claims file may be a different provider or a satellite; verify before outreach. · Podiatrists Lacey (2401 Kaneville Rd), Isadore (2210 Dean St, St. Charles), Diamond (2900 Foxfield) and ortho Brasher, Wang, Strotman, Sterba-group subspecialties not researched (budget). · Plastics: Polyatskaya's group not identified; Fischer/Ghaderi (St. Charles) not researched. Janevicius confirmed to be the Elmhurst surgeon (single NPI) — drop from this cluster.
+
+## 📧 Emails & office contacts
+
+Only addresses published somewhere public are listed. **Email format** = the health system's published pattern (e.g. firstname.lastname@aah.org), not confirmed for that doctor — use it as a best guess. Full detail and sources in the workbook's *Contacts & emails* tab.
+
+| Tier | Name | Hospital | Email | Office email / contact | System format | Phone · fax |
+|---|---|---|---|---|---|---|
+| 1 | **Sylvie Chau** | Elgin |  | communications@vnahealth.com — VNA Health Care general/communications inbox (no dept label) |  | 630-892-4355 · fax 630-892-2832 |
+| 1 | **Ali Ahmed Malik** | Elgin |  | [contact form](https://appointments.balancehealth.com/?locationid=4743 (online scheduling; no email/contact form on https://balancehealth.com/location/weil-foot-ankle-institute-elgin-il/)) |  | (847) 390-7666 / (847) 741-3173 · fax 847-741-3173 |
+| 1 | **Ridhi Mehta Kratzmeyer** | Elgin |  | [contact form](https://appointments.balancehealth.com/?providerid=12510642 (provider scheduling)) |  | (847) 390-7666 |
+| 1 | **Brett A. Albert** | Elgin |  | [contact form](https://foxvalleyorthopedics.formstack.com/forms/contact (from https://fvortho.com/contact-us/)) |  | (855) 386-7846 / (630) 584-1400 |
+| 1 | **Kevin Carlile** | Elgin |  | Paul.strandquist@orthoillinois.com — Paul Strandquist - Business Development Manager, Chicago Region (815-8 | firstname.lastname@orthoillinois.com (some ol | (815) 398-9491 · fax 815-381-7498 |
+| 1 | **Azam Tayyebi** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9003 · fax 331-221-2353 |
+| 1 | **Lillian Mentzelopoulos** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 630-646-7000 |
+| 1 | **Samer F. Najjar** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9003 · fax 773-989-3971 |
+| 1 | **Mohammad H. Rajaei** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9003 |
+| 1 | **Raymond Janevicius** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9004 · fax 331-221-2761 |
+| 1 | **Lorna M. Kang** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9004 |
+| 1 | **Archana Rajender** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9004 |
+| 1 | **Vamsi Alli** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 630-355-5633 |
+| 1 | **Cameron W. Jirschele, DO** | GlenOaks |  |  | firstname.lastname@duly.com | 630-790-1221 |
+| 1 | **Sanya Lulla** | Good Sam |  |  | firstname.lastname@duly.com (only if she is a | 630-434-0098 · fax 630-545-7892 |
+| 1 | **Sandeep Subhash Jejurikar** | Good Sam |  | [contact form](Consultation request form on https://www.theaestheticsociety.org/select-surgeon/sandeep-jejurikar-md ; practice site www.drjejurikar.com (not fetchable here)) |  | 630-960-0023 · fax 630-692-4118 |
+| 1 | **Michael J. Iwanicki** | Good Sam |  |  | firstname.lastname@aah.org (Advocate; media@a | 630-275-7800 · fax 630-810-9240 |
+| 1 | **Tejas R. Shah** | Good Sam |  |  | firstname.lastname@aah.org (Advocate; media@a | 630-719-4799 · fax 630-963-7420 |
+| 1 | **Evan A. Dougherty** | Good Sam |  |  | first initial + lastname@ibji.com | 630-323-6116 · fax 630-323-5610 |
+| 1 | **Laurie Bachrach** | Good Sam |  | [contact form](https://uropartners.com/contact (appointment request form; no emails published on site); online scheduling https://uropartners-pss.keonahealth.com/selfservicescheduling?locationPmId=90) |  | 331-233-0330 |
+| 1 | **Sharon J. Pytel** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-938-9600 (NPI); center main 630-208-4460 · fax 630-933-7839 |
+| 1 | **Shari A. Schrader** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-208-4460 · fax 630-208-4338 |
+| 1 | **Tamara L. Wilfong** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-933-1199 (alt 630-933-1562) · fax 630-933-1289 |
+| 1 | **Eveline F. Tan** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-614-4000 · fax 630-614-4048 |
+| 1 | **Sherazuddin Qureshi** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-933-1600 |
+| 1 | **Amanda Bozich** | St. Alexius / Alexian |  | info@beyond-podiatry.com — Beyond Podiatry corporate inbox (MI HQ); press contact John Moroney, C |  | 847-228-6543 |
+| 1 | **Sameer M. Kapadia** | St. Alexius / Alexian |  |  — Roxanne Parikh, Physician Service Manager (Ascension Elk Grove Village |  | 847-981-3623 · fax 847-981-3502 |
+| 1 | **Georges M. Haidar** | St. Alexius / Alexian |  |  | firstname.lastname@ascension.org (Ascension e | 847-981-3680 · fax 847-956-5122 |
+| Customer – expand | **Pablo E. Perez Jr** | Elgin |  |  | firstname.lastname@aah.org (Advocate Health C | 224-783-3450 · fax not found |
+| Customer – expand | **Elizabeth Christina Francis** | Elgin |  |  | firstname.lastname@aah.org (Advocate Health C | 224-783-3450 |
+| Customer – expand | **Emilie Robinson** | St. Alexius / Alexian |  |  | firstname.lastname@ascension.org (Ascension e | 847-981-3680 · fax (847) 882-3034 (Hoffman); (847) 956-5122 (Elk Grove) |
+| 2 | **Matthew D. Sorensen** | Elgin |  | Paul.strandquist@orthoillinois.com — Paul Strandquist - Business Development Manager, Chicago Region (815-8 | firstname.lastname@orthoillinois.com (some ol | (815) 398-9491; fax (815) 381-7498 · fax 815-381-7498 |
+| 2 | **Irene Iling Wu** | Elgin |  | info@AdvancedSurgeryWellness.com — Practice general inbox |  | 847-406-1007 · fax 847-695-2377 |
+| 2 | **Eric K. Bartel** | Elgin |  | [contact form](https://foxvalleyorthopedics.formstack.com/forms/contact (from https://fvortho.com/contact-us/)) |  | (630) 584-1400 · fax 630-584-1733 |
+| 2 | **Nicholas Robert Kunio** | Elgin |  |  | firstname.lastname@aah.org (Advocate Health C | 847-695-6600 · fax 847-695-4279 |
+| 2 | **Gary M. Kazmer** | Elgin |  | [contact form](https://foxvalleyorthopedics.formstack.com/forms/contact (from https://fvortho.com/contact-us/)) |  | (630) 584-1400 / (855) 386-7846 |
+| 2 | **Rachel Baer / Leo Farbota / Chirag Dholakia / Michael Fremgen DO** | Elgin |  |  | firstname.lastname@aah.org (Advocate Health C | 847-695-6600 · fax 847-695-4279 |
+| 2 | **Lily Hsieh** | Elgin |  |  | firstname.lastname@aah.org (Advocate Health C | 847-695-6600 · fax 847-695-4279 |
+| 2 | **Dhruv Patel** | Elgin |  | [contact form](https://appointments.balancehealth.com/?locationid=4743 (online scheduling; no email/contact form on https://balancehealth.com/location/weil-foot-ankle-institute-elgin-il/)) |  | (847) 390-7666 |
+| 2 | **Jeffrey Earhart** | Elgin |  | Paul.strandquist@orthoillinois.com — Paul Strandquist - Business Development Manager, Chicago Region (815-8 | firstname.lastname@orthoillinois.com (some ol | (815) 398-9491; fax 815-381-7498 · fax 815-381-7498 |
+| 2 | **Felipe Pacheco Granda** | Elgin |  | info@AdvancedSurgeryWellness.com — Practice general inbox |  | 847-406-1007 |
+| 2 | **John J. Brems** | Elgin |  |  | firstname.lastname@aah.org (Advocate Health C | 224-359-0100 |
+| 2 | **Michael J. Gaffud** | Elmhurst |  | [contact form](https://www.dulyhealthandcare.com/contact-us (general inquiry form; no published email)) |  | 630-545-7565 |
+| 2 | **Jeeten Singha** | Elmhurst |  | [contact form](https://www.dulyhealthandcare.com/contact-us (general inquiry form; no published email)) |  | 630-510-6929 |
+| 2 | **Gerald Lynch** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9004 |
+| 2 | **Nikitha Potturi** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 630-646-6020 |
+| 2 | **Lillian Youkhana** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 630-646-7000 |
+| 2 | **John Richgels** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9004 |
+| 2 | **Michael Hoeh** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org | 331-221-9004 |
+| 2 | **Robert J. Challenger, MD, FACS** | GlenOaks |  | [contact form](https://uropartners.com/contact (appointment request form; no emails published on site); online scheduling https://uropartners-pss.keonahealth.com/selfservicescheduling?locationPmId=90) |  | 630-653-5550 · fax 630-653-5561 |
+| 2 | **Brian E. Ward, MD, MHS** | GlenOaks |  |  | firstname.lastname@duly.com | 630-790-1872 · fax 630-545-7850 |
+| 2 | **Chukwuma (Chuma) Nwachukwu, MD** | GlenOaks |  |  | firstname.lastname@duly.com | 630-545-7565 |
+| 2 | **Solmaz Niknam-Bienia, MD** | GlenOaks | soleil@uic.edu | casi@casi-nd.com — Chicago Aesthetic Surgery Institute (general inbox) |  | 847-853-9900 · fax 847-297-8208 |
+| 2 | **Michael Gaffud** | Good Sam |  |  | firstname.lastname@duly.com | 630-545-7565 |
+| 2 | **Scott A. Reishus** | Good Sam |  |  | firstname.lastname@aah.org (Advocate; media@a | 630-907-2424 · fax 773-564-6800 |
+| 2 | **Vijay (Vijaya S.) Nair** | Good Sam |  |  | firstname.lastname@aah.org (Advocate; media@a | 630-275-7800 |
+| 2 | **Jan P. Kaminski** | Good Sam |  |  | firstname.lastname@aah.org (Advocate; media@a | 630-275-5900 |
+| 2 | **Daniel Douglas** | Good Sam |  |  | firstname.lastname@duly.com | 630-790-1700 |
+| 2 | **Daniel M. Dean** | Good Sam |  |  | first initial + lastname@ibji.com | 630-323-6116 · fax 630-718-6081 |
+| 2 | **Stephen Hurley** | Good Sam |  | [contact form](https://uropartners.com/contact (appointment request form; no emails published on site); online scheduling https://uropartners-pss.keonahealth.com/selfservicescheduling?locationPmId=90) |  | 331-233-0330 |
+| 2 | **Melanie A. Adamsky** | Good Sam |  | [contact form](https://uropartners.com/contact (appointment request form; no emails published on site); online scheduling https://uropartners-pss.keonahealth.com/selfservicescheduling?locationPmId=90) |  | 331-233-0330 |
+| 2 | **Kelsey E. Casali (fka Armbruster)** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-933-4487 · fax 630-933-2009 |
+| 2 | **George E. Havelka** | NM CDH / Delnor (expansion) |  | surgerydept@nm.org — NM/Feinberg Dept of Surgery general inbox (Chicago, 676 N St Clair Ste | firstname.lastname@nm.org (NM staff; a few ex | 630-933-1600 · fax 312-355-3722 |
+| 2 | **Julia B. Wilkinson** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-933-1600 · fax 630-933-2009 |
+| 2 | **Steven M. Baughman** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 331-732-4600 · fax 331-732-4602 |
+| 2 | **Jeremy D. Lai** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 331-732-4600 · fax 331-732-4602 |
+| 2 | **Anthony F. Altimari / Jeffrey S. Fronza / David A. Klem** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-668-0833 · fax 630-668-7685 |
+| 2 | **Brett A. Albert** | NM CDH / Delnor (expansion) |  | [contact form](https://foxvalleyorthopedics.formstack.com/forms/contact (from https://fvortho.com/contact-us/)) |  | 630-584-1400 |
+| 2 | **Eric K. Bartel** | NM CDH / Delnor (expansion) |  | [contact form](https://foxvalleyorthopedics.formstack.com/forms/contact (from https://fvortho.com/contact-us/)) |  | 630-584-1400 · fax 630-584-1733 |
+| 2 | **Tanya W. Kristof** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 331-732-4600 · fax 331-732-4602 |
+| 2 | **David J. Ryan** | NM CDH / Delnor (expansion) |  |  | firstname.lastname@nm.org (NM staff; a few ex | 630-668-0833 · fax 630-208-4373 |
+| 2 | **Myron I. Wolf** | St. Alexius / Alexian |  | [contact form](https://my.officite.com/0078279/wolf-podiatry-associates (site has request-appointment / contact-us pages)) |  | 847-609-9442 · fax 847-437-7388 |
+| 2 | **Lia G. Jordano** | St. Alexius / Alexian |  |  | firstname.lastname@ascension.org (Ascension e | 630-789-3422 · fax (847) 956-5122 (Elk Grove); (847) 882-3034 (Hoffman) |
+| 2 | **Stephen T. Grabowski** | St. Alexius / Alexian |  | [contact form](https://www.dulyhealthandcare.com/contact-us (general inquiry form; no published email)) |  | 630-790-1700 |
+| 2 | **Waleed A. Mirza** | St. Alexius / Alexian |  | info@beyond-podiatry.com — Beyond Podiatry corporate inbox (MI HQ); press contact John Moroney, C |  | 847-228-6543 · fax 847-577-3587 |
+| 2 | **Narendra Narepalem** | St. Alexius / Alexian |  | [contact form](UroPartners online self-scheduling (location-specific, e.g. https://uropartners-pss.keonahealth.com/selfservicescheduling?locationPmId=149 for Chicago office)) |  | 847-823-3185 · fax 847-823-3318 |
+| 3 | **Joanna M. Chura** | Elgin |  | [contact form](https://foxvalleyorthopedics.formstack.com/forms/contact (from https://fvortho.com/contact-us/)) |  | (630) 584-1400 |
+| 3 | **William Noorlag** | Elmhurst |  | [contact form](https://www.endeavorhealth.org/contact-us (system-wide); provider pages link https://www.endeavorhealth.org/make-an-appointment) | firstname.lastname@endeavorhealth.org |  |
+| 3 | **Vincenzo Palmieri** | St. Alexius / Alexian |  | info@beyond-podiatry.com — Beyond Podiatry corporate inbox (MI HQ); press contact John Moroney, C |  | 847-228-6543 · fax 847-577-3587 |
