@@ -136,12 +136,12 @@
 | + Projected Grafix, net of WCC stock | $33,844.00 | $27,984.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts | $11,346.00 | $3,420.00 |
-| + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
-| **Projected P10 total** | **$137,057.28** | **$113,741.85** |
+| + OASIS reorders (estimated) | $14,703.88 | $5,945.70 |
+| **Projected P10 total** | **$137,057.28** | **$114,513.60** |
 | P10 target | $129,015.00 | $129,015.00 |
-| % of target | 106.2% | 88.2% |
-| Gap to target | $0.00 (over by $8,042.28) | $15,273.15 |
-| **Projected commission** | **$13,705.73** (10%) | **$7,961.93** |
+| % of target | 106.2% | 88.8% |
+| Gap to target | $0.00 (over by $8,042.28) | $14,501.40 |
+| **Projected commission** | **$13,705.73** (10%) | **$8,015.95** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -153,7 +153,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Central DuPage | $13,960.00 | $19,525.00 | $13,150.00 | **$33,485.00** | **$27,110.00** |
 | Alexian WCC | $6,600.00 | $12,357.73 | $10,167.45 | **$18,957.73** | **$16,767.45** |
 | St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
-| NW Suburban F&A | $3,806.45 | $3,986.50 | $1,316.50 | **$7,792.95** | **$5,122.95** |
+| NW Suburban F&A | $3,806.45 | $3,986.50 | $2,088.25 | **$7,792.95** | **$5,894.70** |
 | St. Joseph Elgin | $3,741.50 | $4,221.00 | $0.00 | **$7,962.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
 | Suburban F&A | $190.00 | $570.00 | $0.00 | **$760.00** | **$190.00** |
@@ -161,7 +161,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
-| **Total** | **$74,694.40** | **$62,362.88** | **$39,047.45** | **$137,057.28** | **$113,741.85** |
+| **Total** | **$74,694.40** | **$62,362.88** | **$39,819.20** | **$137,057.28** | **$114,513.60** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -194,7 +194,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 | Account | Surgeon | Date | Size | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: |
-| St. Alexius | Liao | 10/16 | Stravix 3x6 | $2,469.00 | $2,469.00 |
+| St. Alexius | Liao | 10/16, 1:00 PM | Stravix 3x6 | $2,469.00 | $2,469.00 |
 | St. Alexius | OR stock | Not counted (10/8) | Stravix 2x4 restock — not counting on the OR ordering; add back only if a PO comes in | – | – |
 | GlenOaks | Reed | Possible, this week or next | Stravix, size TBD | – | – |
 
@@ -209,7 +209,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 
 | Account | Patients | Product | Size | Boxes up | Boxes down | Box price | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
-| NW Suburban F&A | C.C. (R.D., S.B. on hold) | OASIS Ultra | 3x3.5 | 2 | 0 | $771.75 | $1,543.50 | $0.00 |
+| NW Suburban F&A | C.C., G.K. (R.D., S.B. on hold) | OASIS Ultra | 3x3.5 | 2 | 1 | $771.75 | $1,543.50 | $771.75 |
 | NW Suburban F&A | J.M., P.M., C.T., E.P. (+ L.W., A1 10/8) | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
 | NW Suburban F&A | M.Z. (L): box ordered 10/12 on MZ101626 ($1,528.20, in October sales) | OASIS Ultra | 5x7 | 0 | 0 | $1,528.00 | $0.00 | $0.00 |
 | Alexian WCC | D.V. (started 10/7, 3 a visit) | OASIS Wound Matrix | 3x7 | 1 | 1 | $2,206.00 | $2,206.00 | $2,206.00 |
