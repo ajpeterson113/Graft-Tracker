@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 6:00 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 10:15 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
@@ -254,7 +254,7 @@ Shelf count 10/8, with pieces already used taken out (Stravix 2x4 LYU-260468_240
 
 ## GlenOaks OR stock (consigned, Bill Only)
 
-Count from AJ 10/8 (after F.M.'s 10/7 case). Each unit used is billed on a Bill Only PO, so it is a sale when used (no projection offset). Lot/SN to be added from a shelf photo.
+Count from AJ 10/8 (after F.M.'s 10/7 case). Each unit used is billed on a Bill Only PO, so it is a sale when used (no projection offset). Lot/SN to be added from a shelf photo. **Consignment check 10/11:** the district report shows only 2 units consigned to GlenOaks (199254): Stravix PL 2x4 LYU-250552_24001 and _24002. F.M.'s three 3x6s came from Condell and Sherman consignment, so the rest of this shelf is probably on other accounts too. A shelf photo with lot/SN will show which ones need a transfer log when used.
 
 | Product | Size | REF | On hand | Lot / SN |
 | --- | --- | --- | ---: | --- |
@@ -386,6 +386,23 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 | Grafix | 5x5 | LYA-260005 | 55011 | 11/25/27 | On shelf |  |
 
 </details>
+
+## Transfers
+
+Used grafts that were consigned to a different account. Checked every used lot/SN against the BIOT Chicago district consignment report (10/11): 8 units were still on another account's consignment. Each has a typed S+N transport log (reason "Needed same day", day used 7am to 8am); the units are also on the Transfers tab of the Excel file.
+
+| Used | Pt | Graft | Lot / SN | From (consignment) | To | Received by | Log |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 10/9 | R.C. | Grafix 3x4 | LYA-250008_34006 | Alexian WCC (253985) | Central DuPage F&A (247208) | Dr. Luetkehans | [log](case-sheets/rc-1009-transport-log.jpg) |
+| 9/18 | S.A. | Stravix 3x6 | LYU-251987_36004 | Advocate South Suburban Hospital (205993) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/sa-0918-transport-log.jpg) |
+| 9/23 | L.S. | Stravix 2x4 | LYU-250662_24002 | Skokie Hospital (186128) | Ascension Alexian Brothers (186035) | Dr. Russo | [log](case-sheets/ls-0923-transport-log.jpg) |
+| 9/28 | P.C. | Stravix 3x6 | LYU-251987_36003 | Advocate South Suburban Hospital (205993) | Elmhurst Hospital (187019) | Dr. McGann | [log](case-sheets/pc-0928-transport-log.jpg) |
+| 10/7 | F.M. | Stravix 3x6 | LYU-250611_36004 | Advocate Condell Medical Center (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) |
+| 10/7 | F.M. | Stravix 3x6 | LYU-250611_36005 | Advocate Condell Medical Center (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) |
+| 10/7 | F.M. | Stravix 3x6 | LYU-251530_36001 | Advocate Sherman Hospital (210494) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) |
+| 10/7 | M.W. | Grafix 16mm | LYA-260007_16005 | UChicago Medicine AdventHealth La Grange (198740) | Romano Orthopaedics - Lombard (acct # TBD) | Dr. Rojas | [log](case-sheets/mw-1007-transport-log.jpg) |
+
+L.S.: the handwritten log (IMG_6895) shows lot LYU-250622; the system lot is **LYU-250662**. The typed log uses LYU-250662.
 
 ## Trends
 
