@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 10:15 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 10:20 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
@@ -391,16 +391,16 @@ Counted 10/3 from shelf photos; Wound 3x7 box of 10 added 10/5 (lot and expiry t
 
 Used grafts that were consigned to a different account. Checked every used lot/SN against the BIOT Chicago district consignment report (10/11): 8 units were still on another account's consignment. Each has a typed S+N transport log (reason "Needed same day", day used 7am to 8am); the units are also on the Transfers tab of the Excel file.
 
-| Used | Pt | Graft | Lot / SN | From (consignment) | To | Received by | Log |
+| Used | Pt | Graft | Lot / SN | From (consignment) | To | Received by | Links |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 10/9 | R.C. | Grafix 3x4 | LYA-250008_34006 | Alexian WCC (253985) | Central DuPage F&A (247208) | Dr. Luetkehans | [log](case-sheets/rc-1009-transport-log.jpg) |
-| 9/18 | S.A. | Stravix 3x6 | LYU-251987_36004 | Advocate South Suburban Hospital (205993) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/sa-0918-transport-log.jpg) |
-| 9/23 | L.S. | Stravix 2x4 | LYU-250662_24002 | Skokie Hospital (186128) | Ascension Alexian Brothers (186035) | Dr. Russo | [log](case-sheets/ls-0923-transport-log.jpg) |
-| 9/28 | P.C. | Stravix 3x6 | LYU-251987_36003 | Advocate South Suburban Hospital (205993) | Elmhurst Hospital (187019) | Dr. McGann | [log](case-sheets/pc-0928-transport-log.jpg) |
-| 10/7 | F.M. | Stravix 3x6 | LYU-250611_36004 | Advocate Condell Medical Center (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) |
-| 10/7 | F.M. | Stravix 3x6 | LYU-250611_36005 | Advocate Condell Medical Center (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) |
-| 10/7 | F.M. | Stravix 3x6 | LYU-251530_36001 | Advocate Sherman Hospital (210494) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) |
-| 10/7 | M.W. | Grafix 16mm | LYA-260007_16005 | UChicago Medicine AdventHealth La Grange (198740) | Romano Orthopaedics - Lombard (acct # TBD) | Dr. Rojas | [log](case-sheets/mw-1007-transport-log.jpg) |
+| 10/9 | R.C. | Grafix 3x4 | LYA-250008_34006 | Alexian WCC (253985) | Central DuPage F&A (247208) | Dr. Luetkehans | [log](case-sheets/rc-1009-transport-log.jpg) · [case sheet](case-sheets/rc-1009-3x4.md) |
+| 9/18 | S.A. | Stravix 3x6 | LYU-251987_36004 | Advocate South Suburban Hospital (205993) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/sa-0918-transport-log.jpg) · [case sheet](case-sheets/sa-0918.md) |
+| 9/23 | L.S. | Stravix 2x4 | LYU-250662_24002 | Skokie Hospital (186128) | Ascension Alexian Brothers (186035) | Dr. Russo | [log](case-sheets/ls-0923-transport-log.jpg) · [case sheet](case-sheets/ls-0923.md) |
+| 9/28 | P.C. | Stravix 3x6 | LYU-251987_36003 | Advocate South Suburban Hospital (205993) | Elmhurst Hospital (187019) | Dr. McGann | [log](case-sheets/pc-0928-transport-log.jpg) · [case sheet](case-sheets/pc-0928.md) |
+| 10/7 | F.M. | Stravix 3x6 | LYU-250611_36004 | Advocate Condell Medical Center (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) · [case sheet](case-sheets/fm-1007.md) |
+| 10/7 | F.M. | Stravix 3x6 | LYU-250611_36005 | Advocate Condell Medical Center (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) · [case sheet](case-sheets/fm-1007.md) |
+| 10/7 | F.M. | Stravix 3x6 | LYU-251530_36001 | Advocate Sherman Hospital (210494) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](case-sheets/fm-1007-transport-log.jpg) · [case sheet](case-sheets/fm-1007.md) |
+| 10/7 | M.W. | Grafix 16mm | LYA-260007_16005 | UChicago Medicine AdventHealth La Grange (198740) | Romano Orthopaedics - Lombard (acct # TBD) | Dr. Rojas | [log](case-sheets/mw-1007-transport-log.jpg) · [case sheet](case-sheets/mw-1007.md) |
 
 L.S.: the handwritten log (IMG_6895) shows lot LYU-250622; the system lot is **LYU-250662**. The typed log uses LYU-250662.
 
@@ -452,10 +452,10 @@ L.S.: the handwritten log (IMG_6895) shows lot LYU-250622; the system lot is **L
 | 9/16 |  | Alexian Ambulatory | Stravix 2x4 | LYU-251611_24002 | $1,553.10 | …282833 |  |
 | 9/17 | D.C. | Alexian WCC | Grafix 1.5x2 | LYA-250733_15012 | $600.00 | …283163 |  |
 | 9/17 |  | Alexian Ambulatory | OASIS Burn Matrix 3x7 |  | $1,470.00 | …282978 |  |
-| 9/18 | S.A. | GlenOaks | Stravix 3x6 | LYU-251987_36004 | $2,469.00 | PO-1000841030 |  |
+| 9/18 | S.A. | GlenOaks | Stravix 3x6 | LYU-251987_36004 | $2,469.00 | PO-1000841030 | [📄](case-sheets/sa-0918.md) |
 | 9/22 | D.G. | Alexian WCC | Grafix 16mm | LYA-260017_16024 | $360.00 | …283377 | [📄](case-sheets/dg-0922-dashboard.md) |
 | 9/23 | A.P. | Alexian WCC | Grafix 1.5x2 | LYA-260068_15004 | $600.00 | …283611 |  |
-| 9/23 | L.S. | Alexian Ambulatory | Stravix 2x4 | LYU-250662_24002 | $1,553.10 | …283496 |  |
+| 9/23 | L.S. | Alexian Ambulatory | Stravix 2x4 | LYU-250662_24002 | $1,553.10 | …283496 | [📄](case-sheets/ls-0923.md) |
 | 9/24 | D.C. | Alexian WCC | Grafix 16mm | LYA-260017_16015 | $360.00 | …283612 | [📄](case-sheets/dc-0924.md) |
 | 9/24 |  | Alexian Ambulatory | OASIS Wound Matrix 3x7 |  | $2,206.00 | …283571 |  |
 | 9/25 |  | Good Sam | Grafix 1.5x2 (x1), 16mm (x4) | LYA-260100_15001, LYA-260144_16020, LYA-260144_?, LYA-260144_?, LYA-260144_? | $2,482.00 | PO005944943 |  |
