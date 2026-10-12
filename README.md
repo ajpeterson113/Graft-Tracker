@@ -1,10 +1,10 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 11:30 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/12/26, 11:45 AM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
-**🟢 Ready to submit to SFDC:** 11 · **🟡 Waiting on a PO:** 3 · **Submitted, not in SFDC yet:** 1 · **⚪ In SFDC:** 26
+**🟢 Ready to submit to SFDC:** 11 · **🟡 Waiting on a PO:** 3 · **Submitted, not in SFDC yet:** 3 · **⚪ In SFDC:** 26
 
 ### 🟢 Ready to submit to SFDC  (11 · $18,373.50)
 
@@ -30,11 +30,13 @@
 | 10/6 | A.N. | Alexian WCC | Joshi | Grafix 16mm | LYA-260159_16026 | $360.00 |  | [📄](case-sheets/an-1006.md) |
 | 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 3x4 (A2, billed separately) | LYA-250008_34006 | $1,020.00 |  | [📄](case-sheets/rc-1009-3x4.md) |
 
-### Submitted, not in SFDC yet  (1 · $2,615.00)
+### Submitted, not in SFDC yet  (3 · $4,333.20)
 
 | Date | Pt | Account | Surgeon | Product | Lot/SN | Price | PO |  |
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 9/25 | T.W. | St. Joseph Elgin | Bryniczka | Stravix 3x6 | LYU-260572_36001 | $2,615.00 | 712062882 | [📄](case-sheets/tw-0925.md) |
+| 10/12 |  | NW Suburban F&A |  | OASIS Ultra 5x7 meshed (1 box of 5, for M.Z.) |  | $1,528.20 | MZ101626 |  |
+| 10/19 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/12, A3) |  | $190.00 | PS101926 |  |
 
 ### ⚪ In SFDC  (26 · $50,007.70)
 
@@ -65,7 +67,7 @@
 | 10/9 | R.C. | Central DuPage | Luetkehans | Grafix 5x5 ×3 (sale order 10/5; 2 used 10/9, 1 kept for 10/16) | LYA-260337_55005, LYA-260335_55004 | $6,375.00 | RC100926 | [📄](case-sheets/rc-1009.md) |
 | 10/9 | A.S. | Central DuPage | Luetkehans | Grafix 16mm (new, sale order 10/7) |  | $190.00 | AS100926 |  |
 | 10/9 |  | Good Sam |  | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | LYA-260353_55004, LYA-260206_16003, LYA-260132_15013 (+2) | $6,631.00 | PO006025726 |  |
-| 10/12 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/6) |  | $190.00 | PS101226 |  |
+| 10/12 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm (sale order 10/6, A2) | LYA-260185_16011 | $190.00 | PS101226 | [📄](case-sheets/ps-1012.md) |
 
 ### Clinic stock used, no new sale  (1)
 
@@ -73,7 +75,7 @@
 | --- | --- | --- | --- | --- | --- | ---: | --- | --- |
 | 10/5 | P.S. | NW Suburban F&A | Goldkind | Grafix 16mm | LYA-250894_16005 | – | PS100626 (bought 8/22) | [📄](case-sheets/ps-1005.md) |
 
-**October total $64,605.20** · received $50,794.20 · outstanding $13,811.00
+**October total $74,694.40** · received $72,714.40 · outstanding $1,980.00
 
 <details><summary><b>October notes</b></summary>
 
@@ -114,7 +116,9 @@
 | 10/8 | D.F. | Good Sam ordered 1 x 5x5 on PO006001505 (10/6) for D.F.'s visit Thu 10/8 (A3), $2,500. Shipped order, invoices on its own. Lot/SN after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …55014. |
 | 10/9 | Grafix 5x5 (x2), 16mm (x2), 1.5x2 (x1) | 5-piece WCC stock order 10/9 on PO006025726 (FedEx Priority 10:30, 519100066123): 5x5 x2 $2,500 + 16mm x2 $425.50 + 1.5x2 x1 $780 = $6,631. PO-only, no case sheet; serials from the shelf once it lands. Shipped order, invoices on its own. Covers K.P.'s 5x5 (10/15, 10/29) and P.J./W.K. 16mm on 10/15; the 1.5x2 has no projected use yet. In SFDC: inv 0985817049 (10/9); serials 5x5 LYA-260353_55004 (+1), 16mm LYA-260206_16003 (+1), 1.5x2 LYA-260132_15013 |
 | 10/9 | R.C. | A2 10/9: 3x4 LYA-250008_34006 (exp 12/18/26), $1,020, to be billed to Central DuPage: PO to come. Transferred from the Alexian WCC consignment shelf; transport log filled 10/9. Case sheet made 10/9 |
-| 10/12 | P.S. | Sale order submitted 10/6 on PO PS101226 for the 10/12 visit (application #2): 1 x 16mm, $190. Lot/SN and case sheet after the visit. In SFDC 10/7 (SFDC P10 report: $40,358, 58 units). SFDC serial …16011. |
+| 10/12 | P.S. | App #2, Mon 10/12 at Elk Grove: LYA-260185_16011 (exp 1/13/28), matches the SFDC serial …16011. Sale order submitted 10/6 on PO PS101226: 1 x 16mm, $190. In SFDC 10/7. Case sheet made from the sticker photo |
+| 10/12 | OASIS Ultra 5x7 | Sale order submitted 10/12 on PO MZ101626 (S+N order #11297149, delivery to Hoffman Estates 10/13): OASIS Ultra 5x7 meshed, 1 box of 5, $1,528.20, for M.Z. (left ankle, Dr. Goldkind; next visit Fri 10/16). This is the box the Projections tab had estimated |
+| 10/19 | P.S. | Sale order submitted 10/12 on PO PS101926 (S+N order #11297167, delivery to Hoffman Estates 10/13) for the Mon 10/19 visit (application #3): 1 x 16mm, $190. Lot/SN and case sheet after the visit |
 | 10/7 | F.M. | OR case 10/7 at GlenOaks (Dr. McKanna), Bill Only. 3 x Stravix PL 3x6 (3 x $2,469.00): LYU-250611_36004, LYU-250611_36005 (exp 4/1/27), LYU-251530_36001 (exp 7/21/27). Bill Only PO-1000931284 (10/8) received 10/9: 3 x PS61036 at $2,469, Patient ID 5010505361181, Dr. McKanna, DOS 10/7, buyer Kurt Bowman. Ready to submit |
 | 10/7 | A.B. | OR case 10/7 at St. Alexius (Dr. Guske), sacral. Stravix PL 3x6 from St. Alexius stock: bill & replace, $2,469. Implant record on file. Bill & replace PO 660080000212502 received 10/8. In SFDC 10/9: inv 0985810968 (transaction 10/8), serial LYU-251604_36001 |
 | 10/7 | M.W. | New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing $95/cm2, so 16mm (2 cm2) = $190. One-off PO MW100726 (future orders go on sale-order POs). Case sheet made 10/7. Ready to submit |
@@ -128,16 +132,16 @@
 
 |  | Upside | Downside |
 | --- | ---: | ---: |
-| Current October sales | $72,976.20 | $72,976.20 |
-| + Projected Grafix, net of WCC stock | $34,034.00 | $28,174.50 |
+| Current October sales | $74,694.40 | $74,694.40 |
+| + Projected Grafix, net of WCC stock | $33,844.00 | $27,984.50 |
 | + Upcoming Stravix | $2,469.00 | $2,469.00 |
 | + Potential new starts | $11,346.00 | $3,420.00 |
-| + OASIS reorders (estimated) | $16,231.88 | $6,701.95 |
-| **Projected P10 total** | **$137,057.08** | **$113,741.65** |
+| + OASIS reorders (estimated) | $14,703.88 | $5,173.95 |
+| **Projected P10 total** | **$137,057.28** | **$113,741.85** |
 | P10 target | $129,015.00 | $129,015.00 |
 | % of target | 106.2% | 88.2% |
-| Gap to target | $0.00 (over by $8,042.08) | $15,273.35 |
-| **Projected commission** | **$13,705.71** (10%) | **$7,961.92** |
+| Gap to target | $0.00 (over by $8,042.28) | $15,273.15 |
+| **Projected commission** | **$13,705.73** (10%) | **$7,961.93** |
 
 Projected visits include this week's scheduled visits until they're filed (then they count as sales); sold amounts come from the October tab.
 
@@ -149,7 +153,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Central DuPage | $13,960.00 | $19,525.00 | $13,150.00 | **$33,485.00** | **$27,110.00** |
 | Alexian WCC | $6,600.00 | $12,357.73 | $10,167.45 | **$18,957.73** | **$16,767.45** |
 | St. Alexius | $7,900.20 | $2,469.00 | $2,469.00 | **$10,369.20** | **$10,369.20** |
-| NW Suburban F&A | $2,088.25 | $5,704.50 | $3,034.50 | **$7,792.75** | **$5,122.75** |
+| NW Suburban F&A | $3,806.45 | $3,986.50 | $1,316.50 | **$7,792.95** | **$5,122.95** |
 | St. Joseph Elgin | $3,741.50 | $4,221.00 | $0.00 | **$7,962.50** | **$3,741.50** |
 | Elmhurst | $3,115.50 | $0.00 | $0.00 | **$3,115.50** | **$3,115.50** |
 | Suburban F&A | $190.00 | $570.00 | $0.00 | **$760.00** | **$190.00** |
@@ -157,7 +161,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Sherman | $0.00 | $0.00 | $0.00 | **$0.00** | **$0.00** |
 | GlenOaks | $7,407.00 | $0.00 | $0.00 | **$7,407.00** | **$7,407.00** |
 | Romano Lombard | $190.00 | $7,695.00 | $3,990.00 | **$7,885.00** | **$4,180.00** |
-| **Total** | **$72,976.20** | **$64,080.88** | **$40,765.45** | **$137,057.08** | **$113,741.65** |
+| **Total** | **$74,694.40** | **$62,362.88** | **$39,047.45** | **$137,057.28** | **$113,741.85** |
 
 <details><summary><b>Projection by patient</b></summary>
 
@@ -184,7 +188,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Suburban F&A | Grinberg | Y.L. | 1× 16mm | Weekly · on hold, back 10/13 | 1 | 3 | $570.00 | stays on hold | $0.00 |
 | Romano Lombard | Rojas | M.W. | 1× 16mm | Weekly | 1 | 3 | $570.00 | same | $570.00 |
 | Central DuPage | Luetkehans | A.S. | 1× 16mm | Weekly (new, A1 10/9 sold) | 0 | 3 | $570.00 | same | $570.00 |
-| NW Suburban F&A | Goldkind | P.S. | 1× 16mm | Weekly | 1 | 2 | $380.00 | same | $380.00 |
+| NW Suburban F&A | Goldkind | P.S. | 1× 16mm | Weekly from 10/26 (A2 10/12 and A3 10/19 sold) | 2 | 1 | $190.00 | same | $190.00 |
 
 **Upcoming Stravix**
 
@@ -207,7 +211,7 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | NW Suburban F&A | C.C. (R.D., S.B. on hold) | OASIS Ultra | 3x3.5 | 2 | 0 | $771.75 | $1,543.50 | $0.00 |
 | NW Suburban F&A | J.M., P.M., C.T., E.P. (+ L.W., A1 10/8) | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
-| NW Suburban F&A | M.Z. (L) (clinic asked us to order, list wk of 10/12) | OASIS Ultra | 5x7 | 1 | 1 | $1,528.00 | $1,528.00 | $1,528.00 |
+| NW Suburban F&A | M.Z. (L): box ordered 10/12 on MZ101626 ($1,528.20, in October sales) | OASIS Ultra | 5x7 | 0 | 0 | $1,528.00 | $0.00 | $0.00 |
 | Alexian WCC | D.V. (started 10/7, 3 a visit) | OASIS Wound Matrix | 3x7 | 1 | 1 | $2,206.00 | $2,206.00 | $2,206.00 |
 | Alexian WCC | J.B. | OASIS Burn Matrix | 3x7 | 1 | 0 | $1,470.28 | $1,470.28 | $0.00 |
 | Alexian WCC | B.P. (new start 10/5) | OASIS Burn Matrix | 5x7 meshed | 1 | 1 | $1,841.45 | $1,841.45 | $1,841.45 |

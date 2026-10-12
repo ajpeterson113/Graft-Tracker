@@ -1,6 +1,6 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/12/26, 11:45 AM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="view/patients_kpi.png" width="100%" alt="Patient summary">
 
@@ -97,16 +97,16 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Mon 10/12 8:45 AM · EG | **Grafting** | P.S. | Dr. Goldkind | GRAFIX 16mm | 🟢 1 | 10/5 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). 10/12 16mm ordered on PO PS101226; weekly 16mm orders after that. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](ivr/nw-ps.md) |
-| Mon 10/12 9:45 AM · HE | **Grafting** | <details><summary>P.M.</summary>Paul Michael</details> | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 7 | 10/5 | A7 10/5. DISCREPANCY: records had 4 (3 unconfirmed + A4 10/5); AJ's 10/12 calendar has A8 on Mon 10/12, so the count was set to 7. Confirm with the clinic |  |
+| Mon 10/12 8:45 AM · EG | **Grafting** | <details><summary>P.S.</summary>Peter S.</details> | Dr. Goldkind | GRAFIX 16mm | 🟢 2 | 10/12 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](ivr/nw-ps.md) |
+| Mon 10/12 9:45 AM · HE | **Grafting** | <details><summary>P.M.</summary>Paul Michael</details> | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 7 | 10/12 | ⚠ Verify: check the A6 date: the 10/12 case sheet photo shows graft #6 dated …8/26 (rest cut off), but A6 is logged 10/5 — A7 10/12 (NWSFA graft log: Graft #7, OASIS Wound Matrix 3x3.5 lot LB1744562; AJ confirmed A7). 10/5 was A6. |  |
 | Mon 10/12 11:30 AM · HE | **Grafting** | <details><summary>C.C.</summary>Constance Campbell</details> | Dr. Adelstein | OASIS Ultra 3x3.5 | 🟡 10 | 10/5 | A10 10/5 |  |
-| Mon 10/12 11:45 AM · HE | **Grafting** | G.K. | Dr. Adelstein | OASIS |  |  | Back on the NWSFA schedule for the week of 10/12 (Mon 10/12 11:45 AM, HE, Dr. Adelstein). OASIS per AJ's calendar; size and application count not on file yet |  |
+| Mon 10/12 11:45 AM · HE | **Grafting** | <details><summary>G.K.</summary>George Kuszynski</details> | Dr. Adelstein | OASIS Ultra 3x3.5 | 🟢 1 | 10/5 | A1 10/5 1:30 PM: OASIS Ultra 3x3.5, lot LB1709196 (case sheet in the app). Back on the NWSFA schedule for the week of 10/12 (Mon 10/12 11:45 AM, HE, Dr. Adelstein). |  |
 | Tue 10/13 11:15 AM · HE | **Grafting** | <details><summary>F.A.</summary>Frank Auman</details> | Dr. Adelstein | OASIS Ultra 3x7 | 🟡 11 | 10/6 | A11 10/6 (A10 the week of 9/28, exact date not recorded) |  |
 | Wed 10/14 1:00 PM · EG | **Grafting** | <details><summary>J.M.</summary>Joyce Morales</details> | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 2 | 10/7 | A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |  |
 | Wed 10/14 3:15 PM · HE | **Grafting** | <details><summary>E.P.</summary>Edmundo Punzalan</details> | Dr. Goldkind | OASIS Wound 3x3.5 | 🟢 2 | 10/7 | A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |  |
 | Thu 10/15 2:30 PM · HE | **Grafting** | C.T. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 2 | 10/8 | A2 10/8 (1st 10/1) |  |
 | Thu 10/15 2:45 PM · HE | **Grafting** | L.W. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 1 | 10/8 | A1 10/8 (OASIS Wound 3x3.5; AJ confirmed 10/11, it had been logged as held). A2 Thu 10/15 2:45 PM (HE). IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm. | [📄](ivr/nw-lw.md) |
-| Fri 10/16 9:00 AM · HE | **Grafting** | <details><summary>MZ (L)</summary>Mariusz Zabrodzki</details> | Dr. Goldkind | OASIS Ultra 5x7 | 🟢 5 | 10/9 | A5 10/9. Left ankle approved for grafting. Only grafting left foot. |  |
+| Fri 10/16 9:00 AM · HE | **Grafting** | <details><summary>MZ (L)</summary>Mariusz Zabrodzki</details> | Dr. Goldkind | OASIS Ultra 5x7 | 🟢 5 | 10/9 | A5 10/9. Left ankle approved for grafting. Only grafting left foot. OASIS Ultra 5x7 (1 box) ordered 10/12 on PO MZ101626 for the Fri 10/16 visit, delivery 10/13 to HE. |  |
 |  | Pending | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind |  |  |  | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |  |
 |  | Pending | M.A. | Dr. Goldkind | GRAFIX |  |  | Pending auth (NWSFA list wk of 10/12). IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer. R foot DFU. (Listed as M.P. until 10/4.) | [📄](ivr/nw-mp.md) |
 |  | On hold | <details><summary>J.R.</summary>James Roshbach</details> | Dr. Goldkind | GRAFIX 16mm | 🟢 6 |  | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |  |
@@ -126,7 +126,7 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Fri 10/16 1:00 PM | **Grafting** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 1 | 10/9 | ⚠ Verify: confirm A1 on 10/9 (calendar has A2 on 10/16) and Fri 10/16 1:00 PM — A1 10/9. DISCREPANCY: no A1 had been logged; AJ's 10/12 calendar has A2 on Fri 10/16, so A1 on 10/9 was added. Confirm. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](ivr/sj-dn.md) |
+| Fri 10/16 1:00 PM | **Grafting** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 1 | 10/9 | ⚠ Verify: confirm A1 on 10/9 (calendar has A2 on 10/16) — A1 10/9. DISCREPANCY: no A1 had been logged; AJ's 10/12 calendar has A2 on Fri 10/16, so A1 on 10/9 was added. Confirm. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. Fri 10/16 1:00 PM matches Pete's coverage email. | [📄](ivr/sj-dn.md) |
 | Tue 10/13 8:00 AM · Elgin | **Potential New Start** | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas | GRAFIX 3x3 (x2) first, then 3x4 + 2x3 | 🟢 0 |  | ⚠ Verify: confirm A1 Tue 10/13 8:00 AM — Approved 100% (10/8). A1 10/13: two Grafix 3x3 already bought on PO (no new sale). Then 10/20 and 10/27: a 3x4 + 2x3 each visit on new sale orders (Elgin: 3x4 $1,210.50, 2x3 $900). IVR ran 10/5. |  |
 | Thu 10/15 | **Grafting** | J.C. | Dr. Bhagat | OASIS Wound 3x3.5 | 🟢 6 |  | Held 10/8: wound doesn't look good even though it had been trending the right way; she thinks it's the new brace/shoe or a small infection. A9 (10/1) was an eval OASIS Wound 3x3.5 |  |
 |  | **OR** | T.W. | Dr. Bryniczka | STRAVIX 3x6 |  | 9/25 · 1 wk 3 d post-op | Stravix 3x6 OR case 9/25 (St. Joseph Elgin). Bill Only PO 712062882 received 10/9; submitted 10/9, not in SFDC yet |  |
@@ -157,7 +157,7 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 |  | **OR** | A.B. | Dr. Guske | STRAVIX 3x6 |  | 10/7 · 0 wk 0 d post-op | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604_36001 from St. Alexius stock: bill & replace, $2,469. Bill & replace PO 660080000212502 received 10/8 |  |
-| Fri 10/16 | **OR** | — | Dr. Liao | STRAVIX 3x6 |  | 10/16 · OR in 11 d | Upcoming case |  |
+| Fri 10/16 1:00 PM | **OR** | — | Dr. Liao | STRAVIX 3x6 |  | 10/16 · OR in 4 d | Upcoming OR case Fri 10/16 1:00–2:00 PM (on AJ's calendar). Caroline covering. |  |
 |  | **OR** | <details><summary>G.G.</summary>Gerald G</details> | Dr. Goldkind | STRAVIX 2x4 |  | 9/29 · 0 wk 6 d post-op | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |  |
 |  | **OR** | N.W. | Dr. Bryniczka | STRAVIX 2x4 |  | 9/11 · 3 wk 3 d post-op | Bill & replace |  |
 
