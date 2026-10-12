@@ -55,7 +55,7 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Tue 10/13 · Elmhurst | On hold | Y.L. | Dr. Grinberg | GRAFIX 16mm | 🟢 1 | 9/29 | ⚠ Verify: on hold; 10/13 visit has no time and isn't on the calendar, confirm status | ON HOLD 10/5: infection on the right foot, sent to the ER; 10/6 visit off. Next visit 10/13. A1 9/29 (PO YL092926). Seen at the Elmhurst office (183 W 1st St). |  |
+| Tue 10/13 · Elmhurst | On hold | Y.L. | Dr. Grinberg | GRAFIX 16mm | 🟢 1 | 9/29 | ⚠ Verify: on hold; 10/13 visit has no time and isn't on the calendar, confirm status — ON HOLD 10/5: infection on the right foot, sent to the ER; 10/6 visit off. Next visit 10/13. A1 9/29 (PO YL092926). Seen at the Elmhurst office (183 W 1st St). |  |
 
 
 </details>

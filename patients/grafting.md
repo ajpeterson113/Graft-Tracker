@@ -18,7 +18,7 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 | Tue 10/13 10:45 AM | **Grafting** | <details><summary>I.S.</summary>I. Stalilionis</details> | Dr. Patni | OASIS Wound Matrix 3x3.5 | 🟢 6 | 10/6 | A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |  |
 | Thu 10/15 2:00 PM | **Grafting** | <details><summary>D.F.</summary>Dominga Flores</details> | Dr. Luetkehans | GRAFIX 3x4 | 🟢 3 | 10/8 | A3 10/8: 5x5 (Good Sam PO006001505). Moving to 3x4 from 10/15 (A4). |  |
 | Thu 10/15 2:00 PM | **Grafting** | <details><summary>P.J.</summary>Paul Jagust</details> | Dr. Luetkehans | GRAFIX (3) 16mm | 🟢 3 | 10/8 | A3 10/8: (3) 16mm. Next 10/15: A4, (3) 16mm. |  |
-| Wed 10/14 9:30 AM | **Grafting** | <details><summary>L.J.</summary>Louis Marie Jacques</details> | Dr. Bach | OASIS Ultra 7x10 | 🟢 1 | 10/7 | ⚠ Verify: confirm Wed 10/14 9:30 AM | A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2 (3 left). |  |
+| Wed 10/14 9:30 AM | **Grafting** | <details><summary>L.J.</summary>Louis Marie Jacques</details> | Dr. Bach | OASIS Ultra 7x10 | 🟢 1 | 10/7 | ⚠ Verify: confirm Wed 10/14 9:30 AM — A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2 (3 left). |  |
 | Thu 10/15 9:45 AM | **Grafting** | <details><summary>W.K.</summary>W. Knudsen</details> | Dr. Ayesh | GRAFIX 16mm | 🟢 5 | 10/1 |  |  |
 | Thu 10/15 9:15 AM | **Grafting** | <details><summary>K.P.</summary>K. Prince</details> | Dr. Ayesh | GRAFIX 5x5 + 3x4 | 🟢 6 | 10/1 |  |  |
 | Thu 10/15 10:45 AM | **Grafting** | <details><summary>C.B.</summary>C. Baker</details> | Dr. Ayesh | GRAFIX 2x3 | 🟢 3 | 10/1 | A4 Thu 10/15: GRAFIX 2x3 (AJ confirmed 10/11; the calendar entry said 3x4) |  |
@@ -34,17 +34,17 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 | Tue 10/13 9:00 AM | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014, PO …284776 received 10/9). |  |
-| Wed 10/14 1:45 PM | **Grafting** | <details><summary>D.V.</summary>Donald Vondraceck</details> | Dr. Hussain | OASIS Wound 3x7 | 🟢 1 | 10/7 | ⚠ Verify: confirm Wed 10/14 1:45 PM | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |  |
+| Wed 10/14 1:45 PM | **Grafting** | <details><summary>D.V.</summary>Donald Vondraceck</details> | Dr. Hussain | OASIS Wound 3x7 | 🟢 1 | 10/7 | ⚠ Verify: confirm Wed 10/14 1:45 PM — A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |  |
 | Tue 10/13 9:40 AM | **Grafting** | <details><summary>J.L.</summary>J. Leamann</details> | Dr. Lucas | GRAFIX 16mm | 🟢 2 | 10/6 | A2 10/6 (LYA-260159_16001). |  |
 | Tue 10/20 | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
 | Tue 10/13 12:50 PM | **Grafting** | <details><summary>A.N.</summary>Aloysius Newman</details> | Dr. Joshi | GRAFIX 16mm | 🟢 4 | 10/6 | A4 10/6 (LYA-260159_16026). |  |
 | Wed 10/14 9:30 AM | **Grafting** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  |  | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |  |
-|  | **Grafting** | <details><summary>D.S.</summary>D. Stanbury</details> | Dr. Lucas | OASIS Wound 3x3.5 | 🟢 8 | 10/9 | ⚠ Verify: A8 10/9, nothing booked since; confirm whether she continues | A8 10/9 (logged in the app 10/11). No follow-up booked yet |  |
+|  | **Grafting** | <details><summary>D.S.</summary>D. Stanbury</details> | Dr. Lucas | OASIS Wound 3x3.5 | 🟢 8 | 10/9 | ⚠ Verify: A8 10/9, nothing booked since; confirm whether she continues — A8 10/9 (logged in the app 10/11). No follow-up booked yet |  |
 | Mon 10/12 1:20 PM | **Grafting** | <details><summary>B.P.</summary>Boguslaw Pryzybcien</details> | Dr. Joshi | OASIS Burn 5x7 | 🟢 1 | 10/5 | A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |  |
-| Wed 10/14 2:00 PM | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 4 | 10/7 | ⚠ Verify: confirm Wed 10/14 2:00 PM | A4 10/7 (PO …284690). Case sheet on file (LYA-260174_16009). |  |
-| Wed 10/14 2:30 PM | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 2 | 10/7 | ⚠ Verify: confirm Wed 10/14 2:30 PM | A2 10/7 (PO …284689). Case sheet on file (LYA-260174_16010). |  |
-| Thu 10/15 8:20 AM | **Grafting** | <details><summary>J.B.</summary>Jozef B.</details> | Dr. Adelstein | OASIS Burn 3x7 | 🟢 3 | 10/8 | ⚠ Verify: confirm Thu 10/15 8:20 AM | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |  |
-| Thu 10/15 8:45 AM | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | ⚠ Verify: confirm Thu 10/15 8:45 AM and the app count (calendar A8, records 5) | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). APP COUNT NEEDS VERIFICATION (AJ): the 10/12 calendar has A8 on 10/15, but records show 5 applications |  |
+| Wed 10/14 2:00 PM | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 4 | 10/7 | ⚠ Verify: confirm Wed 10/14 2:00 PM — A4 10/7 (PO …284690). Case sheet on file (LYA-260174_16009). |  |
+| Wed 10/14 2:30 PM | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 2 | 10/7 | ⚠ Verify: confirm Wed 10/14 2:30 PM — A2 10/7 (PO …284689). Case sheet on file (LYA-260174_16010). |  |
+| Thu 10/15 8:20 AM | **Grafting** | <details><summary>J.B.</summary>Jozef B.</details> | Dr. Adelstein | OASIS Burn 3x7 | 🟢 3 | 10/8 | ⚠ Verify: confirm Thu 10/15 time: your calendar 8:20 AM, Caroline's coverage email 8:30 AM — A3 10/8: OASIS Burn 3x7 from the WCC shelf. |  |
+| Thu 10/15 8:45 AM | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | ⚠ Verify: confirm Thu 10/15 8:45 AM and the app count (calendar A8, records 5) — Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). APP COUNT NEEDS VERIFICATION (AJ): the 10/12 calendar has A8 on 10/15, but records show 5 applications |  |
 
 
 </details>
@@ -56,7 +56,7 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Fri 10/9 9:45 AM | **Grafting** | <details><summary>M.C.</summary>Martin Cozzi</details> | Dr. Lucas | OASIS Wound 3x7 | 🟡 10 |  | ⚠ Verify: was scheduled Fri 10/9 9:45 AM, no result logged, not on the 10/12 calendar |  |  |
+| Fri 10/9 9:45 AM | **Grafting** | <details><summary>M.C.</summary>Martin Cozzi</details> | Dr. Lucas | OASIS Wound 3x7 | 🟡 10 |  | ⚠ Verify: was scheduled Fri 10/9 9:45 AM, no result logged, not on the 10/12 calendar —  |  |
 
 
 </details>
@@ -89,7 +89,7 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Fri 10/16 1:00 PM | **Grafting** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 1 | 10/9 | ⚠ Verify: confirm A1 on 10/9 (calendar has A2 on 10/16) and Fri 10/16 1:00 PM | A1 10/9. DISCREPANCY: no A1 had been logged; AJ's 10/12 calendar has A2 on Fri 10/16, so A1 on 10/9 was added. Confirm. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](../ivr/sj-dn.md) |
+| Fri 10/16 1:00 PM | **Grafting** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 1 | 10/9 | ⚠ Verify: confirm A1 on 10/9 (calendar has A2 on 10/16) and Fri 10/16 1:00 PM — A1 10/9. DISCREPANCY: no A1 had been logged; AJ's 10/12 calendar has A2 on Fri 10/16, so A1 on 10/9 was added. Confirm. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](../ivr/sj-dn.md) |
 | Thu 10/15 | **Grafting** | J.C. | Dr. Bhagat | OASIS Wound 3x3.5 | 🟢 6 |  | Held 10/8: wound doesn't look good even though it had been trending the right way; she thinks it's the new brace/shoe or a small infection. A9 (10/1) was an eval OASIS Wound 3x3.5 |  |
 
 
@@ -102,8 +102,8 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Fri 10/16 9:15 AM · Good Sam | **Grafting** | R.C. | Dr. Luetkehans | GRAFIX 2x 5x5 + 3x4 | 🟢 2 | 10/9 | ⚠ Verify: confirm Fri 10/16 9:15 AM (at Good Sam) | A2 10/9: 2 x 5x5 (LYA-260337_55005, LYA-260335_55004, billed on RC100926) + 1 x 3x4 (LYA-250008_34006, to be billed, PO to come). Case sheets on file. 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on PO. |  |
-| Fri 10/16 12:00 PM · CDFA | **Grafting** | <details><summary>A.S.</summary>Antanas Sabaluauskas</details> | Dr. Luetkehans | GRAFIX 16mm | 🟢 1 | 10/9 | ⚠ Verify: confirm Fri 10/16 12:00 PM | A1 10/9: 16mm (sale order on PO AS100926). Weekly 16mm; next 10/16. Lot/SN and case sheet to come. |  |
+| Fri 10/16 9:15 AM · Good Sam | **Grafting** | R.C. | Dr. Luetkehans | GRAFIX 2x 5x5 + 3x4 | 🟢 2 | 10/9 | ⚠ Verify: confirm Fri 10/16 time and place: your calendar 9:15 AM at Good Sam, Caroline's coverage email 9:00 AM at CDFA — A2 10/9: 2 x 5x5 (LYA-260337_55005, LYA-260335_55004, billed on RC100926) + 1 x 3x4 (LYA-250008_34006, to be billed, PO to come). Case sheets on file. 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on PO. |  |
+| Fri 10/16 12:00 PM · CDFA | **Grafting** | <details><summary>A.S.</summary>Antanas Sabaluauskas</details> | Dr. Luetkehans | GRAFIX 16mm | 🟢 1 | 10/9 | ⚠ Verify: confirm Fri 10/16 time: your calendar 12:00 PM, Caroline's coverage email 9:30 AM — A1 10/9: 16mm (sale order on PO AS100926). Weekly 16mm; next 10/16. Lot/SN and case sheet to come. |  |
 
 
 </details>

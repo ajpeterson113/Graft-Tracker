@@ -39,7 +39,7 @@ Updated 10/11/26, 11:40 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Tue 10/13 8:00 AM · Elgin | **Potential New Start** | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas | GRAFIX 3x3 (x2) first, then 3x4 + 2x3 | 🟢 0 |  | ⚠ Verify: confirm A1 Tue 10/13 8:00 AM | Approved 100% (10/8). A1 10/13: two Grafix 3x3 already bought on PO (no new sale). Then 10/20 and 10/27: a 3x4 + 2x3 each visit on new sale orders (Elgin: 3x4 $1,210.50, 2x3 $900). IVR ran 10/5. |  |
+| Tue 10/13 8:00 AM · Elgin | **Potential New Start** | <details><summary>P.H.</summary>Pamela Hartlipp</details> | Veronica Pappas | GRAFIX 3x3 (x2) first, then 3x4 + 2x3 | 🟢 0 |  | ⚠ Verify: confirm A1 Tue 10/13 8:00 AM — Approved 100% (10/8). A1 10/13: two Grafix 3x3 already bought on PO (no new sale). Then 10/20 and 10/27: a 3x4 + 2x3 each visit on new sale orders (Elgin: 3x4 $1,210.50, 2x3 $900). IVR ran 10/5. |  |
 
 
 </details>
