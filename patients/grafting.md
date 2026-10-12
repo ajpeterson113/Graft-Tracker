@@ -1,10 +1,10 @@
 # 👥 Patients · BIOT Chicago West
 
-Updated 10/11/26, 10:55 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
+Updated 10/11/26, 11:15 PM CT · [⬇ Download the patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) · [← Graft Tracker](https://github.com/ajpeterson113/Graft-Tracker)
 
 <img src="../view/patients_kpi.png" width="100%" alt="Patient summary">
 
-<table><tr><td width="100%"><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/Patients.md">All Patients (88)</a> · <b>Grafting (35)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (9)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-new-start.md">Potential New Start (8)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/on-hold.md">On hold (8)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (18)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (6)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (2)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (7)</a> · <a href="#alexian-wcc">Alexian WCC (13)</a> · <a href="#alexian-ambulatory">Alexian Ambulatory (1)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (9)</a> · <a href="#st-joseph-elgin">St. Joseph Elgin (1)</a> · <a href="#sherman">Sherman (1)</a> · <a href="#central-dupage">Central DuPage (1)</a> · <a href="#romano-lombard">Romano Lombard (1)</a></td></tr></table>
+<table><tr><td width="100%"><a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/Patients.md">All Patients (88)</a> · <b>Grafting (36)</b> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/pending.md">Pending (8)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-new-start.md">Potential New Start (6)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/on-hold.md">On hold (8)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/potential-ivr.md">Potential IVR (2)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/or.md">OR (18)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/done.md">Done (7)</a> · <a href="https://github.com/ajpeterson113/Graft-Tracker/blob/main/patients/denied.md">Denied (3)</a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="New patient"></a></td><td nowrap><a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="Notes"></a></td></tr><tr><td colspan="3"><b>Accounts:</b> <a href="#good-sam">Good Sam (7)</a> · <a href="#alexian-wcc">Alexian WCC (13)</a> · <a href="#alexian-ambulatory">Alexian Ambulatory (1)</a> · <a href="#nw-suburban-f-a">NW Suburban F&A (9)</a> · <a href="#st-joseph-elgin">St. Joseph Elgin (1)</a> · <a href="#sherman">Sherman (1)</a> · <a href="#central-dupage">Central DuPage (1)</a> · <a href="#romano-lombard">Romano Lombard (1)</a></td></tr></table>
 
 🟢 0–9 · 🟡 10–11 · 🔴 12+ applications
 
@@ -21,7 +21,7 @@ Updated 10/11/26, 10:55 PM CT · [⬇ Download the patient list (Excel)](https:/
 | Wed 10/14 9:30 AM | **Grafting** | <details><summary>L.J.</summary>Louis Marie Jacques</details> | Dr. Bach | OASIS Ultra 7x10 | 🟢 1 | 10/7 | A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2 (3 left). |  |
 | Thu 10/15 9:45 AM | **Grafting** | <details><summary>W.K.</summary>W. Knudsen</details> | Dr. Ayesh | GRAFIX 16mm | 🟢 5 | 10/1 |  |  |
 | Thu 10/15 9:15 AM | **Grafting** | <details><summary>K.P.</summary>K. Prince</details> | Dr. Ayesh | GRAFIX 5x5 + 3x4 | 🟢 6 | 10/1 |  |  |
-| Thu 10/15 10:45 AM | **Grafting** | <details><summary>C.B.</summary>C. Baker</details> | Dr. Ayesh | GRAFIX 3x4 | 🟢 3 | 10/1 | A4 Thu 10/15: AJ's calendar says GRAFIX 3x4 (earlier note said moving down to 2x3) |  |
+| Thu 10/15 10:45 AM | **Grafting** | <details><summary>C.B.</summary>C. Baker</details> | Dr. Ayesh | GRAFIX 2x3 | 🟢 3 | 10/1 | A4 Thu 10/15: GRAFIX 2x3 (AJ confirmed 10/11; the calendar entry said 3x4) |  |
 
 
 </details>
@@ -36,15 +36,15 @@ Updated 10/11/26, 10:55 PM CT · [⬇ Download the patient list (Excel)](https:/
 | Tue 10/13 9:00 AM | **Grafting** | <details><summary>D.G.</summary>Diane Grunder</details> | Dr. Lucas | GRAFIX 16mm | 🟢 3 | 10/6 | A3 10/6 (LYA-260017_16014, PO …284776 received 10/9). |  |
 | Wed 10/14 1:45 PM | **Grafting** | <details><summary>D.V.</summary>Donald Vondraceck</details> | Dr. Hussain | OASIS Wound 3x7 | 🟢 1 | 10/7 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |  |
 | Tue 10/13 9:40 AM | **Grafting** | <details><summary>J.L.</summary>J. Leamann</details> | Dr. Lucas | GRAFIX 16mm | 🟢 2 | 10/6 | A2 10/6 (LYA-260159_16001). |  |
-|  | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | ⚠ Verify: not on the 10/12 calendar (A8 would be the last Alexian WCC application). A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
+| Tue 10/20 | **Grafting** | <details><summary>T.T.</summary>Tracy Tijerria</details> | Dr. Lucas | GRAFIX 16mm | 🟢 7 | 10/6 | A7 10/6 (LYA-260159_16028). Alexian WCC stops at 8, so 1 left. |  |
 | Tue 10/13 12:50 PM | **Grafting** | <details><summary>A.N.</summary>Aloysius Newman</details> | Dr. Joshi | GRAFIX 16mm | 🟢 4 | 10/6 | A4 10/6 (LYA-260159_16026). |  |
 | Wed 10/14 9:30 AM | **Grafting** | <details><summary>L.S.</summary>Lea S</details> | Dr. Russo | STRAVIX 2x4 |  |  | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |  |
-| Fri 10/9 12:40 PM | **Grafting** | <details><summary>D.S.</summary>D. Stanbury</details> | Dr. Lucas | OASIS Wound 3x3.5 | 🟢 7 | 10/2 | ⚠ Verify: on the schedule Fri 10/9 12:40 PM, not on the 10/12 calendar.  |  |
+|  | **Grafting** | <details><summary>D.S.</summary>D. Stanbury</details> | Dr. Lucas | OASIS Wound 3x3.5 | 🟢 8 | 10/9 | A8 10/9 (logged in the app 10/11). No follow-up booked yet |  |
 | Mon 10/12 1:20 PM | **Grafting** | <details><summary>B.P.</summary>Boguslaw Pryzybcien</details> | Dr. Joshi | OASIS Burn 5x7 | 🟢 1 | 10/5 | A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |  |
 | Wed 10/14 2:00 PM | **Grafting** | <details><summary>A.P.</summary>Aldo Perellu</details> | Dr. Hussain | GRAFIX 16mm | 🟢 4 | 10/7 | A4 10/7 (LYA-260174_16009, PO …284690); case sheet on file |  |
 | Wed 10/14 2:30 PM | **Grafting** | <details><summary>M.L.</summary>Mariah Lopez</details> | Dr. Joshi | GRAFIX 16mm | 🟢 2 | 10/7 | A2 10/7 (LYA-260174_16010, PO …284689); case sheet on file |  |
 | Thu 10/15 8:20 AM | **Grafting** | <details><summary>J.B.</summary>Jozef B.</details> | Dr. Adelstein | OASIS Burn 3x7 | 🟢 3 | 10/8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |  |
-| Thu 10/15 8:45 AM | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). AJ's calendar has A8 on 10/15 but the count here is 5: confirm |  |
+| Thu 10/15 8:45 AM | **Grafting** | <details><summary>D.C.</summary>Donald Carrothers</details> | Dr. Adelstein | GRAFIX 16mm | 🟢 5 |  | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). APP COUNT NEEDS VERIFICATION (AJ): the 10/12 calendar has A8 on 10/15, but records show 5 applications |  |
 
 
 </details>
@@ -63,13 +63,13 @@ Updated 10/11/26, 10:55 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&A · 9</b></summary>
+<details open><summary><b>NW Suburban F&A · 10</b></summary>
 
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
 | Mon 10/12 8:45 AM · EG | **Grafting** | P.S. | Dr. Goldkind | GRAFIX 16mm | 🟢 1 | 10/5 | A1 10/5 (LYA-250894_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). 10/12 16mm ordered on PO PS101226; weekly 16mm orders after that. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm. | [📄](../ivr/nw-ps.md) |
-| Mon 10/12 9:45 AM · HE | **Grafting** | <details><summary>P.M.</summary>Paul Michael</details> | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 7 | 10/5 | A7 10/5 (AJ's calendar has A8 on Mon 10/12, so the count is 7, not 4) |  |
+| Mon 10/12 9:45 AM · HE | **Grafting** | <details><summary>P.M.</summary>Paul Michael</details> | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 7 | 10/5 | A7 10/5. DISCREPANCY: records had 4 (3 unconfirmed + A4 10/5); AJ's 10/12 calendar has A8 on Mon 10/12, so the count was set to 7. Confirm with the clinic |  |
 | Mon 10/12 11:30 AM · HE | **Grafting** | <details><summary>C.C.</summary>Constance Campbell</details> | Dr. Adelstein | OASIS Ultra 3x3.5 | 🟡 10 | 10/5 | A10 10/5 |  |
 | Mon 10/12 11:45 AM · HE | **Grafting** | G.K. | Dr. Adelstein | OASIS |  |  | Back on the NWSFA schedule for the week of 10/12 (Mon 10/12 11:45 AM, HE, Dr. Adelstein). OASIS per AJ's calendar; size and application count not on file yet |  |
 | Tue 10/13 11:15 AM · HE | **Grafting** | <details><summary>F.A.</summary>Frank Auman</details> | Dr. Adelstein | OASIS Ultra 3x7 | 🟡 11 | 10/6 | A11 10/6 (A10 the week of 9/28, exact date not recorded) |  |
@@ -77,6 +77,7 @@ Updated 10/11/26, 10:55 PM CT · [⬇ Download the patient list (Excel)](https:/
 | Wed 10/14 3:15 PM · HE | **Grafting** | <details><summary>E.P.</summary>Edmundo Punzalan</details> | Dr. Goldkind | OASIS Wound 3x3.5 | 🟢 2 | 10/7 | A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |  |
 | Thu 10/15 2:30 PM · HE | **Grafting** | C.T. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 2 | 10/8 | A2 10/8 (1st 10/1) |  |
 | Fri 10/16 9:00 AM · HE | **Grafting** | <details><summary>MZ (L)</summary>Mariusz Zabrodzki</details> | Dr. Goldkind | OASIS Ultra 5x7 | 🟢 5 | 10/9 | A5 10/9. Left ankle approved for grafting. Only grafting left foot. |  |
+| Thu 10/15 2:45 PM · HE | **Grafting** | L.W. | Dr. Adelstein | OASIS Wound 3x3.5 | 🟢 1 | 10/8 | A1 10/8 (OASIS Wound 3x3.5; AJ confirmed 10/11, it had been logged as held). A2 Thu 10/15 2:45 PM (HE). IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm. | [📄](../ivr/nw-lw.md) |
 
 
 </details>
@@ -88,7 +89,7 @@ Updated 10/11/26, 10:55 PM CT · [⬇ Download the patient list (Excel)](https:/
 
 | Next appt | Status | Initials | Surgeon | Product / size | Apps | Last graft / case | Notes |   |
 |---|---|---|---|---|---|---|---|---|
-| Fri 10/16 1:00 PM | **Grafting** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 1 | 10/9 | A1 10/9 per AJ's calendar (A2 Fri 10/16 1:00 PM). Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](../ivr/sj-dn.md) |
+| Fri 10/16 1:00 PM | **Grafting** | D.N. | Veronica Pappas | OASIS Wound Matrix 3x3.5 | 🟢 1 | 10/9 | A1 10/9. DISCREPANCY: no A1 had been logged; AJ's 10/12 calendar has A2 on Fri 10/16, so A1 on 10/9 was added. Confirm. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. First visit 10/9. | [📄](../ivr/sj-dn.md) |
 | Thu 10/15 | **Grafting** | J.C. | Dr. Bhagat | OASIS Wound 3x3.5 | 🟢 6 |  | Held 10/8: wound doesn't look good even though it had been trending the right way; she thinks it's the new brace/shoe or a small infection. A9 (10/1) was an eval OASIS Wound 3x3.5 |  |
 
 

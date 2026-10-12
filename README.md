@@ -1,6 +1,6 @@
 ![P10 dashboard](view/dashboard.png)
 
-**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 10:25 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
+**[⬇ Download the Excel file](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx)**  ·  **[⬇ Patient list](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx)**  ·  updated 10/11/26, 11:15 PM CT · [👥 Patients dashboard](Patients.md) · [🎯 Targets](Prospects.md) · [⬇ Target workbook](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)
 
 ## October
 
@@ -206,14 +206,14 @@ Projected visits include this week's scheduled visits until they're filed (then 
 | Account | Patients | Product | Size | Boxes up | Boxes down | Box price | Upside | Downside |
 | --- | --- | --- | --- | ---: | ---: | ---: | ---: | ---: |
 | NW Suburban F&A | C.C. (R.D., S.B. on hold) | OASIS Ultra | 3x3.5 | 2 | 0 | $771.75 | $1,543.50 | $0.00 |
-| NW Suburban F&A | J.M., P.M., C.T., E.P. (+ L.W. from 10/15) | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
+| NW Suburban F&A | J.M., P.M., C.T., E.P. (+ L.W., A1 10/8) | OASIS Wound Matrix | 3x3.5 | 2 | 1 | $1,126.50 | $2,253.00 | $1,126.50 |
 | NW Suburban F&A | M.Z. (L) (clinic asked us to order, list wk of 10/12) | OASIS Ultra | 5x7 | 1 | 1 | $1,528.00 | $1,528.00 | $1,528.00 |
 | Alexian WCC | D.V. (started 10/7, 3 a visit) | OASIS Wound Matrix | 3x7 | 1 | 1 | $2,206.00 | $2,206.00 | $2,206.00 |
 | Alexian WCC | J.B. | OASIS Burn Matrix | 3x7 | 1 | 0 | $1,470.28 | $1,470.28 | $0.00 |
 | Alexian WCC | B.P. (new start 10/5) | OASIS Burn Matrix | 5x7 meshed | 1 | 1 | $1,841.45 | $1,841.45 | $1,841.45 |
 | Good Sam | I.S. | OASIS Wound Matrix | 3x3.5 | 1 | 0 | $1,145.90 | $1,145.90 | $0.00 |
 | Good Sam | L.J. (started 10/7, 2 sheets) | OASIS Ultra | 7x10 meshed | 1 | 0 | $4,243.75 | $4,243.75 | $0.00 |
-| Alexian WCC | D.S. (M.I. on hold) | OASIS Wound Matrix | 3x3.5 | 0 | 0 | $1,104.00 | $0.00 | $0.00 |
+| Alexian WCC | D.S. (M.I. done) | OASIS Wound Matrix | 3x3.5 | 0 | 0 | $1,104.00 | $0.00 | $0.00 |
 
 </details>
 
