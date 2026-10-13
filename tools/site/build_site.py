@@ -1287,6 +1287,11 @@ def page_todo(tr, pt, counts, sub):
     return page, '\n'.join(out)
 
 
+def one_sheet(s):
+    """'1 sheets' -> '1 sheet' in counts that come from the tracker's stock alerts."""
+    return re.sub(r'(?<![\d.,])1 sheets\b', '1 sheet', s) if isinstance(s, str) else s
+
+
 def alert_boxes(alerts, tail=None):
     """Stock alerts as GitHub callouts: one red box for problems, one amber box for reorders."""
     out = []
@@ -1296,7 +1301,8 @@ def alert_boxes(alerts, tail=None):
             continue
         lines = [f"> [!{kind}]"]
         for a in its:
-            lines.append(f"> - **{T(a.get('title'))}**" + (f" · {T(a.get('text'))}" if a.get('text') else '') + (tail(a) if tail else ''))
+            title, text = one_sheet(a.get('title')), one_sheet(a.get('text'))
+            lines.append(f"> - **{T(title)}**" + (f" · {T(text)}" if text else '') + (tail(a) if tail else ''))
         out.append('\n'.join(lines) + '\n')
     return '\n'.join(out)
 
@@ -1436,7 +1442,7 @@ def stock_row(s_, L, tr):
     low = mn is not None and oh is not None and oh < mn
     per_box = num(s_.get('perBox')) if oasis else None
     size = f"**{T(s_.get('size'))}**<br>{nb(T(str(s_.get('product', '')).replace('OASIS ', 'OASIS ')))}"
-    onh = (('🟠 ' if low else '') + f"**{fnum(oh) if oh is not None else '—'}**" + (' sheets' if oasis else ''))
+    onh = (('🟠 ' if low else '') + f"**{fnum(oh) if oh is not None else '—'}**" + ((' sheet' if oh == 1 else ' sheets') if oasis else ''))
     if mn is not None and mx is not None:
         onh += '<br>' + nb('target ' + (f'{fnum(mn)}\u2060–\u2060{fnum(mx)}' if mn != mx else fnum(mn)))
     st = str(s_.get('status') or '')
@@ -1500,7 +1506,7 @@ def page_stock(tr, counts, sub):
             meta.append('counted ' + T(mdy(L['counted'])))
         if grafts or sheets:
             meta.append(' · '.join(x for x in [f"{int(grafts)} graft{'' if grafts == 1 else 's'}" if grafts else '',
-                                               f"{int(sheets)} OASIS sheets" if sheets else ''] if x))
+                                               f"{int(sheets)} OASIS sheet{'' if sheets == 1 else 's'}" if sheets else ''] if x))
         out.append(' · '.join(meta) + '\n')
         if L.get('summary'):
             out.append(T(L['summary']) + '\n')

@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 89 patients · updated Mon 10/12, 10:51 PM CT
+**BIOT Chicago West** · 89 patients · updated Mon 10/12, 11:14 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;89](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;10**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;89](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 34](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 9](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 9](../patients/done.md) · [Denied 4](../patients/denied.md)
@@ -17,13 +17,11 @@
 
 <a name="verify"></a>
 
-## 🟠 Verify · 3
+## 🟠 Verify · 1
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound 3x7 | was scheduled Fri 10/9 9:45 AM, no result logged, not on the 10/12 calendar |
-| <details><summary><b>P.M.</b></summary>Paul Michael</details> | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | check the A6 date: the 10/12 case sheet photo shows graft #6 dated …8/26 (rest cut off), but A6 is logged 10/5 |
-| **D.N.** | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | confirm A1 on 10/9 (calendar has A2 on 10/16) |
 
 <a name="nofu"></a>
 

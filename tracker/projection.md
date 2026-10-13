@@ -2,7 +2,7 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 10:51 PM CT
+**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 11:14 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -141,7 +141,7 @@ Sold so far: **\$6,600** · 17 cases
 | **Dr. Hussain** | OASIS Wound 3x7 · 1 up / 1 down box · D.V. (started 10/7) | \$2,206 | \$2,206 | Stock tab: 7 sheets as of 10/12 (10 at the 10/5 count less D.V.'s 3 on 10/7). |
 | **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 0 down box · J.B. | \$1,470 | \$0 | Stock tab: 3 on the shelf after J.B.'s A3 on 10/8. |
 | **Dr. Lucas** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · D.S. (M.I. done) | — | — |   |
-| **Dr. Joshi** | OASIS Burn 5x7 meshed · 1 up / 1 down box · B.P. (new start 10/5) | \$1,841 | \$1,841 | Stock tab: 2 Burn 5x7 sheets as of 10/12 (3 at the 10/3 count less B.P.'s A1 10/5). |
+| **Dr. Joshi** | OASIS Burn 5x7 meshed · 1 up / 1 down box · B.P. (new start 10/5) | \$1,841 | \$1,841 | Stock tab: 1 Burn 5x7 sheet as of 10/12 (3 at the 10/3 count less B.P.'s A1 10/5 and A2 10/12). |
 
 </details>
 
@@ -286,7 +286,7 @@ Sold so far: **\$190** · 1 case
 | **S.B.** | NW Suburban F&A | Home Visit | OASIS Ultra 3x3.5 | On hold | A11 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). |
 | **J.C.** | St. Joseph Elgin | Bhagat | OASIS Wound 3x3.5 | Grafting | A6 |   |
 | **D.M.** | Sherman | Elizabeth Francis | OASIS Wound | Denied |   | Denied (moved in the app 10/11) |
-| **B.P.** | Alexian WCC | Joshi | OASIS Burn 5x7 meshed | Grafting | A1 | A1 10/5 (Burn 5x7 meshed from the WCC shelf) |
+| **B.P.** | Alexian WCC | Joshi | OASIS Burn 5x7 meshed | Grafting | A2 | A1 10/5, A2 10/12 (Burn 5x7 meshed from the WCC shelf); may go down a size next week |
 | **D.V.** | Alexian WCC | Hussain | OASIS Wound 3x7 | Grafting | A1 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf, 3 a visit. |
 
 </details>

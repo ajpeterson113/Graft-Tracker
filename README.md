@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 10:51 PM CT
+**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 11:14 PM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -33,7 +33,7 @@
 
 | [Mon 10/12 · today](patients/week.md#mon) | [Tue 10/13](patients/week.md#tue) | [Wed 10/14](patients/week.md#wed) | [Thu 10/15](patients/week.md#thu) | [Fri 10/16](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **5** visits | **8** visits 🔴 | **10** visits 🔴 | **12** visits | **6** visits 🟠 🔴 |
+| **5** visits | **8** visits 🔴 | **10** visits 🔴 | **12** visits | **6** visits 🔴 |
 
 
 Covering: Caroline 9 · Pete 8 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
@@ -101,7 +101,7 @@ Scheduled visits this week count until they're filed; once a visit is in October
 
 |  | File | Updated |
 | :-: | :-- | :-- |
-| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-10-12.xlsx · Mon 10/12, 1:26 PM CT |
+| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-10-12.xlsx · Mon 10/12, 11:12 PM CT |
 | ⬇ | [Patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) | from the Chi West Patients app |
 | ⬇ | [Target workbook (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx) | surgeon targets |
 

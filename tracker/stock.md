@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 10:51 PM CT
+**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 11:14 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,9 +16,9 @@
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 10/3/26 · 51 grafts · 22 OASIS sheets
+**Consignment shelf** · counted 10/3/26 · 51 grafts · 21 OASIS sheets
 
-51 Grafix units on hand (\$58,751 consignment). 1 size(s) to reorder now. \$7,980 expiring before it can be used.
+51 Grafix units on hand (\$58,751 consignment). 2 size(s) to reorder now. \$7,980 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment
@@ -26,7 +26,7 @@
 > [!WARNING]
 > - **Grafix 16mm: 9 on hand (target 10–15)** · Order 6 now · runs out week of 10/19
 > - **OASIS Wound 3x7: 7 sheets** · Order 1 box soon · runs out week of 10/26
-> - **OASIS Burn 5x7 meshed: 2 sheets** · Order 1 box soon · runs out week of 10/26
+> - **OASIS Burn 5x7 meshed: 1 sheet** · Order 1 box now · runs out week of 10/19
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
@@ -34,13 +34,13 @@
 | **1.5x2**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 6/18/27 |
 | **2x3**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
 | **3x3**<br>Grafix | **5**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
-| **3x4**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🔴 7 expire before use | next exp 12/18/26<br><sub>All 8 expire 12/18/26</sub> |
+| **3x4**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🔴 7 expire before use | next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
 | **5x5**<br>Grafix | **12**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 11/3/27 |
 | **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | 🟢 OK | 1/wk · 7.0 wks left · box of 10 · out week of 11/30 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
 | **3x7**<br>OASIS&nbsp;Wound | **7** sheets | 🟠 Order soon · order 1 box | 3/wk · 2.3 wks left · box of 10 · out week of 10/26<br><sub>Box of 10 on the shelf per AJ 10/5; lot and expiry to come with the photos</sub> |
 | **3x3.5**<br>OASIS&nbsp;Burn | **3** sheets | No patients on it | box of 5 · next exp 4/3/28 |
 | **3x7**<br>OASIS&nbsp;Burn | **3** sheets | 🟢 OK | 1/wk · 3.0 wks left · box of 5 · out week of 11/2 · next exp 11/8/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
-| **5x7 meshed**<br>OASIS&nbsp;Burn | **2** sheets | 🟠 Order soon · order 1 box | 1/wk · 2.0 wks left · box of 5 · out week of 10/26 · next exp 7/11/27 |
+| **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | 🟠 Reorder now · order 1 box | 1/wk · 1.0 wks left · box of 5 · out week of 10/19 · next exp 7/11/27 |
 
 <details><summary><b>Units on the shelf</b> · 51</summary>
 
@@ -107,7 +107,7 @@
 | OASIS Wound | 3x3.5 | LB1741499 | 7 of 10 sheets | 1/31/28 |   |
 | OASIS Burn | 3x3.5 | LB1732662 | 3 of 5 sheets | 4/3/28 |   |
 | OASIS Burn | 3x7 | LB1732663 | 3 of 5 sheets | 11/8/27 |   |
-| OASIS Burn | 5x7 meshed | LB1639811 | 2 of 5 sheets | 7/11/27 |   |
+| OASIS Burn | 5x7 meshed | LB1639811 | 1 of 5 sheets | 7/11/27 |   |
 | OASIS Wound | 3x7 | Photo pending | 7 of 10 sheets |   |   |
 
 </details>
@@ -131,7 +131,7 @@
 | **D.S.** | Lucas | OASIS Wound 3x3.5 | Active | 1 | A8 10/9; next visit Fri 10/16 12:35 PM (Alexian WCC stops at 8 applications) |
 | **D.V.** | Hussain | OASIS Wound 3x7 | Active | 3 | A1 10/7: 3 sheets of OASIS Wound 3x7 from the shelf. 3 a visit, weekly |
 | **J.B.** | Adelstein | OASIS Burn 3x7 | Active | 1 | A3 10/8 from the shelf (Burn 3x7) |
-| **B.P.** | Joshi | OASIS Burn 5x7 meshed | Active | 1 | A1 10/5 from the shelf (Burn 5x7 meshed). Alexian Burn 5x7 box price \$1,841.45 |
+| **B.P.** | Joshi | OASIS Burn 5x7 meshed | Active | 1 | A1 10/5 and A2 10/12 from the shelf (Burn 5x7 meshed); may go down a size next week. Alexian Burn 5x7 box price \$1,841.45 |
 | **M.I.** | Russo | OASIS Wound 3x3.5 | Hold | — | Paused |
 | **D.K.** | Halihan | Grafix | Pending | — | New 10/12 (pending); first visit Thu 10/15 1:15 PM |
 

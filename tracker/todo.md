@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 10:51 PM CT
+**BIOT Chicago West** · P10 · day 10 of 25 · updated Mon 10/12, 11:14 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -67,10 +67,10 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > [!WARNING]
 > - **Grafix 16mm: 9 on hand (target 10–15)** · Order 6 now · runs out week of 10/19 · [Alexian WCC](stock.md#alexian)
 > - **OASIS Wound 3x7: 7 sheets** · Order 1 box soon · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
-> - **OASIS Burn 5x7 meshed: 2 sheets** · Order 1 box soon · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
+> - **OASIS Burn 5x7 meshed: 1 sheet** · Order 1 box now · runs out week of 10/19 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 10
+## 👥 Patients · 8
 
-3 to verify · 3 with no follow-up booked · 5 IVRs to follow up → [Patient to-do](../patients/todo.md)
+1 to verify · 3 with no follow-up booked · 5 IVRs to follow up → [Patient to-do](../patients/todo.md)

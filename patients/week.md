@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 89 patients · updated Mon 10/12, 10:51 PM CT
+**BIOT Chicago West** · 89 patients · updated Mon 10/12, 11:14 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;89](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;10](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;89](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 34](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 9](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 9](../patients/done.md) · [Denied 4](../patients/denied.md)
@@ -20,7 +20,7 @@
 
 | [Mon 12 · today](#mon) | [Tue 13](#tue) | [Wed 14](#wed) | [Thu 15](#thu) | [Fri 16](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **5** | **8** 🔴 | **10** 🔴 | **12** | **6** 🟠 🔴 |
+| **5** | **8** 🔴 | **10** 🔴 | **12** | **6** 🔴 |
 
 
 <a name="mon"></a>
@@ -121,7 +121,7 @@
 | **9:15&nbsp;AM** | **R.C.** | **A3** · GRAFIX 2x 5x5 + 3x4 | Central&nbsp;DuPage · Good&nbsp;Sam&nbsp;(Downers&nbsp;Grove)<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
 | **12:00&nbsp;PM** | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | **A2** · GRAFIX 16mm | Central&nbsp;DuPage · CDFA<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
 | **12:35&nbsp;PM** | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | **A9** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Mallory |   |
-| **1:00&nbsp;PM** | **D.N.** | **A2** · OASIS Wound Matrix 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas | 🟠 Verify: confirm A1 on 10/9 (calendar has A2 on 10/16) · 👤&nbsp;Pete&nbsp;covering |
+| **1:00&nbsp;PM** | **D.N.** | **A2** · OASIS Wound Matrix 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas | 👤&nbsp;Pete&nbsp;covering |
 | **1:00&nbsp;PM** | **Upcoming · Dr. Liao** | **OR** · STRAVIX 3x6 | St.&nbsp;Alexius<br>Dr.&nbsp;Liao | 👤&nbsp;Caroline&nbsp;covering |
 
 
