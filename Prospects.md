@@ -1,8 +1,11 @@
 # 🎯 Targets — BIOT Chicago West
 
-Built 10/8/26 from the Contact Claims Chi West export (1,974 providers), the hospital directories, practice sites and the NPI registry. **[⬇ Download the full target workbook (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)** — every row there also carries fax, NPI-registry address, affiliation source, case types, claims detail and source links.
+<!-- tabs:start -->
+| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | <ins>**🎯&nbsp;Targets**</ins> |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+<!-- tabs:end -->
 
-[← Graft Tracker](README.md) · [Patients](Patients.md)
+Built 10/8/26 from the Contact Claims Chi West export (1,974 providers), the hospital directories, practice sites and the NPI registry. **[⬇ Download the full target workbook (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx)** — every row there also carries fax, NPI-registry address, affiliation source, case types, claims detail and source links.
 
 **Tier 1** = call first. **Tier 2** = next wave / warm intros. **Tier 3** = qualify by phone. **Cust ↗** = existing customer with a new angle. Affiliations marked *verify* come from third-party listings, not the hospital directory. Claims: wound = DFU/VLU/pressure/dehisced/limb-salvage/debridement/burn/amputation/NPWT; Q = skin-substitute claims (S+N / competitor).
 
