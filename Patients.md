@@ -2,9 +2,9 @@
 
 # Patients
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 2:01 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 3:41 PM CT
 
-| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
+| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -59,8 +59,8 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>D.V.</b></summary>Donald Vondraceck</details>Grafting | OASIS&nbsp;Wound&nbsp;3x7 · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:45&nbsp;PM** | 🟢 1 of 8 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
-| <details><summary><b>A.P.</b></summary>Aldo Perellu</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:00&nbsp;PM** | 🟢 4 of 8 | A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
+| <details><summary><b>D.V.</b></summary>Donald Vondraceck</details>Grafting | OASIS&nbsp;Wound&nbsp;3x7&nbsp;(4&nbsp;sheets) · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:45&nbsp;PM** | 🟢 2 of 8 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
+| <details><summary><b>A.P.</b></summary>Aldo Perellu</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:00&nbsp;PM** | 🟢 5 of 8 | A5 Wed 10/14 2:00 PM: 16mm LYA-260146\_16008 (case sheet ap-1014), Alexian PO to come. A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
 | <details><summary><b>J.B.</b></summary>Jozef B.</details>Grafting | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:20&nbsp;AM · Caroline&nbsp;covering** | 🟢 3 of 8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |
 | <details><summary><b>D.C.</b></summary>Donald Carrothers</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:45&nbsp;AM · Caroline&nbsp;covering** | 🟢 5 of 8 | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). 5 applications (AJ confirmed 10/12), so 10/15 would be A6.<br>_10/12:_ DC has 5 applications |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;12:35&nbsp;PM** | 🔴 8 of 8 | A8 10/9 (logged in the app 10/11). Next visit Fri 10/16 12:35 PM.<br>_10/11:_ A8 was placed 10/9 |
@@ -102,7 +102,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>J.M.</b></summary>Joyce Morales</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:00&nbsp;PM · Elk&nbsp;Grove · Pete&nbsp;covering** | 🟢 2 | A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
+| <details><summary><b>J.M.</b></summary>Joyce Morales</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:00&nbsp;PM · Elk&nbsp;Grove** | 🟢 3 | A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
 | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;3:15&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 2 | A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |
 | **C.T.**<br>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:30&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 2 | A2 10/8 (1st 10/1) |
 | **L.W.**<br>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:45&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 1 | A1 10/8: OASIS Wound 3x7 (AJ's 10/12 note; AJ confirmed 10/11, it had been logged as held). A2 Thu 10/15 2:45 PM (HE) goes back to 3x3.5. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm.<br>_10/12:_ On 10/8, they used Wound 3x7 for A1. A2 will be 3x3.5.<br>[📄 IVR](ivr/nw-lw.md) |

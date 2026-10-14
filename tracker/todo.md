@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 2:01 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 3:41 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -25,7 +25,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/7 | [A.P.](../case-sheets/ap-1007.md) | Alexian WCC · Hussain | Grafix 16mm | 660040000284690 | \$360 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 6 · \$2,890
+## 🟡 Waiting on a PO · 7 · \$3,250
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -35,6 +35,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/13 | [O.O.](../case-sheets/oo-1013.md) | Alexian WCC · Vedantham | Grafix 16mm | 🟠 1 day |   | \$360 |
 | 10/13 | [M.L.](../case-sheets/ml-1013.md) | Alexian WCC · Joshi | Grafix 16mm | 🟠 1 day | 0003052747 | \$360 |
 | 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | — |   | \$190 |
+| 10/14 | [A.P.](../case-sheets/ap-1014.md) | Alexian WCC · Hussain | Grafix 16mm | — | 0003068368 | \$360 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 3 · \$15,834
@@ -67,7 +68,7 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **OASIS Wound 3x7: 7 sheets** · Order 1 box soon · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
+> - **OASIS Wound 3x7: 7 sheets** · Order 1 box now · runs out week of 10/19 · [Alexian WCC](stock.md#alexian)
 > - **OASIS Burn 5x7 meshed: 1 sheet** · Order 1 box now · runs out week of 10/19 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
