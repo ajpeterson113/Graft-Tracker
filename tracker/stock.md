@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:05 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:45 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,21 +16,20 @@
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 10/3/26 · 49 grafts · 21 OASIS sheets
+**Consignment shelf** · counted 10/3/26 · 56 grafts · 21 OASIS sheets
 
-49 Grafix units on hand (\$58,031 consignment). 2 size(s) to reorder now. \$7,980 expiring before it can be used.
+56 Grafix units on hand (\$60,551 consignment). 1 size(s) to reorder now. \$7,980 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment
 
 > [!WARNING]
-> - **Grafix 16mm: 7 on hand (target 10–15)** · Order 8 now · runs out week of 10/12
 > - **OASIS Wound 3x7: 7 sheets** · Order 1 box soon · runs out week of 10/26
 > - **OASIS Burn 5x7 meshed: 1 sheet** · Order 1 box now · runs out week of 10/19
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **16mm**<br>Grafix | 🟠 **7**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 8 | 8/wk · 0.9 wks left · out week of 10/12 · next exp 1/13/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
+| **16mm**<br>Grafix | **14**<br>target&nbsp;10⁠–⁠15 | 🟢 OK | 8/wk · 1.8 wks left · out week of 10/19 · next exp 1/13/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
 | **1.5x2**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 6/18/27 |
 | **2x3**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
 | **3x3**<br>Grafix | **5**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
@@ -42,7 +41,7 @@
 | **3x7**<br>OASIS&nbsp;Burn | **3** sheets | 🟢 OK | 1/wk · 3.0 wks left · box of 5 · out week of 11/2 · next exp 11/8/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | 🟠 Reorder now · order 1 box | 1/wk · 1.0 wks left · box of 5 · out week of 10/19 · next exp 7/11/27 |
 
-<details><summary><b>Units on the shelf</b> · 49</summary>
+<details><summary><b>Units on the shelf</b> · 56</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -54,13 +53,20 @@
 | Grafix | 1.5x2 | LYA-260108\_15004 | 1/13/28 |   | On shelf |   |
 | Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 |   | On shelf |   |
 | Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 |   | On shelf |   |
-| Grafix | 16mm | LYA-260159\_16003 | 1/13/28 | 10/14 | On shelf |   |
-| Grafix | 16mm | TBD | — | 10/15 | On shelf |   |
-| Grafix | 16mm | TBD | — | 10/16 | On shelf |   |
-| Grafix | 16mm | TBD | — | 10/17 | On shelf |   |
-| Grafix | 16mm | TBD | — | 10/18 | On shelf |   |
-| Grafix | 16mm | TBD | — | 10/19 | On shelf |   |
-| Grafix | 16mm | TBD | — | 10/20 | On shelf |   |
+| Grafix | 16mm | LYA-260146\_16005 | 1/13/28 | 10/14 | On shelf |   |
+| Grafix | 16mm | LYA-260146\_16006 | 1/13/28 | 10/15 | On shelf |   |
+| Grafix | 16mm | LYA-260146\_16007 | 1/13/28 | 10/16 | On shelf |   |
+| Grafix | 16mm | LYA-260146\_16008 | 1/13/28 | 10/17 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16001 | 3/3/28 | 10/18 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16002 | 3/3/28 | 10/19 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16003 | 3/3/28 | 10/20 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16004 | 3/3/28 | 10/21 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16005 | 3/3/28 | 10/21 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16006 | 3/3/28 | 10/22 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16011 | 3/3/28 | 10/23 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16012 | 3/3/28 | 10/24 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16015 | 3/3/28 | 10/25 | On shelf |   |
+| Grafix | 16mm | LYA-260220\_16005 | 3/3/28 | 10/26 | On shelf |   |
 | Grafix | 2x3 | LYA-250516\_23003 | 5/2/27 |   | On shelf |   |
 | Grafix | 2x3 | LYA-250516\_23004 | 5/2/27 |   | On shelf |   |
 | Grafix | 2x3 | LYA-250558\_23005 | 6/9/27 |   | On shelf |   |
@@ -137,10 +143,11 @@
 
 </details>
 
-<details><summary><b>Used since the count</b> · 9</summary>
+<details><summary><b>Used since the count</b> · 12</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
+| LYA-260159\_16003 | Grafix 16mm | Used, not filed |
 | LYA-260159\_16001 | Grafix 16mm | Used Oct |
 | LYA-260159\_16028 | Grafix 16mm | Used Oct |
 | LYA-260159\_16026 | Grafix 16mm | Used Oct |
@@ -150,12 +157,14 @@
 | LYA-260174\_16010 | Grafix 16mm | Used Oct |
 | LYA-260174\_16006 | Grafix 16mm | Used Oct |
 | LYA-260146\_16009 | Grafix 16mm | Used Oct |
+| TBD | Grafix 16mm | Used, not filed |
+| TBD | Grafix 16mm | Used, not filed |
 
 </details>
 
 <details><summary><b>About this shelf</b></summary>
 
-Alexian Brothers Wound Center shelf. Grafix on hand updates itself as Alexian cases are filed (lot + SN); use per week comes from the patient list below. 10/5: 10 x 16mm restock shipped (lot/SN TBD). Every Alexian Grafix unit filed since 10/3 is accounted for in the box list.
+Alexian Brothers Wound Center shelf. Grafix on hand updates itself as Alexian cases are filed (lot + SN); use per week comes from the patient list below. 10/5: 10 x 16mm restock shipped. 10/14: 10 more 16mm received (LYA-260221 x9, LYA-260220 x1, exp 3/3/28). 16mm recounted 10/14 1:45 PM: 14 on the shelf. Every Alexian Grafix unit filed since 10/3 is accounted for in the box list.
 
 Grafix: Reorder now = on hand is below your target min (16mm 10-15 while so many patients are on it, other sizes 5-10). The order fills back up to the max; a few over the max is fine. OASIS: Reorder now = under 2 weeks of stock at the current use; the order fills back to 4 weeks.
 

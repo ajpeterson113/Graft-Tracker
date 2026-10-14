@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:05 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:45 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -60,13 +60,12 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/16 | R.C. | Central DuPage · Luetkehans | Grafix 3x4 | RC101626 | Coming up Fri 10/16 |
 
 <a name="stock"></a>
-## 📦 Stock · 5
+## 📦 Stock · 4
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **Grafix 16mm: 7 on hand (target 10–15)** · Order 8 now · runs out week of 10/12 · [Alexian WCC](stock.md#alexian)
 > - **OASIS Wound 3x7: 7 sheets** · Order 1 box soon · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
 > - **OASIS Burn 5x7 meshed: 1 sheet** · Order 1 box now · runs out week of 10/19 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
