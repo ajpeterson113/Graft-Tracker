@@ -2,16 +2,16 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 12:36 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:05 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (October tab) | \$75,244 | \$75,244 |
-| \+ Projected Grafix, net of WCC stock | \$33,840 | \$28,190 |
+| Sold so far (October tab) | \$76,454 | \$76,454 |
+| \+ Projected Grafix, net of WCC stock | \$32,630 | \$26,980 |
 | \+ Upcoming Stravix | \$2,469 | \$2,469 |
 | \+ Potential new starts | \$6,981 | \$2,280 |
 | \+ OASIS reorders (estimated) | \$13,558 | \$10,189 |
@@ -35,7 +35,7 @@
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
 | [Good Sam](#good-sam) | \$27,784 | \$10,393 | \$12,198 | **\$38,177** | **\$39,982** |
-| [Central DuPage](#central-dupage) | \$13,960 | \$19,525 | \$13,150 | **\$33,485** | **\$27,110** |
+| [Central DuPage](#central-dupage) | \$15,170 | \$18,315 | \$11,940 | **\$33,485** | **\$27,110** |
 | [Alexian WCC](#alexian-wcc) | \$6,960 | \$11,998 | \$9,447 | **\$18,958** | **\$16,407** |
 | [St. Alexius](#st-alexius) | \$7,900 | \$2,469 | \$2,469 | **\$10,369** | **\$10,369** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$3,806 | \$3,987 | \$2,088 | **\$7,793** | **\$5,895** |
@@ -46,7 +46,7 @@
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Alexian Ambulatory | — | — | — | — | — |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$75,244** | **\$56,847** | **\$43,128** | **\$132,092** | **\$118,373** |
+| **Total** | **\$76,454** | **\$55,637** | **\$41,918** | **\$132,092** | **\$118,373** |
 
 
 ## Account by account
@@ -98,14 +98,14 @@ Sold so far: **\$27,784** · 7 cases
 <a name="central-dupage"></a>
 <details><summary><b>Central DuPage</b> · upside &#36;33,485 · downside &#36;27,110</summary>
 
-Sold so far: **\$13,960** · 4 cases
+Sold so far: **\$15,170** · 6 cases
 
 **Weekly and biweekly patients**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **R.C. · Dr. Luetkehans** | 2× 5x5 + 3x4 · Weekly · 4 visits · from 10/16 → 1× 5x5 + 3x4 | \$18,955 | \$12,580 | Plan from AJ 10/9: 10/16 uses the 5x5 left from RC100926 plus the WFNU 5x5 billed on a new PO (\$2,125) and a 3x4 on PO (\$1,020) = \$3,145 new sales. |
-| **A.S. · Dr. Luetkehans** | 16mm · Weekly · 3 visits | \$570 | \$570 | A1 done Fri 10/9 (16mm sale order on PO AS100926, in October sales). |
+| **R.C. · Dr. Luetkehans** | 2× 5x5 + 3x4 · Weekly · 4 visits · from 10/16 → 1× 5x5 + 3x4 | \$17,935 | \$11,560 | Plan from AJ 10/9: 10/16 uses the 5x5 left from RC100926 plus the WFNU 5x5 billed on a new PO (\$2,125) and a 3x4 on PO. |
+| **A.S. · Dr. Luetkehans** | 16mm · Weekly · 2 visits | \$380 | \$380 | A1 Fri 10/9 (sale order AS100926) and A2 Fri 10/16 (sale order AS101626, In SFDC 10/14) are both in October sales, so this row projects weekly 16mm from 10/23 |
 
 </details>
 
@@ -264,7 +264,7 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 24 | \$45,384 | \$34,734 |
+| Weekly and biweekly patients | 24 | \$44,174 | \$33,524 |
 | Less Good Sam WCC stock already sold | 3 | -\$11,544 | -\$6,544 |
 | Upcoming Stravix | 3 | \$2,469 | \$2,469 |
 | Potential new starts | 9 | \$6,981 | \$2,280 |

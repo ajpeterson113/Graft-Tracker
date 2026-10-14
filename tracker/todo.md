@@ -2,27 +2,25 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 12:36 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:05 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 11 · \$18,374
+## 🟢 Submit to SFDC · 9 · \$7,851
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
 | Date | Pt | Account | Graft | PO | Amount |
 | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/28 | [P.C.](../case-sheets/pc-0928.md) | Elmhurst · McGann | Stravix 3x6 | P2325870 · 🔁 transfer log on the sheet | \$3,115.50 |
 | 9/29 | [Y.L.](../case-sheets/yl-0929.md) | Suburban F&A · Grinberg | Grafix 16mm | YL092926 · 🔁 transfer log on the sheet | \$190 |
 | 10/2 | [V.D.](../case-sheets/vd-1002.md) | Alexian WCC · Ramani | Grafix 16mm | 660040000284466 | \$360 |
 | 10/6 | [T.T.](../case-sheets/tt-1006.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000284468 | \$360 |
 | 10/6 | [J.L.](../case-sheets/jl-1006.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000284467 | \$360 |
 | 10/6 | [D.G.](../case-sheets/dg-1006.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000284776 | \$360 |
 | 10/6 | [C.L.](../case-sheets/cl-1006.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | PO006010271 | \$5,311 |
-| 10/7 | [F.M.](../case-sheets/fm-1007.md) | GlenOaks · McKanna | Stravix 3x6 ×3 | PO-1000931284 · 🔁 transfer log on the sheet | \$7,407 |
 | 10/7 | [M.W.](../case-sheets/mw-1007.md) | Romano Lombard · Rojas | Grafix 16mm | MW100726 · 🔁 transfer log on the sheet | \$190 |
 | 10/7 | [M.L.](../case-sheets/ml-1007.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000284689 | \$360 |
 | 10/7 | [A.P.](../case-sheets/ap-1007.md) | Alexian WCC · Hussain | Grafix 16mm | 660040000284690 | \$360 |
@@ -38,8 +36,18 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/13 | [O.O.](../case-sheets/oo-1013.md) | Alexian WCC · Vedantham | Grafix 16mm | 🟠 1 day |   | \$360 |
 | 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | — |   | \$190 |
 
+<a name="submitted"></a>
+## 🔵 Submitted, not in SFDC yet · 2 · \$10,523
+
+Upload an SFDC report in the app and Claude marks what shows up.
+
+| Date | Pt | Account | Graft | PO | Amount |
+| :-- | :-- | :-- | :-- | :-- | --: |
+| 9/28 | [P.C.](../case-sheets/pc-0928.md) | Elmhurst · McGann | Stravix 3x6 | P2325870 | \$3,115.50 |
+| 10/7 | [F.M.](../case-sheets/fm-1007.md) | GlenOaks · McKanna | Stravix 3x6 ×3 | PO-1000931284 | \$7,407 |
+
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 3
+## ⏳ Case sheets to come · 5
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -48,6 +56,8 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/8 | D.F. | Good Sam · Luetkehans | Grafix 5x5 | PO006001505 | Seen Thu 10/8 |
 | 10/9 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS100926 | Seen Fri 10/9 |
 | 10/19 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS101926 | Coming up Mon 10/19 |
+| 10/16 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS101626 | Coming up Fri 10/16 |
+| 10/16 | R.C. | Central DuPage · Luetkehans | Grafix 3x4 | RC101626 | Coming up Fri 10/16 |
 
 <a name="stock"></a>
 ## 📦 Stock · 5
