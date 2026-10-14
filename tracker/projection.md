@@ -2,7 +2,7 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:45 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 2:01 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -10,8 +10,8 @@
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (October tab) | \$76,454 | \$76,454 |
-| \+ Projected Grafix, net of WCC stock | \$32,630 | \$26,980 |
+| Sold so far (October tab) | \$76,814 | \$76,814 |
+| \+ Projected Grafix, net of WCC stock | \$32,270 | \$26,620 |
 | \+ Upcoming Stravix | \$2,469 | \$2,469 |
 | \+ Potential new starts | \$6,981 | \$2,280 |
 | \+ OASIS reorders (estimated) | \$13,558 | \$10,189 |
@@ -36,7 +36,7 @@
 | :-- | --: | --: | --: | --: | --: |
 | [Good Sam](#good-sam) | \$27,784 | \$10,393 | \$12,198 | **\$38,177** | **\$39,982** |
 | [Central DuPage](#central-dupage) | \$15,170 | \$18,315 | \$11,940 | **\$33,485** | **\$27,110** |
-| [Alexian WCC](#alexian-wcc) | \$6,960 | \$11,998 | \$9,447 | **\$18,958** | **\$16,407** |
+| [Alexian WCC](#alexian-wcc) | \$7,320 | \$11,638 | \$9,087 | **\$18,958** | **\$16,407** |
 | [St. Alexius](#st-alexius) | \$7,900 | \$2,469 | \$2,469 | **\$10,369** | **\$10,369** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$3,806 | \$3,987 | \$2,088 | **\$7,793** | **\$5,895** |
 | [GlenOaks](#glenoaks) | \$7,407 | \$0 | \$0 | **\$7,407** | **\$7,407** |
@@ -46,7 +46,7 @@
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Alexian Ambulatory | — | — | — | — | — |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$76,454** | **\$55,637** | **\$41,918** | **\$132,092** | **\$118,373** |
+| **Total** | **\$76,814** | **\$55,277** | **\$41,558** | **\$132,092** | **\$118,373** |
 
 
 ## Account by account
@@ -112,7 +112,7 @@ Sold so far: **\$15,170** · 6 cases
 <a name="alexian-wcc"></a>
 <details><summary><b>Alexian WCC</b> · upside &#36;18,958 · downside &#36;16,407</summary>
 
-Sold so far: **\$6,960** · 18 cases
+Sold so far: **\$7,320** · 19 cases
 
 **Weekly and biweekly patients**
 
@@ -121,7 +121,7 @@ Sold so far: **\$6,960** · 18 cases
 | **T.T. · Dr. Lucas** | 16mm · Weekly · 1 visit | \$360 | \$360 | 7 applications (10/6 = #7, LYA-260159\_16028); Alexian WCC stops at 8, so 1 more (next Tue 10/20, time TBD) |
 | **D.G. · Dr. Lucas** | 16mm · Weekly · 2 visits · from 10/20 | \$720 | \$720 | Held Tue 10/13 (Pete covered), not grafted, so nothing this week; projected weekly again from Tue 10/20 (no follow-up booked yet). |
 | **J.L. · Dr. Lucas** | 16mm · Weekly · 3 visits | \$1,080 | \$1,080 | A3 Tue 10/13 (16mm, Pete covered) per the Patients app; case sheet/stickers and the Alexian PO not in yet, so this week's visit stays projected until it's filed. |
-| **M.L. · Dr. Joshi** | 16mm · Weekly · 3 visits | \$1,080 | \$1,080 | A3 logged 10/13 in the Patients app (16mm; his appointment showed Wed 10/14 2:15 PM, so confirm the date with the case sheet). |
+| **M.L. · Dr. Joshi** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (16mm LYA-260174\_16007, AJ confirmed 10/14) is in October sales, waiting on the Alexian PO; projects weekly from 10/20. |
 | **A.N. · Dr. Joshi** | 16mm · Once · 1 visit · from 10/20 → 16mm ×0 | \$360 | \$0 | Held Tue 10/13: wound very small, most likely done; follow-up next week. |
 | **D.C. · Dr. Adelstein** | 16mm · Weekly · 3 visits · from 10/15 → 16mm ×1 | \$1,080 | \$360 | Down to 16mm as of 9/24 (2x3 on 9/3, 1.5x2 on 9/10 and 9/17). |
 | **A.P. · Dr. Hussain** | 16mm · Weekly · 3 visits | \$1,080 | \$1,080 | A4 Wed 10/7 (LYA-260174\_16009, PO …284690, case sheet on file). |
@@ -264,7 +264,7 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 24 | \$44,174 | \$33,524 |
+| Weekly and biweekly patients | 24 | \$43,814 | \$33,164 |
 | Less Good Sam WCC stock already sold | 3 | -\$11,544 | -\$6,544 |
 | Upcoming Stravix | 3 | \$2,469 | \$2,469 |
 | Potential new starts | 9 | \$6,981 | \$2,280 |

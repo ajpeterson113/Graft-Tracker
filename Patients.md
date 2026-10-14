@@ -2,13 +2,13 @@
 
 # Patients
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 1:45 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 2:01 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](patients/todo.md) |
+| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 35](patients/grafting.md) · [Potential New Start 4](patients/potential-new-start.md) · [Pending 12](patients/pending.md) · [Potential IVR 2](patients/potential-ivr.md) · [On hold 8](patients/on-hold.md) · [OR 19](patients/or.md) · [Done 10](patients/done.md) · [Denied 3](patients/denied.md)
@@ -61,21 +61,21 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details>Grafting | OASIS&nbsp;Wound&nbsp;3x7 · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:45&nbsp;PM** | 🟢 1 of 8 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
 | <details><summary><b>A.P.</b></summary>Aldo Perellu</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:00&nbsp;PM** | 🟢 4 of 8 | A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
-| <details><summary><b>M.L.</b></summary>Mariah Lopez</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:15&nbsp;PM** | 🟢 3 of 8 | A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
 | <details><summary><b>J.B.</b></summary>Jozef B.</details>Grafting | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:20&nbsp;AM · Caroline&nbsp;covering** | 🟢 3 of 8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |
 | <details><summary><b>D.C.</b></summary>Donald Carrothers</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:45&nbsp;AM · Caroline&nbsp;covering** | 🟢 5 of 8 | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). 5 applications (AJ confirmed 10/12), so 10/15 would be A6.<br>_10/12:_ DC has 5 applications |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;12:35&nbsp;PM** | 🔴 8 of 8 | A8 10/9 (logged in the app 10/11). Next visit Fri 10/16 12:35 PM.<br>_10/11:_ A8 was placed 10/9 |
 | <details><summary><b>T.T.</b></summary>Tracy Tijerria</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;10/20** | 🟡 7 of 8 | 🔴 Next 10/20, no time<br>A7 10/6 (LYA-260159\_16028). Alexian WCC stops at 8, so 1 left. |
 | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Burn&nbsp;5x7 · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/12&nbsp;1:20&nbsp;PM** | 🟢 2 of 8 | 🔴 Last appt 10/12 passed, nothing new booked<br>A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
+| <details><summary><b>M.L.</b></summary>Mariah Lopez</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Last&nbsp;graft&nbsp;10/13** | 🟢 3 of 8 | 🔴 No follow-up booked (last graft 10/13)<br>A3 Tue 10/13: 16mm LYA-260174\_16007 (sticker on the WCC log), Alexian PO to come. A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
 | <details><summary><b>A.N.</b></summary>Aloysius Newman</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 4 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A4 10/6 (LYA-260159\_16026). |
 | <details><summary><b>D.G.</b></summary>Diane Grunder</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:00&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A3 10/6 (LYA-260017\_16014, PO …284776 received 10/9). |
 | <details><summary><b>J.L.</b></summary>J. Leamann</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:40&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A2 10/6 (LYA-260159\_16001). |
 | <details><summary><b>O.O.</b></summary>Omar Osama</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 1 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |
 | <details><summary><b>D.K.</b></summary>David Knopp</details>Pending | GRAFIX · Weekly · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;1:15&nbsp;PM** |   | New 10/12 |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details>Pending | Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;10:30&nbsp;AM** |   | New 10/8 |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details>Pending | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;10:30&nbsp;AM** |   | Suggest oasis |
 | <details><summary><b>D.S.</b></summary>Donald Schroeder</details>Pending | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
 | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details>Pending | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
-| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details>Pending | Weekly · Dr.&nbsp;Turayhi |   | New 10/8 |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details>Pending | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Turayhi |   | Suggest oasis |
 | <details><summary><b>X.S.</b></summary>Xerxes S.</details>Denied | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** |   | Denied (moved in the app 10/11) |
 | <details><summary><b>J.C.</b></summary>Jerry Cooper</details>On&nbsp;hold | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
 | <details><summary><b>L.S.</b></summary>Lea S</details>Done | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM** |   | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
@@ -165,7 +165,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.C.**<br>Grafting | GRAFIX&nbsp;2x&nbsp;5x5&nbsp;+&nbsp;3x4 · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;9:15&nbsp;AM · Good&nbsp;Sam&nbsp;(Downers&nbsp;Grove) · Caroline&nbsp;covering** | 🟢 2 | A2 10/9: 2 x 5x5 (LYA-260337\_55005, LYA-260335\_55004, billed on RC100926) + 1 x 3x4 (LYA-250008\_34006, to be billed, PO to come). Case sheets on file. 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on PO. Fri 10/16 9:15 AM at Good Sam (Downers Grove), AJ verified 10/12 (Caroline's coverage email said 9:00 AM at CDFA). |
+| **R.C.**<br>Grafting | GRAFIX&nbsp;2x&nbsp;5x5&nbsp;+&nbsp;3x4 · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;10:00&nbsp;AM · Good&nbsp;Sam&nbsp;(Downers&nbsp;Grove) · Caroline&nbsp;covering** | 🟢 2 | A2 10/9: 2 x 5x5 (LYA-260337\_55005, LYA-260335\_55004, billed on RC100926) + 1 x 3x4 (LYA-250008\_34006, to be billed, PO to come). Case sheets on file. 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on PO. Fri 10/16 9:15 AM at Good Sam (Downers Grove), AJ verified 10/12 (Caroline's coverage email said 9:00 AM at CDFA). |
 | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;12:00&nbsp;PM · CDFA · Caroline&nbsp;covering** | 🟢 1 | A1 10/9: 16mm (sale order on PO AS100926). Weekly 16mm; next Fri 10/16 12:00 PM (AJ verified 10/12; Caroline's coverage email said 9:30 AM). Lot/SN and case sheet to come. |
 
 </details>

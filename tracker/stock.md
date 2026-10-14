@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 1:45 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 2:01 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -124,7 +124,7 @@
 | **D.G.** | Lucas | Grafix 16mm | Active | 1 | Held 10/13; back weekly from 10/20 |
 | **J.L.** | Lucas | Grafix 16mm | Active | 1 | A3 10/13 (lot not filed yet; case sheet to come) |
 | **A.N.** | Joshi | Grafix 16mm | Active | 1 | Held 10/13: most likely done, follow-up next week |
-| **M.L.** | Joshi | Grafix 16mm | Active | 1 | A3 10/13 (lot not filed yet; case sheet to come) |
+| **M.L.** | Joshi | Grafix 16mm | Active | 1 | A3 10/13 LYA-260174\_16007 (filed 10/14) |
 | **A.P.** | Hussain | Grafix 16mm | Active | 1 |   |
 | **D.C.** | Adelstein | Grafix 16mm | Active | 1 | Down to 16mm as of 9/24 · held 10/8 |
 | **V.D.** | Ramani | Grafix 16mm | Done | — | Done 10/9 after 6 applications |
@@ -157,7 +157,7 @@
 | LYA-260174\_16010 | Grafix 16mm | Used Oct |
 | LYA-260174\_16006 | Grafix 16mm | Used Oct |
 | LYA-260146\_16009 | Grafix 16mm | Used Oct |
-| TBD | Grafix 16mm | Used, not filed |
+| LYA-260174\_16007 | Grafix 16mm | Used Oct |
 | TBD | Grafix 16mm | Used, not filed |
 
 </details>

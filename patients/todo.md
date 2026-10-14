@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 1:45 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 2:01 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 12](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
@@ -25,7 +25,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 14
+## 🔴 No Follow-Up · 15
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -33,6 +33,7 @@
 | <details><summary><b>P.P.</b></summary>P. Patrizi</details> | Good Sam · Patni | GRAFIX | Next 10/20, no time · usually Tue |
 | <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | Alexian WCC · Joshi | GRAFIX 16mm | Last appt 10/13 passed, nothing new booked · usually Tue |
 | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | Alexian WCC · Joshi | OASIS Burn 5x7 | Last appt 10/12 passed, nothing new booked · usually Mon |
+| <details><summary><b>M.L.</b></summary>Mariah Lopez</details> | Alexian WCC · Joshi | GRAFIX 16mm | No follow-up booked (last graft 10/13) · usually Tue |
 | <details><summary><b>D.G.</b></summary>Diane Grunder</details> | Alexian WCC · Lucas | GRAFIX 16mm | Last appt 10/13 passed, nothing new booked · usually Tue |
 | <details><summary><b>J.L.</b></summary>J. Leamann</details> | Alexian WCC · Lucas | GRAFIX 16mm | Last appt 10/13 passed, nothing new booked · usually Tue |
 | <details><summary><b>T.T.</b></summary>Tracy Tijerria</details> | Alexian WCC · Lucas | GRAFIX 16mm | Next 10/20, no time · usually Tue |
@@ -69,9 +70,9 @@
 | **R.F.** | Sherman · Perez | 🔴 Added 10/2 · 12 days ago · follow up | New 10/2 |
 | <details><summary><b>D.K.</b></summary>David Knopp</details> | Alexian WCC · Halihan | Added 10/12 · 2 days ago | New 10/12 |
 | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | Added 10/14 · today | New 10/14 |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Alexian WCC · Joshi | Added 10/8 · 6 days ago | New 10/8 |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Alexian WCC · Joshi | Added 10/8 · 6 days ago | Suggest oasis |
 | <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | Alexian WCC · Joshi | Added 10/14 · today | New 10/14 |
-| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | Added 10/8 · 6 days ago | New 10/8 |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | Added 10/8 · 6 days ago | Suggest oasis |
 | <details><summary><b>M.B.</b></summary>Merrill Burleigh</details> | St. Joseph Elgin · Veronica Pappas | IVR sent 10/13 · yesterday | New IVR submitted 10/13 (pending). Plan (AJ 10/14): one Grafix 3x3 a week starting Mon 10/20. |
 
 <a name="potential"></a>
