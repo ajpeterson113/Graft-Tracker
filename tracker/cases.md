@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 3:41 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 4:24 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,7 +13,7 @@
 <a name="2026-10"></a>
 ## P10 · October
 
-**50 entries · \$77,174** · 🟢 8 Ready · 🟡 7 Needs PO · 🔵 3 Submitted · 🟤 1 Clinic stock · ⚪ 31 In SFDC
+**51 entries · \$77,534** · 🟢 8 Ready · 🟡 8 Needs PO · 🔵 3 Submitted · 🟤 1 Clinic stock · ⚪ 31 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
@@ -24,6 +24,7 @@
 |   | [**A.P.**](../case-sheets/ap-1014.md) 📄 · Alexian WCC · Hussain<br>Grafix 16mm · no PO yet · LYA-260146\_16008<details><summary><sub>Notes</sub></summary>App #5 Wed 10/14 (2:00 PM): 16mm LYA-260146\_16008 (exp 1/13/28), from the Alexian WCC shelf (counted on it at 1:45 PM). Case sheet on file (Patients app upload 10/14). PA required. Waiting on the Alexian PO</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 | **10/13** | [**O.O.**](../case-sheets/oo-1013.md) 📄 · Alexian WCC · Vedantham<br>Grafix 16mm · no PO yet · LYA-260174\_16006<details><summary><sub>Notes</sub></summary>App #1 Tue 10/13 (first application): Dr. Vedantham, 16mm \$360, LYA-260174\_16006 (exp 1/13/28). Case sheet on file (from the Patients app). Waiting on the Alexian PO (patient ID to come)</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**M.L.**](../case-sheets/ml-1013.md) 📄 · Alexian WCC · Joshi<br>Grafix 16mm · no PO yet · LYA-260174\_16007<details><summary><sub>Notes</sub></summary>App #3 Tue 10/13 (12:00): 16mm LYA-260174\_16007 (exp 1/13/28), from the Alexian WCC shelf (10/5 shipment). Case sheet made 10/14 from the sticker on the WCC application log (photo note in the Patients app 10/13; AJ confirmed 10/14). Waiting on the Alexian PO</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**J.L.**](../case-sheets/jl-1013.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260174\_16008<details><summary><sub>Notes</sub></summary>App #3 Tue 10/13 (9:40 AM, Pete covered): 16mm LYA-260174\_16008 (exp 1/13/28), from the Alexian WCC shelf (10/5 shipment). Case sheet on file (sent 10/14). Waiting on the Alexian PO (Alexian ID 0003074927)</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 | **10/12** | [**P.S.**](../case-sheets/ps-1012.md) 📄 · NW Suburban F&A · Goldkind<br>Grafix 16mm · PO PS101226 · LYA-260185\_16011<details><summary><sub>Notes</sub></summary>App #2, Mon 10/12 at Elk Grove: LYA-260185\_16011 (exp 1/13/28), matches the SFDC serial …16011. Sale order submitted 10/6 on PO PS101226 for this visit: 1 x 16mm, \$190. In SFDC 10/7 (SFDC P10 report: \$40,358, 58 units). Case sheet made from the sticker photo</details> | \$190 | ⚪&nbsp;In&nbsp;SFDC |
 |   | **OASIS Ultra 5x7 meshed · 1 box of 5** · NW Suburban F&A<br>PO MZ101626<details><summary><sub>Notes</sub></summary>Sale order submitted 10/12 on PO MZ101626 (S+N order #11297149, delivery to Hoffman Estates 10/13): OASIS Ultra 5x7 meshed, 1 box of 5, \$1,528.20, for M.Z. (left ankle, Dr. Goldkind; next visit Fri 10/16). This is the box the Projections tab had estimated. In SFDC (AJ 10/14)</details> | \$1,528.20 | ⚪&nbsp;In&nbsp;SFDC |
 | **10/9** | [**R.C.**](../case-sheets/rc-1009-3x4.md) 📄 · Central DuPage · Luetkehans<br>Grafix 3x4 · no PO yet · LYA-250008\_34006<details><summary><sub>Notes</sub></summary>A2 10/9: 3x4 LYA-250008\_34006 (exp 12/18/26), \$1,020, to be billed to Central DuPage: PO to come. Transferred from the Alexian WCC consignment shelf (acct 253985); transport log filled 10/9 (7am-8am, needed same day, received by Dr. Luetkehans). Case sheet made 10/9. 10/14: RC101626 in SFDC (serial LYA-250585\_34003) is the new 3x4 for the 10/16 visit, not this unit, so this one still needs its own PO</details> | \$1,020 | 🟡&nbsp;Needs&nbsp;PO<br>🔁&nbsp;Transfer |

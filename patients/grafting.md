@@ -2,9 +2,9 @@
 
 # Grafting
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 3:41 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 4:24 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -44,7 +44,7 @@
 | <details><summary><b>M.L.</b></summary>Mariah Lopez</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Last&nbsp;graft&nbsp;10/13** | 🟢 3 of 8 | 🔴 No follow-up booked (last graft 10/13)<br>A3 Tue 10/13: 16mm LYA-260174\_16007 (sticker on the WCC log), Alexian PO to come. A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
 | <details><summary><b>A.N.</b></summary>Aloysius Newman</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 4 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A4 10/6 (LYA-260159\_16026). |
 | <details><summary><b>D.G.</b></summary>Diane Grunder</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:00&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A3 10/6 (LYA-260017\_16014, PO …284776 received 10/9). |
-| <details><summary><b>J.L.</b></summary>J. Leamann</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:40&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A2 10/6 (LYA-260159\_16001). |
+| <details><summary><b>J.L.</b></summary>J. Leamann</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:40&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A3 Tue 10/13: 16mm LYA-260174\_16008 (case sheet 10/14; Pete covered), Alexian PO to come. A2 10/6 (LYA-260159\_16001, PO …284467). |
 | <details><summary><b>O.O.</b></summary>Omar Osama</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 1 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |
 
 </details>
