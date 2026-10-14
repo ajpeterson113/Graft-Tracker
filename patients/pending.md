@@ -2,16 +2,16 @@
 
 # Pending
 
-**BIOT Chicago West** · 89 patients · updated Mon 10/12, 11:14 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 12:36 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;89](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 34](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · **Pending 9** · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 9](../patients/done.md) · [Denied 4](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · **Pending 12** · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -25,12 +25,14 @@
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 3</summary>
+<details open><summary><b>Alexian WCC</b> · 5</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;10:30&nbsp;AM** |   | New 10/8 |
 | <details><summary><b>D.K.</b></summary>David Knopp</details> | GRAFIX · Weekly · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;1:15&nbsp;PM** |   | New 10/12 |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;10:30&nbsp;AM** |   | New 10/8 |
+| <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
+| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
 | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Weekly · Dr.&nbsp;Turayhi |   | New 10/8 |
 
 </details>
@@ -46,11 +48,12 @@
 </details>
 
 <a name="st-joseph-elgin"></a>
-<details open><summary><b>St. Joseph Elgin</b> · 1</summary>
+<details open><summary><b>St. Joseph Elgin</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.D.** | GRAFIX/OASIS · Dr.&nbsp;Bhagat |   | Ran on 9/9/26, needs additional clinicals, needs referral |
+| <details><summary><b>M.B.</b></summary>Merrill Burleigh</details> | GRAFIX&nbsp;3x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;10/20** |   | New IVR submitted 10/13 (pending). Plan (AJ 10/14): one Grafix 3x3 a week starting Mon 10/20. |
+| <details><summary><b>J.D.</b></summary>John Dematropolis</details> | GRAFIX/OASIS · Dr.&nbsp;Bhagat |   | Ran on 9/9/26, needs additional clinicals, needs referral |
 
 </details>
 

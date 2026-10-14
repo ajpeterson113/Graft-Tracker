@@ -2,78 +2,80 @@
 
 # Patients
 
-**BIOT Chicago West** · 89 patients · updated Mon 10/12, 11:14 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 12:36 PM CT
 
-| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
+| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;89**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](patients/todo.md) |
+| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 34](patients/grafting.md) · [Potential New Start 4](patients/potential-new-start.md) · [Pending 9](patients/pending.md) · [Potential IVR 2](patients/potential-ivr.md) · [On hold 8](patients/on-hold.md) · [OR 19](patients/or.md) · [Done 9](patients/done.md) · [Denied 4](patients/denied.md)
+[Grafting 35](patients/grafting.md) · [Potential New Start 4](patients/potential-new-start.md) · [Pending 12](patients/pending.md) · [Potential IVR 2](patients/potential-ivr.md) · [On hold 8](patients/on-hold.md) · [OR 19](patients/or.md) · [Done 10](patients/done.md) · [Denied 3](patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
-**Accounts:** [Good Sam 25](#good-sam) · [Alexian WCC 24](#alexian-wcc) · [Alexian Ambulatory 1](#alexian-ambulatory) · [NW Suburban F&A 18](#nw-suburban-f-a) · [St. Joseph Elgin 5](#st-joseph-elgin) · [Sherman 3](#sherman) · [St. Alexius 4](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 1](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 1](#suburban-f-a) · [Romano Lombard 2](#romano-lombard)
+**Accounts:** [Good Sam 26](#good-sam) · [Alexian WCC 25](#alexian-wcc) · [Alexian Ambulatory 2](#alexian-ambulatory) · [NW Suburban F&A 18](#nw-suburban-f-a) · [St. Joseph Elgin 6](#st-joseph-elgin) · [Sherman 3](#sherman) · [St. Alexius 4](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 1](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 1](#suburban-f-a) · [Romano Lombard 2](#romano-lombard)
 
 Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Alexian WCC stops at 8: 🟡 7 · 🔴 8). Each clinic lists upcoming visits first, then pending, denied, on hold and done.
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 7 grafting · 25 total</summary>
+<details open><summary><b>Good Sam</b> · 6 grafting · 26 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>I.S.</b></summary>I. Stalilionis</details>Grafting | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;10:45&nbsp;AM · Pete&nbsp;covering** | 🟢 6 | A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |
-| <details><summary><b>L.J.</b></summary>Louis Marie Jacques</details>Grafting | OASIS&nbsp;Ultra&nbsp;7x10 · Dr.&nbsp;Bach<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM · Caroline&nbsp;covering** | 🟢 1 | A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2 (3 left).<br>[📄 IVR](ivr/gs-lj.md) |
 | <details><summary><b>K.P.</b></summary>K. Prince</details>Grafting | GRAFIX&nbsp;5x5&nbsp;+&nbsp;3x4 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;9:15&nbsp;AM** | 🟢 6 |   |
 | <details><summary><b>W.K.</b></summary>W. Knudsen</details>Grafting | GRAFIX&nbsp;16mm · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;9:45&nbsp;AM** | 🟢 5 |   |
 | <details><summary><b>C.B.</b></summary>C. Baker</details>Grafting | GRAFIX&nbsp;2x3 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;10:45&nbsp;AM** | 🟢 3 | A4 Thu 10/15: GRAFIX 2x3 (AJ confirmed 10/11; the calendar entry said 3x4) |
 | <details><summary><b>P.J.</b></summary>Paul Jagust</details>Grafting | GRAFIX&nbsp;(3)&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:00&nbsp;PM · Caroline&nbsp;covering** | 🟢 3 | A3 10/8: (3) 16mm. Next 10/15: A4, (3) 16mm. |
 | <details><summary><b>D.F.</b></summary>Dominga Flores</details>Grafting | GRAFIX&nbsp;3x4 · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:00&nbsp;PM · Caroline&nbsp;covering** | 🟢 3 | Stravix on 9/10, continuing treatment with GRAFIX. A3 10/8: 5x5 (Good Sam ordered it on PO006001505). Moving to 3x4 from 10/15 (A4).<br>_10/8:_ Used a 5x5 on her today. Using a 3x4 next week |
-| <details><summary><b>J.H.</b></summary>Judith Hecht</details>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;9/4 · 5&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   | _10/8:_ Follow-up: Stravix is still intact |
+| <details><summary><b>J.H.</b></summary>Judith Hecht</details>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;9/4 · 5&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   | _10/8:_ Follow-up: Stravix is still intact |
+| <details><summary><b>P.P.</b></summary>P. Patrizi</details>Potential&nbsp;New&nbsp;Start<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;10/20** | 🟢 – | 🔴 Next 10/20, no time |
+| <details><summary><b>L.J.</b></summary>Louis Marie Jacques</details>Grafting | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets) · Dr.&nbsp;Bach<br>**Next&nbsp;Wed&nbsp;10/21&nbsp;9:45&nbsp;AM** | 🟢 2 | A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2 (3 left).<br>[📄 IVR](ivr/gs-lj.md) |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details>Potential&nbsp;New&nbsp;Start<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets&nbsp;per&nbsp;visit)&nbsp;suggested · Dr.&nbsp;Bach | 🟢 – | 🔴 No follow-up booked<br>Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |
 | <details><summary><b>Zahora</b></summary>Zahora</details>Potential&nbsp;IVR | Dr.&nbsp;Ayesh |   | Waiting on revascularization before running IVR |
 | <details><summary><b>B.W.</b></summary>Bonnie Walk</details>Potential&nbsp;IVR | Dr.&nbsp;Bach |   | Hand ulcer, monitoring progress. Coming in 9/16 9:45 am |
-| <details><summary><b>S.W.</b></summary>S. Wyoski</details>OR | STRAVIX · Dr.&nbsp;Ayesh<br>**OR&nbsp;Fri&nbsp;11/13 · OR&nbsp;in&nbsp;32&nbsp;days** |   | Stravix in the OR on Fri 11/13 (Dr. Ayesh). GRAFIX PA had been approved<br>_10/11:_ Getting Stravix in OR on 11/13 |
-| **C.L.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;10/6 · 6&nbsp;d&nbsp;post-op** |   | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453\_36006, \_36007). PO PO006010271 received 10/7 |
-| <details><summary><b>R.W.</b></summary>Roy Walsh</details>OR | GRAFIX&nbsp;5x5 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;10/2 · 1&nbsp;wk&nbsp;3&nbsp;d&nbsp;post-op** |   | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878\_55010. PO005995283 approved 10/5 |
-| **T.A.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Thu&nbsp;10/1 · 1&nbsp;wk&nbsp;4&nbsp;d&nbsp;post-op** |   | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |
-| <details><summary><b>D.F.</b></summary>Dominga Flores</details>OR | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;9/10 · 4&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>P.J.</b></summary>Paul Timothy Jagust</details>OR | STRAVIX&nbsp;2x4&nbsp;(x3) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;9/2 · 5&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>A.V.</b></summary>Alvina Vandenend</details>OR | STRAVIX&nbsp;3x6&nbsp;(x2)&nbsp;+&nbsp;2x4&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;8/25 · 6&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>L.B.</b></summary>Louis Edward Boivin</details>OR | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;8/21 · 7&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>W.L.</b></summary>William Lopez</details>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;8/20 · 7&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>S.W.</b></summary>S. Wyoski</details>OR | STRAVIX · Dr.&nbsp;Ayesh<br>**OR&nbsp;Fri&nbsp;11/13 · OR&nbsp;in&nbsp;30&nbsp;days** |   | Stravix in the OR on Fri 11/13 (Dr. Ayesh). GRAFIX PA had been approved<br>_10/11:_ Getting Stravix in OR on 11/13 |
+| **C.L.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;10/6 · 1&nbsp;wk&nbsp;1&nbsp;d&nbsp;post-op** |   | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453\_36006, \_36007). PO PO006010271 received 10/7 |
+| <details><summary><b>R.W.</b></summary>Roy Walsh</details>OR | GRAFIX&nbsp;5x5 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;10/2 · 1&nbsp;wk&nbsp;5&nbsp;d&nbsp;post-op** |   | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878\_55010. PO005995283 approved 10/5 |
+| **T.A.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Thu&nbsp;10/1 · 1&nbsp;wk&nbsp;6&nbsp;d&nbsp;post-op** |   | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |
+| <details><summary><b>D.F.</b></summary>Dominga Flores</details>OR | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;9/10 · 4&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>P.J.</b></summary>Paul Timothy Jagust</details>OR | STRAVIX&nbsp;2x4&nbsp;(x3) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;9/2 · 6&nbsp;wks&nbsp;post-op** |   |   |
+| <details><summary><b>A.V.</b></summary>Alvina Vandenend</details>OR | STRAVIX&nbsp;3x6&nbsp;(x2)&nbsp;+&nbsp;2x4&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;8/25 · 7&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>L.B.</b></summary>Louis Edward Boivin</details>OR | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;8/21 · 7&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>W.L.</b></summary>William Lopez</details>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;8/20 · 7&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   |   |
 | <details><summary><b>K.B.</b></summary>K. Bette</details>Pending | OASIS · Dr.&nbsp;Ayesh |   | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6.<br>_10/8:_ Patient initials are actually KB, last name is Bette |
 | <details><summary><b>R.T.</b></summary>Raymond Tarkowski</details>Denied | Dr.&nbsp;Raigaga |   | Mentioned taking this patient to the operating room |
 | <details><summary><b>C.H.</b></summary>Candace Hein</details>On&nbsp;hold | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Bach | 🟢 0 | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |
 | <details><summary><b>L.D.</b></summary>L. Dituri</details>Done | GRAFIX&nbsp;1.5x2 · Weekly · Dr.&nbsp;Luetkehans<br>**Last&nbsp;graft&nbsp;10/8** | 🔴 23 | Done 10/8 after A23 (1.5x2): no more grafting recommended.<br>_10/8:_ Correction: today was A23 |
+| <details><summary><b>I.S.</b></summary>I. Stalilionis</details>Done | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Weekly · Dr.&nbsp;Patni<br>**Last&nbsp;graft&nbsp;10/6** | 🟢 6 | Healed 10/13 (Pete covered, not grafted): done after 6 applications. A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |
 | <details><summary><b>J.B.</b></summary>J. Buscher</details>Done | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x7&nbsp;and&nbsp;3x3.5 · Dr.&nbsp;Raigaga |   |   |
 
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 11 grafting · 24 total</summary>
+<details open><summary><b>Alexian WCC</b> · 12 grafting · 25 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details>Grafting | OASIS&nbsp;Burn&nbsp;5x7 · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Mon&nbsp;10/12&nbsp;1:20&nbsp;PM** | 🟢 2 of 8 | A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
-| <details><summary><b>D.G.</b></summary>Diane Grunder</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;9:00&nbsp;AM · Pete&nbsp;covering** | 🟢 3 of 8 | A3 10/6 (LYA-260017\_16014, PO …284776 received 10/9). |
-| <details><summary><b>J.L.</b></summary>J. Leamann</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;9:40&nbsp;AM · Pete&nbsp;covering** | 🟢 2 of 8 | A2 10/6 (LYA-260159\_16001). |
-| <details><summary><b>A.N.</b></summary>Aloysius Newman</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 4 of 8 | A4 10/6 (LYA-260159\_16026). |
-| <details><summary><b>O.O.</b></summary>Omar osama</details>Potential&nbsp;New&nbsp;Start | GRAFIX · Weekly · Dr.&nbsp;V<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 0 of 8 | 9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |
 | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details>Grafting | OASIS&nbsp;Wound&nbsp;3x7 · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:45&nbsp;PM** | 🟢 1 of 8 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
 | <details><summary><b>A.P.</b></summary>Aldo Perellu</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:00&nbsp;PM** | 🟢 4 of 8 | A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
-| <details><summary><b>M.L.</b></summary>Mariah Lopez</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:15&nbsp;PM** | 🟢 2 of 8 | A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
+| <details><summary><b>M.L.</b></summary>Mariah Lopez</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:15&nbsp;PM** | 🟢 3 of 8 | A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
 | <details><summary><b>J.B.</b></summary>Jozef B.</details>Grafting | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:20&nbsp;AM · Caroline&nbsp;covering** | 🟢 3 of 8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |
 | <details><summary><b>D.C.</b></summary>Donald Carrothers</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:45&nbsp;AM · Caroline&nbsp;covering** | 🟢 5 of 8 | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). 5 applications (AJ confirmed 10/12), so 10/15 would be A6.<br>_10/12:_ DC has 5 applications |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;12:35&nbsp;PM** | 🔴 8 of 8 | A8 10/9 (logged in the app 10/11). Next visit Fri 10/16 12:35 PM.<br>_10/11:_ A8 was placed 10/9 |
 | <details><summary><b>T.T.</b></summary>Tracy Tijerria</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;10/20** | 🟡 7 of 8 | 🔴 Next 10/20, no time<br>A7 10/6 (LYA-260159\_16028). Alexian WCC stops at 8, so 1 left. |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details>Pending | Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;10:30&nbsp;AM** |   | New 10/8 |
+| <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Burn&nbsp;5x7 · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/12&nbsp;1:20&nbsp;PM** | 🟢 2 of 8 | 🔴 Last appt 10/12 passed, nothing new booked<br>A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
+| <details><summary><b>A.N.</b></summary>Aloysius Newman</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 4 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A4 10/6 (LYA-260159\_16026). |
+| <details><summary><b>D.G.</b></summary>Diane Grunder</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:00&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A3 10/6 (LYA-260017\_16014, PO …284776 received 10/9). |
+| <details><summary><b>J.L.</b></summary>J. Leamann</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:40&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A2 10/6 (LYA-260159\_16001). |
+| <details><summary><b>O.O.</b></summary>Omar Osama</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 1 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |
 | <details><summary><b>D.K.</b></summary>David Knopp</details>Pending | GRAFIX · Weekly · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;1:15&nbsp;PM** |   | New 10/12 |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details>Pending | Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;10:30&nbsp;AM** |   | New 10/8 |
+| <details><summary><b>D.S.</b></summary>Donald Schroeder</details>Pending | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
+| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details>Pending | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
 | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details>Pending | Weekly · Dr.&nbsp;Turayhi |   | New 10/8 |
-| <details><summary><b>H.P.</b></summary>Hein Patel</details>Denied | GRAFIX/oasis · Weekly · Dr.&nbsp;Ramani |   | Denied 10/8: Medicaid, and they don't want to graft it. 10/12: Dr. Ramani wants to take it to Ambulatory.<br>_10/12:_ Ramani wants to take to ambulatory |
 | <details><summary><b>X.S.</b></summary>Xerxes S.</details>Denied | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** |   | Denied (moved in the app 10/11) |
 | <details><summary><b>J.C.</b></summary>Jerry Cooper</details>On&nbsp;hold | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
 | <details><summary><b>L.S.</b></summary>Lea S</details>Done | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM** |   | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
@@ -86,11 +88,12 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="alexian-ambulatory"></a>
-<details open><summary><b>Alexian Ambulatory</b> · 1 grafting · 1 total</summary>
+<details open><summary><b>Alexian Ambulatory</b> · 1 grafting · 2 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>M.C.</b></summary>Martin Cozzi</details>Grafting<br>🟠&nbsp;Verify<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x7 · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Fri&nbsp;10/9&nbsp;9:45&nbsp;AM** | 🟡 10 | 🔴 Last appt 10/9 passed, nothing new booked<br>🟠 **Verify:** was scheduled Fri 10/9 9:45 AM, no result logged, not on the 10/12 calendar |
+| <details><summary><b>H.P.</b></summary>Hein Patel</details>Potential&nbsp;New&nbsp;Start<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5&nbsp;suggested · Weekly · Dr.&nbsp;Ramani | 🟢 – | 🔴 No follow-up booked<br>Seeing patient this week at WCC and scheduling next week at ambulatory. Denied 10/8: Medicaid, and they don't want to graft it. 10/12: Dr. Ramani wants to take it to Ambulatory.<br>_10/12:_ Ramani wants to take to ambulatory |
 
 </details>
 
@@ -99,16 +102,16 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>P.S.</b></summary>Peter S.</details>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;10/12&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 2 | A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm.<br>[📄 IVR](ivr/nw-ps.md) |
-| <details><summary><b>P.M.</b></summary>Paul Michael</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;10/12&nbsp;9:45&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 7 | A7 10/12 (NWSFA graft log: Graft #7, OASIS Wound Matrix 3x3.5 lot LB1744562; AJ confirmed A7). A6 was 9/28; cancelled 10/5 (AJ 10/12).<br>_10/12:_ Cancelled last week (10/5); A6 was 9/28 |
-| <details><summary><b>C.C.</b></summary>Constance Campbell</details>Grafting | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;10/12&nbsp;11:30&nbsp;AM · Hoffman&nbsp;Estates** | 🟡 11 | A11 10/12 (HE). |
-| <details><summary><b>F.A.</b></summary>Frank Auman</details>Grafting | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;11:15&nbsp;AM · Hoffman&nbsp;Estates** | 🟡 11 | A11 10/6 (A10 the week of 9/28, exact date not recorded) |
 | <details><summary><b>J.M.</b></summary>Joyce Morales</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:00&nbsp;PM · Elk&nbsp;Grove · Pete&nbsp;covering** | 🟢 2 | A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
 | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;3:15&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 2 | A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |
 | **C.T.**<br>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:30&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 2 | A2 10/8 (1st 10/1) |
 | **L.W.**<br>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:45&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 1 | A1 10/8: OASIS Wound 3x7 (AJ's 10/12 note; AJ confirmed 10/11, it had been logged as held). A2 Thu 10/15 2:45 PM (HE) goes back to 3x3.5. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm.<br>_10/12:_ On 10/8, they used Wound 3x7 for A1. A2 will be 3x3.5.<br>[📄 IVR](ivr/nw-lw.md) |
 | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details>Grafting | OASIS&nbsp;Ultra&nbsp;5x7 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;9:00&nbsp;AM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 5 | A5 10/9. Left ankle approved for grafting. Only grafting left foot. OASIS Ultra 5x7 (1 box) ordered 10/12 on PO MZ101626 for the Fri 10/16 visit, delivery 10/13 to HE. |
 | <details><summary><b>G.K.</b></summary>George Kuszynski</details>Grafting | OASIS&nbsp;Ultra&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;10/19&nbsp;11:45&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 2 | A1 10/5 1:30 PM: OASIS Ultra 3x3.5, lot LB1709196 (case sheet in the app). A2 10/12 (HE). Next Mon 10/19 11:45 AM. |
+| <details><summary><b>C.C.</b></summary>Constance Campbell</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/12&nbsp;11:30&nbsp;AM · Hoffman&nbsp;Estates** | 🟡 11 | 🔴 Last appt 10/12 passed, nothing new booked<br>A11 10/12 (HE). |
+| <details><summary><b>F.A.</b></summary>Frank Auman</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;11:15&nbsp;AM · Hoffman&nbsp;Estates** | 🔴 12 | 🔴 Last appt 10/13 passed, nothing new booked<br>A11 10/6 (A10 the week of 9/28, exact date not recorded) |
+| <details><summary><b>P.M.</b></summary>Paul Michael</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/12&nbsp;9:45&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 7 | 🔴 Last appt 10/12 passed, nothing new booked<br>A7 10/12 (NWSFA graft log: Graft #7, OASIS Wound Matrix 3x3.5 lot LB1744562; AJ confirmed A7). A6 was 9/28; cancelled 10/5 (AJ 10/12).<br>_10/12:_ Cancelled last week (10/5); A6 was 9/28 |
+| <details><summary><b>P.S.</b></summary>Peter S.</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/12&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 2 | 🔴 Last appt 10/12 passed, nothing new booked<br>A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm.<br>[📄 IVR](ivr/nw-ps.md) |
 | <details><summary><b>G.G.</b></summary>Gerald G</details>Pending | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
 | **M.A.**<br>Pending | GRAFIX · Dr.&nbsp;Goldkind |   | Pending auth (NWSFA list wk of 10/12). IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer. R foot DFU. (Listed as M.P. until 10/4.)<br>[📄 IVR](ivr/nw-mp.md) |
 | <details><summary><b>J.R.</b></summary>James Roshbach</details>On&nbsp;hold | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
@@ -121,15 +124,16 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="st-joseph-elgin"></a>
-<details open><summary><b>St. Joseph Elgin</b> · 2 grafting · 5 total</summary>
+<details open><summary><b>St. Joseph Elgin</b> · 3 grafting · 6 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>P.H.</b></summary>Pamela Hartlipp</details>Potential&nbsp;New&nbsp;Start | GRAFIX&nbsp;3x3&nbsp;(x2)&nbsp;first,&nbsp;then&nbsp;3x4&nbsp;+&nbsp;2x3&nbsp;suggested · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;9:00&nbsp;AM · Elgin** | 🟢 0 | Approved 100% (10/8). A1 10/13: two Grafix 3x3 already bought on PO (no new sale). Then 10/20 and 10/27: a 3x4 + 2x3 each visit on new sale orders. IVR ran 10/5.<br>_10/8:_ Approved at 100%. Going to use two Grafix 3x3 (first application they already have the correct sizes bought on PO previously) on 10/13. Then on 10/20 and 10/27 project a 3x4 and 2x3 on each application |
 | **J.C.**<br>Grafting | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;1:45&nbsp;PM** | 🟢 6 | A9 (10/1) was an eval OASIS Wound 3x3.5 |
-| **D.N.**<br>Grafting | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Veronica&nbsp;Pappas<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;1:00&nbsp;PM · Pete&nbsp;covering** | 🟢 1 | A1 10/9 confirmed (AJ 10/12): one OASIS Wound 3x3.5. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. Next Fri 10/16 1:00 PM (matches Pete's coverage email).<br>_10/12:_ A1 on 10/9 is confirmed, used one OASIS Wound 3x3.5<br>[📄 IVR](ivr/sj-dn.md) |
-| **T.W.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/25 · 2&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   | Stravix 3x6 OR case 9/25 (St. Joseph Elgin). Bill Only PO 712062882 received 10/9; submitted 10/9, not in SFDC yet |
-| **J.D.**<br>Pending | GRAFIX/OASIS · Dr.&nbsp;Bhagat |   | Ran on 9/9/26, needs additional clinicals, needs referral |
+| **D.N.**<br>Grafting | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Veronica&nbsp;Pappas<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;10:00&nbsp;AM · Pete&nbsp;covering** | 🟢 1 | A1 10/9 confirmed (AJ 10/12): one OASIS Wound 3x3.5. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm. Next Fri 10/16 1:00 PM (matches Pete's coverage email).<br>_10/12:_ A1 on 10/9 is confirmed, used one OASIS Wound 3x3.5<br>[📄 IVR](ivr/sj-dn.md) |
+| <details><summary><b>P.H.</b></summary>Pamela Hartlipp</details>Grafting | GRAFIX&nbsp;3x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;10/20&nbsp;9:00&nbsp;AM · Elgin** | 🟢 1 | Approved 100% (10/8). A1 10/13: one Grafix 3x3 from the clinic's own stock (bought on an earlier PO, no new sale); 1 x 3x3 left on their shelf, which covers 10/20. One Grafix 3x3 a week going forward (AJ 10/14); the clinic orders on PO. IVR ran 10/5.<br>_10/8:_ Approved at 100%. Going to use two Grafix 3x3 (first application they already have the correct sizes bought on PO previously) on 10/13. Then on 10/20 and 10/27 project a 3x4 and 2x3 on each application |
+| **T.W.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/25 · 2&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   | Stravix 3x6 OR case 9/25 (St. Joseph Elgin). Bill Only PO 712062882 received 10/9; submitted 10/9, in SFDC (AJ 10/14) |
+| <details><summary><b>M.B.</b></summary>Merrill Burleigh</details>Pending | GRAFIX&nbsp;3x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;10/20** |   | New IVR submitted 10/13 (pending). Plan (AJ 10/14): one Grafix 3x3 a week starting Mon 10/20. |
+| <details><summary><b>J.D.</b></summary>John Dematropolis</details>Pending | GRAFIX/OASIS · Dr.&nbsp;Bhagat |   | Ran on 9/9/26, needs additional clinicals, needs referral |
 
 </details>
 
@@ -149,10 +153,10 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Liao**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Liao<br>**OR&nbsp;Fri&nbsp;10/16 · OR&nbsp;in&nbsp;4&nbsp;days** |   | Upcoming OR case Fri 10/16 1:00–2:00 PM (on AJ's calendar). Caroline covering. |
-| **A.B.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Guske<br>**OR&nbsp;Wed&nbsp;10/7 · 5&nbsp;d&nbsp;post-op** |   | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604\_36001 from St. Alexius stock (bill & replace). Bill & replace PO 660080000212502 received 10/8 |
-| <details><summary><b>G.G.</b></summary>Gerald G</details>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Goldkind<br>**OR&nbsp;Tue&nbsp;9/29 · 1&nbsp;wk&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |
-| **N.W.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/11 · 4&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   | Bill & replace |
+| **Upcoming · Dr. Liao**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Liao<br>**OR&nbsp;Fri&nbsp;10/16 · OR&nbsp;in&nbsp;2&nbsp;days** |   | Upcoming OR case Fri 10/16 1:00–2:00 PM (on AJ's calendar). Caroline covering. |
+| **A.B.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Guske<br>**OR&nbsp;Wed&nbsp;10/7 · 1&nbsp;wk&nbsp;post-op** |   | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604\_36001 from St. Alexius stock (bill & replace). Bill & replace PO 660080000212502 received 10/8 |
+| <details><summary><b>G.G.</b></summary>Gerald G</details>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Goldkind<br>**OR&nbsp;Tue&nbsp;9/29 · 2&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |
+| **N.W.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/11 · 4&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   | Bill & replace |
 
 </details>
 
@@ -171,7 +175,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 2&nbsp;wks&nbsp;post-op** |   | Stravix 3x6 OR case 9/28. PO P2325870 received 10/6 (ready to submit). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). |
+| **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 2&nbsp;wks&nbsp;2&nbsp;d&nbsp;post-op** |   | Stravix 3x6 OR case 9/28. PO P2325870 received 10/6 (ready to submit). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). |
 
 </details>
 
@@ -180,8 +184,8 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **F.M.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x3) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;10/7 · 5&nbsp;d&nbsp;post-op** |   | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611\_36004, \_36005; LYU-251530\_36001). PO-1000931284 received 10/9; ready to submit |
-| **S.A.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Fri&nbsp;9/18 · 3&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   |   |
+| **F.M.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x3) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;10/7 · 1&nbsp;wk&nbsp;post-op** |   | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611\_36004, \_36005; LYU-251530\_36001). PO-1000931284 received 10/9; ready to submit |
+| **S.A.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Fri&nbsp;9/18 · 3&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
 | **Upcoming · Dr. Reed**<br>OR | Stravix · Dr.&nbsp;Reed |   | Spoke to Dr. Reed 10/5 and he mentioned possible Stravix this week or next on calcaneus. |
 
 </details>
@@ -200,7 +204,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **M.W.**<br>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 1 | New start 10/7 (A1, LYA-260007\_16005, PO MW100726). Weekly 16mm; future orders go on sale-order POs. |
 | **??**<br>Potential&nbsp;New&nbsp;Start | GRAFIX&nbsp;5x5&nbsp;(suggested) · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 0 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside.<br>_10/8:_ Potential new start next week. Initials unknown. Project 5x5 weekly upside, 3x4 weekly downside. |
+| **M.W.**<br>Grafting | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;10/21&nbsp;9:50&nbsp;AM · Lombard** | 🟢 2 | New start 10/7 (A1, LYA-260007\_16005, PO MW100726). Weekly 16mm; future orders go on sale-order POs. |
 
 </details>

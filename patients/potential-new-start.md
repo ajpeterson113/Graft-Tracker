@@ -2,43 +2,35 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 89 patients · updated Mon 10/12, 11:14 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 12:36 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;14](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;89](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 34](../patients/grafting.md) · **Potential New Start 4** · [Pending 9](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 9](../patients/done.md) · [Denied 4](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · **Potential New Start 4** · [Pending 12](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 1</summary>
+<details open><summary><b>Good Sam</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| <details><summary><b>P.P.</b></summary>P. Patrizi</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;10/20** | 🟢 – | 🔴 Next 10/20, no time |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets&nbsp;per&nbsp;visit)&nbsp;suggested · Dr.&nbsp;Bach | 🟢 – | 🔴 No follow-up booked<br>Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |
 
 </details>
 
-<a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 1</summary>
+<a name="alexian-ambulatory"></a>
+<details open><summary><b>Alexian Ambulatory</b> · 1</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>O.O.</b></summary>Omar osama</details> | GRAFIX · Weekly · Dr.&nbsp;V<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 0 of 8 | 9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |
-
-</details>
-
-<a name="st-joseph-elgin"></a>
-<details open><summary><b>St. Joseph Elgin</b> · 1</summary>
-
-| Patient | Graft · next visit | Apps | Notes |
-| :-- | :-- | :-- | :-- |
-| <details><summary><b>P.H.</b></summary>Pamela Hartlipp</details> | GRAFIX&nbsp;3x3&nbsp;(x2)&nbsp;first,&nbsp;then&nbsp;3x4&nbsp;+&nbsp;2x3&nbsp;suggested · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;10/13&nbsp;9:00&nbsp;AM · Elgin** | 🟢 0 | Approved 100% (10/8). A1 10/13: two Grafix 3x3 already bought on PO (no new sale). Then 10/20 and 10/27: a 3x4 + 2x3 each visit on new sale orders. IVR ran 10/5.<br>_10/8:_ Approved at 100%. Going to use two Grafix 3x3 (first application they already have the correct sizes bought on PO previously) on 10/13. Then on 10/20 and 10/27 project a 3x4 and 2x3 on each application |
+| <details><summary><b>H.P.</b></summary>Hein Patel</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5&nbsp;suggested · Weekly · Dr.&nbsp;Ramani | 🟢 – | 🔴 No follow-up booked<br>Seeing patient this week at WCC and scheduling next week at ambulatory. Denied 10/8: Medicaid, and they don't want to graft it. 10/12: Dr. Ramani wants to take it to Ambulatory.<br>_10/12:_ Ramani wants to take to ambulatory |
 
 </details>
 
