@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:13 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:21 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -50,14 +50,13 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 10/7 | [F.M.](../case-sheets/fm-1007.md) | GlenOaks · McKanna | Stravix 3x6 ×3 | PO-1000931284 | \$7,407 |
 
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 5
+## ⏳ Case sheets to come · 4
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
 | Date | Pt | Account | Graft | PO | Visit |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 10/8 | D.F. | Good Sam · Luetkehans | Grafix 5x5 | PO006001505 | Seen Thu 10/8 |
-| 10/9 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS100926 | Seen Fri 10/9 |
 | 10/19 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS101926 | Coming up Mon 10/19 |
 | 10/16 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS101626 | Coming up Fri 10/16 |
 | 10/16 | R.C. | Central DuPage · Luetkehans | Grafix 3x4 | RC101626 | Coming up Fri 10/16 |
