@@ -2,7 +2,7 @@
 
 # Grafting
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 4:24 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 9:13 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -64,7 +64,7 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>J.M.</b></summary>Joyce Morales</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:00&nbsp;PM · Elk&nbsp;Grove** | 🟢 3 | A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
-| <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;3:15&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 2 | A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |
+| <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;3:15&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 3 | A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |
 | **C.T.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:30&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 2 | A2 10/8 (1st 10/1) |
 | **L.W.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;2:45&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 1 | A1 10/8: OASIS Wound 3x7 (AJ's 10/12 note; AJ confirmed 10/11, it had been logged as held). A2 Thu 10/15 2:45 PM (HE) goes back to 3x3.5. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm.<br>_10/12:_ On 10/8, they used Wound 3x7 for A1. A2 will be 3x3.5.<br>[📄 IVR](../ivr/nw-lw.md) |
 | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | OASIS&nbsp;Ultra&nbsp;5x7 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;9:00&nbsp;AM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 5 | A5 10/9. Left ankle approved for grafting. Only grafting left foot. OASIS Ultra 5x7 (1 box) ordered 10/12 on PO MZ101626 for the Fri 10/16 visit, delivery 10/13 to HE. |

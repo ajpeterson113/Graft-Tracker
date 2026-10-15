@@ -2,7 +2,7 @@
 
 # Cases
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 4:24 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:13 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|

@@ -2,7 +2,7 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 4:24 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:13 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -286,7 +286,7 @@ Sold so far: **\$190** · 1 case
 | **F.A.** | NW Suburban F&A | Adelstein | OASIS Ultra 3x7 | Grafting | A12 | A12 10/13. A11 10/6 (A10 the week of 9/28, exact date not recorded) |
 | **P.M.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A7 | A7 Mon 10/12 (case sheet, lot LB1744562; AJ confirmed A7). |
 | **C.T.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A2 | A2 10/8 (1st 10/1) |
-| **E.P.** | NW Suburban F&A | Goldkind | OASIS Wound 3x3.5 | Grafting | A2 | A2 10/7 (1st 9/30, OASIS Wound 3x3.5). |
+| **E.P.** | NW Suburban F&A | Goldkind | OASIS Wound 3x3.5 | Grafting | A3 | A3 10/14 (Pete covered, Hoffman Estates). |
 | **MZ (L)** | NW Suburban F&A | Goldkind | OASIS Ultra 5x7 | Grafting | A5 | A5 10/9. Left ankle only. |
 | **R.D.** | NW Suburban F&A | Hussain | OASIS Ultra 3x3.5 | On hold | A10 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
 | **J.C.** | NW Suburban F&A | Hussain | OASIS Ultra 7x20 | On hold | A12 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). |
