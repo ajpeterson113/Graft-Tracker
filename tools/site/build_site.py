@@ -532,7 +532,8 @@ def render_home_image(tr, path, theme, narrow=False):
         cur.append(it)
         cw += w_ + 14
     leg_lines.append(cur)
-    H1 = 300 + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
+    in_sfdc = sum(num(c.get('price')) or 0 for c in tr.period_cases() if c.get('status') == 'insfdc')
+    H1 = 300 + 20 + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
     H2 = 300 if not narrow else 250
     Ht = H1 + GAP + H2 if narrow else max(H1, 300)
 
@@ -578,8 +579,12 @@ def render_home_image(tr, path, theme, narrow=False):
         xx = x0 + w_big + 12
     xx += text(xx, y - 2, pc(sp), fb17, C['ink'])
     text(xx + 5, y - 2, tail, fr17, C['mu'])
+    # small line under the total: how much of it is in SFDC (same as the app)
+    y += 22
+    xx = x0 + text(x0, y, m0(in_sfdc), F('SourceSans3-600', 13.5), C['ink'])
+    text(xx, y, ' in SFDC', F('SourceSans3-400', 13.5), C['mu'])
     # bullet bar: sold / downside / upside (striped), target marker
-    y += 30
+    y += 28
     bx0, bx1, bh = x0, W1 - PAD, 18
     mx = max(tgt, up, sold, 1) * 1.04
 
