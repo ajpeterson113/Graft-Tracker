@@ -2,6 +2,11 @@
 """Make a filled S+N case sheet (JPG for the web page + PDF) from sticker photos.
 
     python3 -I tools/case_sheet.py SPEC.json OUT_BASENAME
+    python3 -I tools/case_sheet.py --banner PHOTO.jpg "PO 660040000285130   |   Application 5" OUT_BASENAME
+
+--banner puts the orange-trimmed strip on top of one of AJ's own case sheet photos
+(replacing a strip this script added before) and writes OUT_BASENAME.jpg/.pdf. The photo
+itself is never written on: on AJ's photos the PO goes in this banner (his call, 10/14).
 
 SPEC.json:
   {"banner": "PO pending  |  Application 3",          # top strip; omit for none
@@ -67,6 +72,56 @@ def centred(d, box, s, f):
         y += (b[3] - b[1]) + 18
 
 
+BANNER_BG, BANNER_LINE = (252, 235, 217), (233, 150, 62)
+
+
+def banner_height(width):
+    return round(BANNER_H * width / 2550)
+
+
+def draw_banner(page, text, width):
+    """The top strip, scaled from the 2550 px form: light band, orange line, grey bold text."""
+    s = width / 2550
+    top, line = banner_height(width), max(3, round(12 * s))
+    d = ImageDraw.Draw(page)
+    d.rectangle([0, 0, width, top - line], fill=BANNER_BG)
+    d.rectangle([0, top - line, width, top], fill=BANNER_LINE)
+    fb = font(BOLD, round(92 * s))
+    b = d.textbbox((0, 0), text, font=fb)
+    d.text((round(70 * s), (top - line) / 2 - (b[3] + b[1]) / 2), text, fill=(80, 80, 80), font=fb)
+
+
+def strip_banner(im):
+    """Cut off a banner added earlier (light band + orange line at the very top), if any."""
+    w, h = im.size
+    near = lambda c, ref, tol: sum(abs(a - b) for a, b in zip(c, ref)) <= tol
+    probe = im.crop((int(w * 0.85), 0, int(w * 0.99), int(h * 0.12))).resize((1, int(h * 0.12)), Image.BOX)
+    rows = [probe.getpixel((0, y)) for y in range(probe.height)]
+    if not rows or not near(rows[0], BANNER_BG, 30):
+        return im
+    line_rows = [y for y, c in enumerate(rows) if near(c, BANNER_LINE, 60)]
+    if not line_rows:
+        return im
+    cut = line_rows[-1] + 1          # also drop the blurred line edge and light gap under it (JPEG)
+    while cut < len(rows) and cut <= line_rows[-1] + 4 and (
+            near(rows[cut], BANNER_LINE, 110) or near(rows[cut], BANNER_BG, 45) or near(rows[cut], (255, 255, 255), 45)):
+        cut += 1
+    return im.crop((0, cut, w, h))
+
+
+def add_banner(photo, text, out):
+    im = ImageOps.exif_transpose(Image.open(photo)).convert('RGB')
+    im = strip_banner(im)
+    W = im.width
+    top = banner_height(W)
+    page = Image.new('RGB', (W, im.height + top), 'white')
+    page.paste(im, (0, top))
+    draw_banner(page, text, W)
+    page.save(out + '.jpg', quality=88)
+    page.save(out + '.pdf', 'PDF', resolution=W / 8.5)
+    return out + '.jpg', out + '.pdf'
+
+
 def build(spec, out):
     form = Image.open(TEMPLATE).convert('RGB')
     W, H = form.size
@@ -75,11 +130,7 @@ def build(spec, out):
     page.paste(form, (0, top))
     d = ImageDraw.Draw(page)
     if top:
-        d.rectangle([0, 0, W, top - 12], fill=(252, 235, 217))
-        d.rectangle([0, top - 12, W, top], fill=(233, 150, 62))
-        fb = font(BOLD, 92)
-        b = d.textbbox((0, 0), spec['banner'], font=fb)
-        d.text((70, (top - 12) / 2 - (b[3] + b[1]) / 2), spec['banner'], fill=(80, 80, 80), font=fb)
+        draw_banner(page, spec['banner'], W)
     f = font(SANS, 54)
     if spec.get('acct'):
         d.text((900, top + 330), spec['acct'], fill=(25, 25, 25), font=font(SANS, 76))
@@ -116,6 +167,9 @@ def build(spec, out):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
+    if len(sys.argv) == 5 and sys.argv[1] == '--banner':
+        print('\n'.join(add_banner(sys.argv[2], sys.argv[3], sys.argv[4])))
+    elif len(sys.argv) == 3:
+        print('\n'.join(build(json.load(open(sys.argv[1], encoding='utf-8')), sys.argv[2])))
+    else:
         sys.exit(__doc__)
-    print('\n'.join(build(json.load(open(sys.argv[1], encoding='utf-8')), sys.argv[2])))
