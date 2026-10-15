@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 10:09 PM CT
+**BIOT Chicago West** · P10 · day 13 of 25 · updated Thu 10/15, 2:14 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,13 +13,14 @@
 <a name="2026-10"></a>
 ## P10 · October
 
-**51 entries · \$77,534** · 🟢 13 Ready · 🟡 3 Needs PO · 🔵 3 Submitted · 🟤 1 Clinic stock · ⚪ 31 In SFDC
+**52 entries · \$79,741** · 🟢 14 Ready · 🟡 3 Needs PO · 🔵 3 Submitted · 🟤 1 Clinic stock · ⚪ 31 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
 | **10/19** | **P.S.** · NW Suburban F&A · Goldkind<br>Grafix 16mm · PO PS101926<details><summary><sub>Notes</sub></summary>Sale order submitted 10/12 on PO PS101926 (S+N order #11297167, delivery to Hoffman Estates 10/13) for the Mon 10/19 visit (application #3): 1 x 16mm, \$190. Lot/SN and case sheet after the visit. In SFDC (AJ 10/14). SFDC serial LYA-260212\_16021 (SFDC P10 report 10/14: \$55,551)</details> | \$190 | ⚪&nbsp;In&nbsp;SFDC<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 | **10/16** | **A.S.** · Central DuPage · Luetkehans<br>Grafix 16mm · PO AS101626<details><summary><sub>Notes</sub></summary>Sale order AS101626 for the Fri 10/16 visit (application #2): 1 x 16mm, \$190. In SFDC 10/14 (SFDC P10 report: \$55,551), SFDC serial LYA-260218\_16011. Lot/SN and case sheet after the visit</details> | \$190 | ⚪&nbsp;In&nbsp;SFDC<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 |   | **R.C.** · Central DuPage · Luetkehans<br>Grafix 3x4 · PO RC101626<details><summary><sub>Notes</sub></summary>Sale order RC101626 for the Fri 10/16 visit: 1 x 3x4, \$1,020 (AJ's 10/9 plan: the 5x5 left from RC100926 + the WFNU 5x5 on a new PO + a 3x4 on PO). In SFDC 10/14 (SFDC P10 report: \$55,551), SFDC serial LYA-250585\_34003. Not the 10/9 3x4 (LYA-250008\_34006, transfer from Alexian WCC): that one still needs its own PO. Lot/SN and case sheet after the visit</details> | \$1,020 | ⚪&nbsp;In&nbsp;SFDC<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
+| **10/15** | **OASIS Wound 3x7 · 10 sheets = 1 box** · Alexian WCC<br>PO 660040000285214<details><summary><sub>Notes</sub></summary>OASIS Wound Matrix 3x7 box for the Alexian WCC shelf (D.V., 4 sheets a visit): PO 660040000285214 (10/15), 1 box of 10, \$2,206.20 (Alexian box price). Ships to Alexian (not bill only). This is the box the Projections tab had as Reorder now. Ready to submit; lot and expiry when it arrives</details> | \$2,206.20 | 🟢&nbsp;Ready |
 | **10/14** | [**A.P.**](../case-sheets/ap-1014.md) 📄 · Alexian WCC · Hussain<br>Grafix 16mm · PO 660040000285130 · LYA-260146\_16008<details><summary><sub>Notes</sub></summary>PO 660040000285130 (10/14): Patient ID 0003068368 = A.P., DOS 10/14, Dr. Hussain, 16mm \$360, bill only. App #5 Wed 10/14 (2:00 PM): LYA-260146\_16008 (exp 1/13/28), from the Alexian WCC shelf. Case sheet on file. PA required. Ready to submit</details> | \$360 | 🟢&nbsp;Ready |
 |   | [**M.W.**](../case-sheets/mw-1014.md) 📄 · Romano Lombard · Rojas<br>Grafix 16mm · no PO yet · LYA-260146\_16009<details><summary><sub>Notes</sub></summary>App #2 Wed 10/14 at Romano Orthopaedics, Lombard (Dr. Rojas): 16mm LYA-260146\_16009 (exp 1/13/28), \$190 (Romano \$95/cm2). Case sheet made 10/14 from the sticker photo (Patients app). Waiting on the sale-order PO. TRANSFER from the Alexian WCC shelf (acct 253985), per AJ 10/14: transport log typed 10/14 (needed same day, 10/14 7am to 8am, received by Dr. Rojas): case-sheets/mw-1014-transport-log, Transfers tab</details> | \$190 | 🟡&nbsp;Needs&nbsp;PO<br>🔁&nbsp;Transfer |
 | **10/13** | [**O.O.**](../case-sheets/oo-1013.md) 📄 · Alexian WCC · Vedantham<br>Grafix 16mm · PO 660040000285021 · LYA-260174\_16006<details><summary><sub>Notes</sub></summary>PO 660040000285021 (10/13): Patient ID 0003052679 = O.O. (first Alexian PO for this patient; matched by DOS 10/13 + Dr. Vedantham, whose only patient this is), 16mm \$360, bill only. App #1 Tue 10/13 (first application): LYA-260174\_16006 (exp 1/13/28). Case sheet on file. Ready to submit</details> | \$360 | 🟢&nbsp;Ready |

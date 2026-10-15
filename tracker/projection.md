@@ -2,28 +2,28 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 10:09 PM CT
+**BIOT Chicago West** · P10 · day 13 of 25 · updated Thu 10/15, 2:14 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (October tab) | \$77,534 | \$77,534 |
-| \+ Projected Grafix, net of WCC stock | \$31,550 | \$25,540 |
+| Sold so far (October tab) | \$79,741 | \$79,741 |
+| \+ Projected Grafix, net of WCC stock | \$30,210 | \$23,870 |
 | \+ Upcoming Stravix | \$2,469 | \$2,469 |
 | \+ Potential new starts | \$6,981 | \$2,280 |
-| \+ OASIS reorders (estimated) | \$15,764 | \$10,189 |
-| **P10 forecast** | **\$134,298** | **\$118,013** |
+| \+ OASIS reorders (estimated) | \$13,558 | \$7,983 |
+| **P10 forecast** | **\$132,958** | **\$116,343** |
 | P10 target | \$129,015 | \$129,015 |
-| % of target | 104% | 91% |
-| Gap to target | ✅ over by \$5,283 | \$11,002 |
-| **Projected commission** | **\$13,430** | **\$8,261** |
+| % of target | 103% | 90% |
+| Gap to target | ✅ over by \$3,943 | \$12,672 |
+| **Projected commission** | **\$13,296** | **\$8,144** |
 
 
 > [!NOTE]
-> Hitting target pays 10% on everything. Closing the \$11,002 downside gap adds about **\$4,641** in commission.
+> Hitting target pays 10% on everything. Closing the \$12,672 downside gap adds about **\$4,757** in commission.
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in October sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 10/12.</sub>
@@ -34,9 +34,9 @@
 
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
-| [Good Sam](#good-sam) | \$27,784 | \$10,393 | \$12,198 | **\$38,177** | **\$39,982** |
+| [Good Sam](#good-sam) | \$27,784 | \$9,413 | \$10,528 | **\$37,197** | **\$38,312** |
 | [Central DuPage](#central-dupage) | \$15,170 | \$18,315 | \$11,940 | **\$33,485** | **\$27,110** |
-| [Alexian WCC](#alexian-wcc) | \$8,040 | \$13,124 | \$8,007 | **\$21,164** | **\$16,047** |
+| [Alexian WCC](#alexian-wcc) | \$10,246 | \$10,558 | \$5,801 | **\$20,804** | **\$16,048** |
 | [St. Alexius](#st-alexius) | \$7,900 | \$2,469 | \$2,469 | **\$10,369** | **\$10,369** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$3,806 | \$3,987 | \$2,088 | **\$7,793** | **\$5,895** |
 | [GlenOaks](#glenoaks) | \$7,407 | \$0 | \$0 | **\$7,407** | **\$7,407** |
@@ -46,13 +46,13 @@
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Alexian Ambulatory | — | — | — | — | — |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$77,534** | **\$56,763** | **\$40,478** | **\$134,298** | **\$118,013** |
+| **Total** | **\$79,741** | **\$53,217** | **\$36,602** | **\$132,958** | **\$116,343** |
 
 
 ## Account by account
 
 <a name="good-sam"></a>
-<details><summary><b>Good Sam</b> · upside &#36;38,177 · downside &#36;39,982</summary>
+<details><summary><b>Good Sam</b> · upside &#36;37,197 · downside &#36;38,312</summary>
 
 Sold so far: **\$27,784** · 7 cases
 
@@ -61,12 +61,12 @@ Sold so far: **\$27,784** · 7 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **C.H. · Dr. Bach** | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked, so nothing projected (upside or downside) until he's rescheduled. | — | — |   |
-| **W.K. · Dr. Ayesh** | 16mm · Biweekly · 2 visits → 16mm ×1 | \$851 | \$426 | Every 2 weeks; seen 10/1 |
-| **K.P. · Dr. Ayesh** | 5x5 · Biweekly · 2 visits → 3x4 | \$5,000 | \$2,421 | 5x5 + 3x4 each visit; seen 10/1 |
-| **K.P. · Dr. Ayesh** | 3x4 · Biweekly · 2 visits → 3x3 | \$2,421 | \$2,231 |   |
+| **W.K. · Dr. Ayesh** | 16mm · Biweekly · 1 visit · from 10/29 | \$426 | \$426 | A6 Thu 10/15 (16mm from the Good Sam shelf). |
+| **K.P. · Dr. Ayesh** | 5x5 · Biweekly · 1 visit · from 10/29 → 3x4 | \$2,500 | \$1,211 | A7 Thu 10/15: 5x5 + 3x4 from the Good Sam shelf. |
+| **K.P. · Dr. Ayesh** | 3x4 · Biweekly · 1 visit · from 10/29 → 3x3 | \$1,211 | \$1,116 |   |
 | **C.B. · Dr. Ayesh** | Applied 10/1 (this week); not projected | — | — |   |
-| **C.B. · Dr. Ayesh** | 2x3 · Biweekly · 2 visits · from 10/15 | \$1,960 | \$1,960 | Moving to 2x3 from next visit |
-| **P.J. · Dr. Luetkehans** | 3× 16mm · Weekly · 3 visits · from 10/15 | \$3,830 | \$3,830 | A3 Thu 10/8: (3) 16mm from the Good Sam shelf. |
+| **C.B. · Dr. Ayesh** | 2x3 · Biweekly · 1 visit · from 10/29 | \$980 | \$980 | Not grafted Thu 10/15 (too much drainage). |
+| **P.J. · Dr. Luetkehans** | 3× 16mm · Weekly · 3 visits | \$3,830 | \$3,830 | A3 Thu 10/8: (3) 16mm from the Good Sam shelf. |
 | **D.F. · Dr. Luetkehans** | 3x4 · Weekly · 3 visits | \$3,632 | \$3,632 | A3 Thu 10/8: 5x5 on PO006001505 (in October sales). |
 | **L.D. · Dr. Luetkehans** | Done 10/8 after A23 (1.5x2 from the Good Sam shelf): no more grafting recommended, so nothing projected | — | — |   |
 
@@ -74,9 +74,9 @@ Sold so far: **\$27,784** · 7 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **WCC stock** | Grafix 5x5 · 2 on the shelf cover 2 projected · PO006025726 (10/9) | -\$5,000 | \$0 | PO006025726 shipped 10/9: 2 x 5x5, 2 x 16mm, 1 x 1.5x2 (in October sales). |
-| **WCC stock** | Grafix 16mm · 4 on the shelf cover 11 projected · PO005986967 + PO006025726 | -\$1,702 | -\$1,702 | Shelf count 10/6: 5 x 16mm (LYA-260176\_16009-16012, LYA-260108\_16012). |
-| **WCC stock** | Grafix 3x4 · 4 on the shelf cover 5 projected · PO005986967 + earlier | -\$4,842 | -\$4,842 | Shelf count 10/6: 4 x 3x4 (LYA-250567\_34002, \_34003 exp 6/9/27; LYA-250353\_34003, \_34004 exp 3/24/27). |
+| **WCC stock** | Grafix 5x5 · 1 on the shelf cover 1 projected · PO006025726 (10/9) | -\$2,500 | \$0 | PO006025726 shipped 10/9: 2 x 5x5, 2 x 16mm, 1 x 1.5x2 (in October sales). |
+| **WCC stock** | Grafix 16mm · 3 on the shelf cover 10 projected · PO005986967 + PO006025726 | -\$1,277 | -\$1,277 | Shelf count 10/6: 5 x 16mm (LYA-260176\_16009-16012, LYA-260108\_16012). |
+| **WCC stock** | Grafix 3x4 · 3 on the shelf cover 4 projected · PO005986967 + earlier | -\$3,632 | -\$3,632 | Shelf count 10/6: 4 x 3x4 (LYA-250567\_34002, \_34003 exp 6/9/27; LYA-250353\_34003, \_34004 exp 3/24/27). |
 
 **Potential new starts**
 
@@ -110,9 +110,9 @@ Sold so far: **\$15,170** · 6 cases
 </details>
 
 <a name="alexian-wcc"></a>
-<details><summary><b>Alexian WCC</b> · upside &#36;21,164 · downside &#36;16,047</summary>
+<details><summary><b>Alexian WCC</b> · upside &#36;20,804 · downside &#36;16,048</summary>
 
-Sold so far: **\$8,040** · 21 cases
+Sold so far: **\$10,246** · 22 cases
 
 **Weekly and biweekly patients**
 
@@ -123,7 +123,7 @@ Sold so far: **\$8,040** · 21 cases
 | **J.L. · Dr. Lucas** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (LYA-260174\_16008, case sheet 10/14; Pete covered) is in October sales, PO …285019 received; projects weekly from 10/20. |
 | **M.L. · Dr. Joshi** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (16mm LYA-260174\_16007, AJ confirmed 10/14) is in October sales, PO …285020 received; projects weekly from 10/20. |
 | **A.N. · Dr. Joshi** | 16mm · Once · 1 visit · from 10/20 → 16mm ×0 | \$360 | \$0 | Held Tue 10/13: wound very small, most likely done; follow-up next week. |
-| **D.C. · Dr. Adelstein** | 16mm · Weekly · 3 visits · from 10/15 → 16mm ×1 | \$1,080 | \$360 | Down to 16mm as of 9/24 (2x3 on 9/3, 1.5x2 on 9/10 and 9/17). |
+| **D.C. · Dr. Adelstein** | 16mm · Weekly · 2 visits · from 10/22 → 16mm ×1 | \$720 | \$360 | Held 10/8 and again Thu 10/15 (Caroline covered): the wound got larger and is getting a vascular consult, so nothing this week; projected weekly from 10/22 until grafting resumes (no follow-up booked yet). |
 | **A.P. · Dr. Hussain** | 16mm · Weekly · 2 visits → 16mm ×1 | \$720 | \$360 | A5 Wed 10/14 (LYA-260146\_16008, case sheet on file, PO …285130) is in October sales; projects weekly from 10/21. |
 | **V.D. · Dr. Ramani** | Done 10/9 (6 applications; down to 16mm as of 10/2), so nothing projected | — | — |   |
 | **O.O. · Dr. Vedantham** | 16mm · Weekly · 2 visits | \$720 | \$720 | A1 Tue 10/13 (LYA-260174\_16006, case sheet on file, PO …285021). |
@@ -139,8 +139,8 @@ Sold so far: **\$8,040** · 21 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **Dr. Hussain** | OASIS Wound 3x7 · 2 up / 1 down boxes · D.V. (started 10/7) | \$4,412 | \$2,206 | Stock tab: 7 sheets as of 10/12; D.V. used 4 on 10/14 (A2), so 3 left. |
-| **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 0 down box · J.B. | \$1,470 | \$0 | Stock tab: 3 on the shelf after J.B.'s A3 on 10/8. |
+| **Dr. Hussain** | OASIS Wound 3x7 · 1 up / 0 down box · D.V. (started 10/7) | \$2,206 | \$0 | PO 660040000285214 (10/15): 1 box ordered, now in October sales. |
+| **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 0 down box · J.B. | \$1,470 | \$0 | Stock tab: 3 on the shelf after J.B.'s A3 on 10/8; no-show 10/15. |
 | **Dr. Lucas** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · D.S. (M.I. done) | — | — |   |
 | **Dr. Joshi** | OASIS Burn 5x7 meshed · 1 up / 1 down box · B.P. (new start 10/5) | \$1,841 | \$1,841 | Stock tab: 1 Burn 5x7 sheet as of 10/12 (3 at the 10/3 count less B.P.'s A1 10/5 and A2 10/12). |
 
@@ -264,11 +264,11 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 24 | \$43,094 | \$32,084 |
-| Less Good Sam WCC stock already sold | 3 | -\$11,544 | -\$6,544 |
+| Weekly and biweekly patients | 24 | \$37,618 | \$28,778 |
+| Less Good Sam WCC stock already sold | 3 | -\$7,408 | -\$4,908 |
 | Upcoming Stravix | 3 | \$2,469 | \$2,469 |
 | Potential new starts | 9 | \$6,981 | \$2,280 |
-| OASIS reorders (estimated) | 9 | \$15,764 | \$10,189 |
+| OASIS reorders (estimated) | 9 | \$13,558 | \$7,983 |
 
 
 <details><summary><b>OASIS patients</b> · 20 · reorders come from the OASIS lines above</summary>
@@ -277,7 +277,7 @@ Sold so far: **\$190** · 1 case
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **I.S.** | Good Sam | Patni | OASIS Wound 3x3.5 | Done | A6 | A6 10/6 (from the Good Sam shelf). |
 | **L.J.** | Good Sam | Bach | OASIS Ultra 7x10 | Grafting | A2 | A1 10/7 and A2 10/14 (Caroline covered): 2 sheets OASIS Ultra 7x10 each from the Good Sam box of 5 bought 10/2 (1 left). |
-| **J.B.** | Alexian WCC | Adelstein | OASIS Burn 3x7 | Grafting | A3 | A3 10/8 (Burn 3x7 from the WCC shelf) |
+| **J.B.** | Alexian WCC | Adelstein | OASIS Burn 3x7 | Grafting | A3 | A3 10/8 (Burn 3x7 from the WCC shelf); no-show Thu 10/15 (Caroline covered) |
 | **D.S.** | Alexian WCC | Lucas | OASIS Wound 3x3.5 | Grafting | A8 | A8 10/9; next visit Fri 10/16 12:35 PM (Alexian WCC stops at 8 applications) |
 | **M.I.** | Alexian WCC | Russo | OASIS Wound 3x3.5 | Done | A2 | Done (moved in the app 10/11) |
 | **M.C.** | Alexian Ambulatory | Lucas | OASIS Wound 3x7 | Grafting | A10 |   |
@@ -299,6 +299,6 @@ Sold so far: **\$190** · 1 case
 </details>
 
 
-<sub>Good Sam WCC stock on hand (shelf count 10/6 less 10/8 use, plus the 10/9 order), already sold: covers projected visits, so not counted twice</sub>
+<sub>Good Sam WCC stock on hand (shelf count 10/6 less 10/8 and 10/15 use, plus the 10/9 order), already sold: covers projected visits, so not counted twice</sub>
 
 <sub>OASIS reorders (estimated, by the box): NWSFA small sizes estimated; Alexian WCC comes from the Stock tab; Good Sam from the 10/6 shelf count (on hand vs weekly use, from this week through period end). Other accounts still wait for stock levels</sub>

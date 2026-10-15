@@ -2,23 +2,23 @@
 
 # This week
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 10:09 PM CT
+**BIOT Chicago West** · 94 patients · updated Thu 10/15, 2:14 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;94](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 12](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
 **This week · Oct 12–16** · 🟠 to verify · 🔴 no follow-up booked
 
-| [Mon 12](#mon) | [Tue 13](#tue) | [Wed 14 · today](#wed) | [Thu 15](#thu) | [Fri 16](#fri) |
+| [Mon 12](#mon) | [Tue 13](#tue) | [Wed 14](#wed) | [Thu 15 · today](#thu) | [Fri 16](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
 | **5** | **9** 🔴 | **9** 🔴 | **12** | **6** 🔴 |
 
@@ -65,7 +65,7 @@
 
 
 <a name="wed"></a>
-### Wednesday, Oct 14 · Today
+### Wednesday, Oct 14
 
 9 visits · 7 logged · **Grafts:** STRAVIX 2x4 · STRAVIX 3x6
 
@@ -75,7 +75,7 @@
 | **9:30&nbsp;AM** | <details><summary><b>L.S.</b></summary>Lea S</details> | **Done** · STRAVIX 2x4 | Alexian&nbsp;WCC<br>Dr.&nbsp;Russo · MA&nbsp;Denise |   |
 | **10:30&nbsp;AM** | **??** | GRAFIX 5x5 (suggested) | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas | ➖&nbsp;Not&nbsp;grafted |
 | **10:30&nbsp;AM** | **M.W.** | **A2** · GRAFIX 16mm | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas | ✅ Grafted A2 · LYA-260146\_16009 (transferred from the Alexian WCC shelf, transport log 10/14) |
-| **11:20&nbsp;AM** | **P.C.** | **OR** · STRAVIX 3x6 | Elmhurst · Lombard&nbsp;(Romano&nbsp;Orthopedics)<br>Dr.&nbsp;McGann | 2&nbsp;wks&nbsp;2&nbsp;d&nbsp;post-op |
+| **11:20&nbsp;AM** | **P.C.** | **OR** · STRAVIX 3x6 | Elmhurst · Lombard&nbsp;(Romano&nbsp;Orthopedics)<br>Dr.&nbsp;McGann | 2&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op |
 | **1:00&nbsp;PM** | <details><summary><b>J.M.</b></summary>Joyce Morales</details> | **A3** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A3 |
 | **1:45&nbsp;PM** | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | **A2** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain | ✅&nbsp;Grafted&nbsp;A2 |
 | **2:00&nbsp;PM** | <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain | ✅ Grafted A5 · PO 660040000285130 (bill only); case sheet on file: LYA-260146\_16008 |
@@ -91,24 +91,24 @@
 
 
 <a name="thu"></a>
-### Thursday, Oct 15
+### Thursday, Oct 15 · Today
 
-12 visits · **Grafts:** GRAFIX 16mm ×5 · OASIS Wound 3x3.5 ×3 · STRAVIX 3x6 ×2 · GRAFIX · GRAFIX 2x3 · GRAFIX 3x4 · GRAFIX 5x5 + 3x4 · OASIS Burn 3x7 · **Covering:** Caroline 5 · Pete 1
+12 visits · 5 logged · **Grafts:** GRAFIX 16mm ×3 · OASIS Wound 3x3.5 ×3 · STRAVIX 3x6 ×2 · GRAFIX · GRAFIX 3x4 · **Covering:** Caroline 3 · Pete 1
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
-| **8:20&nbsp;AM** | <details><summary><b>J.B.</b></summary>Jozef B.</details> | **A4** · OASIS Burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein · MA&nbsp;Joe | 👤&nbsp;Caroline&nbsp;covering |
-| **8:45&nbsp;AM** | <details><summary><b>D.C.</b></summary>Donald Carrothers</details> | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein · MA&nbsp;Joe | 👤&nbsp;Caroline&nbsp;covering |
-| **9:15&nbsp;AM** | <details><summary><b>K.P.</b></summary>K. Prince</details> | **A7** · GRAFIX 5x5 + 3x4 | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh |   |
-| **9:45&nbsp;AM** | <details><summary><b>W.K.</b></summary>W. Knudsen</details> | **A6** · GRAFIX 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh |   |
-| **10:45&nbsp;AM** | <details><summary><b>C.B.</b></summary>C. Baker</details> | **A4** · GRAFIX 2x3 | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh |   |
+| **8:20&nbsp;AM** | <details><summary><b>J.B.</b></summary>Jozef B.</details> | OASIS Burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;No-show |
+| **8:45&nbsp;AM** | <details><summary><b>D.C.</b></summary>Donald Carrothers</details> | GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein | ➖ Not grafted · Got larger, will be getting vascular doc consult |
+| **9:15&nbsp;AM** | <details><summary><b>K.P.</b></summary>K. Prince</details> | **A7** · GRAFIX 5x5 + 3x4 | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh | ✅&nbsp;Grafted&nbsp;A7 |
+| **9:45&nbsp;AM** | <details><summary><b>W.K.</b></summary>W. Knudsen</details> | **A6** · GRAFIX 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh | ✅&nbsp;Grafted&nbsp;A6 |
+| **10:45&nbsp;AM** | <details><summary><b>C.B.</b></summary>C. Baker</details> | GRAFIX 2x3 | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Too&nbsp;much&nbsp;drainage |
 | **1:15&nbsp;PM** | <details><summary><b>D.K.</b></summary>David Knopp</details> | **Pending** · GRAFIX | Alexian&nbsp;WCC<br>Dr.&nbsp;Halihan |   |
 | **1:45&nbsp;PM** | **J.C.** | **A7** · OASIS Wound 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Bhagat |   |
 | **2:00&nbsp;PM** | <details><summary><b>D.F.</b></summary>Dominga Flores</details> | **A4** · GRAFIX 3x4 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
 | **2:00&nbsp;PM** | <details><summary><b>P.J.</b></summary>Paul Jagust</details> | **A4** · GRAFIX (3) 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
 | **2:30&nbsp;PM** | **C.T.** | **A3** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 👤&nbsp;Pete&nbsp;covering |
 | **2:45&nbsp;PM** | **L.W.** | **A2** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
-| **3:15&nbsp;PM** | <details><summary><b>J.H.</b></summary>Judith Hecht</details> | **OR** · STRAVIX 3x6 (x2) | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering · 5&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op |
+| **3:15&nbsp;PM** | <details><summary><b>J.H.</b></summary>Judith Hecht</details> | **OR** · STRAVIX 3x6 (x2) | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering · 5&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op |
 
 
 <a name="fri"></a>
@@ -139,18 +139,18 @@
 
 | Clinic | Mon 10/12 | Tue 10/13 | Wed 10/14 | Thu 10/15 | Fri 10/16 | Visits | Grafts |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
-| **Good Sam** | – | 1 | 1 | 6 | – | 8 | GRAFIX 16mm ×4 · OASIS Ultra 7x10 ×2 · STRAVIX 3x6 ×2 · GRAFIX 2x3 ×1 · GRAFIX 3x4 ×1 · GRAFIX 5x5 + 3x4 ×1 |
-| **Alexian WCC** | 1 | 6 | 3 | 3 | 1 | 14 | GRAFIX 16mm ×5 · OASIS Wound 3x7 ×4 · GRAFIX ×2 · OASIS Burn 3x7 ×1 · OASIS Burn 5x7 ×1 · OASIS Wound 3x3.5 ×1 · STRAVIX 2x4 ×1 |
+| **Good Sam** | – | 1 | 1 | 6 | – | 8 | GRAFIX 16mm ×4 · OASIS Ultra 7x10 ×2 · STRAVIX 3x6 ×2 · GRAFIX 3x4 ×1 · GRAFIX 5x5 + 3x4 ×1 |
+| **Alexian WCC** | 1 | 6 | 3 | 3 | 1 | 14 | GRAFIX 16mm ×4 · OASIS Wound 3x7 ×4 · GRAFIX ×2 · OASIS Burn 5x7 ×1 · OASIS Wound 3x3.5 ×1 · STRAVIX 2x4 ×1 |
 | **NW Suburban F&A** | 4 | 1 | 2 | 2 | 1 | 10 | OASIS Wound 3x3.5 ×5 · OASIS Ultra 3x3.5 ×2 · GRAFIX 16mm ×1 · OASIS Ultra 3x7 ×1 · OASIS Ultra 5x7 ×1 |
 | **St. Joseph Elgin** | – | 1 | – | 1 | 1 | 3 | GRAFIX 3x3 ×1 · OASIS Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 |
 | **St. Alexius** | – | – | – | – | 1 | 1 | STRAVIX 3x6 ×1 |
 | **Central DuPage** | – | – | – | – | 2 | 2 | GRAFIX 16mm ×1 · GRAFIX 2x 5x5 + 3x4 ×1 |
 | **Elmhurst** | – | – | 1 | – | – | 1 | STRAVIX 3x6 ×1 |
 | **Romano Lombard** | – | – | 2 | – | – | 2 | GRAFIX 16mm ×1 |
-| **All clinics** | **5** | **9** | **9** | **12** | **6** | **41** | GRAFIX 16mm ×12 · OASIS Wound 3x3.5 ×7 · OASIS Wound 3x7 ×4 · STRAVIX 3x6 ×4 · GRAFIX ×2 · OASIS Ultra 3x3.5 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX 2x 5x5 + 3x4 ×1 · GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · GRAFIX 3x4 ×1 · GRAFIX 5x5 + 3x4 ×1 · OASIS Burn 3x7 ×1 · OASIS Burn 5x7 ×1 · OASIS Ultra 3x7 ×1 · OASIS Ultra 5x7 ×1 · OASIS Wound Matrix 3x3.5 ×1 · STRAVIX 2x4 ×1 |
+| **All clinics** | **5** | **9** | **9** | **12** | **6** | **41** | GRAFIX 16mm ×11 · OASIS Wound 3x3.5 ×7 · OASIS Wound 3x7 ×4 · STRAVIX 3x6 ×4 · GRAFIX ×2 · OASIS Ultra 3x3.5 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX 2x 5x5 + 3x4 ×1 · GRAFIX 3x3 ×1 · GRAFIX 3x4 ×1 · GRAFIX 5x5 + 3x4 ×1 · OASIS Burn 5x7 ×1 · OASIS Ultra 3x7 ×1 · OASIS Ultra 5x7 ×1 · OASIS Wound Matrix 3x3.5 ×1 · STRAVIX 2x4 ×1 |
 
 
-**Covering this week:** Caroline 8 · Pete 3
+**Covering this week:** Caroline 6 · Pete 3
 
 
 <details><summary><b>Next week</b> · 7 visits booked so far</summary>
@@ -211,11 +211,16 @@
 | **9:50&nbsp;AM** | **M.W.** | **A3** · GRAFIX 16mm | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas |   |
 
 
-🔴 **No follow-up · usually seen Wednesdays** · 1
+🔴 **No follow-up · usually seen Wednesdays** · 6
 
 
 | Patient | Clinic | Graft | Surgeon | Why |
 | :-- | :-- | :-- | :-- | :-- |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details> | Good Sam | OASIS Ultra 7x10 (2 sheets per visit) | Bach | No follow-up booked |
+| <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | Alexian WCC | GRAFIX 16mm | Hussain | Last appt 10/14 passed, nothing new booked |
+| <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | Alexian WCC | OASIS Wound 3x7 (4 sheets) | Hussain | Last appt 10/14 passed, nothing new booked |
+| <details><summary><b>J.M.</b></summary>Joyce Morales</details> | NW Suburban F&A | OASIS Wound 3x3.5 | Adelstein | Last appt 10/14 passed, nothing new booked |
+| <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | NW Suburban F&A | OASIS Wound 3x3.5 | Goldkind | Last appt 10/14 passed, nothing new booked |
+| **??** | Romano Lombard | GRAFIX 5x5 (suggested) | Rojas | Last appt 10/14 passed, nothing new booked |
 
 </details>

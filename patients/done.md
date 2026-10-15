@@ -2,16 +2,16 @@
 
 # Done
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 10:09 PM CT
+**BIOT Chicago West** · 94 patients · updated Thu 10/15, 2:14 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;93](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;94](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 12](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · **Done 10** · [Denied 3](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · **Done 10** · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -31,12 +31,12 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>L.S.</b></summary>Lea S</details> | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM** |   | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
 | <details><summary><b>M.D.</b></summary>Marvin Drafall</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Hussain<br>**Last&nbsp;graft&nbsp;9/16** | 🟢 6 of 8 | Patient complaining about bills, no longer grafting |
 | <details><summary><b>M.O.</b></summary>Maria Ochoa</details> | OASIS&nbsp;Burn&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🔴 8 of 8 | Healed |
 | <details><summary><b>J.T.</b></summary>Jeffrey Tuckman</details> | GRAFIX · Weekly · Dr.&nbsp;Lucas |   | Need additional notes for prior auth<br>_10/8:_ Moving to done because they won’t fill out notes needed |
 | <details><summary><b>V.D.</b></summary>Vladimir Dobinsky</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Ramani<br>**Was&nbsp;due&nbsp;Fri&nbsp;10/9&nbsp;8:00&nbsp;AM** | 🟢 6 of 8 | Down to 16mm as of 10/2 (was 1.5x2) |
 | <details><summary><b>M.I.</b></summary>Margaret Izzi</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Russo<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/7&nbsp;10:15&nbsp;AM** | 🟢 2 of 8 | Done (moved in the app 10/11). Had been paused |
+| <details><summary><b>L.S.</b></summary>Lea S</details> | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM** |   | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
 
 </details>
 
