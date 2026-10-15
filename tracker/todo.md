@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:21 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 8 · \$2,540
+## 🟢 Submit to SFDC · 13 · \$4,340
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -20,23 +20,23 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/6 | [T.T.](../case-sheets/tt-1006.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000284468 | \$360 |
 | 10/6 | [J.L.](../case-sheets/jl-1006.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000284467 | \$360 |
 | 10/6 | [D.G.](../case-sheets/dg-1006.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000284776 | \$360 |
+| 10/6 | [A.N.](../case-sheets/an-1006.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000284482 | \$360 |
 | 10/7 | [M.W.](../case-sheets/mw-1007.md) | Romano Lombard · Rojas | Grafix 16mm | MW100726 · 🔁 transfer log on the sheet | \$190 |
 | 10/7 | [M.L.](../case-sheets/ml-1007.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000284689 | \$360 |
 | 10/7 | [A.P.](../case-sheets/ap-1007.md) | Alexian WCC · Hussain | Grafix 16mm | 660040000284690 | \$360 |
+| 10/13 | [O.O.](../case-sheets/oo-1013.md) | Alexian WCC · Vedantham | Grafix 16mm | 660040000285021 | \$360 |
+| 10/13 | [M.L.](../case-sheets/ml-1013.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000285020 | \$360 |
+| 10/13 | [J.L.](../case-sheets/jl-1013.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000285019 | \$360 |
+| 10/14 | [A.P.](../case-sheets/ap-1014.md) | Alexian WCC · Hussain | Grafix 16mm | 660040000285130 | \$360 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 8 · \$3,610
+## 🟡 Waiting on a PO · 3 · \$1,810
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
 | 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 28 days | 0003068368 | \$600 |
-| 10/6 | [A.N.](../case-sheets/an-1006.md) | Alexian WCC · Joshi | Grafix 16mm | 🟠 8 days | 0002817866 | \$360 |
 | 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🟠 5 days |   | \$1,020 |
-| 10/13 | [O.O.](../case-sheets/oo-1013.md) | Alexian WCC · Vedantham | Grafix 16mm | 🟠 1 day |   | \$360 |
-| 10/13 | [M.L.](../case-sheets/ml-1013.md) | Alexian WCC · Joshi | Grafix 16mm | 🟠 1 day | 0003052747 | \$360 |
-| 10/13 | [J.L.](../case-sheets/jl-1013.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 1 day | 0003074927 | \$360 |
 | 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | — |   | \$190 |
-| 10/14 | [A.P.](../case-sheets/ap-1014.md) | Alexian WCC · Hussain | Grafix 16mm | — | 0003068368 | \$360 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 3 · \$15,834

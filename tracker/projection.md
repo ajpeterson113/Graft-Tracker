@@ -2,7 +2,7 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:21 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -120,13 +120,13 @@ Sold so far: **\$8,040** · 21 cases
 | :-- | :-- | --: | --: | :-- |
 | **T.T. · Dr. Lucas** | 16mm · Weekly · 1 visit | \$360 | \$360 | 7 applications (10/6 = #7, LYA-260159\_16028); Alexian WCC stops at 8, so 1 more (next Tue 10/20, time TBD) |
 | **D.G. · Dr. Lucas** | 16mm · Weekly · 2 visits · from 10/20 | \$720 | \$720 | Held Tue 10/13 (Pete covered), not grafted, so nothing this week; projected weekly again from Tue 10/20 (no follow-up booked yet). |
-| **J.L. · Dr. Lucas** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (LYA-260174\_16008, case sheet 10/14; Pete covered) is in October sales, waiting on the Alexian PO; projects weekly from 10/20. |
-| **M.L. · Dr. Joshi** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (16mm LYA-260174\_16007, AJ confirmed 10/14) is in October sales, waiting on the Alexian PO; projects weekly from 10/20. |
+| **J.L. · Dr. Lucas** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (LYA-260174\_16008, case sheet 10/14; Pete covered) is in October sales, PO …285019 received; projects weekly from 10/20. |
+| **M.L. · Dr. Joshi** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (16mm LYA-260174\_16007, AJ confirmed 10/14) is in October sales, PO …285020 received; projects weekly from 10/20. |
 | **A.N. · Dr. Joshi** | 16mm · Once · 1 visit · from 10/20 → 16mm ×0 | \$360 | \$0 | Held Tue 10/13: wound very small, most likely done; follow-up next week. |
 | **D.C. · Dr. Adelstein** | 16mm · Weekly · 3 visits · from 10/15 → 16mm ×1 | \$1,080 | \$360 | Down to 16mm as of 9/24 (2x3 on 9/3, 1.5x2 on 9/10 and 9/17). |
-| **A.P. · Dr. Hussain** | 16mm · Weekly · 2 visits → 16mm ×1 | \$720 | \$360 | A5 Wed 10/14 (LYA-260146\_16008, case sheet on file, Alexian PO to come) is in October sales; projects weekly from 10/21. |
+| **A.P. · Dr. Hussain** | 16mm · Weekly · 2 visits → 16mm ×1 | \$720 | \$360 | A5 Wed 10/14 (LYA-260146\_16008, case sheet on file, PO …285130) is in October sales; projects weekly from 10/21. |
 | **V.D. · Dr. Ramani** | Done 10/9 (6 applications; down to 16mm as of 10/2), so nothing projected | — | — |   |
-| **O.O. · Dr. Vedantham** | 16mm · Weekly · 2 visits | \$720 | \$720 | A1 Tue 10/13 (LYA-260174\_16006, case sheet on file, Alexian PO to come). |
+| **O.O. · Dr. Vedantham** | 16mm · Weekly · 2 visits | \$720 | \$720 | A1 Tue 10/13 (LYA-260174\_16006, case sheet on file, PO …285021). |
 
 **Potential new starts**
 

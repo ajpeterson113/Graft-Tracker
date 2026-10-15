@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 9:21 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -46,13 +46,13 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **9:00&nbsp;AM** | <details><summary><b>D.G.</b></summary>Diane Grunder</details> | GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Held |
 | **9:00&nbsp;AM** | <details><summary><b>P.H.</b></summary>Pamela Hartlipp</details> | **A1** · GRAFIX 3x3 | St.&nbsp;Joseph&nbsp;Elgin · Elgin<br>Veronica&nbsp;Pappas | ✅ Grafted A1 · One Grafix 3x3 from the clinic's stock (bought on an earlier PO); 1 x 3x3 left |
-| **9:40&nbsp;AM** | <details><summary><b>J.L.</b></summary>J. Leamann</details> | **A3** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ✅ Grafted A3 · LYA-260174\_16008 (case sheet sent 10/14) |
+| **9:40&nbsp;AM** | <details><summary><b>J.L.</b></summary>J. Leamann</details> | **A3** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ✅ Grafted A3 · PO 660040000285019 (bill only); case sheet on file: LYA-260174\_16008 |
 | **10:30&nbsp;AM** | <details><summary><b>D.L.</b></summary>David Lazzaro</details> | **Pending** · GRAFIX  | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Mallory |   |
 | **10:45&nbsp;AM** | <details><summary><b>I.S.</b></summary>I. Stalilionis</details> | **Done** · OASIS Wound Matrix 3x3.5 | Good&nbsp;Sam<br>Dr.&nbsp;Patni | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Healed |
 | **11:15&nbsp;AM** | <details><summary><b>F.A.</b></summary>Frank Auman</details> | **A12** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A12 |
-| **12:00&nbsp;PM** | <details><summary><b>M.L.</b></summary>Mariah Lopez</details> | **A3** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ✅ Grafted A3 · LYA-260174\_16007 (sticker on the WCC log); case sheet made 10/14 |
+| **12:00&nbsp;PM** | <details><summary><b>M.L.</b></summary>Mariah Lopez</details> | **A3** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ✅ Grafted A3 · PO 660040000285020 (bill only); LYA-260174\_16007 (sticker on the WCC log); case sheet made 10/14 |
 | **12:50&nbsp;PM** | <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ➖ Not grafted · Held, wound looks very small. Most likely done but follow up next week |
-| **12:50&nbsp;PM** | <details><summary><b>O.O.</b></summary>Omar Osama</details> | **A1** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham | ✅&nbsp;Grafted&nbsp;A1&nbsp;·&nbsp;LYA-260174\_16006 |
+| **12:50&nbsp;PM** | <details><summary><b>O.O.</b></summary>Omar Osama</details> | **A1** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham | ✅ Grafted A1 · LYA-260174\_16006; PO 660040000285021 (bill only) |
 
 
 🔴 **No follow-up · usually seen Tuesdays** · 2
@@ -78,7 +78,7 @@
 | **11:20&nbsp;AM** | **P.C.** | **OR** · STRAVIX 3x6 | Elmhurst · Lombard&nbsp;(Romano&nbsp;Orthopedics)<br>Dr.&nbsp;McGann | 2&nbsp;wks&nbsp;2&nbsp;d&nbsp;post-op |
 | **1:00&nbsp;PM** | <details><summary><b>J.M.</b></summary>Joyce Morales</details> | **A3** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A3 |
 | **1:45&nbsp;PM** | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | **A2** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain | ✅&nbsp;Grafted&nbsp;A2 |
-| **2:00&nbsp;PM** | <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain | ✅&nbsp;Grafted&nbsp;A5&nbsp;·&nbsp;LYA-260146\_16008 |
+| **2:00&nbsp;PM** | <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain | ✅ Grafted A5 · PO 660040000285130 (bill only); case sheet on file: LYA-260146\_16008 |
 | **3:15&nbsp;PM** | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | **A3** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | ✅&nbsp;Grafted&nbsp;A3 |
 
 

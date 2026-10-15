@@ -2,7 +2,7 @@
 
 # Grafting
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 9:21 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -35,17 +35,17 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | OASIS&nbsp;Wound&nbsp;3x7&nbsp;(4&nbsp;sheets) · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;1:45&nbsp;PM** | 🟢 2 of 8 | A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
-| <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:00&nbsp;PM** | 🟢 5 of 8 | A5 Wed 10/14 2:00 PM: 16mm LYA-260146\_16008 (case sheet ap-1014), Alexian PO to come. A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
+| <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/14&nbsp;2:00&nbsp;PM** | 🟢 5 of 8 | A5 Wed 10/14 2:00 PM: 16mm LYA-260146\_16008 (PO …285130, case sheet ap-1014). A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
 | <details><summary><b>J.B.</b></summary>Jozef B.</details> | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:20&nbsp;AM · Caroline&nbsp;covering** | 🟢 3 of 8 | A3 10/8: OASIS Burn 3x7 from the WCC shelf. |
 | <details><summary><b>D.C.</b></summary>Donald Carrothers</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;8:45&nbsp;AM · Caroline&nbsp;covering** | 🟢 5 of 8 | Held 10/8 (not grafted). Down to 16mm as of 9/24 (2x3 9/3, 1.5x2 9/10 and 9/17). 5 applications (AJ confirmed 10/12), so 10/15 would be A6.<br>_10/12:_ DC has 5 applications |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;10/16&nbsp;12:35&nbsp;PM** | 🔴 8 of 8 | A8 10/9 (logged in the app 10/11). Next visit Fri 10/16 12:35 PM.<br>_10/11:_ A8 was placed 10/9 |
 | <details><summary><b>T.T.</b></summary>Tracy Tijerria</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;10/20** | 🟡 7 of 8 | 🔴 Next 10/20, no time<br>A7 10/6 (LYA-260159\_16028). Alexian WCC stops at 8, so 1 left. |
 | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Burn&nbsp;5x7 · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/12&nbsp;1:20&nbsp;PM** | 🟢 2 of 8 | 🔴 Last appt 10/12 passed, nothing new booked<br>A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
-| <details><summary><b>M.L.</b></summary>Mariah Lopez</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Last&nbsp;graft&nbsp;10/13** | 🟢 3 of 8 | 🔴 No follow-up booked (last graft 10/13)<br>A3 Tue 10/13: 16mm LYA-260174\_16007 (sticker on the WCC log), Alexian PO to come. A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
-| <details><summary><b>A.N.</b></summary>Aloysius Newman</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 4 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A4 10/6 (LYA-260159\_16026). |
+| <details><summary><b>M.L.</b></summary>Mariah Lopez</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Last&nbsp;graft&nbsp;10/13** | 🟢 3 of 8 | 🔴 No follow-up booked (last graft 10/13)<br>A3 Tue 10/13: 16mm LYA-260174\_16007 (PO …285020). A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
+| <details><summary><b>A.N.</b></summary>Aloysius Newman</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 4 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A4 10/6 (LYA-260159\_16026, PO …284482). |
 | <details><summary><b>D.G.</b></summary>Diane Grunder</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:00&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A3 10/6 (LYA-260017\_16014, PO …284776 received 10/9). |
-| <details><summary><b>J.L.</b></summary>J. Leamann</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:40&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A3 Tue 10/13: 16mm LYA-260174\_16008 (case sheet 10/14; Pete covered), Alexian PO to come. A2 10/6 (LYA-260159\_16001, PO …284467). |
-| <details><summary><b>O.O.</b></summary>Omar Osama</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 1 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |
+| <details><summary><b>J.L.</b></summary>J. Leamann</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;9:40&nbsp;AM** | 🟢 3 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A3 Tue 10/13: 16mm LYA-260174\_16008 (PO …285019; Pete covered). A2 10/6 (LYA-260159\_16001, PO …284467). |
+| <details><summary><b>O.O.</b></summary>Omar Osama</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;12:50&nbsp;PM** | 🟢 1 of 8 | 🔴 Last appt 10/13 passed, nothing new booked<br>A1 Tue 10/13: 16mm LYA-260174\_16006 (PO …285021). 9/29: Follow up in 3 weeks (from the earlier O.O. entry, merged 10/2) |
 
 </details>
 
