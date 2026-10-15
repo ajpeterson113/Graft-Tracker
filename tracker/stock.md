@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:32 PM CT
+**BIOT Chicago West** · P10 · day 12 of 25 · updated Wed 10/14, 9:52 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -146,7 +146,7 @@
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
-| LYA-260159\_16003 | Grafix 16mm | Used, not filed |
+| LYA-260159\_16003 | Grafix 16mm | At Suburban F&A (not used) |
 | LYA-260159\_16001 | Grafix 16mm | Used Oct |
 | LYA-260159\_16028 | Grafix 16mm | Used Oct |
 | LYA-260159\_16026 | Grafix 16mm | Used Oct |

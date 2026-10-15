@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 93 patients · updated Wed 10/14, 9:32 PM CT
+**BIOT Chicago West** · 93 patients · updated Wed 10/14, 9:52 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -195,7 +195,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Y.L.**<br>On&nbsp;hold | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Grinberg<br>**Last&nbsp;graft&nbsp;9/29** | 🟢 1 | ON HOLD: infection on the right foot 10/5 (sent to the ER). Dr. Grinberg texted 10/12: he saw her and she's alright; he's working on the right foot for now and will say when he wants to graft the left foot again. A1 9/29 (PO YL092926). Seen at the Elmhurst office (183 W 1st St).<br>_10/12:_ Grinberg texted 10/12 that he saw her today and she’s alright. He’s just working on right foot for now. Will let me know about when he wants to graft left foot again |
+| **Y.L.**<br>On&nbsp;hold | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Grinberg<br>**Last&nbsp;graft&nbsp;9/29** | 🟢 1 | ON HOLD: infection on the right foot 10/5 (sent to the ER). Dr. Grinberg texted 10/12: he saw her and she's alright; he's working on the right foot for now and will say when he wants to graft the left foot again. A1 9/29 (PO YL092926). Seen at the Elmhurst office (183 W 1st St). 10/14: a 16mm from the Alexian WCC shelf is already at the office for her next application (not used yet).<br>_10/12:_ Grinberg texted 10/12 that he saw her today and she’s alright. He’s just working on right foot for now. Will let me know about when he wants to graft left foot again |
 
 </details>
 
