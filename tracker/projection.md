@@ -2,24 +2,24 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:24 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:35 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (October tab) | \$132,914 | \$132,914 |
+| Sold so far (October tab) | \$133,634 | \$133,634 |
 | \+ Projected Grafix, net of WCC stock | \$15,221 | \$10,971 |
 | \+ Upcoming Stravix | \$0 | \$0 |
 | \+ Potential new starts | \$0 | \$0 |
 | \+ OASIS reorders (estimated) | \$3,369 | \$0 |
-| **P10 forecast** | **\$151,503** | **\$143,885** |
+| **P10 forecast** | **\$152,223** | **\$144,605** |
 | P10 target | \$129,015 | \$129,015 |
-| % of target | 117% | 112% |
-| Gap to target | ✅ over by \$22,488 | ✅ over by \$14,870 |
-| **Projected commission** | **\$15,150** | **\$14,388** |
+| % of target | 118% | 112% |
+| Gap to target | ✅ over by \$23,208 | ✅ over by \$15,590 |
+| **Projected commission** | **\$15,222** | **\$14,460** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in October sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 10/26.</sub>
@@ -32,7 +32,7 @@
 | :-- | --: | --: | --: | --: | --: |
 | [Good Sam](#good-sam) | \$38,892 | \$0 | \$0 | **\$38,892** | **\$38,892** |
 | [Central DuPage](#central-dupage) | \$19,800 | \$12,665 | \$8,415 | **\$32,465** | **\$28,215** |
-| [Alexian WCC](#alexian-wcc) | \$17,296 | \$2,910 | \$1,440 | **\$20,206** | **\$18,736** |
+| [Alexian WCC](#alexian-wcc) | \$18,016 | \$2,910 | \$1,440 | **\$20,926** | **\$19,456** |
 | [St. Alexius](#st-alexius) | \$15,307 | \$0 | \$0 | **\$15,307** | **\$15,307** |
 | [Alexian Ambulatory](#x) | \$10,548 | \$0 | \$0 | **\$10,548** | **\$10,548** |
 | [Elmhurst](#elmhurst) | \$9,347 | \$0 | \$0 | **\$9,347** | **\$9,347** |
@@ -42,7 +42,7 @@
 | [Romano Lombard](#romano-lombard) | \$380 | \$0 | \$0 | **\$380** | **\$380** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$132,914** | **\$18,589** | **\$10,971** | **\$151,503** | **\$143,885** |
+| **Total** | **\$133,634** | **\$18,589** | **\$10,971** | **\$152,223** | **\$144,605** |
 
 
 ## Account by account
@@ -105,9 +105,9 @@ Sold so far: **\$19,800** · 9 cases
 </details>
 
 <a name="alexian-wcc"></a>
-<details><summary><b>Alexian WCC</b> · upside &#36;20,206 · downside &#36;18,736</summary>
+<details><summary><b>Alexian WCC</b> · upside &#36;20,926 · downside &#36;19,456</summary>
 
-Sold so far: **\$17,296** · 30 cases
+Sold so far: **\$18,016** · 32 cases
 
 **Weekly and biweekly patients**
 
@@ -115,14 +115,14 @@ Sold so far: **\$17,296** · 30 cases
 | :-- | :-- | --: | --: | :-- |
 | **T.T. · Dr. Lucas** | Healed Tue 10/27 (not grafted, per the Patients app): done after 7 applications, so nothing more is projected. | — | — |   |
 | **D.G. · Dr. Lucas** | Not grafted Tue 10/27 (logged in the Patients app, no note), so nothing more in P10; next assumed Tue 11/3 (weekly). | — | — |   |
-| **J.L. · Dr. Lucas** | A4 Tue 10/20 9:40 AM (16mm; case sheet and PO to come) counts this week until filed. | — | — |   |
-| **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | A3 Tue 10/13 (16mm LYA-260174\_16007, AJ confirmed 10/14) is in October sales, PO …285020 received; projects weekly from 10/20. |
+| **J.L. · Dr. Lucas** | A5 Tue 10/27 filed (LYA-260221\_16003). | — | — |   |
+| **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | A4 Tue 10/20 found on PO 660040000285612 (not logged in the app). |
 | **A.N. · Dr. Joshi** | Held Tue 10/13 (wound very small) and Tue 10/20 (not grafted): done after 4 applications, nothing projected (upside or downside). | — | — |   |
 | **D.C. · Dr. Adelstein** | 16mm · Weekly · 1 visit | \$360 | \$360 | Held 10/8 and Thu 10/15 (Caroline covered): wound got larger, vascular consult. |
-| **A.P. · Dr. Hussain** | 16mm · Weekly · 1 visit | \$360 | \$360 | A5 Wed 10/14 (LYA-260146\_16008, case sheet on file, PO …285130) is in October sales; projects weekly from 10/21. |
+| **A.P. · Dr. Hussain** | 16mm · Weekly · 1 visit | \$360 | \$360 | A6 Wed 10/21 found on PO 660040000285709 (not logged in the app). |
 | **C.P. · Dr. Joshi** | Started Mon 10/26 (A1, 1.5x2 LYA-260068\_15002, case sheet 10/27, \$600 Alexian rate). | — | — |   |
-| **O.O. · Dr. Vedantham** | A2 Tue 10/20 12:50 PM (16mm; case sheet and PO to come) counts this week until filed. | — | — |   |
-| **D.S. · Dr. Joshi** | Started: A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 from the WCC shelf (sticker in the Patients app; case sheet and PO to come). | — | — |   |
+| **O.O. · Dr. Vedantham** | A3 Tue 10/27 filed (LYA-260221\_16002). | — | — |   |
+| **D.S. · Dr. Joshi** | A2 Tue 10/27 filed (LYA-250866\_55013). | — | — |   |
 | **D.K. · Dr. Halihan** | 16mm · Weekly · 1 visit | \$360 | \$360 | New start: A1 Thu 10/22 1:15 PM (LYA-260221\_16012, case sheet in the Patients app) is in October sales; weekly 16mm from the WCC stock from 10/29. |
 
 **Potential new starts**
