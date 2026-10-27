@@ -2,16 +2,16 @@
 
 # Pending
 
-**BIOT Chicago West** · 94 patients · updated Thu 10/15, 2:14 PM CT
+**BIOT Chicago West** · 102 patients · updated Tue 10/27, 4:50 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;94](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;102](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · **Pending 13** · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · **Pending 13** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -20,7 +20,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>K.B.</b></summary>K. Bette</details> | OASIS · Dr.&nbsp;Ayesh |   | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6.<br>_10/8:_ Patient initials are actually KB, last name is Bette |
+| <details><summary><b>K.B.</b></summary>K. Bette</details> | OASIS · Dr.&nbsp;Ayesh |   | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6. |
 
 </details>
 
@@ -29,31 +29,31 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>D.K.</b></summary>David Knopp</details> | GRAFIX · Weekly · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;10/15&nbsp;1:15&nbsp;PM** |   | New 10/12 |
-| <details><summary><b>J.B.</b></summary>J. Buschmann</details> | Dr.&nbsp;Adelstein |   | New 10/15 |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/13&nbsp;10:30&nbsp;AM** |   | Suggest oasis |
-| <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
-| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | GRAFIX · Dr.&nbsp;Joshi |   | New 10/14 |
-| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Turayhi |   | Suggest oasis |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Turayhi<br>**Next&nbsp;Wed&nbsp;10/28&nbsp;9:15&nbsp;AM** |   | 🔴 Verify: same time as last week (Wed 10/21) — confirm with the office<br>Next assumed Wed 10/28 9:15 AM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. Suggest oasis |
+| <details><summary><b>J.B.</b></summary>J. Buschmann</details> | GRAFIX/Oasis · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/29&nbsp;8:00&nbsp;AM** |   | New 10/15 |
+| <details><summary><b>G.M.</b></summary>Givarkis Mirza</details> | GRAFIX/OASIS · Dr.&nbsp;Goldkind |   | Blue Cross Community |
+| <details><summary><b>V.T.</b></summary>Virginia thomas</details> | GRAFIX · Dr.&nbsp;Halihan |   | New 10/19 |
+| <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | GRAFIX · Dr.&nbsp;Joshi |   | New 10/22 |
+| <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | GRAFIX/OASIS · Dr.&nbsp;Lucas |   | New 10/26 |
 
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 2</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 3</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>G.G.</b></summary>Gerald G</details> | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
-| **M.A.** | GRAFIX · Dr.&nbsp;Goldkind |   | Pending auth (NWSFA list wk of 10/12). IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer. R foot DFU. (Listed as M.P. until 10/4.)<br>[📄 IVR](../ivr/nw-mp.md) |
+| **J.D.** | GRAFIX<br>**Next&nbsp;Thu&nbsp;10/29&nbsp;2:45&nbsp;PM** |   | NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
+| <details><summary><b>G.G.</b></summary>Gerald G</details> | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
+| **M.A.** | GRAFIX · Dr.&nbsp;Goldkind |   | NWSFA list wk of 10/26: waiting on PA. Waiting for patient to have ABIs completed (NWSFA list wk of 10/19). Pending auth (NWSFA list wk of 10/12). IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer. R foot DFU. (Listed as M.P. until 10/4.)<br>[📄 IVR](../ivr/nw-mp.md) |
 
 </details>
 
 <a name="st-joseph-elgin"></a>
-<details open><summary><b>St. Joseph Elgin</b> · 2</summary>
+<details open><summary><b>St. Joseph Elgin</b> · 1</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>M.B.</b></summary>Merrill Burleigh</details> | GRAFIX&nbsp;3x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;10/20** |   | New IVR submitted 10/13 (pending). Plan (AJ 10/14): one Grafix 3x3 a week starting Mon 10/20. |
 | <details><summary><b>J.D.</b></summary>John Dematropolis</details> | GRAFIX/OASIS · Dr.&nbsp;Bhagat |   | Ran on 9/9/26, needs additional clinicals, needs referral |
 
 </details>

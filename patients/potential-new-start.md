@@ -2,16 +2,16 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 94 patients · updated Thu 10/15, 2:14 PM CT
+**BIOT Chicago West** · 102 patients · updated Tue 10/27, 4:50 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;94](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;102](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 35](../patients/grafting.md) · **Potential New Start 4** · [Pending 13](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · **Potential New Start 4** · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -20,25 +20,17 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>P.P.</b></summary>P. Patrizi</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;10/20** | 🟢 – | 🔴 Next 10/20, no time |
+| <details><summary><b>P.P.</b></summary>P. Patrizi</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;10/27** | 🟢 – | 🔴 Next 10/27, no time |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets&nbsp;per&nbsp;visit)&nbsp;suggested · Dr.&nbsp;Bach | 🟢 – | 🔴 No follow-up booked<br>Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |
 
 </details>
 
-<a name="alexian-ambulatory"></a>
-<details open><summary><b>Alexian Ambulatory</b> · 1</summary>
+<a name="alexian-wcc"></a>
+<details open><summary><b>Alexian WCC</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>H.P.</b></summary>Hein Patel</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5&nbsp;suggested · Weekly · Dr.&nbsp;Ramani | 🟢 – | 🔴 No follow-up booked<br>Seeing patient this week at WCC and scheduling next week at ambulatory. Denied 10/8: Medicaid, and they don't want to graft it. 10/12: Dr. Ramani wants to take it to Ambulatory.<br>_10/12:_ Ramani wants to take to ambulatory |
-
-</details>
-
-<a name="romano-lombard"></a>
-<details open><summary><b>Romano Lombard</b> · 1</summary>
-
-| Patient | Graft · next visit | Apps | Notes |
-| :-- | :-- | :-- | :-- |
-| **??**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5&nbsp;(suggested) · Weekly · Dr.&nbsp;Rojas<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 0 | 🔴 Last appt 10/14 passed, nothing new booked<br>A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside.<br>_10/8:_ Potential new start next week. Initials unknown. Project 5x5 weekly upside, 3x4 weekly downside. |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;10/27&nbsp;10:15&nbsp;AM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
+| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/26** | 🟢 – of 8 | 🔴 Last appt 10/26 passed, nothing new booked |
 
 </details>

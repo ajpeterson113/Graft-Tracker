@@ -2,53 +2,57 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 94 patients · updated Thu 10/15, 2:14 PM CT
+**BIOT Chicago West** · 102 patients · updated Tue 10/27, 4:50 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;94](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;102](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · [On hold 8](../patients/on-hold.md) · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="verify"></a>
 
-## 🟠 Verify · 1
+## 🟠 Verify · 2
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound 3x7 | was scheduled Fri 10/9 9:45 AM, no result logged, not on the 10/12 calendar |
+| **J.C.** | St. Joseph Elgin · Bhagat | OASIS Wound 3x3.5 | Verify: rescheduled Thu 10/22 1:45 PM to match last week (AJ 10/18), not confirmed with the office |
+| **D.N.** | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | Verify: rescheduled Fri 10/23 1:00 PM to match last week (AJ 10/18; 10/16 was 1:00 PM per Pete's coverage email), not confirmed with the office |
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 20
+## 🔴 No Follow-Up · 23
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
+| <details><summary><b>L.J.</b></summary>Louis Marie Jacques</details> | Good Sam · Bach | OASIS Ultra 7x10, and two oasis Wound 3x3.5 | Verify: same time as last week (Wed 10/21) — confirm with the office · usually Wed |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details> | Good Sam · Bach | OASIS Ultra 7x10 (2 sheets per visit) | No follow-up booked · usually Wed |
-| <details><summary><b>P.P.</b></summary>P. Patrizi</details> | Good Sam · Patni | GRAFIX | Next 10/20, no time · usually Tue |
-| <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | Alexian WCC · Hussain | GRAFIX 16mm | Last appt 10/14 passed, nothing new booked · usually Wed |
-| <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | Alexian WCC · Hussain | OASIS Wound 3x7 (4 sheets) | Last appt 10/14 passed, nothing new booked · usually Wed |
-| <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | Alexian WCC · Joshi | GRAFIX 16mm | Last appt 10/13 passed, nothing new booked · usually Tue |
-| <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | Alexian WCC · Joshi | OASIS Burn 5x7 | Last appt 10/12 passed, nothing new booked · usually Mon |
-| <details><summary><b>M.L.</b></summary>Mariah Lopez</details> | Alexian WCC · Joshi | GRAFIX 16mm | No follow-up booked (last graft 10/13) · usually Tue |
-| <details><summary><b>D.G.</b></summary>Diane Grunder</details> | Alexian WCC · Lucas | GRAFIX 16mm | Last appt 10/13 passed, nothing new booked · usually Tue |
-| <details><summary><b>J.L.</b></summary>J. Leamann</details> | Alexian WCC · Lucas | GRAFIX 16mm | Last appt 10/13 passed, nothing new booked · usually Tue |
-| <details><summary><b>T.T.</b></summary>Tracy Tijerria</details> | Alexian WCC · Lucas | GRAFIX 16mm | Next 10/20, no time · usually Tue |
-| <details><summary><b>O.O.</b></summary>Omar Osama</details> | Alexian WCC · Vedantham | GRAFIX 16mm | Last appt 10/13 passed, nothing new booked · usually Tue |
-| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound 3x7 | Last appt 10/9 passed, nothing new booked · usually Fri |
-| <details><summary><b>H.P.</b></summary>Hein Patel</details> | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 | No follow-up booked |
-| <details><summary><b>C.C.</b></summary>Constance Campbell</details> | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 10/12 passed, nothing new booked · usually Mon |
-| <details><summary><b>F.A.</b></summary>Frank Auman</details> | NW Suburban F&A · Adelstein | OASIS Ultra 3x7 | Last appt 10/13 passed, nothing new booked · usually Tue |
-| <details><summary><b>J.M.</b></summary>Joyce Morales</details> | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | Last appt 10/14 passed, nothing new booked · usually Wed |
-| <details><summary><b>P.M.</b></summary>Paul Michael</details> | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | Last appt 10/12 passed, nothing new booked · usually Mon |
-| <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | Last appt 10/14 passed, nothing new booked · usually Wed |
-| <details><summary><b>P.S.</b></summary>Peter S.</details> | NW Suburban F&A · Goldkind | GRAFIX 16mm | Last appt 10/12 passed, nothing new booked · usually Mon |
-| **??** | Romano Lombard · Rojas | GRAFIX 5x5 (suggested) | Last appt 10/14 passed, nothing new booked · usually Wed |
+| <details><summary><b>D.F.</b></summary>Dominga Flores</details> | Good Sam · Luetkehans | GRAFIX 5x5 | Verify: same time as last week (Thu 10/22) — confirm with the office · usually Thu |
+| <details><summary><b>P.J.</b></summary>Paul Jagust</details> | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: same time as last week (Thu 10/22) — confirm with the office · usually Thu |
+| <details><summary><b>P.P.</b></summary>P. Patrizi</details> | Good Sam · Patni | GRAFIX | Next 10/27, no time · usually Tue |
+| <details><summary><b>D.C.</b></summary>Donald Carrothers</details> | Alexian WCC · Adelstein | GRAFIX 16mm | Verify: same time as last week (Thu 10/22) — confirm with the office · usually Thu |
+| <details><summary><b>J.B.</b></summary>Jozef B.</details> | Alexian WCC · Adelstein | OASIS Burn 3x7 | Verify: same time as last week (Thu 10/22) — confirm with the office · usually Thu |
+| <details><summary><b>D.K.</b></summary>David Knopp</details> | Alexian WCC · Halihan | GRAFIX 16mm | Verify: same time as last week (Thu 10/22) — confirm with the office · usually Thu |
+| <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | Alexian WCC · Hussain | GRAFIX 16mm | Verify: same time as last week (Wed 10/21) — confirm with the office · usually Wed |
+| <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | Alexian WCC · Hussain | OASIS Wound 3x7 (4 sheets) | Verify: same time as last week (Wed 10/21) — confirm with the office · usually Wed |
+| <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | Alexian WCC · Joshi | OASIS Burn Oasis burn 3x7 | Verify: same time as last week (Mon 10/19) — confirm with the office · usually Mon |
+| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX | Last appt 10/26 passed, nothing new booked · usually Mon |
+| <details><summary><b>D.S.</b></summary>D. Stanbury</details> | Alexian WCC · Lucas | OASIS Wound 3x3.5 | Verify: same time as last week (Fri 10/23) — confirm with the office · usually Fri |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | GRAFIX  | Verify: same time as last week (Wed 10/21) — confirm with the office |
+| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound 3x7 | Verify: same time as last week (Fri 10/23) — confirm with the office |
+| <details><summary><b>C.C.</b></summary>Constance Campbell</details> | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 10/26 passed, nothing new booked · usually Mon |
+| <details><summary><b>G.K.</b></summary>George Kuszynski</details> | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 10/26 passed, nothing new booked · usually Mon |
+| <details><summary><b>P.M.</b></summary>Paul Michael</details> | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | Last appt 10/26 passed, nothing new booked · usually Mon |
+| <details><summary><b>P.S.</b></summary>Peter S.</details> | NW Suburban F&A · Goldkind | GRAFIX 16mm | Last appt 10/26 passed, nothing new booked · usually Mon |
+| **J.C.** | St. Joseph Elgin · Bhagat | OASIS Wound 3x3.5 | Verify: same time as last week (Thu 10/22) — confirm with the office · usually Thu |
+| **D.N.** | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | Verify: same time as last week (Fri 10/23) — confirm with the office · usually Fri |
+| <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | Central DuPage · Luetkehans | GRAFIX 16mm | Verify: same time as last week (Fri 10/23) — confirm with the office · usually Fri |
+| **R.C.** | Central DuPage · Luetkehans | GRAFIX 2x 5x5 + 3x4 | Verify: same time as last week (Fri 10/23) — confirm with the office · usually Fri |
 
 <a name="ns"></a>
 
@@ -57,50 +61,42 @@
 | Patient | Clinic | Graft | Start |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details> | Good Sam · Bach | OASIS Ultra 7x10 (2 sheets per visit) suggested | 🔴 No start date |
-| <details><summary><b>P.P.</b></summary>P. Patrizi</details> | Good Sam · Patni | GRAFIX | A1 Tue 10/20 |
-| <details><summary><b>H.P.</b></summary>Hein Patel</details> | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 suggested | 🔴 No start date |
-| **??** | Romano Lombard · Rojas | GRAFIX 5x5 (suggested) | A1 Wed 10/14 10:30 AM |
+| <details><summary><b>P.P.</b></summary>P. Patrizi</details> | Good Sam · Patni | GRAFIX | A1 Tue 10/27 |
+| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX | A1 Mon 10/26 |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Alexian WCC · Joshi | Oasis Burn | A1 Tue 10/27 10:15 AM |
 
 <a name="pending"></a>
 
-## 🟠 Pending IVRs · 13 · 6 to follow up
+## 🟠 Pending IVRs · 13 · 11 to follow up
 
 | Patient | Clinic | IVR | Coverage / notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>K.B.</b></summary>K. Bette</details> | Good Sam · Ayesh | 🔴 Added 10/6 · 9 days ago · follow up | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
-| <details><summary><b>G.G.</b></summary>Gerald G</details> | NW Suburban F&A · Goldkind | 🔴 IVR sent 9/14 · 31 days ago · follow up | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Gold… |
-| **M.A.** | NW Suburban F&A · Goldkind | 🔴 Added 10/2 · 13 days ago · follow up | Humana - IVR pending, clinicals requested · Pending auth (NWSFA list wk of 10/12). IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer… |
-| <details><summary><b>J.D.</b></summary>John Dematropolis</details> | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 36 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Ran on 9/9/26, needs additional clinicals, needs referral |
-| **R.B.** | Sherman · Perez | 🔴 Added 10/2 · 13 days ago · follow up | New 10/2 |
-| **R.F.** | Sherman · Perez | 🔴 Added 10/2 · 13 days ago · follow up | New 10/2 |
-| <details><summary><b>J.B.</b></summary>J. Buschmann</details> | Alexian WCC · Adelstein | Added 10/15 · today | New 10/15 |
-| <details><summary><b>D.K.</b></summary>David Knopp</details> | Alexian WCC · Halihan | Added 10/12 · 3 days ago | New 10/12 |
-| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | Added 10/14 · yesterday | New 10/14 |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Alexian WCC · Joshi | Added 10/8 · 7 days ago | Suggest oasis |
-| <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | Alexian WCC · Joshi | Added 10/14 · yesterday | New 10/14 |
-| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | Added 10/8 · 7 days ago | Suggest oasis |
-| <details><summary><b>M.B.</b></summary>Merrill Burleigh</details> | St. Joseph Elgin · Veronica Pappas | IVR sent 10/13 · 2 days ago | New IVR submitted 10/13 (pending). Plan (AJ 10/14): one Grafix 3x3 a week starting Mon 10/20. |
-
-<a name="potential"></a>
-
-## ⚪ Potential IVRs · 2
-
-| Patient | Clinic | Notes |
-| :-- | :-- | :-- |
-| <details><summary><b>Zahora</b></summary>Zahora</details> | Good Sam · Ayesh | Waiting on revascularization before running IVR |
-| <details><summary><b>B.W.</b></summary>Bonnie Walk</details> | Good Sam · Bach | Hand ulcer, monitoring progress. Coming in 9/16 9:45 am |
+| <details><summary><b>K.B.</b></summary>K. Bette</details> | Good Sam · Ayesh | 🔴 Added 10/6 · 21 days ago · follow up | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
+| <details><summary><b>J.B.</b></summary>J. Buschmann</details> | Alexian WCC · Adelstein | 🔴 Added 10/15 · 12 days ago · follow up | New 10/15 |
+| <details><summary><b>G.M.</b></summary>Givarkis Mirza</details> | Alexian WCC · Goldkind | 🔴 Added 10/19 · 8 days ago · follow up | Pending · Blue Cross Community |
+| <details><summary><b>V.T.</b></summary>Virginia thomas</details> | Alexian WCC · Halihan | 🔴 Added 10/19 · 8 days ago · follow up | New 10/19 |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | 🔴 Added 10/8 · 19 days ago · follow up | Next assumed Wed 10/28 9:15 AM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. Suggest oasis |
+| **J.D.** | NW Suburban F&A | 🔴 Added 10/18 · 9 days ago · follow up | Pending predetermination · NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for… |
+| <details><summary><b>G.G.</b></summary>Gerald G</details> | NW Suburban F&A · Goldkind | 🔴 IVR sent 9/14 · 43 days ago · follow up | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (D… |
+| **M.A.** | NW Suburban F&A · Goldkind | 🔴 Added 10/2 · 25 days ago · follow up | Humana - IVR pending, clinicals requested · NWSFA list wk of 10/26: waiting on PA. Waiting for patient to have ABIs completed (NWSFA list wk of 10/19). Pending auth (NWSFA list wk o… |
+| <details><summary><b>J.D.</b></summary>John Dematropolis</details> | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 48 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Ran on 9/9/26, needs additional clinicals, needs referral |
+| **R.B.** | Sherman · Perez | 🔴 Added 10/2 · 25 days ago · follow up | New 10/2 |
+| **R.F.** | Sherman · Perez | 🔴 Added 10/2 · 25 days ago · follow up | New 10/2 |
+| <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | Alexian WCC · Joshi | Added 10/22 · 5 days ago | New 10/22 |
+| <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | Alexian WCC · Lucas | Added 10/26 · yesterday | New 10/26 |
 
 <a name="hold"></a>
 
-## 🟡 On hold · 8
+## 🟡 On hold · 9
 
 | Patient | Clinic | Notes |
 | :-- | :-- | :-- |
 | <details><summary><b>C.H.</b></summary>Candace Hein</details> | Good Sam · Bach | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |
 | <details><summary><b>J.C.</b></summary>Jerry Cooper</details> | Alexian WCC · Joshi | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
-| <details><summary><b>J.R.</b></summary>James Roshbach</details> | NW Suburban F&A · Goldkind | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
-| <details><summary><b>J.C.</b></summary>Jeffrey Chase</details> | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Last 7/27/26 |
-| <details><summary><b>J.S.</b></summary>John Snyder</details> | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
-| <details><summary><b>R.D.</b></summary>Roosevelt Dunlap</details> | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
-| <details><summary><b>S.B.</b></summary>Shirley Ballard</details> | NW Suburban F&A · Home Visit | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Home visit patient |
+| <details><summary><b>J.R.</b></summary>James Roshbach</details> | NW Suburban F&A · Goldkind | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>J.C.</b></summary>Jeffrey Chase</details> | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Last 7/27/26 |
+| <details><summary><b>J.S.</b></summary>John Snyder</details> | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>R.D.</b></summary>Roosevelt Dunlap</details> | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>S.B.</b></summary>Shirley Ballard</details> | NW Suburban F&A · Home Visit | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Home visit patient |
 | **Y.L.** | Suburban F&A · Grinberg | ON HOLD: infection on the right foot 10/5 (sent to the ER). Dr. Grinberg texted 10/12: he saw her and she's alright; he's working on the … |
+| **??** | Romano Lombard · Rojas | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known… |

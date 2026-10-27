@@ -2,31 +2,27 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 13 of 25 · updated Thu 10/15, 2:14 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 4:50 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (October tab) | \$79,741 | \$79,741 |
-| \+ Projected Grafix, net of WCC stock | \$30,210 | \$23,870 |
+| Sold so far (October tab) | \$116,127 | \$116,127 |
+| \+ Projected Grafix, net of WCC stock | \$18,646 | \$14,396 |
 | \+ Upcoming Stravix | \$2,469 | \$2,469 |
-| \+ Potential new starts | \$6,981 | \$2,280 |
-| \+ OASIS reorders (estimated) | \$13,558 | \$7,983 |
-| **P10 forecast** | **\$132,958** | **\$116,343** |
+| \+ Potential new starts | \$786 | \$0 |
+| \+ OASIS reorders (estimated) | \$3,369 | \$0 |
+| **P10 forecast** | **\$141,396** | **\$132,992** |
 | P10 target | \$129,015 | \$129,015 |
-| % of target | 103% | 90% |
-| Gap to target | ✅ over by \$3,943 | \$12,672 |
-| **Projected commission** | **\$13,296** | **\$8,144** |
+| % of target | 110% | 103% |
+| Gap to target | ✅ over by \$12,381 | ✅ over by \$3,977 |
+| **Projected commission** | **\$14,140** | **\$13,299** |
 
 
-> [!NOTE]
-> Hitting target pays 10% on everything. Closing the \$12,672 downside gap adds about **\$4,757** in commission.
-
-
-<sub>Scheduled visits this week count until they're filed; once a visit is in October sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 10/12.</sub>
+<sub>Scheduled visits this week count until they're filed; once a visit is in October sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 10/26.</sub>
 
 <a name="accounts"></a>
 
@@ -34,122 +30,125 @@
 
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
-| [Good Sam](#good-sam) | \$27,784 | \$9,413 | \$10,528 | **\$37,197** | **\$38,312** |
-| [Central DuPage](#central-dupage) | \$15,170 | \$18,315 | \$11,940 | **\$33,485** | **\$27,110** |
-| [Alexian WCC](#alexian-wcc) | \$10,246 | \$10,558 | \$5,801 | **\$20,804** | **\$16,048** |
-| [St. Alexius](#st-alexius) | \$7,900 | \$2,469 | \$2,469 | **\$10,369** | **\$10,369** |
-| [NW Suburban F&A](#nw-suburban-f-a) | \$3,806 | \$3,987 | \$2,088 | **\$7,793** | **\$5,895** |
+| [Central DuPage](#central-dupage) | \$19,610 | \$12,855 | \$8,605 | **\$32,465** | **\$28,215** |
+| [Good Sam](#good-sam) | \$31,915 | \$426 | \$0 | **\$32,340** | **\$31,915** |
+| [Alexian WCC](#alexian-wcc) | \$13,651 | \$6,315 | \$4,485 | **\$19,966** | **\$18,136** |
+| [St. Alexius](#st-alexius) | \$12,838 | \$2,469 | \$2,469 | **\$15,307** | **\$15,307** |
+| [Alexian Ambulatory](#x) | \$10,548 | \$0 | \$0 | **\$10,548** | **\$10,548** |
+| [St. Joseph Elgin](#st-joseph-elgin) | \$7,653 | \$1,116 | \$1,116 | **\$8,768** | **\$8,768** |
+| [NW Suburban F&A](#nw-suburban-f-a) | \$5,705 | \$2,088 | \$190 | **\$7,793** | **\$5,895** |
 | [GlenOaks](#glenoaks) | \$7,407 | \$0 | \$0 | **\$7,407** | **\$7,407** |
-| [St. Joseph Elgin](#st-joseph-elgin) | \$3,742 | \$3,347 | \$1,116 | **\$7,088** | **\$4,857** |
-| [Romano Lombard](#romano-lombard) | \$380 | \$5,130 | \$2,660 | **\$5,510** | **\$3,040** |
-| [Elmhurst](#elmhurst) | \$3,116 | \$0 | \$0 | **\$3,116** | **\$3,116** |
+| [Elmhurst](#elmhurst) | \$6,231 | \$0 | \$0 | **\$6,231** | **\$6,231** |
+| [Romano Lombard](#romano-lombard) | \$380 | \$0 | \$0 | **\$380** | **\$380** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| Alexian Ambulatory | — | — | — | — | — |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$79,741** | **\$53,217** | **\$36,602** | **\$132,958** | **\$116,343** |
+| **Total** | **\$116,127** | **\$25,269** | **\$16,865** | **\$141,396** | **\$132,992** |
 
 
 ## Account by account
 
-<a name="good-sam"></a>
-<details><summary><b>Good Sam</b> · upside &#36;37,197 · downside &#36;38,312</summary>
+<a name="central-dupage"></a>
+<details><summary><b>Central DuPage</b> · upside &#36;32,465 · downside &#36;28,215</summary>
 
-Sold so far: **\$27,784** · 7 cases
+Sold so far: **\$19,610** · 8 cases
+
+**Weekly and biweekly patients**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **R.C. · Dr. Luetkehans** | 2× 5x5 + 3x4 · Weekly · 2 visits · from 10/30 → 1× 5x5 + 3x4 | \$12,665 | \$8,415 | Plan from AJ 10/9: 10/16 used the 5x5 left from RC100926 plus the WFNU 5x5 billed on a new PO (\$2,125, no PO yet) and a 3x4 on RC101626 (in October sales). |
+| **A.S. · Dr. Luetkehans** | 16mm · Weekly · 1 visit | \$190 | \$190 | A1 Fri 10/9 (AS100926), A2 Fri 10/16 (AS101626) and A3 Fri 10/23 (sale order AS102326, submitted 10/21) are all in October sales, so this row projects weekly 16mm from 10/30 |
+
+</details>
+
+<a name="good-sam"></a>
+<details><summary><b>Good Sam</b> · upside &#36;32,340 · downside &#36;31,915</summary>
+
+Sold so far: **\$31,915** · 8 cases
 
 **Weekly and biweekly patients**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **C.H. · Dr. Bach** | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked, so nothing projected (upside or downside) until he's rescheduled. | — | — |   |
-| **W.K. · Dr. Ayesh** | 16mm · Biweekly · 1 visit · from 10/29 | \$426 | \$426 | A6 Thu 10/15 (16mm from the Good Sam shelf). |
-| **K.P. · Dr. Ayesh** | 5x5 · Biweekly · 1 visit · from 10/29 → 3x4 | \$2,500 | \$1,211 | A7 Thu 10/15: 5x5 + 3x4 from the Good Sam shelf. |
-| **K.P. · Dr. Ayesh** | 3x4 · Biweekly · 1 visit · from 10/29 → 3x3 | \$1,211 | \$1,116 |   |
+| **W.K. · Dr. Ayesh** | Next visit moved to Thu 11/5 (AJ 10/18) — out of P10, first P11 visit. | — | — |   |
+| **K.P. · Dr. Ayesh** | Next visit moved to Thu 11/5 (AJ 10/18) — out of P10, first P11 visit. | — | — |   |
+| **K.P. · Dr. Ayesh** | Next visit moved to Thu 11/5 (AJ 10/18) — out of P10, first P11 visit. | — | — |   |
 | **C.B. · Dr. Ayesh** | Applied 10/1 (this week); not projected | — | — |   |
-| **C.B. · Dr. Ayesh** | 2x3 · Biweekly · 1 visit · from 10/29 | \$980 | \$980 | Not grafted Thu 10/15 (too much drainage). |
-| **P.J. · Dr. Luetkehans** | 3× 16mm · Weekly · 3 visits | \$3,830 | \$3,830 | A3 Thu 10/8: (3) 16mm from the Good Sam shelf. |
-| **D.F. · Dr. Luetkehans** | 3x4 · Weekly · 3 visits | \$3,632 | \$3,632 | A3 Thu 10/8: 5x5 on PO006001505 (in October sales). |
+| **C.B. · Dr. Ayesh** | Next visit moved to Thu 11/5 (AJ 10/18) — out of P10, first P11 visit. | — | — |   |
+| **P.J. · Dr. Luetkehans** | 2× 16mm · Weekly · 1 visit · from 10/29 | \$851 | \$851 | A4 Thu 10/22 2:00 PM: (2) 16mm from the Good Sam shelf (logged in the Patients app 10/23), down from 3 a visit. |
+| **D.F. · Dr. Luetkehans** | 5x5 · Weekly · 1 visit · from 10/29 | \$2,500 | \$2,500 | A4 Thu 10/22 2:00 PM: 5x5 from the Good Sam shelf (logged in the Patients app 10/23) — stayed on 5x5, did not move down to 3x4. |
 | **L.D. · Dr. Luetkehans** | Done 10/8 after A23 (1.5x2 from the Good Sam shelf): no more grafting recommended, so nothing projected | — | — |   |
 
 **Less Good Sam WCC stock already sold**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **WCC stock** | Grafix 5x5 · 1 on the shelf cover 1 projected · PO006025726 (10/9) | -\$2,500 | \$0 | PO006025726 shipped 10/9: 2 x 5x5, 2 x 16mm, 1 x 1.5x2 (in October sales). |
-| **WCC stock** | Grafix 16mm · 3 on the shelf cover 10 projected · PO005986967 + PO006025726 | -\$1,277 | -\$1,277 | Shelf count 10/6: 5 x 16mm (LYA-260176\_16009-16012, LYA-260108\_16012). |
-| **WCC stock** | Grafix 3x4 · 3 on the shelf cover 4 projected · PO005986967 + earlier | -\$3,632 | -\$3,632 | Shelf count 10/6: 4 x 3x4 (LYA-250567\_34002, \_34003 exp 6/9/27; LYA-250353\_34003, \_34004 exp 3/24/27). |
+| **WCC stock** | Grafix 5x5 · 1 on the shelf cover 1 projected · PO006025726 (10/9) + PO006063828 (10/16) | -\$2,500 | -\$2,500 | PO006025726 shipped 10/9: 2 x 5x5 (K.P. used one on 10/15, A7) + PO006063828 shipped 10/16: 1 x 5x5 (LYA-260362\_55004), both in October sales = 2; D.F. used one on 10/22 (A4), so 1 x 5x5 on the shelf. |
+| **WCC stock** | Grafix 16mm · 3 on the shelf cover 2 projected · PO005986967 + PO006025726 + PO006063828 | -\$851 | -\$851 | Shelf count 10/6: 5 x 16mm. |
+| **WCC stock** | Grafix 3x4 · 3 on the shelf cover 0 projected · PO005986967 + earlier | — | — |   |
 
 **Potential new starts**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **R.T. · Dr. Bach** | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit). | — | — |   |
-| **J.B. · Dr. Raigaga** | Done (moved in the app 10/11); not projected | — | — |   |
+| **P.P. · Dr. Patni** | 16mm · Weekly · 1 visit | \$426 | \$0 | Approved (Patients app 10/20); first visit Tue 10/27. |
 | **S.W. · Dr. Ayesh** | Stravix in the OR Fri 11/13 (Dr. Ayesh), P11; not in P10 | — | — |   |
 
 **OASIS reorders (estimated)**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **Dr. Patni** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · I.S. | — | — |   |
-| **Dr. Bach** | OASIS Ultra 7x10 meshed · 1 up / 1 down box · L.J. | \$4,244 | \$4,244 | L.J. A1 10/7 and A2 10/14, 2 sheets each; 1 left from the 10/2 box. |
-
-</details>
-
-<a name="central-dupage"></a>
-<details><summary><b>Central DuPage</b> · upside &#36;33,485 · downside &#36;27,110</summary>
-
-Sold so far: **\$15,170** · 6 cases
-
-**Weekly and biweekly patients**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **R.C. · Dr. Luetkehans** | 2× 5x5 + 3x4 · Weekly · 4 visits · from 10/16 → 1× 5x5 + 3x4 | \$17,935 | \$11,560 | Plan from AJ 10/9: 10/16 uses the 5x5 left from RC100926 plus the WFNU 5x5 billed on a new PO (\$2,125) and a 3x4 on PO. |
-| **A.S. · Dr. Luetkehans** | 16mm · Weekly · 2 visits | \$380 | \$380 | A1 Fri 10/9 (sale order AS100926) and A2 Fri 10/16 (sale order AS101626, In SFDC 10/14) are both in October sales, so this row projects weekly 16mm from 10/23 |
+| **Dr. Patni** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · L.J. (I.S. healed 10/13) | — | — |   |
+| **Dr. Bach** | OASIS Ultra 7x10 meshed · 0 up / 0 down boxes · L.J. | — | — |   |
 
 </details>
 
 <a name="alexian-wcc"></a>
-<details><summary><b>Alexian WCC</b> · upside &#36;20,804 · downside &#36;16,048</summary>
+<details><summary><b>Alexian WCC</b> · upside &#36;19,966 · downside &#36;18,136</summary>
 
-Sold so far: **\$10,246** · 22 cases
+Sold so far: **\$13,651** · 26 cases
 
 **Weekly and biweekly patients**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **T.T. · Dr. Lucas** | 16mm · Weekly · 1 visit | \$360 | \$360 | 7 applications (10/6 = #7, LYA-260159\_16028); Alexian WCC stops at 8, so 1 more (next Tue 10/20, time TBD) |
-| **D.G. · Dr. Lucas** | 16mm · Weekly · 2 visits · from 10/20 | \$720 | \$720 | Held Tue 10/13 (Pete covered), not grafted, so nothing this week; projected weekly again from Tue 10/20 (no follow-up booked yet). |
-| **J.L. · Dr. Lucas** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (LYA-260174\_16008, case sheet 10/14; Pete covered) is in October sales, PO …285019 received; projects weekly from 10/20. |
-| **M.L. · Dr. Joshi** | 16mm · Weekly · 2 visits | \$720 | \$720 | A3 Tue 10/13 (16mm LYA-260174\_16007, AJ confirmed 10/14) is in October sales, PO …285020 received; projects weekly from 10/20. |
-| **A.N. · Dr. Joshi** | 16mm · Once · 1 visit · from 10/20 → 16mm ×0 | \$360 | \$0 | Held Tue 10/13: wound very small, most likely done; follow-up next week. |
-| **D.C. · Dr. Adelstein** | 16mm · Weekly · 2 visits · from 10/22 → 16mm ×1 | \$720 | \$360 | Held 10/8 and again Thu 10/15 (Caroline covered): the wound got larger and is getting a vascular consult, so nothing this week; projected weekly from 10/22 until grafting resumes (no follow-up booked yet). |
-| **A.P. · Dr. Hussain** | 16mm · Weekly · 2 visits → 16mm ×1 | \$720 | \$360 | A5 Wed 10/14 (LYA-260146\_16008, case sheet on file, PO …285130) is in October sales; projects weekly from 10/21. |
+| **T.T. · Dr. Lucas** | Healed Tue 10/27 (not grafted, per the Patients app): done after 7 applications, so nothing more is projected. | — | — |   |
+| **D.G. · Dr. Lucas** | Not grafted Tue 10/27 (logged in the Patients app, no note), so nothing more in P10; next assumed Tue 11/3 (weekly). | — | — |   |
+| **J.L. · Dr. Lucas** | 16mm · Weekly · 1 visit | \$360 | \$360 | A4 Tue 10/20 9:40 AM (16mm; case sheet and PO to come) counts this week until filed. |
+| **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | A3 Tue 10/13 (16mm LYA-260174\_16007, AJ confirmed 10/14) is in October sales, PO …285020 received; projects weekly from 10/20. |
+| **A.N. · Dr. Joshi** | Held Tue 10/13 (wound very small) and Tue 10/20 (not grafted): done after 4 applications, nothing projected (upside or downside). | — | — |   |
+| **D.C. · Dr. Adelstein** | 16mm · Weekly · 1 visit | \$360 | \$360 | Held 10/8 and Thu 10/15 (Caroline covered): wound got larger, vascular consult. |
+| **A.P. · Dr. Hussain** | 16mm · Weekly · 1 visit | \$360 | \$360 | A5 Wed 10/14 (LYA-260146\_16008, case sheet on file, PO …285130) is in October sales; projects weekly from 10/21. |
 | **V.D. · Dr. Ramani** | Done 10/9 (6 applications; down to 16mm as of 10/2), so nothing projected | — | — |   |
-| **O.O. · Dr. Vedantham** | 16mm · Weekly · 2 visits | \$720 | \$720 | A1 Tue 10/13 (LYA-260174\_16006, case sheet on file, PO …285021). |
+| **O.O. · Dr. Vedantham** | 16mm · Weekly · 1 visit | \$360 | \$360 | A2 Tue 10/20 12:50 PM (16mm; case sheet and PO to come) counts this week until filed. |
+| **D.S. · Dr. Joshi** | 5x5 · Weekly · 1 visit | \$2,325 | \$2,325 | Started: A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 from the WCC shelf (sticker in the Patients app; case sheet and PO to come). |
+| **D.K. · Dr. Halihan** | 16mm · Weekly · 1 visit | \$360 | \$360 | New start: A1 Thu 10/22 1:15 PM (LYA-260221\_16012, case sheet in the Patients app) is in October sales; weekly 16mm from the WCC stock from 10/29. |
 
 **Potential new starts**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **J.C. · Dr. Joshi** | On hold (moved in the app 10/11). | — | — |   |
-| **O.O. · Dr. Vedantham** | Started 10/13 (A1, 16mm): now projected in the weekly patients table above, so nothing here | — | — |   |
+| **C.P. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$0 | Approved (Patients app 10/20); first visit Mon 10/26. |
+| **D.L. · Dr. Joshi** | Approved (OASIS Burn, Dr. Joshi). | — | — |   |
 
 **OASIS reorders (estimated)**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **Dr. Hussain** | OASIS Wound 3x7 · 1 up / 0 down box · D.V. (started 10/7) | \$2,206 | \$0 | PO 660040000285214 (10/15): 1 box ordered, now in October sales. |
-| **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 0 down box · J.B. | \$1,470 | \$0 | Stock tab: 3 on the shelf after J.B.'s A3 on 10/8; no-show 10/15. |
+| **Dr. Hussain** | OASIS Wound 3x7 · 0 up / 0 down boxes · D.V. (started 10/7) | — | — |   |
+| **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 0 down box · J.B., B.P. (from 10/19) | \$1,470 | \$0 | Stock tab: 2 Burn 3x7 sheets after B.P.'s A3 on 10/19 (moved down from 5x7). |
 | **Dr. Lucas** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · D.S. (M.I. done) | — | — |   |
-| **Dr. Joshi** | OASIS Burn 5x7 meshed · 1 up / 1 down box · B.P. (new start 10/5) | \$1,841 | \$1,841 | Stock tab: 1 Burn 5x7 sheet as of 10/12 (3 at the 10/3 count less B.P.'s A1 10/5 and A2 10/12). |
+| **Dr. Joshi** | OASIS Burn 5x7 meshed · 0 up / 0 down boxes · B.P. (new start 10/5) | — | — |   |
 
 </details>
 
 <a name="st-alexius"></a>
-<details><summary><b>St. Alexius</b> · upside &#36;10,369 · downside &#36;10,369</summary>
+<details><summary><b>St. Alexius</b> · upside &#36;15,307 · downside &#36;15,307</summary>
 
-Sold so far: **\$7,900** · 4 cases
+Sold so far: **\$12,838** · 5 cases
 
 **Upcoming Stravix**
 
@@ -160,29 +159,69 @@ Sold so far: **\$7,900** · 4 cases
 
 </details>
 
-<a name="nw-suburban-f-a"></a>
-<details><summary><b>NW Suburban F&amp;A</b> · upside &#36;7,793 · downside &#36;5,895</summary>
+<a name="x"></a>
+<details><summary><b>Alexian Ambulatory</b> · upside &#36;10,548 · downside &#36;10,548</summary>
 
-Sold so far: **\$3,806** · 5 cases
-
-**Weekly and biweekly patients**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **P.S. · Dr. Goldkind** | 16mm · Weekly · 1 visit · from 10/26 | \$190 | \$190 | A1 10/5 from the 16mm NWSFA bought 8/22/26 (PO PS100626, not a P10 sale). |
+Sold so far: **\$10,548** · 3 cases
 
 **Potential new starts**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **L.W. · Dr. Adelstein** | A1 10/8 (AJ confirmed 10/11; had been logged as held). | — | — |   |
+| **H.P. · Dr. Ramani** | Started: A1 Thu 10/22 1:30 PM (case sheet in the Patients app, lot LB1751182). | — | — |   |
+
+</details>
+
+<a name="st-joseph-elgin"></a>
+<details><summary><b>St. Joseph Elgin</b> · upside &#36;8,768 · downside &#36;8,768</summary>
+
+Sold so far: **\$7,653** · 6 cases
+
+**Weekly and biweekly patients**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **P.H. · Veronica Pappas** | 3x3 · Weekly · 1 visit | \$1,116 | \$1,116 | One Grafix 3x3 a week (AJ 10/14). |
+| **M.B. · Veronica Pappas** | 3x3 · Weekly · 1 visit | \$1,116 | \$1,116 | Approved (AJ 10/20). |
+
+**Less Good Sam WCC stock already sold**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **WCC stock** | Grafix 3x3 · 1 on the shelf cover 2 projected · 712063022 (10/16) | -\$1,116 | -\$1,116 | Elgin order on PO 712063022 (SFDC 10/16, delivered Mon 10/19, in October sales): 2 x 3x3 at \$1,115.50. |
+
+**Potential new starts**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **D.N. · Veronica Pappas** | Covered 100% (Aetna Better Health). | — | — |   |
+| **M.B. · Veronica Pappas** | Approved and started Mon 10/20 (A1, one Grafix 3x3): now projected in the weekly patients table above, so nothing here | — | — |   |
+
+</details>
+
+<a name="nw-suburban-f-a"></a>
+<details><summary><b>NW Suburban F&amp;A</b> · upside &#36;7,793 · downside &#36;5,895</summary>
+
+Sold so far: **\$5,705** · 7 cases
+
+**Weekly and biweekly patients**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **P.S. · Dr. Goldkind** | 16mm · Weekly · 1 visit | \$190 | \$190 | A1 10/5 from the 16mm NWSFA bought 8/22/26 (PO PS100626, not a P10 sale). |
+
+**Potential new starts**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **L.W. · Dr. Adelstein** | A2 Thu 10/15 (3x3.5, AJ confirmed 10/18); A1 10/8 (3x7). | — | — |   |
 
 **OASIS reorders (estimated)**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **Dr. Adelstein / Dr. Hussain** | OASIS Ultra 3x3.5 · 2 up / 1 down boxes · C.C., G.K. (R.D., S.B. on hold) | \$1,544 | \$772 | Downside 1 box: C.C. (A11 10/12) and G.K. (A2 10/12, lot LB1709196) are both weekly, so 10/19 and 10/26 need about 4 more sheets and the 9/30 box (PO CC100526) has about 1 left. |
-| **Dr. Adelstein / Dr. Goldkind** | OASIS Wound 3x3.5 · 2 up / 1 down boxes · J.M., P.M., C.T., E.P. (+ L.W. from wk of 10/12) | \$2,253 | \$1,127 | 4 weekly patients use about 16 sheets through 10/30; about 7 left from the 9/30 box (PO EP093026). |
+| **Dr. Adelstein / Dr. Hussain** | OASIS Ultra 3x3.5 · 1 up / 0 down box · C.C., G.K. (R.D., S.B. on hold) | \$772 | \$0 | 1 box ordered Tue 10/20 (in October sales, PO to come) covers 10/26 and the week of 11/2 for C.C. (A12 10/19) and G.K. (A3 10/19). |
+| **Dr. Adelstein / Dr. Goldkind** | OASIS Wound 3x3.5 · 1 up / 0 down box · J.M., P.M., C.T., E.P. (+ L.W. from wk of 10/12) | \$1,127 | \$0 | 1 box ordered Tue 10/20 (in October sales, PO to come): with about 7 left from the 9/30 box it covers P.M., C.T., E.P., J.M. and L.W. (about 16 sheets) through 10/30. |
 | **Dr. Goldkind** | OASIS Ultra 5x7 · 0 up / 0 down boxes · M.Z. (L) | — | — |   |
 
 </details>
@@ -200,28 +239,15 @@ Sold so far: **\$7,407** · 1 case
 
 </details>
 
-<a name="st-joseph-elgin"></a>
-<details><summary><b>St. Joseph Elgin</b> · upside &#36;7,088 · downside &#36;4,857</summary>
+<a name="elmhurst"></a>
+<details><summary><b>Elmhurst</b> · upside &#36;6,231 · downside &#36;6,231</summary>
 
-Sold so far: **\$3,742** · 2 cases
-
-**Weekly and biweekly patients**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **P.H. · Veronica Pappas** | 3x3 · Weekly · 1 visit · from 10/27 | \$1,116 | \$1,116 | One Grafix 3x3 a week (AJ 10/14). |
-
-**Potential new starts**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **D.N. · Veronica Pappas** | Covered 100% (Aetna Better Health). | — | — |   |
-| **M.B. · Veronica Pappas** | 3x3 · Weekly · 2 visits · from 10/20 | \$2,231 | \$0 | New IVR submitted 10/13 (pending). |
+Sold so far: **\$6,231** · 2 cases
 
 </details>
 
 <a name="romano-lombard"></a>
-<details><summary><b>Romano Lombard</b> · upside &#36;5,510 · downside &#36;3,040</summary>
+<details><summary><b>Romano Lombard</b> · upside &#36;380 · downside &#36;380</summary>
 
 Sold so far: **\$380** · 2 cases
 
@@ -229,20 +255,7 @@ Sold so far: **\$380** · 2 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **M.W. · Dr. Rojas** | 16mm · Weekly · 2 visits | \$380 | \$380 | A1 10/7 (LYA-260007\_16005, PO MW100726), A2 Wed 10/14 (LYA-260146\_16009, PO to come). |
-
-**Potential new starts**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **?? · Dr. Rojas** | 5x5 · Weekly · 2 visits · from 10/21 → 3x4 | \$4,750 | \$2,280 | Not grafted Wed 10/14 (tapped in the Patients app), so projected from Wed 10/21 instead: upside 5x5 at \$2,375, downside 3x4 at \$1,140 (Romano \$95/cm2). |
-
-</details>
-
-<a name="elmhurst"></a>
-<details><summary><b>Elmhurst</b> · upside &#36;3,116 · downside &#36;3,116</summary>
-
-Sold so far: **\$3,116** · 1 case
+| **M.W. · Dr. Rojas** | Healed Wed 10/21 (not grafted, per the Patients app), so nothing projected (upside or downside). | — | — |   |
 
 </details>
 
@@ -264,11 +277,11 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 24 | \$37,618 | \$28,778 |
-| Less Good Sam WCC stock already sold | 3 | -\$7,408 | -\$4,908 |
+| Weekly and biweekly patients | 27 | \$23,112 | \$18,862 |
+| Less Good Sam WCC stock already sold | 4 | -\$4,467 | -\$4,467 |
 | Upcoming Stravix | 3 | \$2,469 | \$2,469 |
-| Potential new starts | 9 | \$6,981 | \$2,280 |
-| OASIS reorders (estimated) | 9 | \$13,558 | \$7,983 |
+| Potential new starts | 10 | \$786 | \$0 |
+| OASIS reorders (estimated) | 9 | \$3,369 | \$0 |
 
 
 <details><summary><b>OASIS patients</b> · 20 · reorders come from the OASIS lines above</summary>
@@ -276,18 +289,18 @@ Sold so far: **\$190** · 1 case
 | Pt | Account | Surgeon | Graft | Status | Apps | Note |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | **I.S.** | Good Sam | Patni | OASIS Wound 3x3.5 | Done | A6 | A6 10/6 (from the Good Sam shelf). |
-| **L.J.** | Good Sam | Bach | OASIS Ultra 7x10 | Grafting | A2 | A1 10/7 and A2 10/14 (Caroline covered): 2 sheets OASIS Ultra 7x10 each from the Good Sam box of 5 bought 10/2 (1 left). |
+| **L.J.** | Good Sam | Bach | OASIS Ultra 7x10 | Grafting | A3 | A3 Wed 10/21: the last OASIS Ultra 7x10 sheet + 2 OASIS Wound 3x3.5 from the Good Sam shelf. |
 | **J.B.** | Alexian WCC | Adelstein | OASIS Burn 3x7 | Grafting | A3 | A3 10/8 (Burn 3x7 from the WCC shelf); no-show Thu 10/15 (Caroline covered) |
 | **D.S.** | Alexian WCC | Lucas | OASIS Wound 3x3.5 | Grafting | A8 | A8 10/9; next visit Fri 10/16 12:35 PM (Alexian WCC stops at 8 applications) |
 | **M.I.** | Alexian WCC | Russo | OASIS Wound 3x3.5 | Done | A2 | Done (moved in the app 10/11) |
 | **M.C.** | Alexian Ambulatory | Lucas | OASIS Wound 3x7 | Grafting | A10 |   |
-| **C.C.** | NW Suburban F&A | Adelstein | OASIS Ultra 3x3.5 | Grafting | A11 | A11 10/12 |
+| **C.C.** | NW Suburban F&A | Adelstein | OASIS Ultra 3x3.5 | Grafting | A12 | A12 Mon 10/19 11:30 AM (HE). |
 | **J.M.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A3 | A3 10/14 (Pete covered, Elk Grove). |
-| **F.A.** | NW Suburban F&A | Adelstein | OASIS Ultra 3x7 | Grafting | A12 | A12 10/13. A11 10/6 (A10 the week of 9/28, exact date not recorded) |
-| **P.M.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A7 | A7 Mon 10/12 (case sheet, lot LB1744562; AJ confirmed A7). |
-| **C.T.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A2 | A2 10/8 (1st 10/1) |
+| **F.A.** | NW Suburban F&A | Adelstein | OASIS Ultra 3x7 | Grafting | A12 | Tue 10/20 11:30 AM (HE) held, not grafted — office running a new IVR (10/16). |
+| **P.M.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A8 | A8 Mon 10/19 11:45 AM (HE). |
+| **C.T.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A3 | A3 Thu 10/15 (AJ confirmed 10/18). |
 | **E.P.** | NW Suburban F&A | Goldkind | OASIS Wound 3x3.5 | Grafting | A3 | A3 10/14 (Pete covered, Hoffman Estates). |
-| **MZ (L)** | NW Suburban F&A | Goldkind | OASIS Ultra 5x7 | Grafting | A5 | A5 10/9. Left ankle only. |
+| **MZ (L)** | NW Suburban F&A | Goldkind | OASIS Ultra 3x7 | Grafting | A6 | A6 Fri 10/16: moved down to OASIS Ultra 3x7 (AJ 10/18; never back up). |
 | **R.D.** | NW Suburban F&A | Hussain | OASIS Ultra 3x3.5 | On hold | A10 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
 | **J.C.** | NW Suburban F&A | Hussain | OASIS Ultra 7x20 | On hold | A12 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). |
 | **S.B.** | NW Suburban F&A | Home Visit | OASIS Ultra 3x3.5 | On hold | A11 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). |
@@ -299,6 +312,6 @@ Sold so far: **\$190** · 1 case
 </details>
 
 
-<sub>Good Sam WCC stock on hand (shelf count 10/6 less 10/8 and 10/15 use, plus the 10/9 order), already sold: covers projected visits, so not counted twice</sub>
+<sub>Good Sam WCC stock on hand (shelf count 10/6 less 10/8, 10/15 and 10/22 use, plus the 10/9 and 10/16 orders), already sold: covers projected visits, so not counted twice</sub>
 
 <sub>OASIS reorders (estimated, by the box): NWSFA small sizes estimated; Alexian WCC comes from the Stock tab; Good Sam from the 10/6 shelf count (on hand vs weekly use, from this week through period end). Other accounts still wait for stock levels</sub>

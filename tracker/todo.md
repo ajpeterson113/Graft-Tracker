@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 13 of 25 · updated Thu 10/15, 2:14 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 4:50 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 14 · \$6,546
+## 🟢 Submit to SFDC · 13 · \$4,340
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -28,39 +28,55 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/13 | [M.L.](../case-sheets/ml-1013.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000285020 | \$360 |
 | 10/13 | [J.L.](../case-sheets/jl-1013.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000285019 | \$360 |
 | 10/14 | [A.P.](../case-sheets/ap-1014.md) | Alexian WCC · Hussain | Grafix 16mm | 660040000285130 | \$360 |
-| 10/15 | — | Alexian WCC | OASIS Wound 3x7 · 10 sheets = 1 box | 660040000285214 | \$2,206.20 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 3 · \$1,810
+## 🟡 Waiting on a PO · 16 · \$27,395
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 29 days | 0003068368 | \$600 |
-| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🟠 6 days |   | \$1,020 |
-| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🟠 1 day |   | \$190 |
+| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 41 days | 0003068368 | \$600 |
+| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 18 days |   | \$1,020 |
+| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🟠 13 days |   | \$190 |
+| 10/19 | — | St. Joseph Elgin · Veronica Pappas | Grafix 2x3 | 🟠 8 days |   | \$900 |
+| 10/19 | — | St. Joseph Elgin · Veronica Pappas | Grafix 1.5x2 | 🟠 8 days |   | \$780 |
+| 10/20 | — | NW Suburban F&A | OASIS Ultra 3x3.5 · 1 box of 5 | 🟠 7 days |   | \$771.75 |
+| 10/20 | — | NW Suburban F&A | OASIS Wound 3x3.5 · 1 box of 10 | 🟠 7 days |   | \$1,126.50 |
+| 10/20 | D.S. | Alexian WCC · Joshi | Grafix 5x5 | 🟠 7 days |   | \$2,325 |
+| 10/20 | J.L. | Alexian WCC · Lucas | Grafix 16mm | 🟠 7 days | 0003074927 | \$360 |
+| 10/20 | O.O. | Alexian WCC · Vedantham | Grafix 16mm | 🟠 7 days | 0003052679 | \$360 |
+| 10/21 | K.B. | Alexian Ambulatory · Singh | Stravix 3x6 | 🟠 6 days |   | \$2,469 |
+| 10/21 | K.B. | Alexian Ambulatory · Singh | Grafix 5x5 ×3 | 🟠 6 days |   | \$6,975 |
+| 10/22 | V.M. | St. Alexius · Singh | Stravix 3x6 ×2 | 🟠 5 days |   | \$4,938 |
+| 10/22 | H.P. | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | 🟠 5 days |   | \$1,104 |
+| 10/22 | D.K. | Alexian WCC · Halihan | Grafix 16mm | 🟠 5 days |   | \$360 |
+| 10/26 | [P.C.](../case-sheets/pc-1026.md) | Elmhurst · McGann | Stravix 3x6 | 🟠 1 day |   | \$3,115.50 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 3 · \$15,834
+## 🔵 Submitted, not in SFDC yet · 2 · \$4,440
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
 | Date | Pt | Account | Graft | PO | Amount |
 | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/28 | [P.C.](../case-sheets/pc-0928.md) | Elmhurst · McGann | Stravix 3x6 | P2325870 | \$3,115.50 |
-| 10/6 | [C.L.](../case-sheets/cl-1006.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | PO006010271 | \$5,311 |
-| 10/7 | [F.M.](../case-sheets/fm-1007.md) | GlenOaks · McKanna | Stravix 3x6 ×3 | PO-1000931284 | \$7,407 |
+| 10/23 | R.C. | Central DuPage · Luetkehans | Grafix 5x5 ×2 | RC102326 | \$4,250 |
+| 10/23 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS102326 | \$190 |
 
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 4
+## ⏳ Case sheets to come · 9
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
 | Date | Pt | Account | Graft | PO | Visit |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 10/8 | D.F. | Good Sam · Luetkehans | Grafix 5x5 | PO006001505 | Seen Thu 10/8 |
-| 10/19 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS101926 | Coming up Mon 10/19 |
-| 10/16 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS101626 | Coming up Fri 10/16 |
-| 10/16 | R.C. | Central DuPage · Luetkehans | Grafix 3x4 | RC101626 | Coming up Fri 10/16 |
+| 10/19 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS101926 | Seen Mon 10/19 |
+| 10/16 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS101626 | Seen Fri 10/16 |
+| 10/16 | R.C. | Central DuPage · Luetkehans | Grafix 3x4 | RC101626 | Seen Fri 10/16 |
+| 10/20 | J.L. | Alexian WCC · Lucas | Grafix 16mm |   | Seen Tue 10/20 |
+| 10/20 | O.O. | Alexian WCC · Vedantham | Grafix 16mm |   | Seen Tue 10/20 |
+| 10/23 | R.C. | Central DuPage · Luetkehans | Grafix 5x5 ×2 | RC102326 | Seen Fri 10/23 |
+| 10/23 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS102326 | Seen Fri 10/23 |
+| 10/22 | H.P. | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box |   | Seen Thu 10/22 |
 
 <a name="stock"></a>
 ## 📦 Stock · 3
@@ -69,10 +85,10 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **OASIS Burn 5x7 meshed: 1 sheet** · Order 1 box now · runs out week of 10/19 · [Alexian WCC](stock.md#alexian)
+> - **OASIS Burn 3x7: 2 sheets** · Order 2 boxes now · runs out week of 11/02 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 26
+## 👥 Patients · 33
 
-1 to verify · 20 with no follow-up booked · 6 IVRs to follow up → [Patient to-do](../patients/todo.md)
+2 to verify · 23 with no follow-up booked · 11 IVRs to follow up → [Patient to-do](../patients/todo.md)

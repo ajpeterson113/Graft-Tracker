@@ -2,16 +2,16 @@
 
 # On hold
 
-**BIOT Chicago West** · 94 patients · updated Thu 10/15, 2:14 PM CT
+**BIOT Chicago West** · 102 patients · updated Tue 10/27, 4:50 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;94](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;102](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 35](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 2](../patients/potential-ivr.md) · **On hold 8** · [OR 19](../patients/or.md) · [Done 10](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 9** · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -38,11 +38,11 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>J.R.</b></summary>James Roshbach</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
-| <details><summary><b>R.D.</b></summary>Roosevelt Dunlap</details> | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🟡 10 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
-| <details><summary><b>J.C.</b></summary>Jeffrey Chase</details> | Oasis&nbsp;Ultra&nbsp;7x20 · Dr.&nbsp;Hussain | 🔴 12 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Last 7/27/26 |
-| <details><summary><b>J.S.</b></summary>John Snyder</details> | GRAFIX&nbsp;2x3 · Dr.&nbsp;Hussain | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
-| <details><summary><b>S.B.</b></summary>Shirley Ballard</details> | OASIS&nbsp;Ultra&nbsp;3x3.5 · Home&nbsp;Visit | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). Home visit patient |
+| <details><summary><b>J.R.</b></summary>James Roshbach</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>R.D.</b></summary>Roosevelt Dunlap</details> | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🟡 10 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>J.C.</b></summary>Jeffrey Chase</details> | Oasis&nbsp;Ultra&nbsp;7x20 · Dr.&nbsp;Hussain | 🔴 12 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Last 7/27/26 |
+| <details><summary><b>J.S.</b></summary>John Snyder</details> | GRAFIX&nbsp;2x3 · Dr.&nbsp;Hussain | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>S.B.</b></summary>Shirley Ballard</details> | OASIS&nbsp;Ultra&nbsp;3x3.5 · Home&nbsp;Visit | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Home visit patient |
 
 </details>
 
@@ -51,6 +51,15 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Y.L.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Grinberg<br>**Last&nbsp;graft&nbsp;9/29** | 🟢 1 | ON HOLD: infection on the right foot 10/5 (sent to the ER). Dr. Grinberg texted 10/12: he saw her and she's alright; he's working on the right foot for now and will say when he wants to graft the left foot again. A1 9/29 (PO YL092926). Seen at the Elmhurst office (183 W 1st St). 10/14: a 16mm from the Alexian WCC shelf is already at the office for her next application (not used yet).<br>_10/12:_ Grinberg texted 10/12 that he saw her today and she’s alright. He’s just working on right foot for now. Will let me know about when he wants to graft left foot again |
+| **Y.L.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Grinberg<br>**Last&nbsp;graft&nbsp;9/29** | 🟢 1 | ON HOLD: infection on the right foot 10/5 (sent to the ER). Dr. Grinberg texted 10/12: he saw her and she's alright; he's working on the right foot for now and will say when he wants to graft the left foot again. A1 9/29 (PO YL092926). Seen at the Elmhurst office (183 W 1st St). 10/14: a 16mm from the Alexian WCC shelf is already at the office for her next application (not used yet). |
+
+</details>
+
+<a name="romano-lombard"></a>
+<details open><summary><b>Romano Lombard</b> · 1</summary>
+
+| Patient | Graft · next visit | Apps | Notes |
+| :-- | :-- | :-- | :-- |
+| **??** | GRAFIX&nbsp;5x5&nbsp;(suggested) · Weekly · Dr.&nbsp;Rojas<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 0 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside.<br>_10/21:_ Moved to On hold (AJ 10/21); taken out of the projections. |
 
 </details>
