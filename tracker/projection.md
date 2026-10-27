@@ -2,9 +2,9 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:50 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 6:46 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -160,7 +160,7 @@ Sold so far: **\$15,307** · 6 cases
 <a name="x"></a>
 <details><summary><b>Alexian Ambulatory</b> · upside &#36;10,548 · downside &#36;10,548</summary>
 
-Sold so far: **\$10,548** · 3 cases
+Sold so far: **\$10,548** · 2 cases
 
 **Potential new starts**
 
