@@ -2,16 +2,16 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 102 patients · updated Tue 10/27, 4:50 PM CT
+**BIOT Chicago West** · 103 patients · updated Tue 10/27, 5:24 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;102](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -41,7 +41,7 @@
 | <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | Alexian WCC · Hussain | GRAFIX 16mm | Verify: same time as last week (Wed 10/21) — confirm with the office · usually Wed |
 | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | Alexian WCC · Hussain | OASIS Wound 3x7 (4 sheets) | Verify: same time as last week (Wed 10/21) — confirm with the office · usually Wed |
 | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | Alexian WCC · Joshi | OASIS Burn Oasis burn 3x7 | Verify: same time as last week (Mon 10/19) — confirm with the office · usually Mon |
-| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX | Last appt 10/26 passed, nothing new booked · usually Mon |
+| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX 1.5x2 | Verify: same weekday as A1 (Mon 10/26) — confirm the time with the office · usually Mon |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | Alexian WCC · Lucas | OASIS Wound 3x3.5 | Verify: same time as last week (Fri 10/23) — confirm with the office · usually Fri |
 | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | GRAFIX  | Verify: same time as last week (Wed 10/21) — confirm with the office |
 | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound 3x7 | Verify: same time as last week (Fri 10/23) — confirm with the office |
@@ -62,8 +62,8 @@
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details> | Good Sam · Bach | OASIS Ultra 7x10 (2 sheets per visit) suggested | 🔴 No start date |
 | <details><summary><b>P.P.</b></summary>P. Patrizi</details> | Good Sam · Patni | GRAFIX | A1 Tue 10/27 |
-| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX | A1 Mon 10/26 |
 | <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Alexian WCC · Joshi | Oasis Burn | A1 Tue 10/27 10:15 AM |
+| **M.A.** | NW Suburban F&A | GRAFIX 16mm suggested | A1 Fri 10/30 8:45 AM |
 
 <a name="pending"></a>
 

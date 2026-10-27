@@ -2,23 +2,23 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 4:50 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:24 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [Alexian WCC 🔴](#alexian) | [Good Sam WCC](#goodsamwcc) | [St. Alexius OR 🟠](#stalexius) | [Good Sam OR](#goodsamor) | [GlenOaks OR](#glenoaks) |
-| :-: | :-: | :-: | :-: | :-: |
-| Consignment shelf | Clinic stock (already sold) | Bill & replace | Consigned | Consigned, Bill Only |
+| [Alexian WCC 🔴](#alexian) | [Good Sam WCC](#goodsamwcc) | [St. Alexius OR 🟠](#stalexius) | [Good Sam OR](#goodsamor) | [GlenOaks OR](#glenoaks) | [Elmhurst OR](#elmhurst) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Consignment shelf | Clinic stock (already sold) | Bill & replace | Consigned | Consigned, Bill Only | Consigned + bought on PO |
 
 <a name="alexian"></a>
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 10/3/26 · 53 grafts · 30 OASIS sheets
+**Consignment shelf** · counted 10/3/26 · 49 grafts · 30 OASIS sheets
 
-53 Grafix units on hand (\$57,506 consignment). 1 size(s) to reorder now. \$7,980 expiring before it can be used.
+49 Grafix units on hand (\$53,861 consignment). 1 size(s) to reorder now. \$7,980 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment
@@ -28,42 +28,39 @@
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **16mm**<br>Grafix | **12**<br>target&nbsp;10⁠–⁠15 | 🟢 OK | 7/wk · 1.7 wks left · out week of 11/2 · next exp 1/13/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
-| **1.5x2**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 6/18/27 |
+| **16mm**<br>Grafix | **10**<br>target&nbsp;10⁠–⁠15 | 🟢 OK | 7/wk · 1.4 wks left · out week of 11/2 · next exp 1/13/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
+| **1.5x2**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 7.0 wks left · out week of 12/14 · next exp 6/18/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
 | **3x3**<br>Grafix | **5**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
 | **3x4**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🔴 7 expire before use | next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
-| **5x5**<br>Grafix | **11**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 11.0 wks left · out week of 1/11 · next exp 11/3/27 |
+| **5x5**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 10.0 wks left · out week of 1/4 · next exp 11/3/27 |
 | **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | 🟢 OK | 1/wk · 7.0 wks left · box of 10 · out week of 12/14 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
 | **3x7**<br>OASIS&nbsp;Wound | **17** sheets | 🟢 OK | 4/wk · 4.2 wks left · box of 10 · out week of 11/23<br><sub>Box of 10 on the shelf per AJ 10/5; lot and expiry to come with the photos</sub> |
 | **3x3.5**<br>OASIS&nbsp;Burn | **3** sheets | No patients on it | box of 5 · next exp 4/3/28 |
 | **3x7**<br>OASIS&nbsp;Burn | **2** sheets | 🟠 Reorder now · order 2 boxes | 2/wk · 1.0 wks left · box of 5 · out week of 11/2 · next exp 11/8/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
-<details><summary><b>Units on the shelf</b> · 53</summary>
+<details><summary><b>Units on the shelf</b> · 49</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Grafix | 1.5x2 | LYA-250668\_15009 | 6/18/27 |   | On shelf |   |
-| Grafix | 1.5x2 | LYA-250733\_15011 | 8/12/27 |   | On shelf |   |
-| Grafix | 1.5x2 | LYA-260068\_15003 | 11/25/27 |   | On shelf |   |
-| Grafix | 1.5x2 | LYA-260068\_15002 | 11/25/27 |   | On shelf |   |
-| Grafix | 1.5x2 | LYA-260068\_15005 | 11/25/27 |   | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15004 | 1/13/28 |   | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 |   | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 |   | On shelf |   |
+| Grafix | 1.5x2 | LYA-250668\_15009 | 6/18/27 | 11/3 | On shelf |   |
+| Grafix | 1.5x2 | LYA-250733\_15011 | 8/12/27 | 11/10 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260068\_15003 | 11/25/27 | 11/17 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260068\_15005 | 11/25/27 | 11/24 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15004 | 1/13/28 | 12/1 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 12/8 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/15 | On shelf |   |
 | Grafix | 16mm | LYA-260146\_16005 | 1/13/28 | 10/28 | On shelf |   |
 | Grafix | 16mm | LYA-260146\_16006 | 1/13/28 | 10/29 | On shelf |   |
 | Grafix | 16mm | LYA-260146\_16007 | 1/13/28 | 10/30 | On shelf |   |
 | Grafix | 16mm | LYA-260221\_16001 | 3/3/28 | 10/31 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16002 | 3/3/28 | 11/1 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16003 | 3/3/28 | 11/2 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16004 | 3/3/28 | 11/3 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16005 | 3/3/28 | 11/4 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16006 | 3/3/28 | 11/5 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16011 | 3/3/28 | 11/6 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16015 | 3/3/28 | 11/7 | On shelf |   |
-| Grafix | 16mm | LYA-260220\_16005 | 3/3/28 | 11/8 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16004 | 3/3/28 | 11/1 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16005 | 3/3/28 | 11/2 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16006 | 3/3/28 | 11/3 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16011 | 3/3/28 | 11/4 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16015 | 3/3/28 | 11/5 | On shelf |   |
+| Grafix | 16mm | LYA-260220\_16005 | 3/3/28 | 11/6 | On shelf |   |
 | Grafix | 2x3 | LYA-250516\_23003 | 5/2/27 |   | On shelf |   |
 | Grafix | 2x3 | LYA-250516\_23004 | 5/2/27 |   | On shelf |   |
 | Grafix | 2x3 | LYA-250558\_23005 | 6/9/27 |   | On shelf |   |
@@ -86,17 +83,16 @@
 | Grafix | 3x4 | LYA-250008\_34002 | 12/18/26 |   | On shelf | 🔴 Expires before use |
 | Grafix | 3x4 | LYA-250008\_34005 | 12/18/26 |   | On shelf | 🔴 Expires before use |
 | Grafix | 3x4 | LYA-250008\_34004 | 12/18/26 |   | On shelf | 🔴 Expires before use |
-| Grafix | 5x5 | LYA-250866\_55013 | 11/3/27 | 11/3 | On shelf |   |
-| Grafix | 5x5 | LYA-250866\_55014 | 11/3/27 | 11/10 | On shelf |   |
-| Grafix | 5x5 | LYA-250866\_55015 | 11/3/27 | 11/17 | On shelf |   |
-| Grafix | 5x5 | LYA-250866\_55002 | 11/3/27 | 11/24 | On shelf |   |
-| Grafix | 5x5 | LYA-250866\_55001 | 11/3/27 | 12/1 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55010 | 11/25/27 | 12/8 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55009 | 11/25/27 | 12/15 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55008 | 11/25/27 | 12/22 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55013 | 11/25/27 | 12/29 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55012 | 11/25/27 | 1/5 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55011 | 11/25/27 | 1/12 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55014 | 11/3/27 | 11/3 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55015 | 11/3/27 | 11/10 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55002 | 11/3/27 | 11/17 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55001 | 11/3/27 | 11/24 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55010 | 11/25/27 | 12/1 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55009 | 11/25/27 | 12/8 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55008 | 11/25/27 | 12/15 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55013 | 11/25/27 | 12/22 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55012 | 11/25/27 | 12/29 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55011 | 11/25/27 | 1/5 | On shelf |   |
 
 </details>
 
@@ -113,19 +109,19 @@
 
 </details>
 
-<details><summary><b>Patients using this shelf</b> · 16 active</summary>
+<details><summary><b>Patients using this shelf</b> · 17 active</summary>
 
 | Pt | Surgeon | Graft | Status | Use / wk | Note |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | **T.T.** | Lucas | Grafix 16mm | Done | — | Healed Tue 10/27 (not grafted): done after 7 applications (A7 10/6) |
 | **D.G.** | Lucas | Grafix 16mm | Active | 1 | Not grafted Tue 10/27 (held 10/13 and 10/20 too); still on 16mm weekly, next visit not booked yet |
-| **J.L.** | Lucas | Grafix 16mm | Active | 1 | A4 Tue 10/20 (16mm; case sheet and lot to come). A3 10/13 LYA-260174\_16008 (filed 10/14) |
+| **J.L.** | Lucas | Grafix 16mm | Active | 1 | A5 Tue 10/27 LYA-260221\_16003. A4 Tue 10/20 (16mm; case sheet and lot to come). A3 10/13 LYA-260174\_16008 |
 | **A.N.** | Joshi | Grafix 16mm | Done | — | Held 10/13 (wound very small) and 10/20 (not grafted): done after 4 applications |
 | **M.L.** | Joshi | Grafix 16mm | Active | 1 | A3 10/13 LYA-260174\_16007 (filed 10/14) |
 | **A.P.** | Hussain | Grafix 16mm | Active | 1 | A5 10/14 LYA-260146\_16008 (filed 10/14) |
 | **D.C.** | Adelstein | Grafix 16mm | Active | 1 | Held 10/15 (Caroline covered): wound got larger, getting a vascular consult · held 10/8 · down to 16mm as of 9/24 |
 | **V.D.** | Ramani | Grafix 16mm | Done | — | Done 10/9 after 6 applications |
-| **O.O.** | Vedantham | Grafix 16mm | Active | 1 | A2 Tue 10/20 (16mm; case sheet and lot to come). A1 10/13 LYA-260174\_16006 from the shelf; weekly |
+| **O.O.** | Vedantham | Grafix 16mm | Active | 1 | A3 Tue 10/27 LYA-260221\_16002. A2 Tue 10/20 (16mm; case sheet and lot to come). A1 10/13 LYA-260174\_16006 |
 | **J.C.** | Joshi | Grafix 16mm | Approved | — | Waiting on Mohs surgery |
 | **G.C.** | Joshi | Grafix | Pending | — | New 10/22 (pending); product and size not set, no visit booked. (Row was X.S., denied 10/11) |
 | **J.T.** | Lucas | Grafix | Done | — | Done per the Patients app (needed notes for prior auth; not grafting) |
@@ -135,8 +131,8 @@
 | **B.P.** | Joshi | OASIS Burn 3x7 | Active | 1 | Moved down to Burn 3x7 at A3 10/19 (never back up); A1 10/5 and A2 10/12 were Burn 5x7 meshed from the shelf. Shares the Burn 3x7 box with J.B. |
 | **J.B.** | Adelstein |   | Pending | — | New 10/15 (pending); product and size not set yet. Not the OASIS J.B. above |
 | **D.K.** | Halihan | Grafix 16mm | Active | 1 | Started: A1 Thu 10/22 1:15 PM, 16mm LYA-260221\_16012 from the WCC shelf (case sheet in the Patients app, filed 10/23; PO to come). Weekly |
-| **D.S.** | Joshi | Grafix 5x5 | Active | 1 | Started: A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 (sticker in the Patients app; case sheet and PO to come — the unit still shows On shelf below until the case is filed). Not the OASIS D.S. above |
-| **C.P.** | Joshi | Grafix | Approved | — | Approved 10/20 (IVR); first visit Mon 10/26, size TBD |
+| **D.S.** | Joshi | Grafix 5x5 | Active | 1 | A2 Tue 10/27 LYA-250866\_55013. A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 |
+| **C.P.** | Joshi | Grafix 1.5x2 | Active | 1 | Started: A1 Mon 10/26, 1.5x2 LYA-260068\_15002 from the WCC shelf (case sheet 10/27) |
 | **D.L.** | Joshi | OASIS Burn | Approved | — | Approved 10/20; not grafted Tue 10/20 (out-of-pocket too high, office checking); next Tue 10/27 10:15 AM (verify with the office). OASIS suggested |
 | **E.N.** | Turayhi | Grafix | Pending | — | New 10/19 (pending); seen Wed 10/21 9:15 AM, next Wed 10/28 9:15 AM (verify with the office); OASIS suggested |
 | **V.T.** | Halihan | Grafix | Pending | — | New 10/19 (pending); no visit booked |
@@ -153,7 +149,7 @@
 
 </details>
 
-<details><summary><b>Used since the count</b> · 15</summary>
+<details><summary><b>Used since the count</b> · 19</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
@@ -162,8 +158,10 @@
 | LYA-260159\_16028 | Grafix 16mm | Used Oct |
 | LYA-260159\_16026 | Grafix 16mm | Used Oct |
 | LYA-260017\_16014 | Grafix 16mm | Used Oct |
+| LYA-260068\_15002 | Grafix 1.5x2 | Used Oct |
 | LYA-250008\_34006 | Grafix 3x4 | Used Oct |
 | LYA-250866\_55009 | Grafix 5x5 | Used Oct |
+| LYA-250866\_55013 | Grafix 5x5 | Used Oct |
 | LYA-260174\_16009 | Grafix 16mm | Used Oct |
 | LYA-260174\_16010 | Grafix 16mm | Used Oct |
 | LYA-260174\_16006 | Grafix 16mm | Used Oct |
@@ -171,6 +169,8 @@
 | LYA-260146\_16008 | Grafix 16mm | Used Oct |
 | LYA-260174\_16007 | Grafix 16mm | Used Oct |
 | LYA-260174\_16008 | Grafix 16mm | Used Oct |
+| LYA-260221\_16002 | Grafix 16mm | Used Oct |
+| LYA-260221\_16003 | Grafix 16mm | Used Oct |
 | LYA-260221\_16012 | Grafix 16mm | Used Oct |
 
 </details>
@@ -191,13 +191,13 @@ OASIS is counted in sheets and bought by the box, so update Sheets left when you
 
 ## Good Sam WCC
 
-**Clinic stock (already sold)** · 7 grafts · 1 OASIS sheet
+**Clinic stock (already sold)** · 13 grafts · 1 OASIS sheet
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **5x5**<br>Grafix | **1** | — | 1 projected use through 10/31 · PO006025726 (10/9) + PO006063828 (10/16)<br><sub>PO006025726 shipped 10/9: 2 x 5x5 (K.P. used one on 10/15, A7) + PO006063828 shipped 10/16: 1 x 5x5 (LYA-260362\_55004), both in October sales = 2; D.F. used on…</sub> |
-| **16mm**<br>Grafix | **3** | — | 2 projected use through 10/31 · PO005986967 + PO006025726 + PO006063828<br><sub>Shelf count 10/6: 5 x 16mm.</sub> |
-| **3x4**<br>Grafix | **3** | — | 0 projected use through 10/31 · PO005986967 + earlier<br><sub>Shelf count 10/6: 4 x 3x4 (LYA-250567\_34002, \_34003 exp 6/9/27; LYA-250353\_34003, \_34004 exp 3/24/27).</sub> |
+| **5x5**<br>Grafix | **2** | — | 1 projected use through 10/31 · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23)<br><sub>PO006025726 shipped 10/9: 2 x 5x5 (K.P. used one on 10/15, A7) + PO006063828 shipped 10/16: 1 x 5x5 (LYA-260362\_55004) = 2; D.F. used one on 10/22 (A4) = 1; + …</sub> |
+| **16mm**<br>Grafix | **6** | — | 2 projected use through 10/31 · PO005986967 + PO006025726 + PO006063828 + PO006102148<br><sub>Shelf count 10/6: 5 x 16mm.</sub> |
+| **3x4**<br>Grafix | **5** | — | 0 projected use through 10/31 · PO005986967 + earlier + PO006102148 (10/23)<br><sub>Shelf count 10/6: 4 x 3x4.</sub> |
 | **3x3.5**<br>OASIS&nbsp;Wound | **1** sheet | — | box of 10<br><sub>L.J. used 2 sheets on 10/21 (A3, with the last 7x10 Ultra), so 1 sheet left on the Good Sam shelf (lot LB1641553, exp 7/28/27).</sub> |
 | **7x10 meshed**<br>OASIS&nbsp;Ultra | **0** sheets | — | box of 5<br><sub>Good Sam isn't ordering more OASIS Ultra 7x10 (AJ 10/21), so no reorder is projected (upside or downside).</sub> |
 
@@ -211,18 +211,19 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 ## St. Alexius OR
 
-**Bill & replace** · counted 10/7/26 · 15 grafts
+**Bill & replace** · counted 10/7/26 · 12 grafts
 
 > [!WARNING]
+> - **Stravix 3x6: 4 on the shelf (target 7)**
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **7**<br>target&nbsp;7 | — | next exp 11/3/27 |
-| **3x6**<br>Stravix | **7**<br>target&nbsp;7 | — | +1 incoming · next exp 7/7/27<br><sub>+3 replacements coming (A.B. 10/7 on PO …502; V.M. 10/22 x2, PO to come)</sub> |
+| **3x6**<br>Stravix | 🟠 **4**<br>target&nbsp;7 | — | +4 incoming · next exp 7/7/27<br><sub>+4 replacements coming (A.B. 10/7 on PO …502; Dr. Liao 10/16 on PO …3434; V.M. 10/22 x2 on PO …3523)</sub> |
 | **2x4**<br>Stravix | 🟠 **1**<br>target&nbsp;7 | — | next exp 8/18/27 |
 
-<details><summary><b>Units on the shelf</b> · 15</summary>
+<details><summary><b>Units on the shelf</b> · 12</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -234,21 +235,31 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 | Grafix | 5x5 | LYA-260018\_55010 | 11/25/27 |   | On shelf |   |
 | Grafix | 5x5 | LYA-260018\_55011 | 11/25/27 |   | On shelf |   |
 | Stravix | 2x4 | LYU-251818\_24004 | 8/18/27 |   | On shelf |   |
-| Stravix | 3x6 | LYU-251430\_36002 | 7/7/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-251434\_36001 | 7/7/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-251434\_36002 | 7/7/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-251434\_36003 | 7/7/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-251434\_36004 | 7/7/27 |   | On shelf |   |
-| Stravix | 3x6 | LYU-251691\_36001 | 8/11/27 |   | Used 10/22 (V.M., Dr. Singh) |   |
-| Stravix | 3x6 | LYU-251691\_36002 | 8/11/27 |   | Used 10/22 (V.M., Dr. Singh) |   |
 
 </details>
 
-<details><summary><b>Incoming</b> · 1</summary>
+<details><summary><b>Incoming</b> · 4</summary>
 
 | Product | Size |  |
 | :-- | :-- | :-- |
 | Stravix | 3x6 | lot/SN when it arrives |
+| Stravix | 3x6 | lot/SN when it arrives |
+| Stravix | 3x6 | lot/SN when it arrives |
+| Stravix | 3x6 | lot/SN when it arrives |
+
+</details>
+
+<details><summary><b>Used since the count</b> · 3</summary>
+
+| Lot / SN | Graft | Status |
+| :-- | :-- | :-- |
+| LYU-251430\_36002 | Stravix 3x6 | Used 10/16 (Dr. Liao, likely; SFDC 10/22 on PO …3434) |
+| LYU-251691\_36001 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) |
+| LYU-251691\_36002 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) |
 
 </details>
 
@@ -338,5 +349,48 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 <details><summary><b>About this shelf</b></summary>
 
 Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit used is billed on a Bill Only PO, so it counts as a sale when used (no projection offset). Count from AJ 10/8 (after F.M.'s 10/7 case): 7 Stravix 2x4, 5 Stravix 3x6. Lot/SN to be added from a shelf photo.
+
+</details>
+
+<a name="elmhurst"></a>
+
+## Elmhurst OR
+
+**Consigned + bought on PO** · counted 10/11/26 · 3 grafts
+
+| Size | On hand | Status | Use and dates |
+| :-- | --: | :-- | :-- |
+| **3x6**<br>Stravix | **2** | — | +1 incoming · next exp 4/15/27 |
+| **2x4**<br>Stravix | **1** | — | next exp 6/9/27 |
+
+<details><summary><b>Units on the shelf</b> · 3</summary>
+
+| Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Stravix | 2x4 | LYU-251109\_24001 | 6/9/27 |   | On shelf |   |
+| Stravix | 3x6 | LYU-250920\_36004 | 4/15/27 |   | On shelf |   |
+| Stravix | 3x6 | LYU-250920\_36006 | 4/15/27 |   | On shelf |   |
+
+</details>
+
+<details><summary><b>Incoming</b> · 1</summary>
+
+| Product | Size |  |
+| :-- | :-- | :-- |
+| Stravix | 3x6 | lot/SN when it arrives |
+
+</details>
+
+<details><summary><b>Used since the count</b> · 1</summary>
+
+| Lot / SN | Graft | Status |
+| :-- | :-- | :-- |
+| LYU-250920\_36005 | Stravix 3x6 | Used 10/26 (P.C., Dr. McGann) |
+
+</details>
+
+<details><summary><b>About this shelf</b></summary>
+
+Stravix on the OR shelf at Elmhurst Memorial Hospital (acct 187019). Customer consignment per the BIOT Chicago district consignment report (10/11): Stravix 3x6 LYU-250920\_36004, \_36005, \_36006 (exp 4/15/27) and Stravix 2x4 LYU-251109\_24001 (exp 6/9/27). A consigned unit used in a case is billed on its own Elmhurst PO, so it counts as a sale when used. LYU-250920\_36005 was used 10/26 (P.C., Dr. McGann). Elmhurst also bought 1 Stravix 3x6 on PO P2350677 (standalone sales order 10/27, FedEx Priority): a sale when it ships (October), so a case that uses that unit adds no new sale.
 
 </details>
