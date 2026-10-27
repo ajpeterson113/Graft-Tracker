@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:35 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:39 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -36,25 +36,25 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/27 | [O.O.](../case-sheets/oo-1027.md) | Alexian WCC · Vedantham | Grafix 16mm | 660040000286196 | \$360 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 7 · \$10,680
+## 🟡 Waiting on a PO · 6 · \$8,355
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
 | 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 41 days | 0003068368 | \$600 |
 | 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 18 days |   | \$1,020 |
 | 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🟠 13 days |   | \$190 |
-| 10/20 | D.S. | Alexian WCC · Joshi | Grafix 5x5 | 🟠 7 days |   | \$2,325 |
 | 10/22 | H.P. | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | 🟠 5 days |   | \$1,104 |
 | 10/26 | [P.C.](../case-sheets/pc-1026.md) | Elmhurst · McGann | Stravix 3x6 | 🟠 1 day |   | \$3,115.50 |
 | 10/27 | [D.S.](../case-sheets/ds-1027.md) | Alexian WCC · Joshi | Grafix 5x5 | — |   | \$2,325 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 4 · \$3,686
+## 🔵 Submitted, not in SFDC yet · 5 · \$6,011
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
 | Date | Pt | Account | Graft | PO | Amount |
 | :-- | :-- | :-- | :-- | :-- | --: |
+| 10/20 | D.S. | Alexian WCC · Joshi | Grafix 5x5 | …285609 | \$2,325 |
 | 10/27 | — | Elmhurst | Stravix 3x6 (shelf stock) | P2350677 | \$3,115.50 |
 | 10/30 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS103026 | \$190 |
 | 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | \$190 |
