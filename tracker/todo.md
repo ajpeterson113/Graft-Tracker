@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:47 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 5:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -66,7 +66,7 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | Date | Pt | Account | Graft | Why |
 | :-- | :-- | :-- | :-- | :-- |
 | 10/20 | J.L. | Alexian WCC · Lucas | Grafix 16mm | PO match: Not certain |
-| 10/20 | O.O. | Alexian WCC · Vedantham | Grafix 16mm | PO match: Not certain |
+| 10/20 | O.O. | Alexian WCC · Vedantham | Grafix 16mm | Status unclear, open to check |
 | 10/20 | M.L. | Alexian WCC · Joshi | Grafix 16mm | PO match: Not certain |
 | 10/21 | A.P. | Alexian WCC · Hussain | Grafix 16mm | PO match: Not certain |
 
