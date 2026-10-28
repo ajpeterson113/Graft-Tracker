@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:22 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:38 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -115,7 +115,7 @@
 | **D.G.** | Lucas | Grafix 16mm | Active | 1 | Not grafted Tue 10/27 (held 10/13 and 10/20 too); still on 16mm weekly, next visit not booked yet |
 | **J.L.** | Lucas | Grafix 16mm | Active | 1 | A5 Tue 10/27 LYA-260221\_16003. A4 Tue 10/20 LYA-260146\_16007 (case sheet 10/27). A3 10/13 LYA-260174\_16008 |
 | **A.N.** | Joshi | Grafix 16mm | Done | — | Held 10/13 (wound very small) and 10/20 (not grafted): done after 4 applications |
-| **M.L.** | Joshi | Grafix 16mm | Active | 1 | A4 Tue 10/20 LYA-260146\_16005 (case sheet 10/27). A3 10/13 LYA-260174\_16007 (filed 10/14) |
+| **M.L.** | Joshi | Grafix 16mm | Active | 1 | A5 Tue 10/27 (found on PO …286199; lot to come). A4 Tue 10/20 LYA-260146\_16005 (case sheet 10/27). A3 10/13 LYA-260174\_16007 (filed 10/14) |
 | **A.P.** | Hussain | Grafix 16mm | Active | 1 | A6 Wed 10/21 LYA-260159\_16003 (case sheet 10/27). A5 10/14 LYA-260146\_16008 (filed 10/14) |
 | **D.C.** | Adelstein | Grafix 16mm | Active | 1 | Held 10/15 (Caroline covered): wound got larger, getting a vascular consult · held 10/8 · down to 16mm as of 9/24 |
 | **V.D.** | Ramani | Grafix 16mm | Done | — | Done 10/9 after 6 applications |

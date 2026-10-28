@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 103 patients · updated Tue 10/27, 7:22 PM CT
+**BIOT Chicago West** · 103 patients · updated Tue 10/27, 7:38 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
@@ -26,7 +26,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 23
+## 🔴 No Follow-Up · 24
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -42,6 +42,7 @@
 | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | Alexian WCC · Hussain | OASIS Wound 3x7 (4 sheets) | Verify: same time as last week (Wed 10/21) — confirm with the office · usually Wed |
 | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | Alexian WCC · Joshi | OASIS Burn Oasis burn 3x7 | Verify: same time as last week (Mon 10/19) — confirm with the office · usually Mon |
 | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX 1.5x2 | Verify: same weekday as A1 (Mon 10/26) — confirm the time with the office · usually Mon |
+| <details><summary><b>M.L.</b></summary>Mariam Lopez</details> | Alexian WCC · Joshi | GRAFIX 16mm | Verify: same time as last week (Tue 10/27) — confirm with the office · usually Tue |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | Alexian WCC · Lucas | OASIS Wound 3x3.5 | Verify: same time as last week (Fri 10/23) — confirm with the office · usually Fri |
 | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | GRAFIX  | Verify: same time as last week (Wed 10/21) — confirm with the office |
 | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound 3x7 | Verify: same time as last week (Fri 10/23) — confirm with the office |

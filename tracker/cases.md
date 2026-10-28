@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:22 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:38 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,7 +13,7 @@
 <a name="2026-10"></a>
 ## P10 · October
 
-**82 entries · \$133,634** · 🟢 16 Ready · 🟡 6 Needs PO · 🔵 11 Submitted · 🟤 1 Clinic stock · ⚪ 48 In SFDC
+**83 entries · \$133,994** · 🟢 16 Ready · 🟡 6 Needs PO · 🔵 11 Submitted · 🔴 1 Check · 🟤 1 Clinic stock · ⚪ 48 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
@@ -24,6 +24,7 @@
 |   | [**O.O.**](../case-sheets/oo-1027.md) 📄 · Alexian WCC · Vedantham<br>Grafix 16mm · PO 660040000286196 · LYA-260221\_16002<details><summary><sub>Notes</sub></summary>App #3, Tue 10/27 12:50 PM, Dr. Vedantham ("Dr. V" on the sheet): 16mm LYA-260221\_16002 (exp 3/3/28) from the Alexian WCC shelf, \$360. Case sheet photo sent 10/27. PO (bill only, by patient ID) to come. PO 660040000286196 (10/27, bill only; patient ID 0003052679, DOS 10/27, Dr. Vedantham, 16mm \$360) per the PO PDF uploaded in the app 10/27</details> | \$360 | 🟢&nbsp;Ready |
 |   | [**D.S.**](../case-sheets/ds-1027.md) 📄 · Alexian WCC · Joshi<br>Grafix 5x5 · no PO yet · LYA-250866\_55013<details><summary><sub>Notes</sub></summary>App #2, Tue 10/27 9:15 AM, Dr. Joshi: 5x5 LYA-250866\_55013 (exp 11/3/27) from the Alexian WCC shelf, \$2,325 (Alexian 5x5 rate). Case sheet photo sent 10/27. PO (bill only, by patient ID) to come</details> | \$2,325 | 🟡&nbsp;Needs&nbsp;PO |
 |   | **Stravix 3x6 (shelf stock)** · Elmhurst<br>PO P2350677<details><summary><sub>Notes</sub></summary>Standalone sales order 10/27 (AJ): Elmhurst bought 1 Stravix 3x6 for its shelf on PO P2350677 (FedEx Priority), \$3,115.50 at the Elmhurst rate. Not a patient case and separate from P.C.'s 10/26 case (row 78, still waiting on its own PO). Shows in SFDC 10/28 (AJ). On the Elmhurst OR Stock tab as incoming; a later case that uses this unit adds no new sale</details> | \$3,115.50 | 🔵&nbsp;Submitted |
+|   | **M.L.** · Alexian WCC · Joshi<br>Grafix 16mm · PO 660040000286199<details><summary><sub>Notes</sub></summary>A5 Tue 10/27, Dr. Joshi: found on PO 660040000286199 (10/27, bill only; patient ID 0003052747 = M.L., DOS 10/27, Dr. Joshi, 16mm \$360), PO PDF sent in chat 10/27. 16mm from the Alexian WCC shelf. Not logged in the Patients app and no case sheet/lot on file yet, so Not certain until the case sheet comes</details> | \$360 | 🔴&nbsp;Check<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 | **10/26** | [**C.P.**](../case-sheets/cp-1026.md) 📄 · Alexian WCC · Joshi<br>Grafix 1.5x2 · PO 660040000286148 · LYA-260068\_15002<details><summary><sub>Notes</sub></summary>App #1 (first application), Mon 10/26, Dr. Joshi: 1.5x2 LYA-260068\_15002 (exp 11/25/27) from the Alexian WCC shelf, \$600 (Alexian 1.5x2 rate). Started on 1.5x2, not the 16mm the projection assumed. Case sheet photo sent 10/27; the WCC application log shows the same sticker as graft #1 and Alexian ID 0002759724. PO (bill only, by patient ID) to come. PO 660040000286148 (10/27, bill only; patient ID 0002759724, DOS 10/26, Dr. Joshi, 1.5x2 \$600) per the PO PDF uploaded in the app 10/27</details> | \$600 | 🟢&nbsp;Ready |
 |   | [**P.C.**](../case-sheets/pc-1026.md) 📄 · Elmhurst · McGann<br>Stravix 3x6 · no PO yet · LYU-250920\_36005<details><summary><sub>Notes</sub></summary>OR case Mon 10/26 7:30 AM at Elmhurst (Dr. McGann): P.C.'s second round of Stravix (separate case; round 1 was 9/28, row 15). Stravix 3x6 LYU-250920\_36005 (exp 4/15/27), \$3,115.50 (Elmhurst rate). Case sheet made 10/27 from AJ's sticker photo in the Patients app (case-sheets/pc-1026). PO to come. From Elmhurst's own consignment (187019 on the district consignment report, with LYU-250920\_36004 and \_36006), so no transfer (round 1 needed one)</details> | \$3,115.50 | 🟡&nbsp;Needs&nbsp;PO |
 |   | **P.S.** · NW Suburban F&A · Goldkind<br>Grafix 16mm · PO PS102626 · LYA-260243\_16008<details><summary><sub>Notes</sub></summary>16mm for P.S.'s Mon 10/26 visit (A4; not logged in the Patients app yet) on PO PS102626: in SFDC 10/21 (inv 0985851122, LYA-260243\_16008). Found on AJ's SFDC dashboard export 10/27 (\$102,365.35 P10 to 10/23); it wasn't in the tracker before</details> | \$190 | ⚪&nbsp;In&nbsp;SFDC |

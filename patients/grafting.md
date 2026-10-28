@@ -2,13 +2,13 @@
 
 # Grafting
 
-**BIOT Chicago West** · 103 patients · updated Tue 10/27, 7:22 PM CT
+**BIOT Chicago West** · 103 patients · updated Tue 10/27, 7:38 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 **Grafting 38** · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
@@ -36,7 +36,6 @@
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>D.G.</b></summary>Diane Grunder</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;10/27&nbsp;9:00&nbsp;AM** | 🟢 3 of 8 | Not grafted Tue 10/27 9:00 AM (also held 10/13 and 10/20). Next visit not booked yet. A3 10/6 (LYA-260017\_16014, PO …284776 received 10/9). |
 | <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;10/27&nbsp;12:50&nbsp;PM** | 🟢 4 of 8 | Next assumed Tue 10/27 12:50 PM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. A4 10/6 (LYA-260159\_16026, PO …284482). |
-| <details><summary><b>M.L.</b></summary>Mariam Lopez</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;10/27&nbsp;1:30&nbsp;PM** | 🟢 4 of 8 | A4 Tue 10/20: 16mm LYA-260146\_16005 (case sheet photo 10/27, PO …285612). Next assumed Tue 10/27 2:30 PM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. A3 Tue 10/13: 16mm LYA-260174\_16007 (PO …285020). A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
 | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x7&nbsp;(4&nbsp;sheets) · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/28&nbsp;1:45&nbsp;PM** | 🟢 3 of 8 | 🔴 Verify: same time as last week (Wed 10/21) — confirm with the office<br>Next assumed Wed 10/28 1:45 PM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
 | <details><summary><b>A.P.</b></summary>Aldo Perellu</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;10/28&nbsp;2:00&nbsp;PM** | 🟢 6 of 8 | 🔴 Verify: same time as last week (Wed 10/21) — confirm with the office<br>A6 Wed 10/21: 16mm LYA-260159\_16003 (case sheet photo 10/27, PO …285709). Next assumed Wed 10/28 2:00 PM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. A5 Wed 10/14 2:00 PM: 16mm LYA-260146\_16008 (PO …285130, case sheet ap-1014). A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
 | <details><summary><b>J.B.</b></summary>Jozef B.</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/29&nbsp;8:20&nbsp;AM** | 🟢 3 of 8 | 🔴 Verify: same time as last week (Thu 10/22) — confirm with the office<br>Next assumed Thu 10/29 8:20 AM (same time as the Thu 10/22 visit; AJ 10/25) — verify with the office. A3 10/8: OASIS Burn 3x7 from the WCC shelf. |
@@ -47,6 +46,7 @@
 | <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;11/3&nbsp;9:15&nbsp;AM** | 🟢 2 of 8 | A2 Tue 10/27 9:15 AM: Grafix 5x5 LYA-250866\_55013 from the WCC shelf (case sheet photo 10/27, PO to come). A1 Tue 10/20: 5x5 LYA-250866\_55009. Weekly. |
 | <details><summary><b>J.L.</b></summary>J. Leamann</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;11/3&nbsp;9:40&nbsp;AM** | 🟢 5 of 8 | A5 Tue 10/27 9:40 AM: 16mm LYA-260221\_16003 (case sheet photo 10/27, PO to come). A4 Tue 10/20: 16mm LYA-260146\_16007 (case sheet photo 10/27, PO …285610). A3 Tue 10/13: 16mm LYA-260174\_16008 (PO …285019; Pete covered). A2 10/6 (LYA-260159\_16001, PO …284467). Alexian WCC stops at 8. |
 | <details><summary><b>O.O.</b></summary>Omar Osama</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Next&nbsp;Tue&nbsp;11/3&nbsp;12:50&nbsp;PM** | 🟢 3 of 8 | A3 Tue 10/27 12:50 PM: 16mm LYA-260221\_16002 (PO …286196). A2 Tue 10/20: 16mm LYA-260146\_16006 (case sheet photo sent 10/27, PO …285611). A1 Tue 10/13: 16mm LYA-260174\_16006 (PO …285021). |
+| <details><summary><b>M.L.</b></summary>Mariam Lopez</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;11/3&nbsp;1:30&nbsp;PM** | 🟢 5 of 8 | 🔴 Verify: same time as last week (Tue 10/27) — confirm with the office<br>A5 Tue 10/27: 16mm on PO …286199 (found on the Alexian PO; not logged at the visit, lot not on file). A4 Tue 10/20: 16mm LYA-260146\_16005 (case sheet photo 10/27, PO …285612). Next assumed Tue 11/3 1:30 PM (same time as 10/27) — verify with the office. A3 Tue 10/13: 16mm LYA-260174\_16007 (PO …285020). A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). |
 | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Burn&nbsp;Oasis&nbsp;burn&nbsp;3x7 · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Mon&nbsp;10/26&nbsp;1:20&nbsp;PM** | 🟢 3 of 8 | 🔴 Verify: same time as last week (Mon 10/19) — confirm with the office<br>Next assumed Mon 10/26 1:20 PM (same time as the Mon 10/19 visit; AJ 10/25) — verify with the office. A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
 
 </details>

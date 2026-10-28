@@ -2,16 +2,16 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:22 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:38 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (October tab) | \$133,634 | \$133,634 |
-| \+ Projected Grafix, net of WCC stock | \$15,221 | \$10,971 |
+| Sold so far (October tab) | \$133,994 | \$133,994 |
+| \+ Projected Grafix, net of WCC stock | \$14,861 | \$10,611 |
 | \+ Upcoming Stravix | \$0 | \$0 |
 | \+ Potential new starts | \$0 | \$0 |
 | \+ OASIS reorders (estimated) | \$3,369 | \$0 |
@@ -32,7 +32,7 @@
 | :-- | --: | --: | --: | --: | --: |
 | [Good Sam](#good-sam) | \$38,892 | \$0 | \$0 | **\$38,892** | **\$38,892** |
 | [Central DuPage](#central-dupage) | \$19,800 | \$12,665 | \$8,415 | **\$32,465** | **\$28,215** |
-| [Alexian WCC](#alexian-wcc) | \$18,016 | \$2,910 | \$1,440 | **\$20,926** | **\$19,456** |
+| [Alexian WCC](#alexian-wcc) | \$18,376 | \$2,550 | \$1,080 | **\$20,926** | **\$19,456** |
 | [St. Alexius](#st-alexius) | \$15,307 | \$0 | \$0 | **\$15,307** | **\$15,307** |
 | [Alexian Ambulatory](#x) | \$10,548 | \$0 | \$0 | **\$10,548** | **\$10,548** |
 | [Elmhurst](#elmhurst) | \$9,347 | \$0 | \$0 | **\$9,347** | **\$9,347** |
@@ -42,7 +42,7 @@
 | [Romano Lombard](#romano-lombard) | \$380 | \$0 | \$0 | **\$380** | **\$380** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$133,634** | **\$18,589** | **\$10,971** | **\$152,223** | **\$144,605** |
+| **Total** | **\$133,994** | **\$18,229** | **\$10,611** | **\$152,223** | **\$144,605** |
 
 
 ## Account by account
@@ -107,7 +107,7 @@ Sold so far: **\$19,800** · 9 cases
 <a name="alexian-wcc"></a>
 <details><summary><b>Alexian WCC</b> · upside &#36;20,926 · downside &#36;19,456</summary>
 
-Sold so far: **\$18,016** · 32 cases
+Sold so far: **\$18,376** · 33 cases
 
 **Weekly and biweekly patients**
 
@@ -116,7 +116,7 @@ Sold so far: **\$18,016** · 32 cases
 | **T.T. · Dr. Lucas** | Healed Tue 10/27 (not grafted, per the Patients app): done after 7 applications, so nothing more is projected. | — | — |   |
 | **D.G. · Dr. Lucas** | Not grafted Tue 10/27 (logged in the Patients app, no note), so nothing more in P10; next assumed Tue 11/3 (weekly). | — | — |   |
 | **J.L. · Dr. Lucas** | A5 Tue 10/27 filed (LYA-260221\_16003). | — | — |   |
-| **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | A4 Tue 10/20 (LYA-260146\_16005, PO …285612, case sheet 10/27) is in October sales. |
+| **M.L. · Dr. Joshi** | A5 Tue 10/27 found on PO …286199 (not logged in the app; lot to come), in October sales. | — | — |   |
 | **A.N. · Dr. Joshi** | Held Tue 10/13 (wound very small) and Tue 10/20 (not grafted): done after 4 applications, nothing projected (upside or downside). | — | — |   |
 | **D.C. · Dr. Adelstein** | 16mm · Weekly · 1 visit | \$360 | \$360 | Held 10/8 and Thu 10/15 (Caroline covered): wound got larger, vascular consult. |
 | **A.P. · Dr. Hussain** | 16mm · Weekly · 1 visit | \$360 | \$360 | A6 Wed 10/21 (LYA-260159\_16003, PO …285709, case sheet 10/27) is in October sales. |
@@ -276,7 +276,7 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 27 | \$19,687 | \$15,437 |
+| Weekly and biweekly patients | 27 | \$19,327 | \$15,077 |
 | Less Good Sam WCC stock already sold | 4 | -\$4,467 | -\$4,467 |
 | Upcoming Stravix | 2 | \$0 | \$0 |
 | Potential new starts | 10 | \$0 | \$0 |

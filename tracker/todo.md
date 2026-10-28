@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:22 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:38 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -63,8 +63,15 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | \$190 |
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | \$190 |
 
+<a name="look"></a>
+## 🔴 Needs a look · 1
+
+| Date | Pt | Account | Graft | Why |
+| :-- | :-- | :-- | :-- | :-- |
+| 10/27 | M.L. | Alexian WCC · Joshi | Grafix 16mm | PO match: Not certain |
+
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 8
+## ⏳ Case sheets to come · 9
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -78,6 +85,7 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/30 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS103026 | Coming up Fri 10/30 |
 | 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | Coming up Fri 10/30 |
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | Coming up Mon 11/2 |
+| 10/27 | M.L. | Alexian WCC · Joshi | Grafix 16mm | …286199 | Seen Tue 10/27 |
 
 <a name="stock"></a>
 ## 📦 Stock · 5
@@ -92,6 +100,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 33
+## 👥 Patients · 34
 
-2 to verify · 23 with no follow-up booked · 11 IVRs to follow up → [Patient to-do](../patients/todo.md)
+2 to verify · 24 with no follow-up booked · 11 IVRs to follow up → [Patient to-do](../patients/todo.md)

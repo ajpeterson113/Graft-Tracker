@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 103 patients · updated Tue 10/27, 7:22 PM CT
+**BIOT Chicago West** · 103 patients · updated Tue 10/27, 7:38 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 22](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
@@ -42,7 +42,7 @@
 <a name="tue"></a>
 ### Tuesday, Oct 27 · Today
 
-12 visits · 5 logged · **Grafts:** GRAFIX 16mm ×2 · GRAFIX 3x3 ×2 · GRAFIX · OASIS Ultra 3x7 · Oasis Burn
+12 visits · 6 logged · **Grafts:** GRAFIX 3x3 ×2 · GRAFIX · GRAFIX 16mm · OASIS Ultra 3x7 · Oasis Burn
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
@@ -56,7 +56,7 @@
 | **11:30&nbsp;AM** | <details><summary><b>F.A.</b></summary>Frank Auman</details> | **A13** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 | **12:50&nbsp;PM** | <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **12:50&nbsp;PM** | <details><summary><b>O.O.</b></summary>Omar Osama</details> | **A3** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham | ✅ Grafted A3 · LYA-260221\_16002; PO 660040000286196 (bill only) |
-| **1:30&nbsp;PM** | <details><summary><b>M.L.</b></summary>Mariam Lopez</details> | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
+| **1:30&nbsp;PM** | <details><summary><b>M.L.</b></summary>Mariam Lopez</details> | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ✅ Grafted A5 · PO 660040000286199 (bill only); found on the Alexian PO, not logged at the visit; lot not on file |
 | — | <details><summary><b>P.P.</b></summary>P. Patrizi</details> | **A1 · New start** · GRAFIX | Good&nbsp;Sam<br>Dr.&nbsp;Patni | 🔴&nbsp;No&nbsp;time |
 
 
@@ -134,7 +134,7 @@
 | **All clinics** | **7** | **12** | **6** | **12** | **6** | **43** | GRAFIX 16mm ×12 · OASIS Wound 3x3.5 ×7 · OASIS Wound 3x7 ×5 · GRAFIX ×3 · OASIS Ultra 3x3.5 ×3 · GRAFIX 3x3 ×2 · GRAFIX 5x5 ×2 · OASIS Ultra 3x7 ×2 · GRAFIX 1.5x2 ×1 · GRAFIX 2x 5x5 + 3x4 ×1 · GRAFIX/Oasis ×1 · OASIS Burn 3x7 ×1 · OASIS Burn Oasis burn 3x7 ×1 · OASIS Ultra 7x10, and two oasis Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · Oasis Burn ×1 · STRAVIX 3x6 ×1 |
 
 
-<details><summary><b>Next week</b> · 7 visits booked so far</summary>
+<details><summary><b>Next week</b> · 8 visits booked so far</summary>
 
 <a name="next-mon"></a>
 ### Monday, Nov 2
@@ -160,13 +160,14 @@
 <a name="next-tue"></a>
 ### Tuesday, Nov 3
 
-3 visits · **Grafts:** GRAFIX 16mm ×2 · GRAFIX 5x5
+4 visits · **Grafts:** GRAFIX 16mm ×3 · GRAFIX 5x5
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **9:15&nbsp;AM** | <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | **A3** · GRAFIX 5x5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Mallory |   |
 | **9:40&nbsp;AM** | <details><summary><b>J.L.</b></summary>J. Leamann</details> | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria |   |
 | **12:50&nbsp;PM** | <details><summary><b>O.O.</b></summary>Omar Osama</details> | **A4** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham · MA&nbsp;Maria |   |
+| **1:30&nbsp;PM** | <details><summary><b>M.L.</b></summary>Mariam Lopez</details> | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 
 
 🔴 **No follow-up · usually seen Tuesdays** · 1
