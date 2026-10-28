@@ -2,24 +2,25 @@
 
 # OR
 
-**BIOT Chicago West** · 103 patients · updated Tue 10/27, 8:08 PM CT
+**BIOT Chicago West** · 104 patients · updated Tue 10/27, 8:14 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;104](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · **OR 22** · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 13](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · **OR 23** · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 10</summary>
+<details open><summary><b>Good Sam</b> · 11</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| **Upcoming · Dr. Luetkehans** | STRAVIX&nbsp;3x6&nbsp;(1-2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;10/28 · OR&nbsp;tomorrow** |   | Upcoming OR case Wed 10/28 2:00 PM at Good Sam (Dr. Luetkehans): STRAVIX 3x6, 1 to 2 sheets. Patient initials to come (AJ 10/27). |
 | <details><summary><b>S.W.</b></summary>S. Wyoski</details> | STRAVIX · Dr.&nbsp;Ayesh<br>**OR&nbsp;Fri&nbsp;11/13 · OR&nbsp;in&nbsp;17&nbsp;days** |   | Stravix in the OR on Fri 11/13 (Dr. Ayesh). GRAFIX PA had been approved |
 | **C.L.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;10/6 · 3&nbsp;wks&nbsp;post-op** |   | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453\_36006, \_36007). PO PO006010271 received 10/7 |
 | <details><summary><b>R.W.</b></summary>Roy Walsh</details> | GRAFIX&nbsp;5x5 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;10/2 · 3&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878\_55010. PO005995283 approved 10/5 |
