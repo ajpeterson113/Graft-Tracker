@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 8:05 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 8:08 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 5 · \$1,700
+## 🟢 Submit to SFDC · 6 · \$2,060
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -20,6 +20,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/26 | [C.P.](../case-sheets/cp-1026.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 660040000286148 | \$600 |
 | 10/27 | [J.L.](../case-sheets/jl-1027.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000286195 | \$360 |
 | 10/27 | [O.O.](../case-sheets/oo-1027.md) | Alexian WCC · Vedantham | Grafix 16mm | 660040000286196 | \$360 |
+| 10/27 | [M.L.](../case-sheets/ml-1027.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000286199 | \$360 |
 
 <a name="needspo"></a>
 ## 🟡 Waiting on a PO · 6 · \$8,355
@@ -63,15 +64,8 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | \$190 |
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | \$190 |
 
-<a name="look"></a>
-## 🔴 Needs a look · 1
-
-| Date | Pt | Account | Graft | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| 10/27 | M.L. | Alexian WCC · Joshi | Grafix 16mm | PO match: Not certain |
-
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 9
+## ⏳ Case sheets to come · 8
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -85,7 +79,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/30 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS103026 | Coming up Fri 10/30 |
 | 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | Coming up Fri 10/30 |
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | Coming up Mon 11/2 |
-| 10/27 | M.L. | Alexian WCC · Joshi | Grafix 16mm | …286199 | Seen Tue 10/27 |
 
 <a name="stock"></a>
 ## 📦 Stock · 5
@@ -94,7 +87,7 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **Grafix 16mm: 7 on hand (target 10–15)** · Order 8 now · runs out week of 11/02 · [Alexian WCC](stock.md#alexian)
+> - **Grafix 16mm: 6 on hand (target 10–15)** · Order 9 now · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
 > - **OASIS Burn 3x7: 2 sheets** · Order 2 boxes now · runs out week of 11/02 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 3x6: 4 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
