@@ -541,7 +541,7 @@ def render_home_image(tr, path, theme, narrow=False):
         cur.append(it)
         cw += w_ + 14
     leg_lines.append(cur)
-    H1 = 300 + 20 + (20 if sub_wrap else 0) + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
+    H1 = 300 + 30 + (20 if sub_wrap else 0) + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
     H2 = 300 if not narrow else 250
     Ht = H1 + GAP + H2 if narrow else max(H1, 300)
 
@@ -602,8 +602,8 @@ def render_home_image(tr, path, theme, narrow=False):
     xx += text(xx, y, ' in SFDC · ', f4, C['mu'])
     xx += text(xx, y, m0(sold), f6, C['ink'])
     text(xx, y, ' booked', f4, C['mu'])
-    # bullet bar: sold / downside / upside (striped), target marker
-    y += 28
+    # bullet bar: submitted / not submitted (striped) / downside / upside, target marker
+    y += 38
     bx0, bx1, bh = x0, W1 - PAD, 18
     mx = max(tgt, up, sold, 1) * 1.04
 
