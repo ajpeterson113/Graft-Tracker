@@ -537,7 +537,7 @@ def render_home_image(tr, path, theme, narrow=False):
         cur.append(it)
         cw += w_ + 14
     leg_lines.append(cur)
-    H1 = 300 + 20 + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
+    H1 = 300 + 20 + 19 + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
     H2 = 300 if not narrow else 250
     Ht = H1 + GAP + H2 if narrow else max(H1, 300)
 
@@ -586,8 +586,9 @@ def render_home_image(tr, path, theme, narrow=False):
     # small line under the total: how much of it is in SFDC (same as the app)
     y += 22
     f4, f6 = F('SourceSans3-400', 13.5), F('SourceSans3-600', 13.5)
-    xx = x0 + text(x0, y, 'In SFDC + submitted · ', f4, C['mu'])
-    xx += text(xx, y, m0(in_sfdc), f6, C['ink'])
+    text(x0, y, 'In SFDC + submitted', f4, C['mu'])
+    y += 19
+    xx = x0 + text(x0, y, m0(in_sfdc), f6, C['ink'])
     xx += text(xx, y, ' in SFDC · ', f4, C['mu'])
     xx += text(xx, y, m0(sold), f6, C['ink'])
     text(xx, y, ' booked', f4, C['mu'])
