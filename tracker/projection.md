@@ -2,7 +2,7 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 6:46 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 7:01 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -116,10 +116,10 @@ Sold so far: **\$18,016** · 32 cases
 | **T.T. · Dr. Lucas** | Healed Tue 10/27 (not grafted, per the Patients app): done after 7 applications, so nothing more is projected. | — | — |   |
 | **D.G. · Dr. Lucas** | Not grafted Tue 10/27 (logged in the Patients app, no note), so nothing more in P10; next assumed Tue 11/3 (weekly). | — | — |   |
 | **J.L. · Dr. Lucas** | A5 Tue 10/27 filed (LYA-260221\_16003). | — | — |   |
-| **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | A4 Tue 10/20 found on PO 660040000285612 (not logged in the app). |
+| **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | A4 Tue 10/20 (LYA-260146\_16005, PO …285612, case sheet 10/27) is in October sales. |
 | **A.N. · Dr. Joshi** | Held Tue 10/13 (wound very small) and Tue 10/20 (not grafted): done after 4 applications, nothing projected (upside or downside). | — | — |   |
 | **D.C. · Dr. Adelstein** | 16mm · Weekly · 1 visit | \$360 | \$360 | Held 10/8 and Thu 10/15 (Caroline covered): wound got larger, vascular consult. |
-| **A.P. · Dr. Hussain** | 16mm · Weekly · 1 visit | \$360 | \$360 | A6 Wed 10/21 found on PO 660040000285709 (not logged in the app). |
+| **A.P. · Dr. Hussain** | 16mm · Weekly · 1 visit | \$360 | \$360 | A6 Wed 10/21 (LYA-260159\_16003, PO …285709, case sheet 10/27) is in October sales. |
 | **C.P. · Dr. Joshi** | Started Mon 10/26 (A1, 1.5x2 LYA-260068\_15002, case sheet 10/27, \$600 Alexian rate). | — | — |   |
 | **O.O. · Dr. Vedantham** | A3 Tue 10/27 filed (LYA-260221\_16002). | — | — |   |
 | **D.S. · Dr. Joshi** | A2 Tue 10/27 filed (LYA-250866\_55013). | — | — |   |
