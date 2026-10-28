@@ -1225,7 +1225,8 @@ def page_cases(tr, counts, sub):
     if tr.transfers:
         out.append(anchor('transfers') + '## 🔁 Transfers\n')
         out.append('Grafts used at one account while consigned to another. Each has a typed transport log '
-                   '(reason "Needed same day", the day used 7 AM to 8 AM).\n')
+                   '(reason "Needed same day", the day used 7 AM to 8 AM). A transfer out to another rep\'s '
+                   'account (no patient of yours) waits on that rep\'s transfer log.\n')
         rows = []
         for t in sorted(tr.transfers, key=lambda t: str(t.get('Date')), reverse=True):
             d = t.get('Date')
@@ -1245,6 +1246,8 @@ def page_cases(tr, counts, sub):
                 size = str(t.get('Size (cm)') or '').replace(' ', '')
                 pick = sorted(cmd, key=lambda f: (0 if size and size in os.path.basename(f) else 1, len(os.path.basename(f)), f))[0]
                 links.append(f"[case sheet]({rel(page, 'case-sheets/' + os.path.basename(pick))})")
+            if not ini_ and not t.get('PO (to account)'):
+                links.append("transfer out · waiting on the other rep's log")
             rows.append([T(md(ds)), T(ini_), T(f"{t.get('Product') or ''} {str(t.get('Size (cm)') or '').replace(' x ', 'x')}"),
                          T(lot), T(frm), T(to), T(surgeon), ' · '.join(links)])
         out.append(table(['Used', 'Pt', 'Graft', 'Lot / SN', 'From (consignment)', 'To', 'Surgeon', ''], rows))

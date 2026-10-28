@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:43 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:51 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -81,14 +81,16 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | Coming up Mon 11/2 |
 
 <a name="stock"></a>
-## 📦 Stock · 5
+## 📦 Stock · 7
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
 > - **Grafix 16mm: 6 on hand (target 10–15)** · Order 9 now · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
+> - **Grafix 3x3: 4 on hand (target 5–10)** · Order 6 now · [Alexian WCC](stock.md#alexian)
 > - **OASIS Burn 3x7: 1 sheet** · Order 2 boxes now · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
+> - **Transfer out: Grafix 3x3 LYA-250533\_33002** · To Dr. George 10/26 · waiting on the other rep's transfer log, then transfer it out of Alexian consignment · [Alexian WCC](stock.md#alexian)
 > - **Stravix 3x6: 4 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
