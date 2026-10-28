@@ -526,7 +526,7 @@ def render_home_image(tr, path, theme, narrow=False):
     pace_parts = None  # filled below; narrow layout wraps the pace line
     # legend items, wrapped onto a second line when the card is narrow
     fl13, fb13 = F('SourceSans3-400', 13.5), F('SourceSans3-700', 13.5)
-    legend = ([('sold', 'Submitted', mk(in_sub), '')] + ([('po', 'Not submitted', mk(not_sub), '')] if not_sub > 0 else [])
+    legend = ([('sold', 'Submitted', mk(in_sub), '')] + ([('po', 'Not submitted/pending', mk(not_sub), '')] if not_sub > 0 else [])
               + [('down', 'Downside', mk(down), pc(Fo.get('pctDown'))), ('up', 'Upside', mk(up), pc(Fo.get('pctUp')))])
 
     def leg_w(it):
