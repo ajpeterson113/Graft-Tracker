@@ -460,10 +460,10 @@ def case_title(c):
 PAL = {
     'light': dict(surface=(255, 255, 255), sunk=(246, 248, 250), ink=(31, 41, 51), mu=(93, 105, 118), rule=(223, 228, 234),
                   rule2=(201, 209, 218), or_=(233, 150, 62), or_ink=(169, 94, 23), or_soft=(252, 235, 217), bl=(63, 112, 151),
-                  bl_mid=(157, 184, 207), po_line=(140, 151, 163), po_bg=(220, 225, 230), down=(185, 210, 232), up=(247, 201, 148), good=(46, 125, 50), bad=(179, 38, 30)),
+                  bl_mid=(157, 184, 207), po_line=(63, 112, 151), po_bg=(213, 226, 236), down=(141, 174, 203), up=(200, 217, 232), good=(46, 125, 50), bad=(179, 38, 30)),
     'dark': dict(surface=(26, 33, 41), sunk=(32, 40, 50), ink=(231, 235, 239), mu=(155, 167, 179), rule=(43, 53, 64),
                  rule2=(58, 70, 84), or_=(233, 150, 62), or_ink=(242, 176, 103), or_soft=(58, 42, 25), bl=(70, 124, 166),
-                 bl_mid=(59, 95, 128), po_line=(122, 134, 148), po_bg=(46, 55, 66), down=(127, 166, 200), up=(217, 150, 90), good=(107, 193, 113), bad=(242, 184, 181)),
+                 bl_mid=(59, 95, 128), po_line=(70, 124, 166), po_bg=(30, 49, 68), down=(54, 89, 123), up=(42, 69, 96), good=(107, 193, 113), bad=(242, 184, 181)),
 }
 
 
@@ -606,7 +606,7 @@ def render_home_image(tr, path, theme, narrow=False):
         return X(bw(v)) - X(bx0)
 
     def hatch(w, h, fg, bg, step=6, lw=2):
-        # grey diagonal lines for the PO-pending part (same as the app's striped fill)
+        # blue diagonal lines for the PO-pending part (same as the app's striped fill)
         pat = Image.new('RGBA', (max(1, w), max(1, h)), bg + (255,))
         pdr = ImageDraw.Draw(pat)
         k = -h
