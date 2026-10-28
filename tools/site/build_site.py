@@ -460,10 +460,10 @@ def case_title(c):
 PAL = {
     'light': dict(surface=(255, 255, 255), sunk=(246, 248, 250), ink=(31, 41, 51), mu=(93, 105, 118), rule=(223, 228, 234),
                   rule2=(201, 209, 218), or_=(233, 150, 62), or_ink=(169, 94, 23), or_soft=(252, 235, 217), bl=(63, 112, 151),
-                  bl_mid=(157, 184, 207), po=(201, 162, 39), good=(46, 125, 50), bad=(179, 38, 30)),
+                  bl_mid=(157, 184, 207), po_line=(140, 151, 163), po_bg=(220, 225, 230), down=(185, 210, 232), up=(247, 201, 148), good=(46, 125, 50), bad=(179, 38, 30)),
     'dark': dict(surface=(26, 33, 41), sunk=(32, 40, 50), ink=(231, 235, 239), mu=(155, 167, 179), rule=(43, 53, 64),
                  rule2=(58, 70, 84), or_=(233, 150, 62), or_ink=(242, 176, 103), or_soft=(58, 42, 25), bl=(70, 124, 166),
-                 bl_mid=(59, 95, 128), po=(226, 185, 59), good=(107, 193, 113), bad=(242, 184, 181)),
+                 bl_mid=(59, 95, 128), po_line=(122, 134, 148), po_bg=(46, 55, 66), down=(127, 166, 200), up=(217, 150, 90), good=(107, 193, 113), bad=(242, 184, 181)),
 }
 
 
@@ -604,20 +604,24 @@ def render_home_image(tr, path, theme, narrow=False):
 
     def bxl(v):
         return X(bw(v)) - X(bx0)
+
+    def hatch(w, h, fg, bg, step=6, lw=2):
+        # grey diagonal lines for the PO-pending part (same as the app's striped fill)
+        pat = Image.new('RGBA', (max(1, w), max(1, h)), bg + (255,))
+        pdr = ImageDraw.Draw(pat)
+        k = -h
+        while k < pat.width:
+            pdr.line([(k, h), (k + h, 0)], fill=fg + (255,), width=X(lw))
+            k += X(step)
+        return pat
     bd.rectangle([0, 0, bxl(has_po), bar.height], fill=C['bl'] + (255,))
     if po_pend > 0:
-        bd.rectangle([bxl(has_po), 0, bxl(sold), bar.height], fill=C['po'] + (255,))
+        p0, p1 = bxl(has_po), bxl(sold)
+        bar.paste(hatch(p1 - p0, bar.height, C['po_line'], C['po_bg']), (p0, 0))
     if down > sold:
-        bd.rectangle([bxl(sold), 0, bxl(down), bar.height], fill=C['bl_mid'] + (255,))
+        bd.rectangle([bxl(sold), 0, bxl(down), bar.height], fill=C['down'] + (255,))
     if up > max(down, sold):
-        u0, u1 = bxl(max(down, sold)), bxl(up)
-        pat = Image.new('RGBA', (max(1, u1 - u0), bar.height), C['or_soft'] + (255,))
-        pdr = ImageDraw.Draw(pat)
-        k = -bar.height
-        while k < pat.width:
-            pdr.line([(k, bar.height), (k + bar.height, 0)], fill=C['or_'] + (255,), width=X(3))
-            k += X(7)
-        bar.paste(pat, (u0, 0))
+        bd.rectangle([bxl(max(down, sold)), 0, bxl(up), bar.height], fill=C['up'] + (255,))
     mask = Image.new('L', bar.size, 0)
     ImageDraw.Draw(mask).rounded_rectangle([0, 0, bar.width - 1, bar.height - 1], radius=X(6), fill=255)
     img.paste(bar, (X(bx0), X(y)), ImageChops.multiply(bar.split()[3], mask))
@@ -636,8 +640,15 @@ def render_home_image(tr, path, theme, narrow=False):
             y += 19
         xx = x0
         for sw, lab, val, extra in line:
-            col = {'sold': C['bl'], 'po': C['po'], 'down': C['bl_mid'], 'up': C['or_']}[sw]
-            dr.rounded_rectangle([X(xx), X(y - 10), X(xx + 10), X(y)], radius=X(3), fill=col + (255,))
+            if sw == 'po':
+                sq = hatch(X(10) + 1, X(10) + 1, C['po_line'], C['po_bg'], step=3.5, lw=1.5)
+                sm = Image.new('L', sq.size, 0)
+                ImageDraw.Draw(sm).rounded_rectangle([0, 0, sq.width - 1, sq.height - 1], radius=X(3), fill=255)
+                img.paste(sq, (X(xx), X(y - 10)), sm)
+                dr = ImageDraw.Draw(img)
+            else:
+                col = {'sold': C['bl'], 'down': C['down'], 'up': C['up']}[sw]
+                dr.rounded_rectangle([X(xx), X(y - 10), X(xx + 10), X(y)], radius=X(3), fill=col + (255,))
             xx += 15
             xx += text(xx, y, lab + ' ', fl13, C['mu'])
             xx += text(xx, y, val, fb13, C['ink'])
