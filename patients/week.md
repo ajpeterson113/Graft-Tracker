@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:20 PM CT
+**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:23 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +20,7 @@
 
 | [Mon 26](#mon) | [Tue 27 · today](#tue) | [Wed 28](#wed) | [Thu 29](#thu) | [Fri 30](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **7** | **13** | **7** | **12** | **6** 🟠 |
+| **7** | **13** | **8** | **12** | **6** 🟠 |
 
 
 <a name="mon"></a>
@@ -64,12 +64,13 @@
 <a name="wed"></a>
 ### Wednesday, Oct 28
 
-7 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Wound 3x3.5 ×2 · GRAFIX · GRAFIX 16mm · OASIS Ultra 7x10, and two oasis Wound 3x3.5 · STRAVIX 3x6 (1-2)
+8 visits · **Grafts:** OASIS Wound 3x7 ×4 · GRAFIX 16mm ×2 · OASIS Wound 3x3.5 ×2 · GRAFIX · OASIS Ultra 7x10, and two oasis Wound 3x3.5 · STRAVIX 3x6 (1-2)
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **9:15&nbsp;AM** | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | **Pending** · GRAFIX  | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe |   |
 | **9:45&nbsp;AM** | <details><summary><b>L.J.</b></summary>Louis Marie Jacques</details> | **A4** · OASIS Ultra 7x10, and two oasis Wound 3x3.5 | Good&nbsp;Sam<br>Dr.&nbsp;Bach |   |
+| **9:50&nbsp;AM** | **M.W.** | **Done** · GRAFIX 16mm | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas |   |
 | **12:45&nbsp;PM** | <details><summary><b>J.M.</b></summary>Joyce Morales</details> | **A4** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Adelstein |   |
 | **1:45&nbsp;PM** | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | **A4** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain · MA&nbsp;Denise |   |
 | **2:00&nbsp;PM** | **Upcoming · Dr. Luetkehans** | **OR** · STRAVIX 3x6 (1-2) | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans |   |
@@ -125,7 +126,8 @@
 | **St. Joseph Elgin** | – | 2 | – | 1 | 1 | 4 | GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · OASIS Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 |
 | **Central DuPage** | – | – | – | – | 2 | 2 | GRAFIX 16mm ×1 · GRAFIX 2x 5x5 + 3x4 ×1 |
 | **Elmhurst** | 1 | – | – | – | – | 1 | STRAVIX 3x6 ×1 |
-| **All clinics** | **7** | **13** | **7** | **12** | **6** | **45** | GRAFIX 16mm ×11 · OASIS Wound 3x3.5 ×7 · OASIS Wound 3x7 ×5 · OASIS Ultra 3x3.5 ×3 · GRAFIX ×2 · GRAFIX 5x5 ×2 · GRAFIX 1.5x2 ×1 · GRAFIX 2x 5x5 + 3x4 ×1 · GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · GRAFIX/Oasis ×1 · OASIS Burn 3x7 ×1 · OASIS Burn Oasis burn 3x7 ×1 · OASIS Ultra 3x7 ×1 · OASIS Ultra 7x10, and two oasis Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · STRAVIX 3x6 ×1 · STRAVIX 3x6 (1-2) ×1 |
+| **Romano Lombard** | – | – | 1 | – | – | 1 | GRAFIX 16mm ×1 |
+| **All clinics** | **7** | **13** | **8** | **12** | **6** | **46** | GRAFIX 16mm ×12 · OASIS Wound 3x3.5 ×7 · OASIS Wound 3x7 ×5 · OASIS Ultra 3x3.5 ×3 · GRAFIX ×2 · GRAFIX 5x5 ×2 · GRAFIX 1.5x2 ×1 · GRAFIX 2x 5x5 + 3x4 ×1 · GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · GRAFIX/Oasis ×1 · OASIS Burn 3x7 ×1 · OASIS Burn Oasis burn 3x7 ×1 · OASIS Ultra 3x7 ×1 · OASIS Ultra 7x10, and two oasis Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · STRAVIX 3x6 ×1 · STRAVIX 3x6 (1-2) ×1 |
 
 
 <details><summary><b>Next week</b> · 11 visits booked so far</summary>

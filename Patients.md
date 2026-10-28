@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:20 PM CT
+**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:23 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -216,6 +216,6 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **??**<br>On&nbsp;hold | GRAFIX&nbsp;5x5&nbsp;(suggested) · Weekly · Dr.&nbsp;Rojas<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 0 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside.<br>_10/21:_ Moved to On hold (AJ 10/21); taken out of the projections. |
-| **M.W.**<br>Done | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Rojas<br>**Last&nbsp;graft&nbsp;10/14** | 🟢 2 | Healed 10/21 (not grafted): done after 2 applications. New start 10/7 (A1, LYA-260007\_16005, PO MW100726); A2 10/14 (LYA-260146\_16009, transfer from the Alexian WCC shelf). Weekly 16mm; future orders go on sale-order POs. |
+| **M.W.**<br>Done | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;10/28&nbsp;9:50&nbsp;AM · Lombard** | 🟢 2 | Healing check Wed 10/28 9:50 AM at Lombard (AJ 10/27): follow-up to make sure the wound is still healed, not a graft visit. Healed 10/21 (not grafted): done after 2 applications. New start 10/7 (A1, LYA-260007\_16005, PO MW100726); A2 10/14 (LYA-260146\_16009, transfer from the Alexian WCC shelf). Weekly 16mm; future orders go on sale-order POs.<br>_10/27:_ Coming back Wed 10/28 9:50 AM to make sure it's healed (AJ) |
 
 </details>
