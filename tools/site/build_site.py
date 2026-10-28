@@ -487,10 +487,11 @@ def render_home_image(tr, path, theme, narrow=False):
     sold = num(Sa.get('total')) or 0
     up = num(Fo.get('up')) or sold
     down = num(Fo.get('down')) or sold
-    # the part of sold still waiting on a PO gets its own color on the bar (same as the app)
-    po_pend = max(0, min(sold, sum((num(c.get('outstanding')) or num(c.get('price')) or 0)
-                                   for c in tr.period_cases() if c.get('status') == 'needspo')))
-    has_po = sold - po_pend
+    # headline = in SFDC + submitted (what SFDC should show once it posts); booked total is secondary (same as the app)
+    pcs0 = tr.period_cases()
+    in_sfdc = sum(num(c.get('price')) or 0 for c in pcs0 if c.get('status') == 'insfdc')
+    in_sub = min(sold, sum(num(c.get('price')) or 0 for c in pcs0 if c.get('status') in ('insfdc', 'submitted')))
+    not_sub = max(0, sold - in_sub)
     PAD, GAP = 20, 16
     if narrow:
         W = W1 = W2 = 420
@@ -521,7 +522,7 @@ def render_home_image(tr, path, theme, narrow=False):
     pace_parts = None  # filled below; narrow layout wraps the pace line
     # legend items, wrapped onto a second line when the card is narrow
     fl13, fb13 = F('SourceSans3-400', 13.5), F('SourceSans3-700', 13.5)
-    legend = ([('sold', 'PO in hand', mk(has_po), '')] + ([('po', 'PO pending', mk(po_pend), '')] if po_pend > 0 else [])
+    legend = ([('sold', 'Submitted', mk(in_sub), '')] + ([('po', 'Not submitted', mk(not_sub), '')] if not_sub > 0 else [])
               + [('down', 'Downside', mk(down), pc(Fo.get('pctDown'))), ('up', 'Upside', mk(up), pc(Fo.get('pctUp')))])
 
     def leg_w(it):
@@ -536,9 +537,6 @@ def render_home_image(tr, path, theme, narrow=False):
         cur.append(it)
         cw += w_ + 14
     leg_lines.append(cur)
-    in_sfdc = sum(num(c.get('price')) or 0 for c in tr.period_cases() if c.get('status') == 'insfdc')
-    # what SFDC should show once everything submitted posts
-    in_sub = sum(num(c.get('price')) or 0 for c in tr.period_cases() if c.get('status') in ('insfdc', 'submitted'))
     H1 = 300 + 20 + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
     H2 = 300 if not narrow else 250
     Ht = H1 + GAP + H2 if narrow else max(H1, 300)
@@ -574,8 +572,8 @@ def render_home_image(tr, path, theme, narrow=False):
     xx = tracked(x0, y, str(P.get('id') or '').upper(), fe, C['or_ink'])
     tracked(xx, y, f" · {pd} · {P.get('tab', '')} SALES".upper(), fe, C['mu'])
     y += 50
-    w_big = text(x0, y, m0(sold), F('BarlowSC-700', 46), C['ink'])
-    sp = sold / tgt if tgt else 0
+    w_big = text(x0, y, m0(in_sub), F('BarlowSC-700', 46), C['ink'])
+    sp = in_sub / tgt if tgt else 0
     fb17, fr17 = F('SourceSans3-700', 17), F('SourceSans3-400', 17)
     tail = f'of {m0(tgt)} target'
     if narrow and x0 + w_big + 12 + (fb17.getlength(pc(sp)) + fr17.getlength(' ' + tail)) / S > W1 - PAD:
@@ -587,10 +585,12 @@ def render_home_image(tr, path, theme, narrow=False):
     text(xx + 5, y - 2, tail, fr17, C['mu'])
     # small line under the total: how much of it is in SFDC (same as the app)
     y += 22
-    xx = x0 + text(x0, y, m0(in_sfdc), F('SourceSans3-600', 13.5), C['ink'])
-    xx += text(xx, y, ' in SFDC · ', F('SourceSans3-400', 13.5), C['mu'])
-    xx += text(xx, y, m0(in_sub), F('SourceSans3-600', 13.5), C['ink'])
-    text(xx, y, ' in SFDC + submitted', F('SourceSans3-400', 13.5), C['mu'])
+    f4, f6 = F('SourceSans3-400', 13.5), F('SourceSans3-600', 13.5)
+    xx = x0 + text(x0, y, 'In SFDC + submitted · ', f4, C['mu'])
+    xx += text(xx, y, m0(in_sfdc), f6, C['ink'])
+    xx += text(xx, y, ' in SFDC · ', f4, C['mu'])
+    xx += text(xx, y, m0(sold), f6, C['ink'])
+    text(xx, y, ' booked', f4, C['mu'])
     # bullet bar: sold / downside / upside (striped), target marker
     y += 28
     bx0, bx1, bh = x0, W1 - PAD, 18
@@ -606,7 +606,7 @@ def render_home_image(tr, path, theme, narrow=False):
         return X(bw(v)) - X(bx0)
 
     def hatch(w, h, fg, bg, step=6, lw=2):
-        # blue diagonal lines for the PO-pending part (same as the app's striped fill)
+        # blue diagonal lines for the part not submitted yet (same as the app's striped fill)
         pat = Image.new('RGBA', (max(1, w), max(1, h)), bg + (255,))
         pdr = ImageDraw.Draw(pat)
         k = -h
@@ -614,9 +614,9 @@ def render_home_image(tr, path, theme, narrow=False):
             pdr.line([(k, h), (k + h, 0)], fill=fg + (255,), width=X(lw))
             k += X(step)
         return pat
-    bd.rectangle([0, 0, bxl(has_po), bar.height], fill=C['bl'] + (255,))
-    if po_pend > 0:
-        p0, p1 = bxl(has_po), bxl(sold)
+    bd.rectangle([0, 0, bxl(in_sub), bar.height], fill=C['bl'] + (255,))
+    if not_sub > 0:
+        p0, p1 = bxl(in_sub), bxl(sold)
         bar.paste(hatch(p1 - p0, bar.height, C['po_line'], C['po_bg']), (p0, 0))
     if down > sold:
         bd.rectangle([bxl(sold), 0, bxl(down), bar.height], fill=C['down'] + (255,))
@@ -674,10 +674,10 @@ def render_home_image(tr, path, theme, narrow=False):
     y += 20
     diff = rnd((sp - si['pct']) * 100)
     f13, fb = F('SourceSans3-400', 13), F('SourceSans3-700', 13)
-    parts = [(f"{rnd(si['pct'] * 100)}% of the month · sales {pc(sp)} · ", f13, C['mu']),
+    parts = [(f"{rnd(si['pct'] * 100)}% of the month · submitted {pc(sp)} · ", f13, C['mu']),
              (f"{abs(diff)} pts {'ahead' if diff >= 0 else 'behind'}", fb, C['good'] if diff >= 0 else C['bad'])]
-    tail2 = (f" · {m0((tgt - sold) / (si['total'] - si['done']))} a day to target"
-             if not si['ended'] and tgt > sold and si['total'] > si['done'] else '')
+    tail2 = (f" · {m0((tgt - in_sub) / (si['total'] - si['done']))} a day to target"
+             if not si['ended'] and tgt > in_sub and si['total'] > si['done'] else '')
     xx = x0
     for s_, f_, c_ in parts:
         xx += text(xx, y, s_, f_, c_)
@@ -690,10 +690,11 @@ def render_home_image(tr, path, theme, narrow=False):
     # minis
     y += 31
     colw = (W1 - 2 * PAD - 16) / 3
-    minis = [('TO GO', m0(max(0, tgt - sold)),
+    rate = hi if tgt and in_sub >= tgt else lo
+    minis = [('TO GO', m0(max(0, tgt - in_sub)),
               (f"{rnd(num(Sa.get('cases')) or 0)} cases · " + str(Sa.get('avg') or '').replace(' avg per case', ' avg'))
               if Sa.get('cases') is not None else ''),
-             ('COMMISSION', m0(Sa.get('commission')), f"{pc(Sa.get('rate'))} so far"),
+             ('COMMISSION', m0(in_sub * rate), f"{pc(rate)} now · {pc(hi)} at target" if rate < hi else f"{pc(rate)} so far"),
              ('PROJECTED', f"{mk(Fo.get('commDown'))}–{mk(Fo.get('commUp'))}", 'commission')]
     for i, (lab, val, small) in enumerate(minis):
         mx0 = x0 + i * (colw + 8)
