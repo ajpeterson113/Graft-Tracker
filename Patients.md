@@ -2,21 +2,21 @@
 
 # Patients
 
-**BIOT Chicago West** · 103 patients · updated Tue 10/27, 9:32 PM CT
+**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:37 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](patients/todo.md) |
+| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;104**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](patients/grafting.md) · [Potential New Start 4](patients/potential-new-start.md) · [Pending 11](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 9](patients/on-hold.md) · [OR 23](patients/or.md) · [Done 15](patients/done.md) · [Denied 3](patients/denied.md)
+[Grafting 38](patients/grafting.md) · [Potential New Start 4](patients/potential-new-start.md) · [Pending 11](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 9](patients/on-hold.md) · [OR 24](patients/or.md) · [Done 15](patients/done.md) · [Denied 3](patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
-**Accounts:** [Good Sam 27](#good-sam) · [Alexian WCC 30](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [NW Suburban F&A 19](#nw-suburban-f-a) · [St. Joseph Elgin 6](#st-joseph-elgin) · [Sherman 3](#sherman) · [St. Alexius 5](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 2](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 1](#suburban-f-a) · [Romano Lombard 2](#romano-lombard)
+**Accounts:** [Good Sam 27](#good-sam) · [Alexian WCC 30](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [NW Suburban F&A 19](#nw-suburban-f-a) · [St. Joseph Elgin 6](#st-joseph-elgin) · [Sherman 3](#sherman) · [St. Alexius 6](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 2](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 1](#suburban-f-a) · [Romano Lombard 2](#romano-lombard)
 
 Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Alexian WCC stops at 8: 🟡 7 · 🔴 8). Each clinic lists upcoming visits first, then pending, denied, on hold and done.
 
@@ -157,7 +157,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="st-alexius"></a>
-<details open><summary><b>St. Alexius</b> · 0 grafting · 5 total</summary>
+<details open><summary><b>St. Alexius</b> · 0 grafting · 6 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
@@ -166,6 +166,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | **A.B.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Guske<br>**OR&nbsp;Wed&nbsp;10/7 · 2&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604\_36001 from St. Alexius stock (bill & replace). Bill & replace PO 660080000212502 received 10/8 |
 | <details><summary><b>G.G.</b></summary>Gerald G</details>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Goldkind<br>**OR&nbsp;Tue&nbsp;9/29 · 4&nbsp;wks&nbsp;post-op** |   | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |
 | **N.W.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/11 · 6&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   | Bill & replace |
+| **Upcoming · Dr. Singh**<br>OR<br>🟠&nbsp;Verify | GRAFIX/STRAVIX&nbsp;TBD · Dr.&nbsp;Singh |   | 🟠 **Verify:** Case this week: get the day and time from Dr. Singh<br>Upcoming OR case this week (week of 10/26) at Ascension Saint Alexius with Dr. Singh: GRAFIX/STRAVIX, sizes TBD. Day and time not set yet (AJ 10/27). St. Alexius is bill & replace.<br>_10/27:_ Dr. Singh has a case at St. Alexius this week (week of 10/26) needing GRAFIX/STRAVIX; day and time not set yet (AJ) |
 
 </details>
 
