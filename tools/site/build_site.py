@@ -490,6 +490,10 @@ def render_home_image(tr, path, theme, narrow=False):
     # headline = in SFDC + submitted (what SFDC should show once it posts); booked total is secondary (same as the app)
     pcs0 = tr.period_cases()
     in_sfdc = sum(num(c.get('price')) or 0 for c in pcs0 if c.get('status') == 'insfdc')
+    f4, f6 = F('SourceSans3-400', 13.5), F('SourceSans3-600', 13.5)
+    sub_w = (f4.getlength('In SFDC + submitted') + f6.getlength(m0(in_sfdc)) + f4.getlength(' in SFDC · ')
+             + f6.getlength(m0(sold)) + f4.getlength(' booked')) / S + 21
+    sub_wrap = 20 + sub_w > (420 if narrow else 548) - 20  # card padding is 20
     in_sub = min(sold, sum(num(c.get('price')) or 0 for c in pcs0 if c.get('status') in ('insfdc', 'submitted')))
     not_sub = max(0, sold - in_sub)
     PAD, GAP = 20, 16
@@ -537,7 +541,7 @@ def render_home_image(tr, path, theme, narrow=False):
         cur.append(it)
         cw += w_ + 14
     leg_lines.append(cur)
-    H1 = 300 + 20 + 24 + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
+    H1 = 300 + 20 + (20 if sub_wrap else 0) + (14 + 18 * len(gap_lines) + 18 if gap_lines else 0) + (20 if narrow else 0) + 19 * (len(leg_lines) - 1)
     H2 = 300 if not narrow else 250
     Ht = H1 + GAP + H2 if narrow else max(H1, 300)
 
@@ -585,10 +589,16 @@ def render_home_image(tr, path, theme, narrow=False):
     text(xx + 5, y - 2, tail, fr17, C['mu'])
     # small line under the total: how much of it is in SFDC (same as the app)
     y += 22
-    f4, f6 = F('SourceSans3-400', 13.5), F('SourceSans3-600', 13.5)
-    text(x0, y, 'In SFDC + submitted', f4, C['mu'])
-    y += 24
-    xx = x0 + text(x0, y, m0(in_sfdc), f6, C['ink'])
+    # label | in SFDC · booked on one line with a vertical divider (wraps without the divider if too wide)
+    xx = x0 + text(x0, y, 'In SFDC + submitted', f4, C['mu'])
+    if sub_wrap:
+        y += 20
+        xx = x0
+    else:
+        xx += 10
+        dr.rectangle([X(xx), X(y - 12), X(xx) + S - 1, X(y + 3)], fill=C['rule2'] + (255,))
+        xx += 11
+    xx += text(xx, y, m0(in_sfdc), f6, C['ink'])
     xx += text(xx, y, ' in SFDC · ', f4, C['mu'])
     xx += text(xx, y, m0(sold), f6, C['ink'])
     text(xx, y, ' booked', f4, C['mu'])
