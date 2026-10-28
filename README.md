@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:15 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:20 PM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -12,7 +12,7 @@
   <source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="view/home-narrow-dark.png">
   <source media="(max-width: 700px)" srcset="view/home-narrow.png">
   <source media="(prefers-color-scheme: dark)" srcset="view/home-dark.png">
-  <img alt="P10: sold &#36;133,994, 104% of the &#36;129,015 target. Forecast &#36;147,260 downside to &#36;157,534 upside. Shipping day 21 of 25." src="view/home.png" width="880">
+  <img alt="P10: &#36;125,260 in SFDC + submitted, 97% of the &#36;129,015 target (&#36;133,994 booked). Forecast &#36;147,260 downside to &#36;157,534 upside. Shipping day 21 of 25." src="view/home.png" width="880">
 </picture>
 
 ### To do
@@ -79,7 +79,7 @@ Scheduled visits this week count until they're filed; once a visit is in October
 | Jul | \$102,235 | \$123,929 | 82% |
 | Aug | \$62,039 | \$104,285 | 59% |
 | Sep | \$65,468 | \$99,804 | 66% |
-| Oct (SFDC to date) | \$4,771 | \$134,875 | 4% |
+| Oct (P10 to date, SFDC + submitted) | \$125,260 | \$129,015 | 97% |
 | Nov | — | \$99,196 | — |
 | Dec | — | \$126,038 | — |
 
@@ -90,7 +90,7 @@ Scheduled visits this week count until they're filed; once a visit is in October
 | Period | Dates | Reports | Paid | Commission |
 | :-- | :-- | :-- | :-- | --: |
 | **P9** | Aug 30 - Sep 26 | 10/26/26 | 11/20/26 | \$4,582.67 |
-| **P10** | Sep 27 - Oct 31 | 11/30/26 | 12/18/26 | \$13,399.43 so far |
+| **P10** | Sep 27 - Oct 31 | 11/30/26 | 12/18/26 | \$8,768.19 so far (7%) |
 | **P11** | Nov 1 - Nov 28 | 1/4/27 | 1/29/27 | — |
 | **P12** | Nov 29 - Dec 31 | 2/1/27 | 2/26/27 | — |
 

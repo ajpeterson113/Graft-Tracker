@@ -1022,7 +1022,13 @@ def page_home(tr, pt, counts, sub_stamp, img_wh):
     out = [header(page, 'Graft Tracker', 'home', counts,
                   f"**BIOT Chicago West** · {T(P.get('id', ''))} · day {si['done']} of {si['total']} · updated {T(sub_stamp)}")]
     tgt, sold = num(Sa.get('target')) or 0, num(Sa.get('total')) or 0
-    alt = (f"{P.get('id', '')}: sold {m0(sold)}, {pc(sold / tgt if tgt else 0)} of the {m0(tgt)} target. "
+    # current period, live from the tracker (same as the app): in SFDC + submitted and the commission on it.
+    # Earlier periods keep their saved numbers.
+    in_sub = sum(num(c.get('price')) or 0 for c in tr.period_cases() if c.get('status') in ('insfdc', 'submitted'))
+    lo, hi = num(P.get('rateMiss')) or .07, num(P.get('rateHit')) or .1
+    rate = hi if tgt and in_sub >= tgt else lo
+    alt = (f"{P.get('id', '')}: {m0(in_sub)} in SFDC + submitted, {pc(in_sub / tgt if tgt else 0)} of the {m0(tgt)} target "
+           f"({m0(sold)} booked). "
            f"Forecast {m0(Fo.get('down'))} downside to {m0(Fo.get('up'))} upside. Shipping day {si['done']} of {si['total']}.")
     w, h = img_wh
     out.append('<picture>\n'
@@ -1108,16 +1114,21 @@ def page_home(tr, pt, counts, sub_stamp, img_wh):
         if M:
             rows = []
             for m in M:
-                s_, t_ = num(m.get('sales')), num(m.get('target'))
+                s_, t_, pct_ = num(m.get('sales')), num(m.get('target')), m.get('pct')
+                lab = str(m.get('m', ''))
+                if '(to date)' in lab:
+                    s_, t_ = in_sub, tgt or t_
+                    pct_ = s_ / t_ if t_ else None
+                    lab = lab.replace(' (to date)', f" ({P.get('id', '')} to date, SFDC + submitted)")
                 hit = s_ is not None and t_ and s_ >= t_
-                rows.append([T(str(m.get('m', '')).replace(' (to date)', ' (SFDC to date)')), T(m0(s_)) if s_ is not None else '—',
-                             T(m0(t_)), (('✅ ' if hit else '') + pc(m.get('pct'))) if m.get('pct') is not None else '—'])
+                rows.append([T(lab), T(m0(s_)) if s_ is not None else '—',
+                             T(m0(t_)), (('✅ ' if hit else '') + pc(pct_)) if pct_ is not None else '—'])
             out.append(details('<b>By month (SFDC)</b>', table(['Month', 'Sales', 'Target', '% of target'], rows, ['l', 'r', 'r', 'r'])))
         PP = snap.get('periods') or []
         if PP:
             rows = [[f"**{T(p.get('p'))}**", T(p.get('dates')), T(mdy(p.get('reports'))), T(mdy(p.get('paid'))),
-                     T(m2(p.get('commission'))) + (' so far' if p.get('p') == P.get('id') and p.get('commission') is not None else '')
-                     if p.get('commission') is not None else '—'] for p in PP]
+                     (T(m2(in_sub * rate)) + f' so far ({pc(rate)})') if p.get('p') == P.get('id')
+                     else (T(m2(p.get('commission'))) if p.get('commission') is not None else '—')] for p in PP]
             out.append(details('<b>Periods and payouts</b>', table(['Period', 'Dates', 'Reports', 'Paid', 'Commission'], rows,
                                                                   ['l', 'l', 'l', 'l', 'r'])))
     # files
