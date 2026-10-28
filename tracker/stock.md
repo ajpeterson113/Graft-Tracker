@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:37 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:43 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -212,7 +212,7 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 ## St. Alexius OR
 
-**Bill & replace** · counted 10/7/26 · 12 grafts
+**Bill & replace** · counted 10/22/26 · 12 grafts
 
 > [!WARNING]
 > - **Stravix 3x6: 4 on the shelf (target 7)**
@@ -221,7 +221,7 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **7**<br>target&nbsp;7 | — | next exp 11/3/27 |
-| **3x6**<br>Stravix | 🟠 **4**<br>target&nbsp;7 | — | +4 incoming · next exp 7/7/27<br><sub>+4 replacements coming (A.B. 10/7 on PO …502; Dr. Liao 10/16 on PO …3434; V.M. 10/22 x2 on PO …3523)</sub> |
+| **3x6**<br>Stravix | 🟠 **4**<br>target&nbsp;7 | — | +4 incoming · next exp 7/7/27<br><sub>+4 replacements coming (A.B. 10/7 on PO …502; Dr. Liao 10/16 on PO …3434; V.M. 10/22 x2 on PO …3523) · AJ saw a few in supply chain's office 10/22, not shelved…</sub> |
 | **2x4**<br>Stravix | 🟠 **1**<br>target&nbsp;7 | — | next exp 8/18/27 |
 
 <details><summary><b>Units on the shelf</b> · 12</summary>
@@ -258,15 +258,15 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
-| LYU-251430\_36002 | Stravix 3x6 | Used 10/16 (Dr. Liao, likely; SFDC 10/22 on PO …3434) |
-| LYU-251691\_36001 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) |
-| LYU-251691\_36002 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) |
+| LYU-251430\_36002 | Stravix 3x6 | Used 10/16 (Dr. Liao, likely; SFDC 10/22 on PO …3434) · not from the OR shelf (all shelf units still there 10/22), so from stock kept outside the shelf |
+| LYU-251691\_36001 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) · not from the OR shelf (all shelf units still there 10/22), so from stock kept outside the shelf |
+| LYU-251691\_36002 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) · not from the OR shelf (all shelf units still there 10/22), so from stock kept outside the shelf |
 
 </details>
 
 <details><summary><b>About this shelf</b></summary>
 
-Bill & replace stock on the OR shelf at Ascension Saint Alexius (not consignment). Each unit used in a case is billed on a St. Alexius PO and a replacement ships back to the shelf (SFDC shows the replacement serial), so it counts as a sale when used (no projection offset). Counted 10/7 from shelf photos (after A.B.'s 10/7 case). One more box was in the photo with its label covered, so it isn't counted. Target: 7 of each size (AJ to the OR 10/7); a 2x4 restock is not in the projection (10/8: not counting on the OR ordering). A.B.'s 10/7 Stravix 3x6 was billed on bill & replace PO 660080000212502 (10/8); its replacement ships once the order is submitted (row marked Incoming).
+Bill & replace stock on the OR shelf at Ascension Saint Alexius (not consignment). Each unit used in a case is billed on a St. Alexius PO and a replacement ships back to the shelf (SFDC shows the replacement serial), so it counts as a sale when used (no projection offset). Counted 10/7 from shelf photos (after A.B.'s 10/7 case). One more box was in the photo with its label covered, so it isn't counted. Target: 7 of each size (AJ to the OR 10/7); a 2x4 restock is not in the projection (10/8: not counting on the OR ordering). A.B.'s 10/7 Stravix 3x6 was billed on bill & replace PO 660080000212502 (10/8); its replacement ships once the order is submitted (row marked Incoming). Recounted from AJ's 10/22 shelf photos: all 12 units from the 10/7 count are still on the shelf (4 Stravix 3x6 LYU-251434\_36001-36004, 7 Grafix 5x5, 1 Stravix 2x4 LYU-251818\_24004), nothing missing. The three 3x6s used since (Dr. Liao 10/16; V.M. x2 10/22) weren't on the shelf, so they came from stock kept outside it: AJ saw a few units in supply chain's office waiting to be stocked (10/22). Count those when they're shelved.
 
 </details>
 
