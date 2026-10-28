@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 8:14 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 8:21 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 6 · \$2,060
+## 🟢 Submit to SFDC · 2 · \$380
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -17,10 +17,6 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | :-- | :-- | :-- | :-- | :-- | --: |
 | 9/29 | [Y.L.](../case-sheets/yl-0929.md) | Suburban F&A · Grinberg | Grafix 16mm | YL092926 · 🔁 transfer log on the sheet | \$190 |
 | 10/7 | [M.W.](../case-sheets/mw-1007.md) | Romano Lombard · Rojas | Grafix 16mm | MW100726 · 🔁 transfer log on the sheet | \$190 |
-| 10/26 | [C.P.](../case-sheets/cp-1026.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 660040000286148 | \$600 |
-| 10/27 | [J.L.](../case-sheets/jl-1027.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000286195 | \$360 |
-| 10/27 | [O.O.](../case-sheets/oo-1027.md) | Alexian WCC · Vedantham | Grafix 16mm | 660040000286196 | \$360 |
-| 10/27 | [M.L.](../case-sheets/ml-1027.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000286199 | \$360 |
 
 <a name="needspo"></a>
 ## 🟡 Waiting on a PO · 6 · \$8,355
@@ -35,7 +31,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/27 | [D.S.](../case-sheets/ds-1027.md) | Alexian WCC · Joshi | Grafix 5x5 | — |   | \$2,325 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 22 · \$21,215
+## 🔵 Submitted, not in SFDC yet · 26 · \$22,895
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
@@ -59,7 +55,11 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 10/21 | [K.B.](../case-sheets/kb-1021.md) | Alexian Ambulatory · Singh | Stravix 3x6 ×1 + Grafix 5x5 ×3 | …285708 | \$9,444 |
 | 10/21 | [A.P.](../case-sheets/ap-1021.md) | Alexian WCC · Hussain | Grafix 16mm | …285709 | \$360 |
 | 10/22 | [D.K.](../case-sheets/dk-1022.md) | Alexian WCC · Halihan | Grafix 16mm | …285936 | \$360 |
+| 10/26 | [C.P.](../case-sheets/cp-1026.md) | Alexian WCC · Joshi | Grafix 1.5x2 | …286148 | \$600 |
 | 10/27 | — | Elmhurst | Stravix 3x6 (shelf stock) | P2350677 | \$3,115.50 |
+| 10/27 | [J.L.](../case-sheets/jl-1027.md) | Alexian WCC · Lucas | Grafix 16mm | …286195 | \$360 |
+| 10/27 | [O.O.](../case-sheets/oo-1027.md) | Alexian WCC · Vedantham | Grafix 16mm | …286196 | \$360 |
+| 10/27 | [M.L.](../case-sheets/ml-1027.md) | Alexian WCC · Joshi | Grafix 16mm | …286199 | \$360 |
 | 10/30 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS103026 | \$190 |
 | 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | \$190 |
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | \$190 |
