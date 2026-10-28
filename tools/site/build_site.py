@@ -460,10 +460,10 @@ def case_title(c):
 PAL = {
     'light': dict(surface=(255, 255, 255), sunk=(246, 248, 250), ink=(31, 41, 51), mu=(93, 105, 118), rule=(223, 228, 234),
                   rule2=(201, 209, 218), or_=(233, 150, 62), or_ink=(169, 94, 23), or_soft=(252, 235, 217), bl=(63, 112, 151),
-                  bl_mid=(157, 184, 207), good=(46, 125, 50), bad=(179, 38, 30)),
+                  bl_mid=(157, 184, 207), po=(201, 162, 39), good=(46, 125, 50), bad=(179, 38, 30)),
     'dark': dict(surface=(26, 33, 41), sunk=(32, 40, 50), ink=(231, 235, 239), mu=(155, 167, 179), rule=(43, 53, 64),
                  rule2=(58, 70, 84), or_=(233, 150, 62), or_ink=(242, 176, 103), or_soft=(58, 42, 25), bl=(70, 124, 166),
-                 bl_mid=(59, 95, 128), good=(107, 193, 113), bad=(242, 184, 181)),
+                 bl_mid=(59, 95, 128), po=(226, 185, 59), good=(107, 193, 113), bad=(242, 184, 181)),
 }
 
 
@@ -487,6 +487,10 @@ def render_home_image(tr, path, theme, narrow=False):
     sold = num(Sa.get('total')) or 0
     up = num(Fo.get('up')) or sold
     down = num(Fo.get('down')) or sold
+    # the part of sold still waiting on a PO gets its own color on the bar (same as the app)
+    po_pend = max(0, min(sold, sum((num(c.get('outstanding')) or num(c.get('price')) or 0)
+                                   for c in tr.period_cases() if c.get('status') == 'needspo')))
+    has_po = sold - po_pend
     PAD, GAP = 20, 16
     if narrow:
         W = W1 = W2 = 420
@@ -517,8 +521,8 @@ def render_home_image(tr, path, theme, narrow=False):
     pace_parts = None  # filled below; narrow layout wraps the pace line
     # legend items, wrapped onto a second line when the card is narrow
     fl13, fb13 = F('SourceSans3-400', 13.5), F('SourceSans3-700', 13.5)
-    legend = [('sold', 'Sold', mk(sold), ''), ('down', 'Downside', mk(down), pc(Fo.get('pctDown'))),
-              ('up', 'Upside', mk(up), pc(Fo.get('pctUp')))]
+    legend = ([('sold', 'PO in hand', mk(has_po), '')] + ([('po', 'PO pending', mk(po_pend), '')] if po_pend > 0 else [])
+              + [('down', 'Downside', mk(down), pc(Fo.get('pctDown'))), ('up', 'Upside', mk(up), pc(Fo.get('pctUp')))])
 
     def leg_w(it):
         _, lab, val, extra = it
@@ -596,7 +600,9 @@ def render_home_image(tr, path, theme, narrow=False):
 
     def bxl(v):
         return X(bw(v)) - X(bx0)
-    bd.rectangle([0, 0, bxl(sold), bar.height], fill=C['bl'] + (255,))
+    bd.rectangle([0, 0, bxl(has_po), bar.height], fill=C['bl'] + (255,))
+    if po_pend > 0:
+        bd.rectangle([bxl(has_po), 0, bxl(sold), bar.height], fill=C['po'] + (255,))
     if down > sold:
         bd.rectangle([bxl(sold), 0, bxl(down), bar.height], fill=C['bl_mid'] + (255,))
     if up > max(down, sold):
@@ -626,7 +632,7 @@ def render_home_image(tr, path, theme, narrow=False):
             y += 19
         xx = x0
         for sw, lab, val, extra in line:
-            col = {'sold': C['bl'], 'down': C['bl_mid'], 'up': C['or_']}[sw]
+            col = {'sold': C['bl'], 'po': C['po'], 'down': C['bl_mid'], 'up': C['or_']}[sw]
             dr.rounded_rectangle([X(xx), X(y - 10), X(xx + 10), X(y)], radius=X(3), fill=col + (255,))
             xx += 15
             xx += text(xx, y, lab + ' ', fl13, C['mu'])
