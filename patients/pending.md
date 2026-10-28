@@ -2,16 +2,16 @@
 
 # Pending
 
-**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:23 PM CT
+**BIOT Chicago West** · 103 patients · updated Tue 10/27, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;104](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · **Pending 12** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 23](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · **Pending 11** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 23](../patients/or.md) · [Done 15](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -38,13 +38,12 @@
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 3</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **J.D.** | GRAFIX<br>**Next&nbsp;Thu&nbsp;10/29&nbsp;2:45&nbsp;PM** |   | NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
 | <details><summary><b>G.G.</b></summary>Gerald G</details> | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
-| **M.A.** | GRAFIX · Dr.&nbsp;Goldkind |   | NWSFA list wk of 10/26: waiting on PA. Waiting for patient to have ABIs completed (NWSFA list wk of 10/19). Pending auth (NWSFA list wk of 10/12). IVR #06346857 (Humana): needs ABIs, albumin/pre-albumin, smoking status before submission to payer. R foot DFU. (Listed as M.P. until 10/4.)<br>[📄 IVR](../ivr/nw-mp.md) |
 
 </details>
 

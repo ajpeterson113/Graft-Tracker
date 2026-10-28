@@ -2,7 +2,7 @@
 
 # Cases
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:23 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -19,7 +19,7 @@
 | :-- | :-- | --: | :-- |
 | **11/2** | **P.S.** · NW Suburban F&A · Goldkind<br>Grafix 16mm · PO PS110226<details><summary><sub>Notes</sub></summary>16mm for P.S.'s Mon 11/2 visit, ordered 10/27 on PO PS110226 (AJ), \$190. It ships now, so it books in P10 (October) even though the visit is in P11. Lot/SN after the visit</details> | \$190 | 🔵&nbsp;Submitted<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 | **10/30** | **A.S.** · Central DuPage · Luetkehans<br>Grafix 16mm · PO AS103026<details><summary><sub>Notes</sub></summary>Sale order AS103026 submitted 10/27 (AJ) for the Fri 10/30 visit: 1 x 16mm, \$190. Lot/SN and case sheet after the visit</details> | \$190 | 🔵&nbsp;Submitted<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
-|   | **M.A.** · NW Suburban F&A<br>Grafix 16mm · PO MA103026<details><summary><sub>Notes</sub></summary>New start: A1 Fri 10/30 8:45 AM at NWSFA. 1 x 16mm ordered 10/27 on PO MA103026 (sales order, FedEx Priority), \$190 (NWSFA 16mm rate). Surgeon and office not given yet. Lot/SN with the sticker after the visit</details> | \$190 | 🔵&nbsp;Submitted<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
+|   | **M.A.** · NW Suburban F&A · Goldkind<br>Grafix 16mm · PO MA103026<details><summary><sub>Notes</sub></summary>New start: A1 Fri 10/30 8:45 AM at NWSFA. 1 x 16mm ordered 10/27 on PO MA103026 (sales order, FedEx Priority), \$190 (NWSFA 16mm rate). Dr. Goldkind: same patient as the pending M.A. on the NWSFA list (IVR #06346857, Humana), consolidated 10/27. Office (HE/EG) not given yet. Lot/SN with the sticker after the visit</details> | \$190 | 🔵&nbsp;Submitted<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 | **10/27** | [**D.S.**](../case-sheets/ds-1027.md) 📄 · Alexian WCC · Joshi<br>Grafix 5x5 · no PO yet · LYA-250866\_55013<details><summary><sub>Notes</sub></summary>App #2, Tue 10/27 9:15 AM, Dr. Joshi: 5x5 LYA-250866\_55013 (exp 11/3/27) from the Alexian WCC shelf, \$2,325 (Alexian 5x5 rate). Case sheet photo sent 10/27. PO (bill only, by patient ID) to come</details> | \$2,325 | 🟡&nbsp;Needs&nbsp;PO |
 |   | **Stravix 3x6 (shelf stock)** · Elmhurst<br>PO P2350677<details><summary><sub>Notes</sub></summary>Standalone sales order 10/27 (AJ): Elmhurst bought 1 Stravix 3x6 for its shelf on PO P2350677 (FedEx Priority), \$3,115.50 at the Elmhurst rate. Not a patient case and separate from P.C.'s 10/26 case (row 78, still waiting on its own PO). Shows in SFDC 10/28 (AJ). On the Elmhurst OR Stock tab as incoming; a later case that uses this unit adds no new sale</details> | \$3,115.50 | 🔵&nbsp;Submitted |
 |   | [**J.L.**](../case-sheets/jl-1027.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · PO 660040000286195 · LYA-260221\_16003<details><summary><sub>Notes</sub></summary>App #5, Tue 10/27 9:40 AM, Dr. Lucas: 16mm LYA-260221\_16003 (exp 3/3/28) from the Alexian WCC shelf, \$360. Case sheet photo sent 10/27. PO (bill only, by patient ID) to come. PO 660040000286195 (10/27, bill only; patient ID 0003074927, DOS 10/27, Dr. Lucas, 16mm \$360) per the PO PDF uploaded in the app 10/27</details> | \$360 | 🔵&nbsp;Submitted |

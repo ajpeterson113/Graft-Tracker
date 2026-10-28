@@ -2,26 +2,25 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:23 PM CT
+**BIOT Chicago West** · 103 patients · updated Tue 10/27, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;104](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;103](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · **Potential New Start 5** · [Pending 12](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 23](../patients/or.md) · [Done 14](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · **Potential New Start 4** · [Pending 11](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 23](../patients/or.md) · [Done 15](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 2</summary>
+<details open><summary><b>Good Sam</b> · 1</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>P.P.</b></summary>P. Patrizi</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;11/10** | 🟢 – | 🔴 Next 11/10, no time |
-| <details><summary><b>R.T.</b></summary>Roger Turner</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets&nbsp;per&nbsp;visit)&nbsp;suggested · Dr.&nbsp;Bach | 🟢 – | 🔴 No follow-up booked<br>Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |
 
 </details>
 
@@ -40,6 +39,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **M.A.** | GRAFIX&nbsp;16mm&nbsp;suggested · Weekly<br>**Next&nbsp;Fri&nbsp;10/30&nbsp;8:45&nbsp;AM** | 🟢 – | New start Fri 10/30 8:45 AM (AJ 10/27): GRAFIX 16mm ordered 10/27 on PO MA103026. Provider and office (HE/EG) not given yet. |
+| **M.A.** | GRAFIX&nbsp;16mm&nbsp;suggested · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Fri&nbsp;10/30&nbsp;8:45&nbsp;AM** | 🟢 – | New start Fri 10/30 8:45 AM with Dr. Goldkind (AJ 10/27): GRAFIX 16mm ordered 10/27 on PO MA103026. Office (HE/EG) not given yet. Same patient as the separate 10/30 new-start entry, consolidated into this record 10/27. Earlier: NWSFA list wk of 10/26 waiting on PA; wk of 10/19 waiting on ABIs; wk of 10/12 pending auth. IVR #06346857 (Humana): needed ABIs, albumin/pre-albumin, smoking status before submission. R foot DFU. (Listed as M.P. until 10/4.)<br>_10/27:_ Consolidated: the 10/30 new-start entry merged into this record (A1 Fri 10/30 8:45 AM, GRAFIX 16mm on PO MA103026).<br>[📄 IVR](../ivr/nw-mp.md) |
 
 </details>

@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:23 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -61,7 +61,7 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 10/27 | [O.O.](../case-sheets/oo-1027.md) | Alexian WCC · Vedantham | Grafix 16mm | …286196 | \$360 |
 | 10/27 | [M.L.](../case-sheets/ml-1027.md) | Alexian WCC · Joshi | Grafix 16mm | …286199 | \$360 |
 | 10/30 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS103026 | \$190 |
-| 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | \$190 |
+| 10/30 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA103026 | \$190 |
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | \$190 |
 
 <a name="sheets"></a>
@@ -77,7 +77,7 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/16 | R.C. | Central DuPage · Luetkehans | Grafix 3x4 | RC101626 | Seen Fri 10/16 |
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box |   | Seen Thu 10/22 |
 | 10/30 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | AS103026 | Coming up Fri 10/30 |
-| 10/30 | M.A. | NW Suburban F&A | Grafix 16mm | MA103026 | Coming up Fri 10/30 |
+| 10/30 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA103026 | Coming up Fri 10/30 |
 | 11/2 | P.S. | NW Suburban F&A · Goldkind | Grafix 16mm | PS110226 | Coming up Mon 11/2 |
 
 <a name="stock"></a>
@@ -88,11 +88,11 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 
 > [!WARNING]
 > - **Grafix 16mm: 6 on hand (target 10–15)** · Order 9 now · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
-> - **OASIS Burn 3x7: 2 sheets** · Order 2 boxes now · runs out week of 11/02 · [Alexian WCC](stock.md#alexian)
+> - **OASIS Burn 3x7: 1 sheet** · Order 2 boxes now · runs out week of 10/26 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 3x6: 4 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 1 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 32
+## 👥 Patients · 28
 
-1 to verify · 23 with no follow-up booked · 10 IVRs to follow up → [Patient to-do](../patients/todo.md)
+1 to verify · 20 with no follow-up booked · 9 IVRs to follow up → [Patient to-do](../patients/todo.md)

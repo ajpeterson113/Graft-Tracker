@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:23 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,7 +16,7 @@
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 10/3/26 · 45 grafts · 30 OASIS sheets
+**Consignment shelf** · counted 10/3/26 · 45 grafts · 29 OASIS sheets
 
 45 Grafix units on hand (\$52,421 consignment). 2 size(s) to reorder now. \$7,980 expiring before it can be used.
 
@@ -25,7 +25,7 @@
 
 > [!WARNING]
 > - **Grafix 16mm: 6 on hand (target 10–15)** · Order 9 now · runs out week of 10/26
-> - **OASIS Burn 3x7: 2 sheets** · Order 2 boxes now · runs out week of 11/02
+> - **OASIS Burn 3x7: 1 sheet** · Order 2 boxes now · runs out week of 10/26
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
@@ -38,7 +38,7 @@
 | **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | 🟢 OK | 1/wk · 7.0 wks left · box of 10 · out week of 12/14 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
 | **3x7**<br>OASIS&nbsp;Wound | **17** sheets | 🟢 OK | 4/wk · 4.2 wks left · box of 10 · out week of 11/23<br><sub>Box of 10 on the shelf per AJ 10/5; lot and expiry to come with the photos</sub> |
 | **3x3.5**<br>OASIS&nbsp;Burn | **3** sheets | No patients on it | box of 5 · next exp 4/3/28 |
-| **3x7**<br>OASIS&nbsp;Burn | **2** sheets | 🟠 Reorder now · order 2 boxes | 2/wk · 1.0 wks left · box of 5 · out week of 11/2 · next exp 11/8/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
+| **3x7**<br>OASIS&nbsp;Burn | **1** sheet | 🟠 Reorder now · order 2 boxes | 2/wk · 0.5 wks left · box of 5 · out week of 10/26 · next exp 11/8/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
 <details><summary><b>Units on the shelf</b> · 45</summary>
@@ -99,7 +99,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | OASIS Wound | 3x3.5 | LB1741499 | 7 of 10 sheets | 1/31/28 |   |
 | OASIS Burn | 3x3.5 | LB1732662 | 3 of 5 sheets | 4/3/28 |   |
-| OASIS Burn | 3x7 | LB1732663 | 2 of 5 sheets | 11/8/27 |   |
+| OASIS Burn | 3x7 | LB1732663 | 1 of 5 sheets | 11/8/27 |   |
 | OASIS Burn | 5x7 meshed | LB1639811 | 1 of 5 sheets | 7/11/27 |   |
 | OASIS Wound | 3x7 | Photo pending | 7 of 10 sheets |   |   |
 | OASIS Wound | 3x7 | Ordered 10/15 (PO …285214) | 10 of 10 sheets |   |   |
@@ -139,7 +139,7 @@
 | **Lot** | REF | Product Size | Sheets left | — | Flag |
 | **LB1741499** | 8213-1000-33 | OASIS Wound 3x3.5 | 7 | 461 |   |
 | **LB1732662** | 8213-3000-16 | OASIS Burn 3x3.5 | 3 | 524 |   |
-| **LB1732663** | 8213-3000-18 | OASIS Burn 3x7 | 2 | 377 |   |
+| **LB1732663** | 8213-3000-18 | OASIS Burn 3x7 | 1 | 377 |   |
 | **LB1639811** | 8213-3000-13 | OASIS Burn 5x7 meshed | 1 | 257 |   |
 | **Photo pending** | 8213-1000-37 | OASIS Wound 3x7 | 7 | — |   |
 | **Ordered 10/15 (PO …285214)** | 8213-1000-37 | OASIS Wound 3x7 | 10 | — |   |

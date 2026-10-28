@@ -2,7 +2,7 @@
 
 # P10 projection
 
-**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:23 PM CT
+**BIOT Chicago West** · P10 · day 21 of 25 · updated Tue 10/27, 9:32 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -14,12 +14,12 @@
 | \+ Projected Grafix, net of WCC stock | \$14,861 | \$10,611 |
 | \+ Upcoming Stravix | \$5,311 | \$2,656 |
 | \+ Potential new starts | \$0 | \$0 |
-| \+ OASIS reorders (estimated) | \$3,369 | \$0 |
-| **P10 forecast** | **\$157,534** | **\$147,260** |
+| \+ OASIS reorders (estimated) | \$3,369 | \$1,470 |
+| **P10 forecast** | **\$157,534** | **\$148,731** |
 | P10 target | \$129,015 | \$129,015 |
-| % of target | 122% | 114% |
-| Gap to target | ✅ over by \$28,519 | ✅ over by \$18,245 |
-| **Projected commission** | **\$15,753** | **\$14,726** |
+| % of target | 122% | 115% |
+| Gap to target | ✅ over by \$28,519 | ✅ over by \$19,716 |
+| **Projected commission** | **\$15,753** | **\$14,873** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in October sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 10/26.</sub>
@@ -32,7 +32,7 @@
 | :-- | --: | --: | --: | --: | --: |
 | [Good Sam](#good-sam) | \$38,892 | \$5,311 | \$2,656 | **\$44,203** | **\$41,548** |
 | [Central DuPage](#central-dupage) | \$19,800 | \$12,665 | \$8,415 | **\$32,465** | **\$28,215** |
-| [Alexian WCC](#alexian-wcc) | \$18,376 | \$2,550 | \$1,080 | **\$20,926** | **\$19,456** |
+| [Alexian WCC](#alexian-wcc) | \$18,376 | \$2,550 | \$2,550 | **\$20,926** | **\$20,926** |
 | [St. Alexius](#st-alexius) | \$15,307 | \$0 | \$0 | **\$15,307** | **\$15,307** |
 | [Alexian Ambulatory](#x) | \$10,548 | \$0 | \$0 | **\$10,548** | **\$10,548** |
 | [Elmhurst](#elmhurst) | \$9,347 | \$0 | \$0 | **\$9,347** | **\$9,347** |
@@ -42,7 +42,7 @@
 | [Romano Lombard](#romano-lombard) | \$380 | \$0 | \$0 | **\$380** | **\$380** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$133,994** | **\$23,540** | **\$13,266** | **\$157,534** | **\$147,260** |
+| **Total** | **\$133,994** | **\$23,540** | **\$14,736** | **\$157,534** | **\$148,731** |
 
 
 ## Account by account
@@ -111,7 +111,7 @@ Sold so far: **\$19,800** · 9 cases
 </details>
 
 <a name="alexian-wcc"></a>
-<details><summary><b>Alexian WCC</b> · upside &#36;20,926 · downside &#36;19,456</summary>
+<details><summary><b>Alexian WCC</b> · upside &#36;20,926 · downside &#36;20,926</summary>
 
 Sold so far: **\$18,376** · 33 cases
 
@@ -144,7 +144,7 @@ Sold so far: **\$18,376** · 33 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **Dr. Hussain** | OASIS Wound 3x7 · 0 up / 0 down boxes · D.V. (started 10/7) | — | — |   |
-| **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 0 down box · J.B., B.P. (from 10/19) | \$1,470 | \$0 | Stock tab: 2 Burn 3x7 sheets after B.P.'s A3 on 10/19 (moved down from 5x7). |
+| **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 1 down box · J.B., B.P. (from 10/19) | \$1,470 | \$1,470 | Stock tab: 1 Burn 3x7 sheet left after B.P.'s A4 on 10/26. |
 | **Dr. Lucas** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · D.S. (M.I. done) | — | — |   |
 | **Dr. Joshi** | OASIS Burn 5x7 meshed · 0 up / 0 down boxes · B.P. (new start 10/5) | — | — |   |
 
@@ -219,7 +219,7 @@ Sold so far: **\$6,275** · 10 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **M.A.** | New start Fri 10/30 8:45 AM (AJ 10/27): the 16mm on PO MA103026 is already in October sales, so nothing more in P10; weekly after that. | — | — |   |
+| **M.A. · Dr. Goldkind** | New start Fri 10/30 8:45 AM (AJ 10/27): the 16mm on PO MA103026 is already in October sales, so nothing more in P10; weekly after that. | — | — |   |
 | **P.S. · Dr. Goldkind** | A1 10/5 from the 16mm NWSFA bought 8/22/26 (PO PS100626, not a P10 sale). | — | — |   |
 
 **Potential new starts**
@@ -286,7 +286,7 @@ Sold so far: **\$190** · 1 case
 | Less Good Sam WCC stock already sold | 4 | -\$4,467 | -\$4,467 |
 | Upcoming Stravix | 3 | \$5,311 | \$2,656 |
 | Potential new starts | 10 | \$0 | \$0 |
-| OASIS reorders (estimated) | 9 | \$3,369 | \$0 |
+| OASIS reorders (estimated) | 9 | \$3,369 | \$1,470 |
 
 
 <details><summary><b>OASIS patients</b> · 20 · reorders come from the OASIS lines above</summary>
