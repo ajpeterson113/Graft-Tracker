@@ -2,16 +2,16 @@
 
 # Pending
 
-**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:51 PM CT
+**BIOT Chicago West** · 106 patients · updated Sun 11/1, 1:26 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;104](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;106](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · **Pending 11** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 24](../patients/or.md) · [Done 15](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · **Pending 9** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 24](../patients/or.md) · [Done 16](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -25,24 +25,22 @@
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 5</summary>
+<details open><summary><b>Alexian WCC</b> · 1</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Turayhi<br>**Next&nbsp;Wed&nbsp;10/28&nbsp;9:15&nbsp;AM** |   | 🔴 Verify: same time as last week (Wed 10/21) — confirm with the office<br>Next assumed Wed 10/28 9:15 AM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. Suggest oasis |
-| <details><summary><b>G.M.</b></summary>Givarkis Mirza</details> | GRAFIX/OASIS · Dr.&nbsp;Goldkind |   | Blue Cross Community |
-| <details><summary><b>V.T.</b></summary>Virginia thomas</details> | GRAFIX · Dr.&nbsp;Halihan |   | New 10/19 |
-| <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | GRAFIX · Dr.&nbsp;Joshi |   | New 10/22 |
-| <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | GRAFIX/OASIS · Dr.&nbsp;Lucas |   | New 10/26 |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Turayhi<br>**Next&nbsp;Wed&nbsp;11/4&nbsp;9:15&nbsp;AM** |   | Next assumed Wed 10/28 9:15 AM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. Suggest oasis |
 
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 2</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 4</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.D.** | GRAFIX<br>**Next&nbsp;Thu&nbsp;10/29&nbsp;2:45&nbsp;PM** |   | NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
+| **R.E.** | Dr.&nbsp;Hussain<br>**Next&nbsp;Mon&nbsp;11/2&nbsp;10:30&nbsp;AM · Hoffman&nbsp;Estates** |   | New 10/30 (NWSFA office note from Chris): IVR sent 10/30, Medicare / BCBS. Appointment Mon 11/2 10:30 AM at Hoffman Estates with Dr. Hussain. Nothing ordered until the IVR comes back. |
+| **J.D.** | GRAFIX<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/29&nbsp;2:45&nbsp;PM** |   | Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
+| **D.R.** | — |   | New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
 | <details><summary><b>G.G.</b></summary>Gerald G</details> | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
 
 </details>
@@ -52,7 +50,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>J.D.</b></summary>John Dematropolis</details> | GRAFIX/OASIS · Dr.&nbsp;Bhagat |   | Ran on 9/9/26, needs additional clinicals, needs referral |
+| <details><summary><b>J.D.</b></summary>Johnny  Dematropolis</details> | GRAFIX/OASIS · Dr.&nbsp;Bhagat |   | Ran on 9/9/26, needs additional clinicals, needs referral |
 
 </details>
 

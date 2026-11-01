@@ -2,42 +2,46 @@
 
 # On hold
 
-**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:51 PM CT
+**BIOT Chicago West** · 106 patients · updated Sun 11/1, 1:26 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;104](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;106](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 11](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 9** · [OR 24](../patients/or.md) · [Done 15](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 9](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 13** · [OR 24](../patients/or.md) · [Done 16](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 1</summary>
+<details open><summary><b>Good Sam</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>C.H.</b></summary>Candace Hein</details> | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Bach | 🟢 0 | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |
+| <details><summary><b>D.F.</b></summary>Dominga Flores</details>🟠&nbsp;Verify | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Luetkehans<br>**Last&nbsp;graft&nbsp;10/22** | 🟢 4 | 🟠 **Verify:** On hold (AJ 10/29) — check with the Good Sam WCC when she's back on the schedule<br>ON HOLD (AJ 10/29): the assumed Thu 10/29 2:00 PM visit is off; nothing projected until she's rescheduled. A4 Thu 10/22: 5x5 from the Good Sam shelf (stayed on 5x5, did not move down to 3x4). A3 10/8: 5x5 (Good Sam ordered it on PO006001505). Stravix on 9/10.<br>_10/29:_ On hold (AJ): taken off the schedule and out of the P10 projections |
 
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 1</summary>
+<details open><summary><b>Alexian WCC</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>J.C.</b></summary>Jerry Cooper</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/27&nbsp;10:15&nbsp;AM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
 
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 5</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 7</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| <details><summary><b>F.A.</b></summary>Frank Auman</details> | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/13** | 🔴 12 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris; office was running a new IVR 10/16. NWSFA schedule wk of 10/26: Tue 10/27 11:30 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Tue 10/20 11:30 AM Dr. Adelstein (HE) — office running IVR 10/16. A11 10/6 (A10 the week of 9/28, exact date not recorded) |
+| <details><summary><b>J.M.</b></summary>Joyce Morales</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/14** | 🟢 3 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris. NWSFA schedule wk of 10/26: Wed 10/28 12:45 PM Dr. Adelstein (EG). NWSFA schedule wk of 10/19: Wed 10/21 12:30 PM Dr. Adelstein (HE). A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
 | <details><summary><b>J.R.</b></summary>James Roshbach</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
 | <details><summary><b>R.D.</b></summary>Roosevelt Dunlap</details> | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🟡 10 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
 | <details><summary><b>J.C.</b></summary>Jeffrey Chase</details> | Oasis&nbsp;Ultra&nbsp;7x20 · Dr.&nbsp;Hussain | 🔴 12 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Last 7/27/26 |
@@ -60,6 +64,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **??** | GRAFIX&nbsp;5x5&nbsp;(suggested) · Weekly · Dr.&nbsp;Rojas<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 0 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside.<br>_10/21:_ Moved to On hold (AJ 10/21); taken out of the projections. |
+| **??** | GRAFIX&nbsp;5x5&nbsp;(suggested) · Weekly · Dr.&nbsp;Rojas<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 0 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside.<br>_10/28:_ Workers comp patient |
 
 </details>

@@ -2,16 +2,16 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 104 patients · updated Tue 10/27, 9:51 PM CT
+**BIOT Chicago West** · 106 patients · updated Sun 11/1, 1:26 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;8](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;104](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;106](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · **Potential New Start 4** · [Pending 11](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 9](../patients/on-hold.md) · [OR 24](../patients/or.md) · [Done 15](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · **Potential New Start 5** · [Pending 9](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 24](../patients/or.md) · [Done 16](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -25,20 +25,13 @@
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 2</summary>
+<details open><summary><b>Alexian WCC</b> · 4</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Tue&nbsp;10/27&nbsp;10:15&nbsp;AM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
-| <details><summary><b>J.B.</b></summary>J. Buschmann</details> | GRAFIX/Oasis · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;10/29&nbsp;8:00&nbsp;AM** | 🟢 – of 8 |   |
-
-</details>
-
-<a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 1</summary>
-
-| Patient | Graft · next visit | Apps | Notes |
-| :-- | :-- | :-- | :-- |
-| **M.A.** | GRAFIX&nbsp;16mm&nbsp;suggested · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Fri&nbsp;10/30&nbsp;8:45&nbsp;AM** | 🟢 – | New start Fri 10/30 8:45 AM with Dr. Goldkind (AJ 10/27): GRAFIX 16mm ordered 10/27 on PO MA103026. Office (HE/EG) not given yet. Same patient as the separate 10/30 new-start entry, consolidated into this record 10/27. Earlier: NWSFA list wk of 10/26 waiting on PA; wk of 10/19 waiting on ABIs; wk of 10/12 pending auth. IVR #06346857 (Humana): needed ABIs, albumin/pre-albumin, smoking status before submission. R foot DFU. (Listed as M.P. until 10/4.)<br>_10/27:_ Consolidated: the 10/30 new-start entry merged into this record (A1 Fri 10/30 8:45 AM, GRAFIX 16mm on PO MA103026).<br>[📄 IVR](../ivr/nw-mp.md) |
+| <details><summary><b>G.M.</b></summary>Givarkis Mirza</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX/OASIS · Dr.&nbsp;Goldkind | 🟢 – of 8 | 🔴 No follow-up booked<br>Blue Cross Community |
+| <details><summary><b>V.T.</b></summary>Virginia thomas</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Dr.&nbsp;Halihan | 🟢 – of 8 | 🔴 No follow-up booked |
+| <details><summary><b>G.C.</b></summary>Gabriel Curiel</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Dr.&nbsp;Joshi | 🟢 – of 8 | 🔴 No follow-up booked |
+| <details><summary><b>G.H.</b></summary>Gordon Hamby</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Dr.&nbsp;Lucas | 🟢 – of 8 | 🔴 No follow-up booked |
 
 </details>
