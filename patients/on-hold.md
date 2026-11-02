@@ -2,16 +2,16 @@
 
 # On hold
 
-**BIOT Chicago West** · 109 patients · updated Mon 11/2, 7:23 AM CT
+**BIOT Chicago West** · 110 patients · updated Mon 11/2, 10:09 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;109](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;110](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 27](../patients/or.md) · [Done 18](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 27](../patients/or.md) · [Done 19](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -29,8 +29,8 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;11/4&nbsp;3:30&nbsp;PM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
 | <details><summary><b>J.C.</b></summary>Jerry Cooper</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;10/27&nbsp;10:15&nbsp;AM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
 
 </details>
 

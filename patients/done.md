@@ -2,16 +2,16 @@
 
 # Done
 
-**BIOT Chicago West** · 109 patients · updated Mon 11/2, 7:23 AM CT
+**BIOT Chicago West** · 110 patients · updated Mon 11/2, 10:09 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;109](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;110](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 27](../patients/or.md) · **Done 18** · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 27](../patients/or.md) · **Done 19** · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -29,12 +29,13 @@
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 9</summary>
+<details open><summary><b>Alexian WCC</b> · 10</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>J.B.</b></summary>Jozef B.</details> | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/8** | 🟢 3 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. Last graft A3 10/8 (OASIS Burn 3x7 from the WCC shelf); not grafted 10/15 (no-show), 10/22 or 10/29. |
 | <details><summary><b>D.C.</b></summary>Donald Carrothers</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein | 🟢 5 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. 5 GRAFIX applications (AJ confirmed 10/12): 2x3 9/3, 1.5x2 9/10 and 9/17, 16mm from 9/24. Held 10/8, 10/15 (wound got larger, vascular consult) and 10/29. |
+| <details><summary><b>G.M.</b></summary>Givarkis Mirza</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Goldkind |   | Patient is Medicaid, won’t graft PA approved (BCBS Illinois, case 06524833): OASIS Wound Matrix (Q4102) x130 sq cm, 15275 x12 and 15276 x36, 10/27/26–2/15/27, Dr. Goldkind. DFU right heel/midfoot 3.8 x 2.5 x 0.3 cm, so one OASIS Wound 3x3.5 a visit. Not started yet; weekly once booked (Alexian). Payer noted earlier as Blue Cross Community. |
 | <details><summary><b>M.D.</b></summary>Marvin Drafall</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Hussain<br>**Last&nbsp;graft&nbsp;9/16** | 🟢 6 of 8 | Patient complaining about bills, no longer grafting |
 | <details><summary><b>M.O.</b></summary>Maria Ochoa</details> | OASIS&nbsp;Burn&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🔴 8 of 8 | Healed |
 | <details><summary><b>T.T.</b></summary>Tracy Tijerria</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Last&nbsp;graft&nbsp;10/6** | 🟡 7 of 8 | Healed Tue 10/27 (not grafted): done after 7 applications. A7 10/6 (LYA-260159\_16028). |

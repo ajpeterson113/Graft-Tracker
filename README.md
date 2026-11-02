@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 0 of 19 · updated Mon 11/2, 7:23 AM CT
+**BIOT Chicago West** · P11 · day 0 of 19 · updated Mon 11/2, 10:09 AM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -19,8 +19,8 @@
 
 <table>
 <tr>
-<td width="50%"><a href="tracker/todo.md#ready"><b>🟢 Ready to submit</b></a><br><b>2</b> · &#36;380 to SFDC</td>
-<td width="50%"><a href="tracker/todo.md#needspo"><b>🟡 Waiting on a PO</b></a><br><b>5</b> · &#36;6,030 outstanding</td>
+<td width="50%"><a href="tracker/todo.md#ready"><b>🟢 Ready to submit</b></a><br><b>3</b> · &#36;3,496 to SFDC</td>
+<td width="50%"><a href="tracker/todo.md#needspo"><b>🟡 Waiting on a PO</b></a><br><b>4</b> · &#36;2,914 outstanding</td>
 </tr>
 <tr>
 <td width="50%"><a href="tracker/todo.md"><b>🔵 Not in SFDC yet</b></a><br><b>&#36;6,410</b> · 7 November entries</td>
@@ -33,7 +33,7 @@
 
 | [Mon 11/2 · today](patients/week.md#mon) | [Tue 11/3](patients/week.md#tue) | [Wed 11/4](patients/week.md#wed) | [Thu 11/5](patients/week.md#thu) | [Fri 11/6](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **8** visits 🟠 | **9** visits 🔴 | **6** visits 🟠 | **15** visits 🟠 🔴 | **5** visits 🟠 🔴 |
+| **8** visits 🟠 | **9** visits | **8** visits 🟠 | **16** visits 🟠 | **6** visits 🟠 🔴 |
 
 
 Covering: Caroline 3 · Pete 12 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
@@ -101,7 +101,7 @@ Scheduled visits this week count until they're filed; once a visit is in Novembe
 
 |  | File | Updated |
 | :-: | :-- | :-- |
-| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-02.xlsx · Mon 11/2, 7:22 AM CT |
+| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-02.xlsx · Mon 11/2, 10:09 AM CT |
 | ⬇ | [Patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) | from the Chi West Patients app |
 | ⬇ | [Target workbook (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx) | surgeon targets |
 
