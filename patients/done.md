@@ -2,38 +2,39 @@
 
 # Done
 
-**BIOT Chicago West** · 106 patients · updated Sun 11/1, 1:26 PM CT
+**BIOT Chicago West** · 109 patients · updated Mon 11/2, 7:23 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;106](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;109](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 9](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 24](../patients/or.md) · **Done 16** · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 27](../patients/or.md) · **Done 18** · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 6</summary>
+<details open><summary><b>Good Sam</b> · 5</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>Zahora</b></summary>Zahora</details> | Dr.&nbsp;Ayesh |   | Waiting on revascularization before running IVR |
 | <details><summary><b>R.T.</b></summary>Roger Turner</details> | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets&nbsp;per&nbsp;visit) · Dr.&nbsp;Bach |   | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |
 | <details><summary><b>B.W.</b></summary>Bonnie Walk</details> | Dr.&nbsp;Bach |   | Hand ulcer, monitoring progress. Coming in 9/16 9:45 am |
-| <details><summary><b>L.D.</b></summary>L. Dituri</details> | GRAFIX&nbsp;1.5x2 · Weekly · Dr.&nbsp;Luetkehans<br>**Last&nbsp;graft&nbsp;10/8** | 🔴 23 | Done 10/8 after A23 (1.5x2): no more grafting recommended. |
 | <details><summary><b>I.S.</b></summary>I. Stalilionis</details> | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Weekly · Dr.&nbsp;Patni<br>**Last&nbsp;graft&nbsp;10/6** | 🟢 6 | Healed 10/13 (Pete covered, not grafted): done after 6 applications. A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |
 | <details><summary><b>J.B.</b></summary>J. Buscher</details> | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x7&nbsp;and&nbsp;3x3.5 · Dr.&nbsp;Raigaga |   |   |
 
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 7</summary>
+<details open><summary><b>Alexian WCC</b> · 9</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| <details><summary><b>J.B.</b></summary>Jozef B.</details> | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/8** | 🟢 3 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. Last graft A3 10/8 (OASIS Burn 3x7 from the WCC shelf); not grafted 10/15 (no-show), 10/22 or 10/29. |
+| <details><summary><b>D.C.</b></summary>Donald Carrothers</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein | 🟢 5 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. 5 GRAFIX applications (AJ confirmed 10/12): 2x3 9/3, 1.5x2 9/10 and 9/17, 16mm from 9/24. Held 10/8, 10/15 (wound got larger, vascular consult) and 10/29. |
 | <details><summary><b>M.D.</b></summary>Marvin Drafall</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Hussain<br>**Last&nbsp;graft&nbsp;9/16** | 🟢 6 of 8 | Patient complaining about bills, no longer grafting |
 | <details><summary><b>M.O.</b></summary>Maria Ochoa</details> | OASIS&nbsp;Burn&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🔴 8 of 8 | Healed |
 | <details><summary><b>T.T.</b></summary>Tracy Tijerria</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Last&nbsp;graft&nbsp;10/6** | 🟡 7 of 8 | Healed Tue 10/27 (not grafted): done after 7 applications. A7 10/6 (LYA-260159\_16028). |
@@ -45,11 +46,12 @@
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 1</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>MZ (R)</b></summary>Mariusz Zabrodzki</details> | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Goldkind | 🔴 21 |   |
+| <details><summary><b>G.G.</b></summary>Gerald G</details> | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
 
 </details>
 

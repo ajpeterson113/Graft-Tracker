@@ -2,16 +2,16 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 106 patients · updated Sun 11/1, 1:26 PM CT
+**BIOT Chicago West** · 109 patients · updated Mon 11/2, 7:23 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;106](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;109](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · **Potential New Start 5** · [Pending 9](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 24](../patients/or.md) · [Done 16](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · **Potential New Start 5** · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 27](../patients/or.md) · [Done 18](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -20,7 +20,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>P.P.</b></summary>P. Patrizi</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;11/10** | 🟢 – | 🔴 Next 11/10, no time |
+| <details><summary><b>P.P.</b></summary>P. Patrizi</details> | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;11/3&nbsp;9:00&nbsp;AM** | 🟢 – |   |
 
 </details>
 
@@ -29,7 +29,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>G.M.</b></summary>Givarkis Mirza</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX/OASIS · Dr.&nbsp;Goldkind | 🟢 – of 8 | 🔴 No follow-up booked<br>Blue Cross Community |
+| <details><summary><b>G.M.</b></summary>Givarkis Mirza</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5&nbsp;suggested · Weekly · Dr.&nbsp;Goldkind | 🟢 – of 8 | 🔴 No follow-up booked<br>PA approved (BCBS Illinois, case 06524833): OASIS Wound Matrix (Q4102) x130 sq cm, 15275 x12 and 15276 x36, 10/27/26–2/15/27, Dr. Goldkind. DFU right heel/midfoot 3.8 x 2.5 x 0.3 cm, so one OASIS Wound 3x3.5 a visit. Not started yet; weekly once booked (Alexian). Payer noted earlier as Blue Cross Community. |
 | <details><summary><b>V.T.</b></summary>Virginia thomas</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Dr.&nbsp;Halihan | 🟢 – of 8 | 🔴 No follow-up booked |
 | <details><summary><b>G.C.</b></summary>Gabriel Curiel</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Dr.&nbsp;Joshi | 🟢 – of 8 | 🔴 No follow-up booked |
 | <details><summary><b>G.H.</b></summary>Gordon Hamby</details>🔴&nbsp;No&nbsp;follow-up | GRAFIX · Dr.&nbsp;Lucas | 🟢 – of 8 | 🔴 No follow-up booked |
