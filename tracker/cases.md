@@ -2,7 +2,7 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 3:27 PM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 3:59 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;11](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -186,6 +186,7 @@ Grafts used at one account while consigned to another. Each has a typed transpor
 | 10/26 |   | Grafix PL Prime 3x3 | LYA-250533\_33002 | Alexian Brothers Wound Center (WCC shelf) (253985) | Dr. George's account (another rep, different territory) | Dr. George | transfer out · waiting on the other rep's log |
 | 10/14 | M.W. | Grafix PL Prime 16mm disc | LYA-260146\_16009 | Alexian Brothers Wound Center (WCC shelf) (253985) | Romano Orthopaedics - Lombard | Dr. Rojas | [log](../case-sheets/mw-1014-transport-log.jpg) · [case sheet](../case-sheets/mw-1014.md) |
 | 10/9 | R.C. | Grafix PL Prime 3x4 | LYA-250008\_34006 | Alexian Brothers Wound Center (WCC shelf) (253985) | Central DuPage Foot & Ankle Specialists (Downers Grove) (247208) | Dr. Luetkehans | [log](../case-sheets/rc-1009-transport-log.jpg) · [case sheet](../case-sheets/rc-1009-3x4.md) |
+| 10/9 |   | Grafix PL Prime 1.5x2 | LYA-260068\_15003 | Alexian Brothers Wound Center (WCC shelf) (253985) | Dr. Farhan's office (Libby's territory) | Dr. Farhan | transfer out · waiting on the other rep's log |
 | 10/7 | F.M. | Stravix PL 3x6 | LYU-250611\_36004 | Advocate Condell Medical Center (Talia Stanis's consignment) (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](../case-sheets/fm-1007-transport-log.jpg) · [case sheet](../case-sheets/fm-1007.md) |
 | 10/7 | F.M. | Stravix PL 3x6 | LYU-250611\_36005 | Advocate Condell Medical Center (Talia Stanis's consignment) (255116) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](../case-sheets/fm-1007-transport-log.jpg) · [case sheet](../case-sheets/fm-1007.md) |
 | 10/7 | F.M. | Stravix PL 3x6 | LYU-251530\_36001 | Advocate Sherman Hospital (consignment) (210494) | UChicago Medicine AdventHealth GlenOaks (199254) | Dr. McKanna | [log](../case-sheets/fm-1007-transport-log.jpg) · [case sheet](../case-sheets/fm-1007.md) |

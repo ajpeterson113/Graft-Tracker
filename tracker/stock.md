@@ -2,23 +2,23 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 3:27 PM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 3:59 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;11](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [Alexian WCC 🔴](#alexian) | [Good Sam WCC](#goodsamwcc) | [St. Alexius OR 🟠](#stalexius) | [Good Sam OR](#goodsamor) | [GlenOaks OR](#glenoaks) | [Elmhurst OR](#elmhurst) |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Consignment shelf | Clinic stock (already sold) | Bill & replace | Consigned | Consigned, Bill Only | Consigned + bought on PO |
+| [Alexian WCC 🔴](#alexian) | [Good Sam WCC](#goodsamwcc) | [St. Alexius OR 🟠](#stalexius) | [Good Sam OR](#goodsamor) | [GlenOaks OR](#glenoaks) | [Elmhurst OR](#elmhurst) | [Alexian Ambulatory](#alexianamb) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Consignment shelf | Clinic stock (already sold) | Bill & replace | Consigned | Consigned, Bill Only | Consigned + bought on PO | Consigned (OASIS: one row per box) |
 
 <a name="alexian"></a>
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 11/3/26 · 47 grafts · 21 OASIS sheets
+**Consignment shelf** · counted 11/3/26 · 46 grafts · 21 OASIS sheets
 
-47 Grafix units on hand (\$50,060 consignment). 3 size(s) to reorder now. \$7,980 expiring before it can be used.
+46 Grafix units on hand (\$49,460 consignment). 3 size(s) to reorder now. \$7,980 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment
@@ -31,7 +31,7 @@
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **16mm**<br>Grafix | 🟠 **8**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 7 | 6/wk · 1.3 wks left · out week of 11/9 · next exp 3/3/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
-| **1.5x2**<br>Grafix | **11**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 11.0 wks left · out week of 1/18 · next exp 6/18/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
+| **1.5x2**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 10.0 wks left · out week of 1/11 · next exp 6/18/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **9**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 9.0 wks left · out week of 1/4 · next exp 5/2/27 |
 | **3x3**<br>Grafix | 🟠 **3**<br>target&nbsp;5⁠–⁠10 | 🟠 Reorder now · order 7 | next exp 5/2/27 |
 | **3x4**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🔴 7 expire before use | next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
@@ -42,21 +42,20 @@
 | **3x7**<br>OASIS&nbsp;Burn | **5** sheets | 🟢 OK | 1/wk · 5.0 wks left · box of 5 · out week of 12/7 · next exp 8/18/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
-<details><summary><b>Units on the shelf</b> · 47</summary>
+<details><summary><b>Units on the shelf</b> · 46</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Grafix | 1.5x2 | LYA-250668\_15009 | 6/18/27 | 11/10 | On shelf |   |
 | Grafix | 1.5x2 | LYA-250733\_15011 | 8/12/27 | 11/17 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260068\_15003 | 11/25/27 | 11/24 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15004 | 1/13/28 | 12/1 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 12/8 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/15 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15003 | 1/13/28 | 12/22 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15010 | 1/13/28 | 12/29 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15020 | 1/13/28 | 1/5 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15019 | 1/13/28 | 1/12 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15018 | 1/13/28 | 1/19 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15004 | 1/13/28 | 11/24 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 12/1 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/8 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15003 | 1/13/28 | 12/15 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15010 | 1/13/28 | 12/22 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15020 | 1/13/28 | 12/29 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15019 | 1/13/28 | 1/5 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15018 | 1/13/28 | 1/12 | On shelf |   |
 | Grafix | 16mm | LYA-260221\_16004 | 3/3/28 | 11/4 | On shelf |   |
 | Grafix | 16mm | LYA-260221\_16005 | 3/3/28 | 11/5 | On shelf |   |
 | Grafix | 16mm | LYA-260221\_16006 | 3/3/28 | 11/6 | On shelf |   |
@@ -153,7 +152,7 @@
 
 </details>
 
-<details><summary><b>Used since the count</b> · 31</summary>
+<details><summary><b>Used since the count</b> · 32</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
@@ -162,6 +161,7 @@
 | LYA-260159\_16028 | Grafix 16mm | Used Oct |
 | LYA-260159\_16026 | Grafix 16mm | Used Oct |
 | LYA-260017\_16014 | Grafix 16mm | Used Oct |
+| LYA-260068\_15003 | Grafix 1.5x2 | Transferred out |
 | LYA-260068\_15002 | Grafix 1.5x2 | Used Oct |
 | LYA-260068\_15005 | Grafix 1.5x2 | Used Nov |
 | LYA-250516\_23003 | Grafix 2x3 | Used Oct |
@@ -431,5 +431,49 @@ Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit 
 <details><summary><b>About this shelf</b></summary>
 
 Stravix on the OR shelf at Elmhurst Memorial Hospital (acct 187019). Customer consignment per the BIOT Chicago district consignment report (10/11): Stravix 3x6 LYU-250920\_36004, \_36005, \_36006 (exp 4/15/27) and Stravix 2x4 LYU-251109\_24001 (exp 6/9/27). A consigned unit used in a case is billed on its own Elmhurst PO, so it counts as a sale when used. LYU-250920\_36005 was used 10/26 (P.C., Dr. McGann). Elmhurst also bought 1 Stravix 3x6 on PO P2350677 (standalone sales order 10/27, FedEx Priority): a sale when it ships (October), so a case that uses that unit adds no new sale.
+
+</details>
+
+<a name="alexianamb"></a>
+
+## Alexian Ambulatory
+
+**Consigned (OASIS: one row per box)** · counted 11/3/26 · 12 grafts · 2 OASIS sheets
+
+| Size | On hand | Status | Use and dates |
+| :-- | --: | :-- | :-- |
+| **16mm**<br>Grafix | **1** | — | next exp 8/12/27 |
+| **1.5x2**<br>Grafix | **1** | — | next exp 2/26/27 |
+| **3x4**<br>Grafix | **2** | — | next exp 12/18/26<br><sub>both expire within 7 weeks</sub> |
+| **5x5**<br>Grafix | **2** | — | next exp 11/3/27 |
+| **3x6**<br>Stravix | **4** | — | next exp 8/11/27 |
+| **2x4**<br>Stravix | **2** | — | next exp 8/18/27 |
+| **3x3.5**<br>OASIS&nbsp;Wound | **1** sheet | — | next exp 8/28/28 |
+| **3x7**<br>OASIS&nbsp;Wound | **1** sheet | — | next exp 9/24/28 |
+
+<details><summary><b>Units on the shelf</b> · 14</summary>
+
+| Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Grafix | 1.5x2 | LYA-250316\_15001 | 2/26/27 |   | On shelf |   |
+| Grafix | 16mm | LYA-250720\_16004 | 8/12/27 |   | On shelf |   |
+| Grafix | 3x4 | LYA-250054\_34023 | 12/18/26 |   | On shelf |   |
+| Grafix | 3x4 | LYA-250054\_34022 | 12/18/26 |   | On shelf |   |
+| Grafix | 5x5 | LYA-250895\_55005 | 11/3/27 |   | On shelf |   |
+| Grafix | 5x5 | LYA-250895\_55006 | 11/3/27 |   | On shelf |   |
+| OASIS Wound | 3x3.5 | LB1751182\_6 of 10 sheets | 8/28/28 |   | On shelf |   |
+| OASIS Wound | 3x7 | LB1754906\_10 of 10 sheets | 9/24/28 |   | On shelf |   |
+| Stravix | 2x4 | LYU-251827\_24004 | 8/18/27 |   | On shelf |   |
+| Stravix | 2x4 | LYU-251827\_24005 | 8/18/27 |   | On shelf |   |
+| Stravix | 3x6 | LYU-251697\_36003 | 8/11/27 |   | On shelf |   |
+| Stravix | 3x6 | LYU-251697\_36004 | 8/11/27 |   | On shelf |   |
+| Stravix | 3x6 | LYU-251697\_36005 | 8/11/27 |   | On shelf |   |
+| Stravix | 3x6 | LYU-251697\_36006 | 8/11/27 |   | On shelf |   |
+
+</details>
+
+<details><summary><b>About this shelf</b></summary>
+
+Shelf at Alexian Brothers - Ambulatory (acct 186035), counted from AJ's photos 11/3. Grafix and Stravix are consigned: a unit used in a case is billed then, so it counts as a sale when used. OASIS: the Wound 3x3.5 box LB1751182 was bought on H.P.'s A1 10/22 (already a sale, sheets used after that add nothing); the Wound 3x7 box LB1754906 is a consignment box of 10 shipped 10/29 (sales doc 226105520), billed per use. OASIS rows are one box each, with the sheets left in the SN column.
 
 </details>

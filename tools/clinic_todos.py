@@ -31,6 +31,7 @@ LOC_ACCT = {
     'stalexius': 'Ascension Saint Alexius',
     'glenoaks': 'UChicago Medicine AdventHealth GlenOaks',
     'elmhurst': 'Elmhurst Hospital',
+    'alexianamb': 'Alexian Brothers - Ambulatory',
 }
 GOOD_SAM = 'Advocate Good Samaritan Hospital'
 
