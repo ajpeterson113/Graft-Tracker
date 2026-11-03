@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 2:16 PM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 3:27 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;11](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,10 +13,12 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**9 entries · \$8,705** · 🟢 3 Ready · 🟡 6 Needs PO
+**11 entries · \$11,390** · 🟢 3 Ready · 🟡 8 Needs PO
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/3** | [**D.S.**](../case-sheets/ds-1103.md) 📄 · Alexian WCC · Joshi<br>Grafix 5x5 · no PO yet · LYA-250866\_55014<details><summary><sub>Notes</sub></summary>App #3, Tue 11/3 9:15 AM, Dr. Joshi: 5x5 LYA-250866\_55014 (exp 11/3/27) from the Alexian WCC shelf, \$2,325 (Alexian 5x5 rate). Case sheet photo sent 11/3. Alexian ID 0003081837 (same as A1/A2, October rows 62 and 77). Most likely moving to 3x4 next week. Bill-only PO by patient ID to come.</details> | \$2,325 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**O.O.**](../case-sheets/oo-1103.md) 📄 · Alexian WCC · Vedantham<br>Grafix 16mm · no PO yet · LYA-260221\_16011<details><summary><sub>Notes</sub></summary>App #4, Tue 11/3 12:55 PM, Dr. Vedantham: 16mm LYA-260221\_16011 (exp 3/3/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). Case sheet photo sent 11/3. Alexian ID 0003052679 (same as A1-A3, October rows 49, 64 and 79). Bill-only PO by patient ID to come.</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 | **11/2** | [**T.A.**](../case-sheets/ta-1102.md) 📄 · Good Sam · Farhan<br>Stravix 2x4 · no PO yet · LYU-260468\_24003<details><summary><sub>Notes</sub></summary>OR case Mon 11/2 10:30 AM at Good Sam (Dr. Farhan): T.A.'s second Stravix 2x4 (round 1 was 10/1, October row 24). LYU-260468\_24003 (exp 2/16/28) from the Good Sam OR shelf, \$1,695 (Good Sam 2x4 rate). Medical recall sheet (implant record) uploaded in the Graft Tracker app 11/2 evening. Good Sam PO (Owens & Minor) to come, like PO005984962 for round 1.</details> | \$1,695 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**C.P.**](../case-sheets/cp-1102.md) 📄 · Alexian WCC · Joshi<br>Grafix 1.5x2 · no PO yet · LYA-260068\_15005<details><summary><sub>Notes</sub></summary>App #2, Mon 11/2 1:15 PM, Dr. Joshi: 1.5x2 LYA-260068\_15005 (exp 11/25/27) from the Alexian WCC shelf, \$600 (Alexian 1.5x2 rate). Case sheet uploaded in the Graft Tracker app 11/2 (AJ confirmed C.P.). Alexian ID 0002759724 (same as A1 10/26, October row 76). Bill-only PO by patient ID to come.</details> | \$600 | 🟡&nbsp;Needs&nbsp;PO |
 | **10/26** | [**P.C.**](../case-sheets/pc-1026.md) 📄 · Elmhurst · McGann<br>Stravix 3x6 · PO P2353811 · LYU-250920\_36005<details><summary><sub>Notes</sub></summary>OR case Mon 10/26 7:30 AM at Elmhurst (Dr. McGann): P.C.'s second round of Stravix (separate case; round 1 was 9/28, row 15). Stravix 3x6 LYU-250920\_36005 (exp 4/15/27), \$3,115.50 (Elmhurst rate). Case sheet made 10/27 from AJ's sticker photo in the Patients app (case-sheets/pc-1026). PO to come. From Elmhurst's own consignment (187019 on the district consignment report, with LYU-250920\_36004 and \_36006), so no transfer (round 1 needed one) — Moved to the November tab 10/30 (AJ): P10 closed with what was submitted; this counts in P11 once it's submitted.</details> | \$3,115.50 | 🟢&nbsp;Ready |

@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 2:16 PM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 3:27 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;11**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -20,7 +20,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/26 | [P.C.](../case-sheets/pc-1026.md) | Elmhurst · McGann | Stravix 3x6 | P2353811 | \$3,115.50 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 6 · \$5,209
+## 🟡 Waiting on a PO · 8 · \$7,894
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -30,6 +30,8 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | 🟠 12 days |   | \$1,104 |
 | 11/2 | [T.A.](../case-sheets/ta-1102.md) | Good Sam · Farhan | Stravix 2x4 | 🟠 1 day |   | \$1,695 |
 | 11/2 | [C.P.](../case-sheets/cp-1102.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 🟠 1 day | 0002759724 | \$600 |
+| 11/3 | [D.S.](../case-sheets/ds-1103.md) | Alexian WCC · Joshi | Grafix 5x5 | — | 0003081837 | \$2,325 |
+| 11/3 | [O.O.](../case-sheets/oo-1103.md) | Alexian WCC · Vedantham | Grafix 16mm | — | 0003052679 | \$360 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 8 · \$33,514
@@ -57,18 +59,19 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box |   | Seen Thu 10/22 |
 
 <a name="stock"></a>
-## 📦 Stock · 5
+## 📦 Stock · 6
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **Grafix 16mm: 9 on hand (target 10–15)** · Order 6 now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
+> - **Grafix 16mm: 8 on hand (target 10–15)** · Order 7 now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
 > - **Grafix 3x3: 3 on hand (target 5–10)** · Order 7 now · [Alexian WCC](stock.md#alexian)
+> - **OASIS Wound 3x7: 5 sheets** · Order 2 boxes now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
 > - **Grafix 5x5: 0 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 28
+## 👥 Patients · 22
 
-11 to verify · 12 with no follow-up booked · 3 IVRs to follow up · 6 files to file → [Patient to-do](../patients/todo.md)
+11 to verify · 12 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)
