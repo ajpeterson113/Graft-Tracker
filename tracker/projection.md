@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 7:00 AM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 2:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -14,16 +14,16 @@
 | \+ Projected Grafix, net of WCC stock | \$28,052 | \$28,418 |
 | \+ Upcoming Stravix | \$18,094 | \$12,401 |
 | \+ Potential new starts | \$1,277 | \$0 |
-| \+ OASIS reorders (estimated) | \$6,142 | \$5,370 |
-| **P11 forecast** | **\$62,269** | **\$54,894** |
+| \+ OASIS reorders (estimated) | \$9,818 | \$7,576 |
+| **P11 forecast** | **\$65,946** | **\$57,100** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 67% | 59% |
-| Gap to target | \$30,622 | \$37,997 |
-| **Projected commission** | **\$4,359** | **\$3,843** |
+| % of target | 71% | 61% |
+| Gap to target | \$26,945 | \$35,791 |
+| **Projected commission** | **\$4,616** | **\$3,997** |
 
 
 > [!NOTE]
-> Hitting target pays 10% on everything. Closing the \$37,997 downside gap adds about **\$5,447** in commission.
+> Hitting target pays 10% on everything. Closing the \$35,791 downside gap adds about **\$5,292** in commission.
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/2.</sub>
@@ -34,7 +34,7 @@
 
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
-| [Alexian WCC](#alexian-wcc) | \$1,200 | \$21,641 | \$20,201 | **\$22,841** | **\$21,401** |
+| [Alexian WCC](#alexian-wcc) | \$1,200 | \$25,318 | \$22,407 | **\$26,518** | **\$23,607** |
 | [Good Sam](#good-sam) | \$1,695 | \$9,581 | \$9,150 | **\$11,276** | **\$10,845** |
 | [St. Joseph Elgin](#st-joseph-elgin) | — | \$10,761 | \$8,821 | **\$10,761** | **\$8,821** |
 | [St. Alexius](#st-alexius) | — | \$4,938 | \$3,106 | **\$4,938** | **\$3,106** |
@@ -46,13 +46,13 @@
 | [Romano Lombard](#romano-lombard) | \$380 | \$0 | \$0 | **\$380** | **\$380** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | GlenOaks | — | — | — | — | — |
-| **Total** | **\$8,705** | **\$53,565** | **\$46,189** | **\$62,269** | **\$54,894** |
+| **Total** | **\$8,705** | **\$57,241** | **\$48,395** | **\$65,946** | **\$57,100** |
 
 
 ## Account by account
 
 <a name="alexian-wcc"></a>
-<details><summary><b>Alexian WCC</b> · upside &#36;22,841 · downside &#36;21,401</summary>
+<details><summary><b>Alexian WCC</b> · upside &#36;26,518 · downside &#36;23,607</summary>
 
 Sold so far: **\$1,200** · 2 cases
 
@@ -87,8 +87,8 @@ Sold so far: **\$1,200** · 2 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **Dr. Hussain** | OASIS Wound 3x7 · 0 up / 0 down boxes · D.V. (started 10/7) | — | — |   |
-| **Dr. Adelstein** | OASIS Burn 3x7 · 0 up / 0 down boxes · B.P. (J.B. done for now 11/2) | — | — |   |
+| **Dr. Hussain** | OASIS Wound 3x7 · 1 up / 1 down box · D.V. (started 10/7) | \$2,206 | \$2,206 | PO 660040000285214 (10/15): 1 box ordered, now in October sales. |
+| **Dr. Adelstein** | OASIS Burn 3x7 · 1 up / 0 down box · B.P. (J.B. done for now 11/2) | \$1,470 | \$0 | P11: J.B. (OASIS) marked done for now (AJ 11/2), so B.P. is the only Burn 3x7 patient (1 a week, 4 in P11). |
 | **Dr. Lucas** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · D.S. (M.I. done) | — | — |   |
 | **Dr. Joshi** | OASIS Burn 5x7 meshed · 0 up / 0 down boxes · B.P. (new start 10/5) | — | — |   |
 
@@ -309,7 +309,7 @@ Sold so far: **\$190** · 1 case
 | Less Good Sam WCC stock already sold | 8 | -\$17,377 | -\$12,377 |
 | Upcoming Stravix | 9 | \$18,094 | \$12,401 |
 | Potential new starts | 12 | \$1,277 | \$0 |
-| OASIS reorders (estimated) | 9 | \$6,142 | \$5,370 |
+| OASIS reorders (estimated) | 9 | \$9,818 | \$7,576 |
 
 
 <details><summary><b>OASIS patients</b> · 20 · reorders come from the OASIS lines above</summary>

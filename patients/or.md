@@ -2,16 +2,16 @@
 
 # OR
 
-**BIOT Chicago West** · 116 patients · updated Tue 11/3, 7:00 AM CT
+**BIOT Chicago West** · 116 patients · updated Tue 11/3, 2:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 6](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · **OR 33** · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · **OR 33** · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -116,6 +116,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Ziffra** | STRAVIX · Dr.&nbsp;Ziffra |   | Post-op follow-up Tue 11/3 8:15 AM at Ankle and Foot Surgery LLC (Dr. Claudia Ziffra, 800 Biesterfield Rd Suite 750, Elk Grove Village) — new account added 11/2. The Stravix was already applied in the OR; the Stravix was donated, so there is no sale and nothing in projections. Patient name to come after the visit.<br>_11/2:_ New account (AJ 11/2): Ankle and Foot Surgery LLC, Dr. Claudia Ziffra, 800 Biesterfield Rd Suite 750, Elk Grove Village. Follow-up Tue 11/3 8:15 AM after a Stravix application in the OR; the Stravix was donated (no sale, not projected). Patient name to come. |
+| **Upcoming · Dr. Ziffra** | STRAVIX · Dr.&nbsp;Ziffra |   | Post-op follow-up Tue 11/3 8:15 AM at Ankle and Foot Surgery LLC (Dr. Claudia Ziffra, 800 Biesterfield Rd Suite 750, Elk Grove Village) — new account added 11/2. The Stravix was already applied in the OR; the Stravix was donated, so there is no sale and nothing in projections. Patient name to come after the visit.<br>_11/3:_ Patient is George Reed. Being referred to Alexian WCC. Humana insurance |
 
 </details>

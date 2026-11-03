@@ -2,34 +2,25 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 116 patients · updated Tue 11/3, 7:00 AM CT
+**BIOT Chicago West** · 116 patients · updated Tue 11/3, 2:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · **Potential New Start 6** · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · **Potential New Start 5** · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
-
-<a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 1</summary>
-
-| Patient | Graft · next visit | Apps | Notes |
-| :-- | :-- | :-- | :-- |
-| <details><summary><b>P.P.</b></summary>P. Patrizi</details> | GRAFIX · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;11/3&nbsp;9:00&nbsp;AM** | 🟢 – |   |
-
-</details>
 
 <a name="alexian-wcc"></a>
 <details open><summary><b>Alexian WCC</b> · 4</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | GRAFIX&nbsp; · Weekly · Dr.&nbsp;Turayhi<br>**Next&nbsp;Wed&nbsp;11/4&nbsp;9:15&nbsp;AM** | 🟢 – of 8 | Next assumed Wed 10/28 9:15 AM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. Suggest oasis |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | OASIS&nbsp;Wound · Weekly · Dr.&nbsp;Turayhi<br>**Next&nbsp;Wed&nbsp;11/4&nbsp;9:15&nbsp;AM** | 🟢 – of 8 | Next assumed Wed 10/28 9:15 AM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. Suggest oasis |
 | <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | GRAFIX · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;11/4&nbsp;3:10&nbsp;PM** | 🟢 – of 8 |   |
 | <details><summary><b>V.T.</b></summary>Virginia thomas</details> | GRAFIX · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;11/5&nbsp;2:15&nbsp;PM** | 🟢 – of 8 |   |
 | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | GRAFIX · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/6&nbsp;12:40&nbsp;PM** | 🟢 – of 8 |   |

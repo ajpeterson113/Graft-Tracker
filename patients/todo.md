@@ -2,16 +2,16 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 116 patients · updated Tue 11/3, 7:00 AM CT
+**BIOT Chicago West** · 116 patients · updated Tue 11/3, 2:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 6](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -35,7 +35,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 14
+## 🔴 No Follow-Up · 12
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -44,8 +44,6 @@
 | <details><summary><b>J.B.</b></summary>J. Buschmann</details> | Alexian WCC · Adelstein | GRAFIX 2x3 | Verify: same time as this week (Thu 10/29 8:00 AM) — confirm with the office · usually Thu |
 | <details><summary><b>D.K.</b></summary>David Knopp</details> | Alexian WCC · Halihan | GRAFIX 16mm | Verify: not on AJ's calendar (checked 11/2) — confirm Thu 11/5 1:15 PM with the office · usually Thu |
 | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX 1.5x2 | Verify: assumed weekly — confirm Mon 11/9 1:15 PM with the office · usually Mon |
-| <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | Alexian WCC · Joshi | GRAFIX 5x5 | Verify: not on AJ's calendar (checked 11/2) — confirm Tue 11/3 9:15 AM with the office · usually Tue |
-| <details><summary><b>D.G.</b></summary>Diane Grunder</details> | Alexian WCC · Lucas | GRAFIX 16mm | Verify: not on AJ's calendar (checked 11/2) — confirm Tue 11/3 9:00 AM with the office · usually Tue |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | Alexian WCC · Lucas | OASIS Wound 3x3.5 | Verify: not on AJ's calendar (checked 11/2) — confirm Fri 11/6 12:35 PM with the office · usually Fri |
 | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound (2x) 3x3.5 | Verify: Fri 11/6 is a VERSAJET case instead (its own entry), so book his next OASIS visit after it · usually Fri |
 | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/2 passed, nothing new booked · usually Mon |
@@ -54,17 +52,22 @@
 | <details><summary><b>J.D.</b></summary>Johnny  Dematropolis</details> | St. Joseph Elgin · Bhagat | GRAFIX/OASIS | Verify: per AJ's calendar: Thu 11/5 3:00 PM, Humana IVR with Dr. Bhagat — confirm with the office · usually Thu |
 | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | Verify: per AJ's calendar: Fri 11/6 10:00 AM (A5 there) — confirm with the office · usually Fri |
 
+<a name="files"></a>
+
+## 📎 To file · 6
+
+Associate notes and case sheets uploaded in the Patients app. Ask Claude to "file the uploads".
+
 <a name="ns"></a>
 
-## 🔵 Potential New Starts · 6
+## 🔵 Potential New Starts · 5
 
 | Patient | Clinic | Graft | Start |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>P.P.</b></summary>P. Patrizi</details> | Good Sam · Patni | GRAFIX | A1 Tue 11/3 9:00 AM |
 | <details><summary><b>V.T.</b></summary>Virginia thomas</details> | Alexian WCC · Halihan | GRAFIX | A1 Thu 11/5 2:15 PM |
 | <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | Alexian WCC · Joshi | GRAFIX | A1 Wed 11/4 3:10 PM |
 | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | Alexian WCC · Lucas | GRAFIX | A1 Fri 11/6 12:40 PM |
-| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | GRAFIX  | A1 Wed 11/4 9:15 AM |
+| <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | Alexian WCC · Turayhi | OASIS Wound | A1 Wed 11/4 9:15 AM |
 | **R.E.** | NW Suburban F&A · Hussain | GRAFIX/OASIS | A1 Thu 11/5 10:30 AM |
 
 <a name="pending"></a>

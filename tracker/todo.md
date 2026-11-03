@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 7:00 AM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 2:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -63,12 +63,12 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **Grafix 16mm: 4 on hand (target 10–15)** · Order 11 now · runs out week of 11/02 · [Alexian WCC](stock.md#alexian)
-> - **Grafix 3x3: 4 on hand (target 5–10)** · Order 6 now · [Alexian WCC](stock.md#alexian)
+> - **Grafix 16mm: 9 on hand (target 10–15)** · Order 6 now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
+> - **Grafix 3x3: 3 on hand (target 5–10)** · Order 7 now · [Alexian WCC](stock.md#alexian)
 > - **Grafix 5x5: 0 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 24
+## 👥 Patients · 28
 
-11 to verify · 14 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)
+11 to verify · 12 with no follow-up booked · 3 IVRs to follow up · 6 files to file → [Patient to-do](../patients/todo.md)
