@@ -22,7 +22,7 @@ This document describes the whole system so Copilot can read, update or reason o
 | `case-sheets/<initials>-<mmdd>.{jpg,pdf,md}` | One case sheet (implant record) per application. The `.md` page carries date, patient initials, account, surgeon, site, product, REF, lot/SN, expiry, price, PO and SFDC status, plus the image. Tracker "Case Sheet" column links here. | `tools/case_sheet.py` |
 | `ivr/` | IVR (insurance verification) screenshots + summary pages per patient. | Claude |
 | `inbox/email/`, `inbox/new-patients/`, `inbox/associate-notes/` | Drop folders: emails forwarded to ajpeterson113+grafts@gmail.com (Apps Script in `tools/graft_inbox`), new-patient and associate-note submissions from the laptop page. Filed, then deleted. | Gmail Apps Script / GitHub page buttons |
-| `tools/` | `case_sheet.py` (build a case sheet from sticker photos), `patient_list.py`, `clinic_todos.py`, `assoc_build.py` (associate apps), `site/build_site.py` (web pages). | — |
+| `tools/` | `case_sheet.py` (build a case sheet from sticker photos), `patient_list.py`, `clinic_todos.py`, `site/build_site.py` (web pages). | — |
 
 Download links (bookmarked in Edge on the work laptop):
 - Tracker: `https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx`
@@ -105,11 +105,10 @@ Download links (bookmarked in Edge on the work laptop):
 
 | App | Role | Data |
 |---|---|---|
-| **Chi West Graft Tracker** (main app) | Home screen: period pace (shipping day X of Y, % of month, % to target), To-do (ready to submit / waiting on PO / not in SFDC / stock alerts), November cases, projections, full year & payouts, Excel download. One-tap **Submitted** / **In SFDC** marks and notes for Claude; upload area that shows case sheets/POs only while unfiled; **Team** tab = review queue for associate submissions. | db `actions`, `uploads`, `todos`, `team`, `team-todos` |
+| **Chi West Graft Tracker** (main app) | Home screen: period pace (shipping day X of Y, % of month, % to target), To-do (ready to submit / waiting on PO / not in SFDC / stock alerts), November cases, projections, full year & payouts, Excel download. One-tap **Submitted** / **In SFDC** marks and notes for Claude; upload area that shows case sheets/POs only while unfiled. | db `actions`, `uploads`, `todos` |
 | **New Case Sheet** / **Upload PO** | One-tap upload pages on the home screen. | db `uploads` each |
 | **Chi West Patients** | Patient roster behind the tracker: one record per patient (account, provider, initials, name hidden until tapped, status pending/active/approved/hold/potential/OR/done/denied, product, size, frequency, application count, next appointment, Stravix case date, dated notes, files). Schedule by day (By time / By clinic), "+ Event" for lunches/in-services/OR cases, "Grafted" button uploads stickers/case sheet and bumps the count, clinic To-do (pending IVRs, follow-ups, stock to order), "No follow-up" flag, Caroline/Pete coverage (`cover` field, cleared every Friday night). No sales data in this app. | db `patients`, `inbox`, `uploads`, `events`, `meta/clinic` |
 | **Chi West Targets** | 181 prospects by hospital/specialty, tiered; Today / Plan / Log / Activity tabs; outreach touches, lunches booked, objections; route plans for AJ, Caroline and Pete with nearby drop-ins; Sunday week email to associates. | db `outreach`, `plans/<day>~<name>`, `settings/prefs` |
-| **Chi West · Caroline**, **Chi West · Pete** | View-only associate apps (no sign-in): their covered visits this and next week, to-dos from AJ, call points. Every form ends in "Send to AJ" (copies text for an SMS). Nothing they send changes AJ's apps until he approves it in the Graft Tracker app's Team tab. | `data.json` built by `tools/assoc_build.py` |
 
 Status workflow in Patients app: new patients enter as **Pending** → **Potential New Start** (approved, size suggested) → **Grafting**; patients missing from a clinic's weekly schedule go **On hold** ("verify with Chris"); OR cases sit in one **OR** category showing product + size (no application number); Stravix OR patients later seen in the office get one record under the office account.
 
@@ -119,8 +118,7 @@ Status workflow in Patients app: new patients enter as **Pending** → **Potenti
 
 | Task | When | Does |
 |---|---|---|
-| Graft Tracker Update (GitHub) | Every morning | Pulls all unfiled uploads from the four apps (Graft Tracker taps first, then its uploads, then the two upload pages, then the Patients app) plus `inbox/*` in the repo; files them into the tracker and patient list; rebuilds projections, stock, README/web pages; pushes everything to GitHub; refreshes the apps. |
-| Team sync (Caroline & Pete) | 7:21 AM, 6:21 PM | Queues new associate submissions as pending in the Team tab; files only what AJ approved; republishes both associate apps. |
+| Graft Tracker Update (GitHub) | Every morning | Pulls all unfiled uploads from the apps (Graft Tracker taps first, then its uploads, then the two upload pages, then the Patients app) plus `inbox/*` in the repo; files them into the tracker and patient list; rebuilds projections, stock, README/web pages; pushes everything to GitHub; refreshes the apps. |
 | Gmail "Graft Inbox" Apps Script | On each forwarded email | Copies emails sent to ajpeterson113+grafts@gmail.com into `inbox/email/` in the repo. A line AJ typed above the forward is an instruction; forwarded text is information. |
 
 "File the uploads" (said in chat) runs the same filing pass on demand. After every tracker change: Excel attached in chat, Graft Tracker app refreshed, GitHub Excel and README updated.
