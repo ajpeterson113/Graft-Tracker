@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 0 of 19 · updated Mon 11/2, 6:25 PM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -45,25 +45,25 @@
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Grafix | 1.5x2 | LYA-250668\_15009 | 6/18/27 | 11/9 | On shelf |   |
-| Grafix | 1.5x2 | LYA-250733\_15011 | 8/12/27 | 11/16 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260068\_15003 | 11/25/27 | 11/23 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15004 | 1/13/28 | 11/30 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 12/7 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/14 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16004 | 3/3/28 | 11/3 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16005 | 3/3/28 | 11/4 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16006 | 3/3/28 | 11/5 | On shelf |   |
-| Grafix | 16mm | LYA-260221\_16011 | 3/3/28 | 11/6 | On shelf |   |
-| Grafix | 2x3 | LYA-250516\_23004 | 5/2/27 | 11/9 | On shelf |   |
-| Grafix | 2x3 | LYA-250558\_23005 | 6/9/27 | 11/16 | On shelf |   |
-| Grafix | 2x3 | LYA-250625\_23005 | 6/18/27 | 11/23 | On shelf |   |
-| Grafix | 2x3 | LYA-250625\_23013 | 6/18/27 | 11/30 | On shelf |   |
-| Grafix | 2x3 | LYA-250868\_23006 | 11/3/27 | 12/7 | On shelf |   |
-| Grafix | 2x3 | LYA-250868\_23005 | 11/3/27 | 12/14 | On shelf |   |
-| Grafix | 2x3 | LYA-250866\_23007 | 11/3/27 | 12/21 | On shelf |   |
-| Grafix | 2x3 | LYA-250866\_23008 | 11/3/27 | 12/28 | On shelf |   |
-| Grafix | 2x3 | LYA-250866\_23002 | 11/3/27 | 1/4 | On shelf |   |
+| Grafix | 1.5x2 | LYA-250668\_15009 | 6/18/27 | 11/10 | On shelf |   |
+| Grafix | 1.5x2 | LYA-250733\_15011 | 8/12/27 | 11/17 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260068\_15003 | 11/25/27 | 11/24 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15004 | 1/13/28 | 12/1 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 12/8 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/15 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16004 | 3/3/28 | 11/4 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16005 | 3/3/28 | 11/5 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16006 | 3/3/28 | 11/6 | On shelf |   |
+| Grafix | 16mm | LYA-260221\_16011 | 3/3/28 | 11/7 | On shelf |   |
+| Grafix | 2x3 | LYA-250516\_23004 | 5/2/27 | 11/10 | On shelf |   |
+| Grafix | 2x3 | LYA-250558\_23005 | 6/9/27 | 11/17 | On shelf |   |
+| Grafix | 2x3 | LYA-250625\_23005 | 6/18/27 | 11/24 | On shelf |   |
+| Grafix | 2x3 | LYA-250625\_23013 | 6/18/27 | 12/1 | On shelf |   |
+| Grafix | 2x3 | LYA-250868\_23006 | 11/3/27 | 12/8 | On shelf |   |
+| Grafix | 2x3 | LYA-250868\_23005 | 11/3/27 | 12/15 | On shelf |   |
+| Grafix | 2x3 | LYA-250866\_23007 | 11/3/27 | 12/22 | On shelf |   |
+| Grafix | 2x3 | LYA-250866\_23008 | 11/3/27 | 12/29 | On shelf |   |
+| Grafix | 2x3 | LYA-250866\_23002 | 11/3/27 | 1/5 | On shelf |   |
 | Grafix | 3x3 | LYA-250533\_33005 | 5/2/27 |   | On shelf |   |
 | Grafix | 3x3 | LYA-250533\_33004 | 5/2/27 |   | On shelf |   |
 | Grafix | 3x3 | LYA-250742\_33004 | 8/12/27 |   | On shelf |   |
@@ -75,16 +75,16 @@
 | Grafix | 3x4 | LYA-250008\_34002 | 12/18/26 |   | On shelf | 🔴 Expires before use |
 | Grafix | 3x4 | LYA-250008\_34005 | 12/18/26 |   | On shelf | 🔴 Expires before use |
 | Grafix | 3x4 | LYA-250008\_34004 | 12/18/26 |   | On shelf | 🔴 Expires before use |
-| Grafix | 5x5 | LYA-250866\_55014 | 11/3/27 | 11/9 | On shelf |   |
-| Grafix | 5x5 | LYA-250866\_55015 | 11/3/27 | 11/16 | On shelf |   |
-| Grafix | 5x5 | LYA-250866\_55002 | 11/3/27 | 11/23 | On shelf |   |
-| Grafix | 5x5 | LYA-250866\_55001 | 11/3/27 | 11/30 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55010 | 11/25/27 | 12/7 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55009 | 11/25/27 | 12/14 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55008 | 11/25/27 | 12/21 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55013 | 11/25/27 | 12/28 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55012 | 11/25/27 | 1/4 | On shelf |   |
-| Grafix | 5x5 | LYA-260005\_55011 | 11/25/27 | 1/11 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55014 | 11/3/27 | 11/10 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55015 | 11/3/27 | 11/17 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55002 | 11/3/27 | 11/24 | On shelf |   |
+| Grafix | 5x5 | LYA-250866\_55001 | 11/3/27 | 12/1 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55010 | 11/25/27 | 12/8 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55009 | 11/25/27 | 12/15 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55008 | 11/25/27 | 12/22 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55013 | 11/25/27 | 12/29 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55012 | 11/25/27 | 1/5 | On shelf |   |
+| Grafix | 5x5 | LYA-260005\_55011 | 11/25/27 | 1/12 | On shelf |   |
 
 </details>
 
@@ -134,10 +134,10 @@
 | **G.H.** | Lucas | Grafix | Pending | — | New 10/26 (pending); Grafix or OASIS, size not set, no visit booked |
 | **** |   | OASIS Boxes |   | — |   |
 | **Lot** | REF | Product Size | Sheets left | — | Flag |
-| **LB1741499** | 8213-1000-33 | OASIS Wound 3x3.5 | 7 | 455 |   |
-| **LB1732662** | 8213-3000-16 | OASIS Burn 3x3.5 | 3 | 518 |   |
-| **LB1732663** | 8213-3000-18 | OASIS Burn 3x7 | 1 | 371 |   |
-| **LB1639811** | 8213-3000-13 | OASIS Burn 5x7 meshed | 1 | 251 |   |
+| **LB1741499** | 8213-1000-33 | OASIS Wound 3x3.5 | 7 | 454 |   |
+| **LB1732662** | 8213-3000-16 | OASIS Burn 3x3.5 | 3 | 517 |   |
+| **LB1732663** | 8213-3000-18 | OASIS Burn 3x7 | 1 | 370 |   |
+| **LB1639811** | 8213-3000-13 | OASIS Burn 5x7 meshed | 1 | 250 |   |
 | **Photo pending** | 8213-1000-37 | OASIS Wound 3x7 | 7 | — |   |
 | **Ordered 10/15 (PO …285214)** | 8213-1000-37 | OASIS Wound 3x7 | 10 | — |   |
 | **Ordered 10/29 (PO …286394)** | 8213-3000-18 | OASIS Burn 3x7 | 5 | — |   |

@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 0 of 19 · updated Mon 11/2, 6:25 PM CT
+**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -24,12 +24,12 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 47 days | 0003068368 | \$600 |
-| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 24 days |   | \$1,020 |
-| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 19 days |   | \$190 |
-| 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | 🟠 11 days |   | \$1,104 |
-| 11/2 | [T.A.](../case-sheets/ta-1102.md) | Good Sam · Farhan | Stravix 2x4 | — |   | \$1,695 |
-| 11/2 | [C.P.](../case-sheets/cp-1102.md) | Alexian WCC · Joshi | Grafix 1.5x2 | — | 0002759724 | \$600 |
+| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 48 days | 0003068368 | \$600 |
+| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 25 days |   | \$1,020 |
+| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 20 days |   | \$190 |
+| 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | 🟠 12 days |   | \$1,104 |
+| 11/2 | [T.A.](../case-sheets/ta-1102.md) | Good Sam · Farhan | Stravix 2x4 | 🟠 1 day |   | \$1,695 |
+| 11/2 | [C.P.](../case-sheets/cp-1102.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 🟠 1 day | 0002759724 | \$600 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 8 · \$33,514
@@ -69,6 +69,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 28
+## 👥 Patients · 24
 
-11 to verify · 14 with no follow-up booked · 5 IVRs to follow up → [Patient to-do](../patients/todo.md)
+11 to verify · 14 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)

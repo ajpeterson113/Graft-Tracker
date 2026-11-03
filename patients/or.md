@@ -2,16 +2,16 @@
 
 # OR
 
-**BIOT Chicago West** · 115 patients · updated Mon 11/2, 6:25 PM CT
+**BIOT Chicago West** · 116 patients · updated Tue 11/3, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;115](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · **OR 32** · [Done 19](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 6](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · **OR 33** · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -20,18 +20,18 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>J.H.</b></summary>Judith Hecht</details> | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;9/4 · 8&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>S.W.</b></summary>S. Wyoski</details> | STRAVIX · Dr.&nbsp;Ayesh<br>**OR&nbsp;Fri&nbsp;11/13 · OR&nbsp;in&nbsp;11&nbsp;days** |   | Stravix in the OR on Fri 11/13 (Dr. Ayesh). GRAFIX PA had been approved |
-| <details><summary><b>T.A.</b></summary>Timothy Albertson</details> | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Mon&nbsp;11/2 · OR&nbsp;today** |   | OR case Mon 11/2 10:30 AM at Good Sam (Dr. Farhan): T.A.'s second Stravix (round 1 was 10/1, gs-ta-or). STRAVIX 2x4 LYU-260468\_24003 (exp 2/16/28) from the Good Sam OR shelf. Medical recall sheet uploaded 11/2 evening (patient read from the sticker) and filed to the tracker 11/2 (November row 16). Good Sam PO (Owens & Minor) to come. |
-| <details><summary><b>R.C.</b></summary>Raymond Chorostecki</details> | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;10/28 · 5&nbsp;d&nbsp;post-op** |   | OR case Wed 10/28 at Good Sam (Dr. Luetkehans, foot reconstruction): 2 x STRAVIX 3x6 (LYU-260692\_36003, \_36004). PO006131804 (O&M HandOff requisition DHFO0150931, approved 10/29, both serials listed) matched 10/29 — ready to submit. Same initials as the Central DuPage R.C. (Dr. Luetkehans's office Grafix patient, admitted and grafting stopped 10/29) — likely the same person, not confirmed.<br>_10/29:_ PO006131804 (Owens & Minor, approved 10/29) matched to the case and confirmed by AJ; case date set to 10/28 per the PO. Ready to submit |
-| **C.L.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;10/6 · 3&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453\_36006, \_36007). PO PO006010271 received 10/7 |
-| <details><summary><b>R.W.</b></summary>Roy Walsh</details> | GRAFIX&nbsp;5x5 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;10/2 · 4&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878\_55010. PO005995283 approved 10/5 |
-| **T.A.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Thu&nbsp;10/1 · 4&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |
-| <details><summary><b>D.F.</b></summary>Dominga Flores</details> | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;9/10 · 7&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>P.J.</b></summary>Paul Timothy Jagust</details> | STRAVIX&nbsp;2x4&nbsp;(x3) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;9/2 · 8&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>A.V.</b></summary>Alvina Vandenend</details> | STRAVIX&nbsp;3x6&nbsp;(x2)&nbsp;+&nbsp;2x4&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;8/25 · 9&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>L.B.</b></summary>Louis Edward Boivin</details> | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;8/21 · 10&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   |   |
-| <details><summary><b>W.L.</b></summary>William Lopez</details> | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;8/20 · 10&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>J.H.</b></summary>Judith Hecht</details> | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;9/4 · 8&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>S.W.</b></summary>S. Wyoski</details> | STRAVIX · Dr.&nbsp;Ayesh<br>**OR&nbsp;Fri&nbsp;11/13 · OR&nbsp;in&nbsp;10&nbsp;days** |   | Stravix in the OR on Fri 11/13 (Dr. Ayesh). GRAFIX PA had been approved |
+| <details><summary><b>T.A.</b></summary>Timothy Albertson</details> | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Mon&nbsp;11/2 · 1&nbsp;d&nbsp;post-op** |   | OR case Mon 11/2 10:30 AM at Good Sam (Dr. Farhan): T.A.'s second Stravix (round 1 was 10/1, gs-ta-or). STRAVIX 2x4 LYU-260468\_24003 (exp 2/16/28) from the Good Sam OR shelf. Medical recall sheet uploaded 11/2 evening (patient read from the sticker) and filed to the tracker 11/2 (November row 16). Good Sam PO (Owens & Minor) to come. |
+| <details><summary><b>R.C.</b></summary>Raymond Chorostecki</details> | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;10/28 · 6&nbsp;d&nbsp;post-op** |   | OR case Wed 10/28 at Good Sam (Dr. Luetkehans, foot reconstruction): 2 x STRAVIX 3x6 (LYU-260692\_36003, \_36004). PO006131804 (O&M HandOff requisition DHFO0150931, approved 10/29, both serials listed) matched 10/29 — ready to submit. Same initials as the Central DuPage R.C. (Dr. Luetkehans's office Grafix patient, admitted and grafting stopped 10/29) — likely the same person, not confirmed.<br>_10/29:_ PO006131804 (Owens & Minor, approved 10/29) matched to the case and confirmed by AJ; case date set to 10/28 per the PO. Ready to submit |
+| **C.L.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;10/6 · 4&nbsp;wks&nbsp;post-op** |   | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453\_36006, \_36007). PO PO006010271 received 10/7 |
+| <details><summary><b>R.W.</b></summary>Roy Walsh</details> | GRAFIX&nbsp;5x5 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;10/2 · 4&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   | OR case 10/2 at Good Sam (not a recurring graft patient). GRAFIX 5x5 LYA-250878\_55010. PO005995283 approved 10/5 |
+| **T.A.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Thu&nbsp;10/1 · 4&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   | Stravix 2x4 OR case 10/1 (Dr. Farhan). PO PO005984962 approved 10/2; in SFDC 10/7 |
+| <details><summary><b>D.F.</b></summary>Dominga Flores</details> | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;9/10 · 7&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>P.J.</b></summary>Paul Timothy Jagust</details> | STRAVIX&nbsp;2x4&nbsp;(x3) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;9/2 · 8&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>A.V.</b></summary>Alvina Vandenend</details> | STRAVIX&nbsp;3x6&nbsp;(x2)&nbsp;+&nbsp;2x4&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;8/25 · 10&nbsp;wks&nbsp;post-op** |   |   |
+| <details><summary><b>L.B.</b></summary>Louis Edward Boivin</details> | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;8/21 · 10&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
+| <details><summary><b>W.L.</b></summary>William Lopez</details> | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;8/20 · 10&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
 
 </details>
 
@@ -40,8 +40,8 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | VERSAJET · Dr.&nbsp;Lucas<br>**OR&nbsp;Fri&nbsp;11/6 · OR&nbsp;in&nbsp;4&nbsp;days** |   | VERSAJET case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas (AJ 11/2), in place of his weekly OASIS visit that day. Same patient as the M.C. OASIS entry (A11 on 10/30).<br>_11/2:_ Combine the duplicate patient into one |
-| **K.B.** | STRAVIX&nbsp;3x6&nbsp;+&nbsp;GRAFIX&nbsp;5x5&nbsp;(x3) · Dr.&nbsp;Singh<br>**OR&nbsp;Wed&nbsp;10/21 · 1&nbsp;wk&nbsp;5&nbsp;d&nbsp;post-op** |   | OR case Wed 10/21 at Alexian Ambulatory (Dr. Singh): STRAVIX 3x6 (LYU-251697\_36002) + 3 x GRAFIX 5x5 (LYA-250895\_55007, \_55008, \_55009), from Alexian Ambulatory's own consignment. Case sheet photo 10/21 filed to the tracker 10/21; PO (bill only) to come. |
+| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | VERSAJET · Dr.&nbsp;Lucas<br>**OR&nbsp;Fri&nbsp;11/6 · OR&nbsp;in&nbsp;3&nbsp;days** |   | VERSAJET case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas (AJ 11/2), in place of his weekly OASIS visit that day. Same patient as the M.C. OASIS entry (A11 on 10/30).<br>_11/2:_ Combine the duplicate patient into one |
+| **K.B.** | STRAVIX&nbsp;3x6&nbsp;+&nbsp;GRAFIX&nbsp;5x5&nbsp;(x3) · Dr.&nbsp;Singh<br>**OR&nbsp;Wed&nbsp;10/21 · 1&nbsp;wk&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case Wed 10/21 at Alexian Ambulatory (Dr. Singh): STRAVIX 3x6 (LYU-251697\_36002) + 3 x GRAFIX 5x5 (LYA-250895\_55007, \_55008, \_55009), from Alexian Ambulatory's own consignment. Case sheet photo 10/21 filed to the tracker 10/21; PO (bill only) to come. |
 
 </details>
 
@@ -50,9 +50,9 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **E.D.** | STRAVIX · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/6 · OR&nbsp;in&nbsp;4&nbsp;days** |   | Upcoming OR case Fri 11/6 7:30–8:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka), on AJ's calendar (11/1). STRAVIX, size not given yet. Pete and Caroline are on the invite. A different patient from J.N.'s 10/30 case. |
-| **Upcoming · Dr. Greg Bryniczka**<br>🟠&nbsp;Verify | STRAVIX · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/20 · OR&nbsp;in&nbsp;18&nbsp;days** |   | 🟠 **Verify:** Verify<br>Upcoming OR case Fri 11/20 morning at Saint Joseph Hospital – Elgin (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2 (time per Outlook). STRAVIX assumed; patient and size not given. Projected 3x6 upside / 2x4 downside at the Elgin rate. |
-| **T.W.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/25 · 5&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   | Stravix 3x6 OR case 9/25 (St. Joseph Elgin). Bill Only PO 712062882 received 10/9; submitted 10/9, in SFDC (AJ 10/14) |
+| **E.D.** | STRAVIX · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/6 · OR&nbsp;in&nbsp;3&nbsp;days** |   | Upcoming OR case Fri 11/6 7:30–8:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka), on AJ's calendar (11/1). STRAVIX, size not given yet. Pete and Caroline are on the invite. A different patient from J.N.'s 10/30 case. |
+| **Upcoming · Dr. Greg Bryniczka**<br>🟠&nbsp;Verify | STRAVIX · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/20 · OR&nbsp;in&nbsp;17&nbsp;days** |   | 🟠 **Verify:** Verify<br>Upcoming OR case Fri 11/20 morning at Saint Joseph Hospital – Elgin (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2 (time per Outlook). STRAVIX assumed; patient and size not given. Projected 3x6 upside / 2x4 downside at the Elgin rate. |
+| **T.W.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/25 · 5&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   | Stravix 3x6 OR case 9/25 (St. Joseph Elgin). Bill Only PO 712062882 received 10/9; submitted 10/9, in SFDC (AJ 10/14) |
 
 </details>
 
@@ -61,7 +61,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Adam Bryniczka**<br>🟠&nbsp;Verify | STRAVIX · Dr.&nbsp;Adam&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/20 · OR&nbsp;in&nbsp;18&nbsp;days** |   | 🟠 **Verify:** Verify<br>Upcoming OR case Fri 11/20 morning at Advocate Sherman Hospital (Dr. Adam Bryniczka), from AJ's Outlook calendar 11/2 (time per Outlook). STRAVIX assumed; patient and size not given. First Stravix at Sherman — no contract price on file, Good Sam's Advocate rates assumed in projections (3x6 upside / 2x4 downside); confirm pricing and how Sherman orders (PO vs bill & replace). |
+| **Upcoming · Dr. Adam Bryniczka**<br>🟠&nbsp;Verify | STRAVIX · Dr.&nbsp;Adam&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/20 · OR&nbsp;in&nbsp;17&nbsp;days** |   | 🟠 **Verify:** Verify<br>Upcoming OR case Fri 11/20 morning at Advocate Sherman Hospital (Dr. Adam Bryniczka), from AJ's Outlook calendar 11/2 (time per Outlook). STRAVIX assumed; patient and size not given. Sherman contract prices confirmed 11/2 — projected 3x6 upside / 2x4 downside. Still to confirm: how Sherman orders (PO vs bill & replace). |
 
 </details>
 
@@ -70,14 +70,14 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Greg Bryniczka** | STRAVIX · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Wed&nbsp;11/18 · OR&nbsp;in&nbsp;16&nbsp;days** |   | Upcoming OR case Wed 11/18 8:00 AM at Ascension Saint Alexius (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2. STRAVIX assumed (bill & replace from the OR shelf); patient and size not given. Projected 3x6 upside / 2x4 downside. |
-| **Upcoming · Dr. Adam Bryniczka**<br>🟠&nbsp;Verify | STRAVIX · Dr.&nbsp;Adam&nbsp;Bryniczka<br>**OR&nbsp;Wed&nbsp;11/18 · OR&nbsp;in&nbsp;16&nbsp;days** |   | 🟠 **Verify:** Verify<br>Upcoming OR case Wed 11/18 late morning (about 10:30 AM, confirm against Outlook) at Saint Alexius Medical Center (Dr. Adam Bryniczka, STRAVIX), from AJ's Outlook calendar 11/2. Bill & replace from the OR shelf; patient and size not given. Projected 3x6 upside / 2x4 downside. |
-| **M.P.** | GRAFIX/STRAVIX&nbsp;5x5&nbsp;(x8)&nbsp;+&nbsp;2x4&nbsp;(x1) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/29 · 4&nbsp;d&nbsp;post-op** |   | OR case Thu 10/29 at St. Alexius (right foot), bill & replace: 8 x GRAFIX 5x5 (LYA-250878\_55008, LYA-260018\_55011, LYA-260018\_55010, LYA-260346\_55010, LYA-250863\_55006, LYA-250878\_55007, LYA-250878\_55013, LYA-250863\_55008) + 1 x STRAVIX 2x4 LYU-251818\_24004 from the St. Alexius OR shelf, all on one patient (AJ 10/29). Hospital label lists Patel MD as attending; surgeon is Dr. Singh (AJ). Two implant-record pages uploaded in the Graft Tracker app and filed to the tracker 10/29 (October row 94). Bill & replace PO 660080000213959 filed to the tracker 10/30 — Submitted, pending SFDC.<br>_10/29:_ Case done Thu 10/29: M.P., 8 x GRAFIX 5x5 + 1 x STRAVIX 2x4 on one patient; implant records filed to the tracker (October row 94) |
-| **V.M.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/22 · 1&nbsp;wk&nbsp;4&nbsp;d&nbsp;post-op** |   | OR case Thu 10/22 at St. Alexius (left foot), bill & replace: 2 x STRAVIX 3x6 LYU-251691\_36001 and \_36002 from the St. Alexius OR shelf. Hospital label lists Kang MD as attending; surgeon is Dr. Singh (AJ 10/22). Implant record filed to the tracker 10/22 (October row 75). Bill & replace PO to come. |
-| **Upcoming · Dr. Liao** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Liao<br>**OR&nbsp;Fri&nbsp;10/16 · 2&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   | Upcoming OR case Fri 10/16 1:00–2:00 PM (on AJ's calendar). Caroline covering. |
-| **A.B.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Guske<br>**OR&nbsp;Wed&nbsp;10/7 · 3&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604\_36001 from St. Alexius stock (bill & replace). Bill & replace PO 660080000212502 received 10/8 |
-| <details><summary><b>G.G.</b></summary>Gerald G</details> | STRAVIX&nbsp;2x4 · Dr.&nbsp;Goldkind<br>**OR&nbsp;Tue&nbsp;9/29 · 4&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |
-| **N.W.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/11 · 7&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   | Bill & replace |
+| **Upcoming · Dr. Greg Bryniczka** | STRAVIX · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Wed&nbsp;11/18 · OR&nbsp;in&nbsp;15&nbsp;days** |   | Upcoming OR case Wed 11/18 8:00 AM at Ascension Saint Alexius (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2. STRAVIX assumed (bill & replace from the OR shelf); patient and size not given. Projected 3x6 upside / 2x4 downside. |
+| **Upcoming · Dr. Adam Bryniczka**<br>🟠&nbsp;Verify | STRAVIX · Dr.&nbsp;Adam&nbsp;Bryniczka<br>**OR&nbsp;Wed&nbsp;11/18 · OR&nbsp;in&nbsp;15&nbsp;days** |   | 🟠 **Verify:** Verify<br>Upcoming OR case Wed 11/18 late morning (about 10:30 AM, confirm against Outlook) at Saint Alexius Medical Center (Dr. Adam Bryniczka, STRAVIX), from AJ's Outlook calendar 11/2. Bill & replace from the OR shelf; patient and size not given. Projected 3x6 upside / 2x4 downside. |
+| **M.P.** | GRAFIX/STRAVIX&nbsp;5x5&nbsp;(x8)&nbsp;+&nbsp;2x4&nbsp;(x1) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/29 · 5&nbsp;d&nbsp;post-op** |   | OR case Thu 10/29 at St. Alexius (right foot), bill & replace: 8 x GRAFIX 5x5 (LYA-250878\_55008, LYA-260018\_55011, LYA-260018\_55010, LYA-260346\_55010, LYA-250863\_55006, LYA-250878\_55007, LYA-250878\_55013, LYA-250863\_55008) + 1 x STRAVIX 2x4 LYU-251818\_24004 from the St. Alexius OR shelf, all on one patient (AJ 10/29). Hospital label lists Patel MD as attending; surgeon is Dr. Singh (AJ). Two implant-record pages uploaded in the Graft Tracker app and filed to the tracker 10/29 (October row 94). Bill & replace PO 660080000213959 filed to the tracker 10/30 — Submitted, pending SFDC.<br>_10/29:_ Case done Thu 10/29: M.P., 8 x GRAFIX 5x5 + 1 x STRAVIX 2x4 on one patient; implant records filed to the tracker (October row 94) |
+| **V.M.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/22 · 1&nbsp;wk&nbsp;5&nbsp;d&nbsp;post-op** |   | OR case Thu 10/22 at St. Alexius (left foot), bill & replace: 2 x STRAVIX 3x6 LYU-251691\_36001 and \_36002 from the St. Alexius OR shelf. Hospital label lists Kang MD as attending; surgeon is Dr. Singh (AJ 10/22). Implant record filed to the tracker 10/22 (October row 75). Bill & replace PO to come. |
+| **Upcoming · Dr. Liao** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Liao<br>**OR&nbsp;Fri&nbsp;10/16 · 2&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   | Upcoming OR case Fri 10/16 1:00–2:00 PM (on AJ's calendar). Caroline covering. |
+| **A.B.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Guske<br>**OR&nbsp;Wed&nbsp;10/7 · 3&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604\_36001 from St. Alexius stock (bill & replace). Bill & replace PO 660080000212502 received 10/8 |
+| <details><summary><b>G.G.</b></summary>Gerald G</details> | STRAVIX&nbsp;2x4 · Dr.&nbsp;Goldkind<br>**OR&nbsp;Tue&nbsp;9/29 · 5&nbsp;wks&nbsp;post-op** |   | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |
+| **N.W.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/11 · 7&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   | Bill & replace |
 
 </details>
 
@@ -86,8 +86,8 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 1&nbsp;wk&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics). |
-| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 5&nbsp;wks&nbsp;post-op** |   | Stravix 3x6 OR case 9/28 (round 1). PO P2325870 received 10/6 (in SFDC). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). Round 2: separate STRAVIX 3x6 OR case Mon 10/26 at Elmhurst (Dr. McGann), filed 10/27. |
+| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 1&nbsp;wk&nbsp;1&nbsp;d&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics). |
+| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 5&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   | Stravix 3x6 OR case 9/28 (round 1). PO P2325870 received 10/6 (in SFDC). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). Round 2: separate STRAVIX 3x6 OR case Mon 10/26 at Elmhurst (Dr. McGann), filed 10/27. |
 
 </details>
 
@@ -96,9 +96,18 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **F.M.** | STRAVIX&nbsp;3x6&nbsp;(x3) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;10/7 · 3&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611\_36004, \_36005; LYU-251530\_36001). PO-1000931284 received 10/9; ready to submit |
-| **S.A.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Fri&nbsp;9/18 · 6&nbsp;wks&nbsp;3&nbsp;d&nbsp;post-op** |   |   |
+| **F.M.** | STRAVIX&nbsp;3x6&nbsp;(x3) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;10/7 · 3&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611\_36004, \_36005; LYU-251530\_36001). PO-1000931284 received 10/9; ready to submit |
+| **S.A.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Fri&nbsp;9/18 · 6&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
 | **Upcoming · Dr. Reed** | Stravix · Dr.&nbsp;Reed |   | Spoke to Dr. Reed 10/5 and he mentioned possible Stravix this week or next on calcaneus. |
+
+</details>
+
+<a name="suburban-f-a"></a>
+<details open><summary><b>Suburban F&amp;A</b> · 1</summary>
+
+| Patient | Graft · next visit | Apps | Notes |
+| :-- | :-- | :-- | :-- |
+| **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna |   | Post-op follow-up Wed 11/4 4:45 PM at Suburban Foot & Ankle Center, Bloomingdale office (303 E Army Trail Rd, Suite 101, Bloomingdale, IL 60108; (630) 893-3668) with Dr. Alexander McKanna, DPM. The Stravix was already applied in the OR and was donated, so no sale and nothing in projections. Patient name to come after the visit.<br>_11/2:_ Post-op follow-up Wed 11/4 4:45 PM with Dr. McKanna at the Bloomingdale office of Dr. Grinberg / Dr. Shah's practice, after a Stravix application in the OR; the Stravix was donated (no sale, not projected). Patient name to come (AJ 11/2). |
 
 </details>
 
@@ -107,6 +116,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Ziffra** | Dr.&nbsp;Ziffra |   | OR follow-up Tue 11/3 8:15 AM at Ankle and Foot Surgery LLC (Dr. Claudia Ziffra, 800 Biesterfield Rd Suite 750, Elk Grove Village) — new account added 11/2. Patient name not known yet; AJ adds it after the visit. Product and size TBD.<br>_11/2:_ New account (AJ 11/2): Ankle and Foot Surgery LLC, Dr. Claudia Ziffra, 800 Biesterfield Rd Suite 750, Elk Grove Village. First visit is an OR follow-up Tue 11/3 8:15 AM; patient name to come. |
+| **Upcoming · Dr. Ziffra** | STRAVIX · Dr.&nbsp;Ziffra |   | Post-op follow-up Tue 11/3 8:15 AM at Ankle and Foot Surgery LLC (Dr. Claudia Ziffra, 800 Biesterfield Rd Suite 750, Elk Grove Village) — new account added 11/2. The Stravix was already applied in the OR; the Stravix was donated, so there is no sale and nothing in projections. Patient name to come after the visit.<br>_11/2:_ New account (AJ 11/2): Ankle and Foot Surgery LLC, Dr. Claudia Ziffra, 800 Biesterfield Rd Suite 750, Elk Grove Village. Follow-up Tue 11/3 8:15 AM after a Stravix application in the OR; the Stravix was donated (no sale, not projected). Patient name to come. |
 
 </details>
