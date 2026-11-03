@@ -2,16 +2,16 @@
 
 # On hold
 
-**BIOT Chicago West** · 110 patients · updated Mon 11/2, 10:09 AM CT
+**BIOT Chicago West** · 115 patients · updated Mon 11/2, 6:19 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;110](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;115](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 27](../patients/or.md) · [Done 19](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 11** · [OR 32](../patients/or.md) · [Done 19](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -55,14 +55,5 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **Y.L.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Grinberg<br>**Last&nbsp;graft&nbsp;9/29** | 🟢 1 | ON HOLD: infection on the right foot 10/5 (sent to the ER). Dr. Grinberg texted 10/12: he saw her and she's alright; he's working on the right foot for now and will say when he wants to graft the left foot again. A1 9/29 (PO YL092926). Seen at the Elmhurst office (183 W 1st St). 10/14: a 16mm from the Alexian WCC shelf is already at the office for her next application (not used yet). |
-
-</details>
-
-<a name="romano-lombard"></a>
-<details open><summary><b>Romano Lombard</b> · 1</summary>
-
-| Patient | Graft · next visit | Apps | Notes |
-| :-- | :-- | :-- | :-- |
-| **??** | GRAFIX&nbsp;5x5&nbsp;(suggested) · Weekly · Dr.&nbsp;Rojas<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;10:30&nbsp;AM · Lombard** | 🟢 0 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside.<br>_10/28:_ Workers comp patient |
 
 </details>

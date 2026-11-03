@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 0 of 19 · updated Mon 11/2, 10:09 AM CT
+**BIOT Chicago West** · P11 · day 0 of 19 · updated Mon 11/2, 6:19 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,10 +13,12 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**7 entries · \$6,410** · 🟢 3 Ready · 🟡 4 Needs PO
+**9 entries · \$8,705** · 🟢 3 Ready · 🟡 6 Needs PO
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/2** | [**T.A.**](../case-sheets/ta-1102.md) 📄 · Good Sam · Farhan<br>Stravix 2x4 · no PO yet · LYU-260468\_24003<details><summary><sub>Notes</sub></summary>OR case Mon 11/2 10:30 AM at Good Sam (Dr. Farhan): T.A.'s second Stravix 2x4 (round 1 was 10/1, October row 24). LYU-260468\_24003 (exp 2/16/28) from the Good Sam OR shelf, \$1,695 (Good Sam 2x4 rate). Medical recall sheet (implant record) uploaded in the Graft Tracker app 11/2 evening. Good Sam PO (Owens & Minor) to come, like PO005984962 for round 1.</details> | \$1,695 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**C.P.**](../case-sheets/cp-1102.md) 📄 · Alexian WCC · Joshi<br>Grafix 1.5x2 · no PO yet · LYA-260068\_15005<details><summary><sub>Notes</sub></summary>App #2, Mon 11/2 1:15 PM, Dr. Joshi: 1.5x2 LYA-260068\_15005 (exp 11/25/27) from the Alexian WCC shelf, \$600 (Alexian 1.5x2 rate). Case sheet uploaded in the Graft Tracker app 11/2 (AJ confirmed C.P.). Alexian ID 0002759724 (same as A1 10/26, October row 76). Bill-only PO by patient ID to come.</details> | \$600 | 🟡&nbsp;Needs&nbsp;PO |
 | **10/26** | [**P.C.**](../case-sheets/pc-1026.md) 📄 · Elmhurst · McGann<br>Stravix 3x6 · PO P2353811 · LYU-250920\_36005<details><summary><sub>Notes</sub></summary>OR case Mon 10/26 7:30 AM at Elmhurst (Dr. McGann): P.C.'s second round of Stravix (separate case; round 1 was 9/28, row 15). Stravix 3x6 LYU-250920\_36005 (exp 4/15/27), \$3,115.50 (Elmhurst rate). Case sheet made 10/27 from AJ's sticker photo in the Patients app (case-sheets/pc-1026). PO to come. From Elmhurst's own consignment (187019 on the district consignment report, with LYU-250920\_36004 and \_36006), so no transfer (round 1 needed one) — Moved to the November tab 10/30 (AJ): P10 closed with what was submitted; this counts in P11 once it's submitted.</details> | \$3,115.50 | 🟢&nbsp;Ready |
 | **10/22** | [**H.P.**](../case-sheets/hp-1022.md) 📄 · Alexian Ambulatory · Ramani<br>OASIS Wound 3x3.5 · 10 sheets = 1 box · no PO yet<details><summary><sub>Notes</sub></summary>A1 Thu 10/22 1:30 PM, Dr. Ramani (Alexian Ambulatory), H.P.: first OASIS Wound Matrix 3x3.5 from the box of 10 ordered 10/20, lot LB1751182. Case sheet (AJ's, 10/22; photo sent 10/27: case-sheets/hp-1022, hospital label covered on that copy) says "For whole box of 10 OASIS": billed as the whole box of 10 at \$1,104 (Alexian Ambulatory box price, 8/31 order). This is the box the Projections tab had under Potential new starts. PO to come (sent now that it's applied; bill only, match by FIN 3114769 on the hospital label). Weekly 3x3.5 from this box after that — Moved to the November tab 10/30 (AJ): P10 closed with what was submitted; this counts in P11 once it's submitted.</details> | \$1,104 | 🟡&nbsp;Needs&nbsp;PO<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 | **10/14** | [**M.W.**](../case-sheets/mw-1014.md) 📄 · Romano Lombard · Rojas<br>Grafix 16mm · no PO yet · LYA-260146\_16009<details><summary><sub>Notes</sub></summary>App #2 Wed 10/14 at Romano Orthopaedics, Lombard (Dr. Rojas): 16mm LYA-260146\_16009 (exp 1/13/28), \$190 (Romano \$95/cm2). Case sheet made 10/14 from the sticker photo (Patients app). Waiting on the sale-order PO. TRANSFER from the Alexian WCC shelf (acct 253985), per AJ 10/14: transport log typed 10/14 (needed same day, 10/14 7am to 8am, received by Dr. Rojas): case-sheets/mw-1014-transport-log, Transfers tab — Moved to the November tab 10/30 (AJ): P10 closed with what was submitted; this counts in P11 once it's submitted.</details> | \$190 | 🟡&nbsp;Needs&nbsp;PO<br>🔁&nbsp;Transfer |

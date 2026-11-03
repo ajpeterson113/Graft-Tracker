@@ -2,22 +2,22 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 110 patients · updated Mon 11/2, 10:09 AM CT
+**BIOT Chicago West** · 115 patients · updated Mon 11/2, 6:19 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;7](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;9](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;110](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;115](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 27](../patients/or.md) · [Done 19](../patients/done.md) · [Denied 3](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 5](../patients/potential-new-start.md) · [Pending 8](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 11](../patients/on-hold.md) · [OR 32](../patients/or.md) · [Done 19](../patients/done.md) · [Denied 3](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="verify"></a>
 
-## 🟠 Verify · 8
+## 🟠 Verify · 11
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
@@ -28,11 +28,14 @@
 | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | App # doesn't match: AJ's calendar has A6 on Wed 11/4, the app has 4 logged (next A5) — confirm the count |
 | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | NW Suburban F&A · Goldkind | OASIS Ultra 3x7 | App # doesn't match: AJ's calendar has A9 on Wed 11/4, the app has 6 logged (next A7) — confirm the count |
 | <details><summary><b>P.S.</b></summary>Peter S.</details> | NW Suburban F&A · Goldkind | GRAFIX 16mm | App # doesn't match: AJ's calendar has A5 on Mon 11/2, the app has 3 logged (next A4) — confirm the count |
+| **Upcoming · Dr. Greg Bryniczka** | St. Joseph Elgin · Greg Bryniczka | STRAVIX | Verify |
 | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count |
+| **Upcoming · Dr. Adam Bryniczka** | Sherman · Adam Bryniczka | STRAVIX | Verify |
+| **Upcoming · Dr. Adam Bryniczka** | St. Alexius · Adam Bryniczka | STRAVIX | Verify |
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 13
+## 🔴 No Follow-Up · 14
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -41,6 +44,7 @@
 | <details><summary><b>J.B.</b></summary>J. Buschmann</details> | Alexian WCC · Adelstein | GRAFIX 2x3 | Verify: same time as this week (Thu 10/29 8:00 AM) — confirm with the office · usually Thu |
 | <details><summary><b>D.K.</b></summary>David Knopp</details> | Alexian WCC · Halihan | GRAFIX 16mm | Verify: not on AJ's calendar (checked 11/2) — confirm Thu 11/5 1:15 PM with the office · usually Thu |
 | <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | Alexian WCC · Joshi | GRAFIX 16mm | Verify: not on AJ's calendar (checked 11/2) — confirm Tue 11/3 12:50 PM with the office · usually Tue |
+| <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX 1.5x2 | Verify: assumed weekly — confirm Mon 11/9 1:15 PM with the office · usually Mon |
 | <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | Alexian WCC · Joshi | GRAFIX 5x5 | Verify: not on AJ's calendar (checked 11/2) — confirm Tue 11/3 9:15 AM with the office · usually Tue |
 | <details><summary><b>D.G.</b></summary>Diane Grunder</details> | Alexian WCC · Lucas | GRAFIX 16mm | Verify: not on AJ's calendar (checked 11/2) — confirm Tue 11/3 9:00 AM with the office · usually Tue |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | Alexian WCC · Lucas | OASIS Wound 3x3.5 | Verify: not on AJ's calendar (checked 11/2) — confirm Fri 11/6 12:35 PM with the office · usually Fri |
@@ -75,11 +79,11 @@
 | **R.F.** | Sherman · Perez | 🔴 Added 10/2 · 31 days ago · follow up | New 10/2 |
 | <details><summary><b>R.S.</b></summary>Robert Sparacio</details> | Alexian WCC · Srivastava | Added 11/2 · today | New 11/2 |
 | **D.R.** | NW Suburban F&A | IVR sent 10/30 · 3 days ago | IVR sent 10/30 (BCBS) · New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
-| **R.E.** | NW Suburban F&A · Hussain | IVR sent 10/30 · 3 days ago | IVR sent 10/30 (Medicare / BCBS) · New 10/30 (NWSFA office note from Chris): IVR sent 10/30, Medicare / BCBS. Appointment Mon 11/2 10:30 AM at Hoffman Estates with Dr. Huss… |
+| **R.E.** | NW Suburban F&A · Hussain | IVR sent 10/30 · 3 days ago | IVRs received 11/2 — GRAFIX case 06579363 and OASIS Wound case 06579505 (Wellpoint Federal / BCBS Illinois) · IVRs received 11/2 (Chatter): GRAFIX PRIME/PL case 06579363 and OASIS Wound Matrix case 06579505, Dr. Hussain at NWSFAC, DFU right foot (… |
 
 <a name="hold"></a>
 
-## 🟡 On hold · 12
+## 🟡 On hold · 11
 
 | Patient | Clinic | Notes |
 | :-- | :-- | :-- |
@@ -94,4 +98,3 @@
 | <details><summary><b>R.D.</b></summary>Roosevelt Dunlap</details> | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
 | <details><summary><b>S.B.</b></summary>Shirley Ballard</details> | NW Suburban F&A · Home Visit | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Home visit patient |
 | **Y.L.** | Suburban F&A · Grinberg | ON HOLD: infection on the right foot 10/5 (sent to the ER). Dr. Grinberg texted 10/12: he saw her and she's alright; he's working on the … |
-| **??** | Romano Lombard · Rojas | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known… |
