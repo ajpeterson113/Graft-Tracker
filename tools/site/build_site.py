@@ -701,11 +701,13 @@ def render_home_image(tr, path, theme, narrow=False):
     # minis
     y += 31
     colw = (W1 - 2 * PAD - 16) / 3
-    rate = hi if tgt and in_sub >= tgt else lo
-    minis = [('TO GO', m0(max(0, tgt - in_sub)),
-              (f"{rnd(num(Sa.get('cases')) or 0)} cases · " + str(Sa.get('avg') or '').replace(' avg per case', ' avg'))
-              if Sa.get('cases') is not None else ''),
-             ('COMMISSION', m0(in_sub * rate), f"{pc(rate)} now · {pc(hi)} at target" if rate < hi else f"{pc(rate)} so far"),
+    # To go and current commission count what's In SFDC plus every PO in hand (submitted, or ready but not
+    # submitted yet); cases still waiting on a PO and projections don't count (AJ 11/5, same as Chi West)
+    secured = sum(num(c.get('price')) or 0 for c in pcs0
+                  if c.get('status') in ('insfdc', 'submitted') or (c.get('po') and c.get('status') not in ('stock', 'needspo')))
+    rate = hi if tgt and secured >= tgt else lo
+    minis = [('TO GO', m0(max(0, tgt - secured)), 'to target'),
+             ('COMMISSION', m0(secured * rate), f"at {pc(rate)}"),
              ('PROJECTED', f"{mk(Fo.get('commDown'))}–{mk(Fo.get('commUp'))}", 'commission')]
     for i, (lab, val, small) in enumerate(minis):
         mx0 = x0 + i * (colw + 8)
