@@ -44,3 +44,11 @@ AJ 11/4: never change a patient's category (status) unless his own tap says so (
 - `event` {title, ekind, place, edate, etime, who}: add to the Chi West Patients `events` collection.
 
 `uploads` docs with status "new" (kinds case_sheet, stickers, po, stock, note, sfdc): read the asset (Artifact read, url = Chi West, path = asset id) and file it like any other upload, then set status "filed".
+
+Chi West reads PO and case sheet photos itself when they are uploaded (same as the Graft Tracker app), so an upload can carry:
+- `read`: what Claude read off it in the app (PO: po, poDate, account, patientId, patientInitials, dos, surgeon, items, total, match, confidence, why; case sheet: date, initials, account, surgeon, product, size, qty, lots, unitPrice, total, po, match, why). Check it against the photo; it is a reading, not a decision.
+- `confirmed` + `caseId`: AJ confirmed that this upload is for that case (from the match card, the case picker, or by attaching it from the case's "Attach PO" button). File it to that case. A `caseId` starting with `q-` is the row from the Chi West `grafted` action with that id (still in the same refresh's actions).
+- `confirmed` with no `caseId`: AJ said leave it for filing — a PO with no case yet, or a case sheet that is a new row.
+- `mismatchOk`: AJ kept his own case even though the read pointed at another one.
+- No `confirmed`: nothing was confirmed; match it yourself (`read.match` is only a suggestion).
+- `readErr`: the in-app read failed (code); read it at the refresh as usual.
