@@ -12,7 +12,8 @@ Usage:
 CW_PATIENTS_JSON is Chi West's data/patients doc: the chiwest_sync.py output (OUT/data/patients.json) or an
 ArtifactData export of Chi West's `data` collection. Then publish OUT_HTML to the Chi West Schedule artifact
 (https://claude.ai/artifact/5V9C5K8zikma7b7AUjAoFz; Artifact publish with its url, after an Artifact read of it in that
-session) when AJ asks for a refresh. The script stops without writing the page if a patient name would be in it.
+session). The Chi West sync scheduled task does this after every refresh (its step C, AJ 11/5). The script stops without
+writing the page if a patient name would be in it.
 """
 import json, os, re, sys, datetime as dt
 
