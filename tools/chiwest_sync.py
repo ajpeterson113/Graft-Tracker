@@ -12,7 +12,7 @@ GTDB      Graft Tracker app db download (or the build's OUT folder plus GTDB/tod
             Adds what the Excel leaves out: names, who covers each visit, next-visit location, verify flags,
             and AJ's events. Preferred when the export is allowed.
 --overlay   when the export isn't allowed: a JSON file {"patients":[{id,name,cover,status,apps,next,nextTime,
-            nextLoc,verify,fuVerify}], "events":[{id,title,kind,place,date,time,end,note}]} written from an
+            nextLoc,verify,fuVerify,ivrDate,paExp}], "events":[{id,title,kind,place,date,time,end,note}]} written from an
             inline ArtifactData list of the same collections.
 --targets   Chi_West_Surgeon_Targets.xlsx from the repo
 --outreach  Targets app `outreach` collection download (one json per target)
@@ -148,7 +148,8 @@ def load_extra(pdb, overlay):
             ex[pid] = {'name': safe_name(d.get('name')), 'cover': d.get('cover') or '', 'status': d.get('status') or '',
                        'apps': d.get('apps'), 'next': d.get('next') or '', 'nextTime': d.get('nextTime') or '', 'nextLoc': d.get('nextLoc') or '',
                        'verify': cut(d.get('verify'), 120), 'fuVerify': cut(d.get('fuVerify'), 120), 'ini': d.get('initials') or '',
-                       'size': d.get('size') or '', 'product': d.get('product') or '', 'log': d.get('log') or []}
+                       'size': d.get('size') or '', 'product': d.get('product') or '', 'log': d.get('log') or [],
+                       'ivrDate': d.get('ivrDate') or '', 'paExp': d.get('paExp') or ''}
         for eid, d in loadall(os.path.join(pdb, 'events')).items():
             d = d.get('data', d)
             events.append({'id': eid, 'title': d.get('title') or d.get('kind') or 'Event', 'kind': d.get('kind') or 'Other', 'place': d.get('place') or '',
@@ -156,7 +157,7 @@ def load_extra(pdb, overlay):
     elif overlay and os.path.exists(overlay):
         o = json.load(open(overlay))
         for d in o.get('patients', []):
-            ex[d['id']] = {k: (safe_name(d.get(k)) if k == 'name' else d.get(k, '')) for k in ('name', 'cover', 'status', 'apps', 'next', 'nextTime', 'nextLoc', 'verify', 'fuVerify', 'ini', 'size', 'product')}
+            ex[d['id']] = {k: (safe_name(d.get(k)) if k == 'name' else d.get(k, '')) for k in ('name', 'cover', 'status', 'apps', 'next', 'nextTime', 'nextLoc', 'verify', 'fuVerify', 'ini', 'size', 'product', 'ivrDate', 'paExp')}
             ex[d['id']]['log'] = d.get('log') or []
         events = [{'id': e.get('id'), 'title': e.get('title') or 'Event', 'kind': e.get('kind') or 'Other', 'place': e.get('place') or '', 'date': e.get('date') or '',
                    'time': e.get('time') or '', 'end': e.get('end') or '', 'note': cut(e.get('note'), 200)} for e in o.get('events', [])]
@@ -180,7 +181,8 @@ def build_patients(xlsx, today, extra=None, events=None):
                     'coverage': cut(r.get('Coverage Status'), 140), 'pa': r.get('PA Required?') or '', 'product': x.get('product') or r.get('Product') or '',
                     'size': str(x.get('size') or r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
                     'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
-                    'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420)})
+                    'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420),
+                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or ''})
     t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=63)).isoformat()
     acct_of = {p['id']: p['acct'] for p in pts}
     ini_of = {p['id']: p['ini'] for p in pts}
