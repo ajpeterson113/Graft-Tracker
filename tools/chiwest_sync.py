@@ -218,6 +218,21 @@ def build_patients(xlsx, today, extra=None, events=None):
         else:
             visits.append({'date': d, 'time': e.get('time') or '', 'loc': e.get('loc') or '', 'acct': acct, 'ini': ini_of[pid], 'prov': '', 'product': '',
                            'size': str(e.get('size') or ''), 'status': st, 'app': e.get('app')})
+    # A# on the upcoming visits follows the Patients app's application count (AJ's A# taps and graft logs land there),
+    # not the patient list Excel's App #, which only changes when the morning tracker update rebuilds it (AJ 11/5)
+    norm = lambda s: re.sub(r'[^A-Za-z]', '', str(s or '')).upper()
+    active = {}
+    for p in pts:
+        if p['status'] == 'active':
+            active.setdefault((p['acct'], norm(p['ini'])), []).append(p)
+    for (acct, ini), ps in active.items():
+        x = extra.get(ps[0]['id'], {})
+        if len(ps) > 1 or x.get('apps') in (None, ''):  # two grafting patients share account + initials: leave the Excel's numbers
+            continue
+        fut = sorted([v for v in visits if v['acct'] == acct and norm(v['ini']) == ini and v['date'] >= today
+                      and not re.match(r'^(Grafted|Not grafted)', str(v.get('status') or ''))], key=lambda v: (v['date'], v['time'] or ''))
+        for i, v in enumerate(fut):
+            v['app'] = int(x['apps']) + 1 + i
     log.sort(key=lambda x: x['date'], reverse=True)
     notes = []
     for r in rows(wb['Day Notes']):

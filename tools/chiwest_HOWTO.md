@@ -61,3 +61,7 @@ The view-only page AJ shares with Caroline and Pete, https://claude.ai/artifact/
 ## Route plans (Grow · Plan, added 11/5 from the Chi West Targets app)
 
 Chi West's Plan tab is the Targets app's plan engine: My route / Caroline / Pete by day (a week ahead), each visit a stop, the open targets nearest each stop as drop-ins (same building / street / area, scored by tier, follow-up due, stage, claims and free time), "+ Add a stop", Hide, Copy for <name>, and the Sunday week email. Data it needs from the sync, all in `data/targets`: each target's `office` (with the Targets app's `edits.office` override), `lunch` {d, t, place, who, n} and `using` from the outreach doc, and `plans` (the Targets app's `plans` collection: `<day>` for AJ, `<day>~Caroline`, `<day>~Pete`, each {stops, skip, updated}). Chi West writes its own stops/hides to its `plans` collection (same ids and shape) and shows whichever copy is newer; the sync copies Chi West's `plans` docs to the Targets app when they are newer.
+
+## Order of taps (AJ 11/5)
+
+Route Chi West `actions` oldest first by `created`, never by doc id: when AJ taps the same thing more than once (A3, then A3, then A4 for one patient), the last tap is what must end up in the Patients app. Earlier taps of the same kind for the same patient are marked "applied" too. The app applies them in the same order.
