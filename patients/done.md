@@ -2,13 +2,13 @@
 
 # Done
 
-**BIOT Chicago West** · 116 patients · updated Thu 11/5, 1:15 AM CT
+**BIOT Chicago West** · 116 patients · updated Thu 11/5, 12:14 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 33](../patients/or.md) · **Done 20** · [Denied 5](../patients/denied.md)
@@ -41,9 +41,9 @@
 | <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Last&nbsp;graft&nbsp;10/6** | 🟢 4 of 8 | Next assumed Tue 10/27 12:50 PM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. A4 10/6 (LYA-260159\_16026, PO …284482). |
 | <details><summary><b>T.T.</b></summary>Tracy Tijerria</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Last&nbsp;graft&nbsp;10/6** | 🟡 7 of 8 | Healed Tue 10/27 (not grafted): done after 7 applications. A7 10/6 (LYA-260159\_16028). |
 | <details><summary><b>J.T.</b></summary>Jeffrey Tuckman</details> | GRAFIX · Weekly · Dr.&nbsp;Lucas | 🟢 0 of 8 | Need additional notes for prior auth |
-| <details><summary><b>V.D.</b></summary>Vladimir Dobinsky</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Ramani<br>**Last&nbsp;graft&nbsp;10/2** | 🟢 6 of 8 | Down to 16mm as of 10/2 (was 1.5x2) |
-| <details><summary><b>M.I.</b></summary>Margaret Izzi</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Russo | 🟢 2 of 8 | Done (moved in the app 10/11). Had been paused |
-| <details><summary><b>L.S.</b></summary>Lea S</details> | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo | 🟢 0 of 8 | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
+| <details><summary><b>V.D.</b></summary>Vladimir Dobinsky</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Ramani<br>**Was&nbsp;due&nbsp;Fri&nbsp;10/9&nbsp;8:00&nbsp;AM** | 🟢 6 of 8 | Down to 16mm as of 10/2 (was 1.5x2) |
+| <details><summary><b>M.I.</b></summary>Margaret Izzi</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Russo<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/7&nbsp;10:15&nbsp;AM** | 🟢 2 of 8 | Done (moved in the app 10/11). Had been paused |
+| <details><summary><b>L.S.</b></summary>Lea S</details> | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM** | 🟢 0 of 8 | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
 
 </details>
 

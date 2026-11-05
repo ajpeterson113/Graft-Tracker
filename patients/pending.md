@@ -2,13 +2,13 @@
 
 # Pending
 
-**BIOT Chicago West** · 116 patients · updated Thu 11/5, 1:15 AM CT
+**BIOT Chicago West** · 116 patients · updated Thu 11/5, 12:14 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · **Pending 5** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 20](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -38,7 +38,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.D.** | GRAFIX | 🟢 0 | Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
+| **J.D.** | GRAFIX<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/29&nbsp;2:45&nbsp;PM** | 🟢 0 | Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
 | **D.R.** | — | 🟢 0 | New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
 
 </details>
@@ -48,6 +48,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>J.D.</b></summary>Johnny Dematropolis</details> | GRAFIX/OASIS · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;11/5&nbsp;2:30&nbsp;PM** | 🟢 0 | Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinicals, needs referral |
+| <details><summary><b>J.D.</b></summary>Johnny Dematropolis</details> | GRAFIX/OASIS · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;11/5&nbsp;2:30&nbsp;PM · Not&nbsp;covered&nbsp;covering** | 🟢 0 | Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinicals, needs referral |
 
 </details>
