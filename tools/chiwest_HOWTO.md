@@ -53,3 +53,7 @@ Chi West reads PO and case sheet photos itself when they are uploaded (same as t
 - No `confirmed`: nothing was confirmed; match it yourself (`read.match` is only a suggestion).
 - `readErr`: the in-app read failed (code); read it at the refresh as usual.
 - `dup` (with status "filed" and `filedNote`): AJ removed it in Chi West as a duplicate PO (its PO number was already on a case or in an earlier upload). Nothing to file. `dupOk`: AJ said it is not a duplicate even though the PO number matched; file it normally.
+
+## Chi West Schedule page (AJ 11/5)
+
+The view-only page AJ shares with Caroline and Pete, https://claude.ai/artifact/5V9C5K8zikma7b7AUjAoFz, must show exactly what Chi West shows after every sync. After `data` is written: `python3 -I tools/assoc_view.py OUT_CW/data/patients.json SCHED/chi-west-schedule.html`, then Artifact read + publish to that url. Do the same after any manual change to Chi West's `data/patients`. Initials only; never change its sharing.

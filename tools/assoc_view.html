@@ -153,7 +153,7 @@ function visitRow(v,showAcct){const p=P[v.p],a=appNo(v),c=coverOf(v);
   const bits=[[p.product,p.size].filter(Boolean).join(' '),a?'A'+a:'',p.status==='or'?'OR case':'',v.loc].filter(Boolean);
   return `<div class="row" style="--ac:var(--a${p.ac})"><div class="tm${v.time?'':' none'}">${v.time?ampm(v.time):'—'}</div>
     <div><div class="l1"><span class="ini">${esc(p.ini)}</span>${showAcct?`<span class="acct">${esc(p.acct)}</span>`:''}<span class="mu">${esc(p.prov)}</span></div><div class="l2">${esc(bits.join(' · '))}</div></div>
-    <div class="rt">${v.res?`<span class="res ${v.res==='Grafted'?'ok':'no'}">${esc(v.res)}</span>`:whoChip(c)}${!v.res&&v.date===p.next&&p.confirm?'<span class="flag">Confirm time</span>':''}</div></div>`;}
+    <div class="rt">${v.res?`<span class="res ${v.res==='Grafted'?'ok':'no'}">${esc(v.res)}</span>`:whoChip(c)}${!v.res&&v.date===p.next&&p.flag?`<span class="flag">${p.flag}</span>`:''}</div></div>`;}
 function eventRow(e){return `<div class="row ev"><div class="tm${e.time?'':' none'}">${e.time?ampm(e.time):'—'}</div><div><div class="l1"><span class="ini">${esc(e.title)}</span></div><div class="l2">${esc([e.kind!==e.title?e.kind:'',e.place].filter(Boolean).join(' · '))}</div></div><div class="rt"><span class="who aj">AJ</span></div></div>`;}
 
 function vSched(){const t=today(),ws=weekStart(S.day),days=[0,1,2,3,4].map(i=>addDays(ws,i));
@@ -181,7 +181,7 @@ function vPts(){const cur=['active','approved','or','pending','potential','hold'
       const cov=p.next&&!['done','denied'].includes(p.status)?' · '+whoChip(p.cover||'AJ'):'';
       return `<div class="prow" style="--ac:var(--a${p.ac})"><div class="l1"><span class="ini">${esc(p.ini)}</span><span class="mu">${esc(p.prov)}</span></div><span class="pill ${esc(p.status)}">${esc(STATUS[p.status]||p.status||'—')}</span>
         <div class="pm">${esc([[p.product,p.size].filter(Boolean).join(' '),p.status==='or'?'OR case':p.freq,p.apps?p.apps+' application'+(p.apps===1?'':'s'):''].filter(Boolean).join(' · '))}</div>
-        <div class="pn">${nx}${cov}${p.confirm&&p.next?' <span class="flag">Confirm time</span>':''}</div></div>`;}).join('')}</div>`;}).join('');
+        <div class="pn">${nx}${cov}${p.flag&&p.next?` <span class="flag">${p.flag}</span>`:''}</div></div>`;}).join('')}</div>`;}).join('');
   return h+`</div>`;}
 
 function render(dir){$('t-sched').setAttribute('aria-pressed',S.tab==='sched');$('t-pts').setAttribute('aria-pressed',S.tab==='pts');

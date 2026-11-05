@@ -3,7 +3,7 @@
 
 It is the Patients tab of Chi West (the week schedule and the patient list) with NO patient names and no notes:
 initials, account, provider, product/size, frequency, application count, visit date/time/place, who covers the
-visit, and a "time to confirm" flag. No sales data. The data is baked into the page, so it works for anyone with the
+visit, and the same Verify / Confirm flag Chi West shows. No sales data. The data is baked into the page, so it works for anyone with the
 link (no sign-in) and changes only when the page is republished.
 
 Usage:
@@ -80,7 +80,8 @@ def build(src):
             'product': p.get('product') or '', 'size': p.get('size') or '', 'freq': p.get('freq') or '',
             'apps': p.get('apps') if isinstance(p.get('apps'), (int, float)) else None,
             'next': p.get('next') or '', 'time': p.get('time') or '', 'loc': p.get('loc') or '',
-            'cover': p.get('cover') or '', 'confirm': bool(p.get('verify') or p.get('fuVerify')),
+            'cover': p.get('cover') or '', # same flag as Chi West's schedule row: "Verify" (app # or visit to check) wins over "Confirm" (time to confirm)
+            'flag': 'Verify' if p.get('verify') else 'Confirm' if p.get('fuVerify') else '',
         })
     visits = {}
 
