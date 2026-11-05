@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:14 PM CT
+**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:34 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -206,17 +206,17 @@ OASIS is counted in sheets and bought by the box, so update Sheets left when you
 
 ## Good Sam WCC
 
-**Clinic stock (already sold)** · 16 grafts · 6 OASIS sheets
+**Clinic stock (already sold)** · 9 grafts · 5 OASIS sheets
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **5x5**<br>Grafix | **3** | — | 0 projected use through 11/28 · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23) + PO006130658 (10/29)<br><sub>11/5: K.P. used 1 x 5x5 (A8) = 3 on the shelf \| P11: 4 x 5x5 on the shelf cover K.P.'s two biweekly 5x5 visits (11/5, 11/19), so no 5x5 sale is projected at Go…</sub> |
-| **16mm**<br>Grafix | **8** | — | 9 projected use through 11/28 · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658<br><sub>11/5: W.K. used 1 x 16mm (A7) = 8 on the shelf \| P11: 9 x 16mm on the shelf cover P.J. (2 a visit, weekly) and W.K. (biweekly) first; only the 16mm beyond the …</sub> |
-| **3x4**<br>Grafix | **3** | — | 1 projected use through 11/28 · PO005986967 + earlier + PO006102148 (10/23)<br><sub>11/5: C.B. used 1 x 3x4 (A4) and K.P. 1 x 3x4 (A8) = 3 on the shelf \| P11: 5 x 3x4 on the shelf cover K.P.'s two biweekly 3x4 visits \| Shelf count 10/6: 4 x 3x…</sub> |
-| **2x3**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5: C.B. got 3x4, not 2x3, so the 1 x 2x3 is still on the shelf \| P11: the 1 x 2x3 on the Good Sam shelf covers C.B.'s first biweekly 2x3 visit (11/5) \| Good…</sub> |
-| **1.5x2**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006130658 (10/29)<br><sub>Good Sam PO006130658 shipped 10/29: 1 x 1.5x2 at \$780 (in October sales).</sub> |
+| **5x5**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23) + PO006130658 (10/29)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
+| **16mm**<br>Grafix | **3** | — | 9 projected use through 11/28 · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2 = 3 x 16mm on the shelf (LYA-2602…</sub> |
+| **3x4**<br>Grafix | **3** | — | 0 projected use through 11/28 · PO005986967 + earlier + PO006102148 (10/23)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
+| **2x3**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
+| **1.5x2**<br>Grafix | **1** | — | 1 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5 shelf photo: 1 x 1.5x2 (LYA-260165\_15003), covers C.B.'s 1.5x2 on Thu 11/19 \| Good Sam PO006130658 shipped 10/29: 1 x 1.5x2 at \$780 (in October sales).</sub> |
 | **3x3.5**<br>OASIS&nbsp;Wound | **1** sheet | — | box of 10<br><sub>P11: no OASIS Wound 3x3.5 box projected.</sub> |
-| **7x10 meshed**<br>OASIS&nbsp;Ultra | **5** sheets | Order 1 box (upside) | 2/wk · box of 5<br><sub>P11: L.J. gets two OASIS Ultra 7x10 a visit (AJ 11/2), weekly Wed 11/4-11/25 = 8 sheets.</sub> |
+| **7x10 meshed**<br>OASIS&nbsp;Ultra | **4** sheets | Order 1 box (upside) | 2/wk · box of 5<br><sub>11/5 shelf photo: the open OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) has 4 lot labels left = 4 sheets.</sub> |
 
 <details><summary><b>About this shelf</b></summary>
 
