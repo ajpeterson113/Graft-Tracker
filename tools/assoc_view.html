@@ -1,0 +1,208 @@
+<title>Chi West Schedule</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+/* Layout: one phone-first column. A sticky header holds the name and the Schedule | Patients switch; the schedule is a
+   Mon–Fri week strip over a day list, each row keyed to its account by a colored edge (same colors as Chi West). */
+:root{
+  --bg:#EFF2F5;--surface:#FFFFFF;--sunk:#F6F8FA;--ink:#1F2933;--mu:#5D6976;--rule:#DFE4EA;
+  --or:#E9963E;--or-ink:#A95E17;--or-soft:#FCEBD9;--bl:#3F7097;--bl-ink:#2C587A;--bl-soft:#E2EBF3;
+  --good:#2E7D32;--good-soft:#E3F1E4;--warn:#7A5300;--warn-soft:#FFF0C7;--bad:#B3261E;--bad-soft:#FCE6E5;--pete:#5B3E8F;--pete-soft:#ECE6F5;
+  --a0:#2E78B7;--a1:#8E44AD;--a2:#B5559F;--a3:#148F77;--a4:#C0562B;--a5:#00838F;--a6:#3949AB;--a7:#2E8B3E;--a8:#CC2F7A;--a9:#7B5544;--a10:#977A00;--a11:#5F7C8A;
+  --f-disp:"Barlow Semi Condensed","Arial Narrow","Roboto Condensed",-apple-system,"Segoe UI",sans-serif;
+  --f-body:"Source Sans 3",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#11161C;--surface:#1A2129;--sunk:#202832;--ink:#E7EBEF;--mu:#9BA7B3;--rule:#2B3540;
+  --or-ink:#F2B067;--or-soft:#3A2A19;--bl:#467CA6;--bl-ink:#9CC3E3;--bl-soft:#1E3144;
+  --good:#6BC171;--good-soft:#1B3220;--warn:#F2C14E;--warn-soft:#3A2F10;--bad:#F2B8B5;--bad-soft:#47201F;--pete:#C9B4F0;--pete-soft:#2C2340;
+  --a0:#5DA3DE;--a1:#B57FD1;--a2:#D98FCB;--a3:#3FC1A3;--a4:#E5865C;--a5:#3CC4D0;--a6:#8C9BE8;--a7:#5CC46F;--a8:#F06AAA;--a9:#C09A86;--a10:#D9B83A;--a11:#9AB0BB;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161C;--surface:#1A2129;--sunk:#202832;--ink:#E7EBEF;--mu:#9BA7B3;--rule:#2B3540;
+  --or-ink:#F2B067;--or-soft:#3A2A19;--bl:#467CA6;--bl-ink:#9CC3E3;--bl-soft:#1E3144;
+  --good:#6BC171;--good-soft:#1B3220;--warn:#F2C14E;--warn-soft:#3A2F10;--bad:#F2B8B5;--bad-soft:#47201F;--pete:#C9B4F0;--pete-soft:#2C2340;
+  --a0:#5DA3DE;--a1:#B57FD1;--a2:#D98FCB;--a3:#3FC1A3;--a4:#E5865C;--a5:#3CC4D0;--a6:#8C9BE8;--a7:#5CC46F;--a8:#F06AAA;--a9:#C09A86;--a10:#D9B83A;--a11:#9AB0BB;color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font:400 16px/1.4 var(--f-body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 28px;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--or);outline-offset:2px}
+.wrap{max-width:720px;margin:0 auto}
+.tnum{font-variant-numeric:tabular-nums}
+.mu{color:var(--mu)}
+
+/* header */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:12px 10px;display:flex;flex-direction:column;gap:10px}
+.title{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.title h1{margin:0;font:700 1.6rem/1.05 var(--f-disp);color:var(--or);letter-spacing:.2px;text-wrap:balance}
+.title small{font-size:.8rem;color:var(--mu)}
+.seg{display:inline-flex;border:1.5px solid var(--rule);border-radius:11px;overflow:hidden;background:var(--surface);max-width:100%}
+.seg button{border:0;background:transparent;height:36px;padding:0 14px;font-weight:600;font-size:.92rem;color:var(--mu);white-space:nowrap}
+.seg button+button{border-left:1.5px solid var(--rule)}
+.seg button[aria-pressed="true"]{background:var(--bl);color:#fff}
+.main{display:grid;grid-template-columns:1fr 1fr;width:100%}
+.main button{height:40px;font:700 1rem var(--f-disp);letter-spacing:.3px}
+
+/* week + filters */
+.wk{display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:8px;margin:4px 0 10px}
+.wk button{height:36px;padding:0 12px;border-radius:10px;border:1.5px solid var(--rule);background:var(--surface);font-weight:600;font-size:.9rem}
+.wk .lbl{border:0;background:none;font:700 1.15rem var(--f-disp);text-align:center}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;max-width:100%}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:none;height:32px;padding:0 12px;border-radius:999px;border:1.5px solid var(--rule);background:var(--surface);font-weight:600;font-size:.86rem;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.days{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;margin-bottom:12px}
+.days button{display:flex;flex-direction:column;align-items:center;gap:2px;padding:8px 2px;border-radius:12px;border:1px solid var(--rule);background:var(--surface);min-width:0}
+.days small{font-size:.7rem;color:var(--mu);text-transform:uppercase;letter-spacing:.5px}
+.days b{font:700 1.15rem/1 var(--f-disp)}
+.days em{font-style:normal;font-size:.72rem;color:var(--mu)}
+.days button[aria-pressed="true"]{background:var(--or-soft);border-color:var(--or);color:var(--or-ink)}
+.days button.today b{text-decoration:underline;text-decoration-color:var(--or);text-underline-offset:3px}
+
+/* lists */
+.card{background:var(--surface);border-radius:14px;overflow:hidden;border:1px solid var(--rule)}
+.gh{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:9px 14px;background:var(--sunk);border-bottom:1px solid var(--rule);font:700 .8rem var(--f-disp);letter-spacing:.8px;text-transform:uppercase;color:var(--mu)}
+.gh i{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--ac);margin-right:7px}
+.stack{display:flex;flex-direction:column;gap:12px}
+.row{display:grid;grid-template-columns:74px minmax(0,1fr) auto;gap:2px 10px;align-items:start;padding:11px 14px 11px 12px;border-top:1px solid var(--rule);border-left:4px solid var(--ac)}
+.card>.row:first-child,.gh+.row{border-top:0}
+.row .tm{font:700 1rem/1.3 var(--f-disp);font-variant-numeric:tabular-nums;white-space:nowrap}
+.row .tm.none{color:var(--mu);font-weight:600}
+.l1{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 8px;min-width:0}
+.ini{font:700 1.08rem/1.2 var(--f-disp);letter-spacing:.4px}
+.acct{font-weight:600;font-size:.9rem}
+.l2{font-size:.86rem;color:var(--mu);overflow-wrap:anywhere}
+.rt{display:flex;flex-direction:column;align-items:flex-end;gap:4px}
+.who,.flag,.res,.pill{display:inline-flex;align-items:center;height:22px;padding:0 8px;border-radius:999px;font-size:.74rem;font-weight:700;white-space:nowrap}
+.who.aj{background:var(--or-soft);color:var(--or-ink)}
+.who.caroline{background:var(--bl-soft);color:var(--bl-ink)}
+.who.pete{background:var(--pete-soft);color:var(--pete)}
+.who.nc{background:var(--bad-soft);color:var(--bad)}
+.flag{background:var(--warn-soft);color:var(--warn)}
+.res.ok{background:var(--good-soft);color:var(--good)}
+.res.no{background:var(--sunk);color:var(--mu);box-shadow:inset 0 0 0 1px var(--rule)}
+.ev{border-left-color:var(--or)}
+.ev .ini{font:600 1rem var(--f-body);letter-spacing:0}
+.empty{padding:22px 16px;text-align:center;color:var(--mu)}
+
+/* patients */
+.prow{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:3px 10px;padding:11px 14px 11px 12px;border-top:1px solid var(--rule);border-left:4px solid var(--ac)}
+.gh+.prow{border-top:0}
+.prow .pm,.prow .pn{grid-column:1/-1;font-size:.86rem;color:var(--mu);overflow-wrap:anywhere}
+.prow .pn b{color:var(--ink);font-weight:600}
+.pill{background:var(--sunk);color:var(--mu);box-shadow:inset 0 0 0 1px var(--rule)}
+.pill.active{background:var(--good-soft);color:var(--good);box-shadow:none}
+.pill.approved{background:var(--or-soft);color:var(--or-ink);box-shadow:none}
+.pill.or{background:var(--bl-soft);color:var(--bl-ink);box-shadow:none}
+.pill.hold,.pill.pending,.pill.potential{background:var(--warn-soft);color:var(--warn);box-shadow:none}
+.foot{margin-top:18px;font-size:.8rem;color:var(--mu);line-height:1.5}
+@keyframes swl{from{transform:translateX(30px);opacity:.4}to{transform:none;opacity:1}}
+@keyframes swr{from{transform:translateX(-30px);opacity:.4}to{transform:none;opacity:1}}
+.swl{animation:swl .18s ease-out}.swr{animation:swr .18s ease-out}
+@media (prefers-reduced-motion:reduce){.swl,.swr{animation:none}}
+@media (max-width:370px){.row{grid-template-columns:66px minmax(0,1fr) auto;gap:2px 8px}.seg button{padding:0 10px}}
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <div class="title"><h1>Chi West Schedule</h1><small id="upd"></small></div>
+    <div class="seg main" role="tablist" aria-label="View">
+      <button id="t-sched" data-tab="sched" aria-pressed="true">Schedule</button>
+      <button id="t-pts" data-tab="pts" aria-pressed="false">Patients</button>
+    </div>
+  </header>
+  <main id="app"></main>
+  <p class="foot" id="foot"></p>
+</div>
+
+<script>
+'use strict';
+const DATA=/*DATA*/null;
+const P=(DATA&&DATA.patients)||[],V=(DATA&&DATA.visits)||[],E=(DATA&&DATA.events)||[];
+const STATUS={active:'Grafting',approved:'Potential New Start',pending:'Pending IVR',potential:'Potential IVR',hold:'On hold',or:'OR',done:'Done',denied:'Denied'};
+const WHO=[['all','All'],['AJ','AJ'],['Caroline','Caroline'],['Pete','Pete'],['Not covered','Not covered']];
+const DN=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],MN=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const $=id=>document.getElementById(id);
+const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const pad=n=>String(n).padStart(2,'0');
+const iso=d=>d.getFullYear()+'-'+pad(d.getMonth()+1)+'-'+pad(d.getDate());
+const D=s=>new Date(s+'T12:00:00');
+const addDays=(s,n)=>{const d=D(s);d.setDate(d.getDate()+n);return iso(d);};
+const md=s=>{const d=D(s);return (d.getMonth()+1)+'/'+d.getDate();};
+const mon=s=>{const d=D(s);return MN[d.getMonth()]+' '+d.getDate();};
+const today=()=>iso(new Date());
+const weekStart=s=>{const d=D(s),w=d.getDay();d.setDate(d.getDate()+(w===0?1:w===6?2:1-w));return iso(d);};
+const ampm=t=>{const m=/^(\d{1,2}):(\d{2})/.exec(t||'');if(!m)return '';let h=+m[1];const mi=m[2],pm=h>=12;h=h%12||12;return h+(mi!=='00'?':'+mi:'')+(pm?'pm':'am');};
+const ls={get:(k,d)=>{try{const v=localStorage.getItem('cws_'+k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set:(k,v)=>{try{localStorage.setItem('cws_'+k,JSON.stringify(v));}catch(e){}}};
+
+const S={tab:ls.get('tab','sched'),day:'',who:ls.get('who','all'),by:ls.get('by','time'),pf:ls.get('pf','current')};
+if(location.hash==='#patients')S.tab='pts';
+{const t=today(),ws=weekStart(t),dow=D(t).getDay();S.day=dow>=1&&dow<=5?t:ws;}
+
+const coverOf=v=>{const p=P[v.p];return v.date===p.next&&!v.res?(p.cover||'AJ'):null;};
+const whoOk=v=>{if(S.who==='all')return true;const c=coverOf(v);return S.who==='AJ'?(c===null||c==='AJ'):c===S.who;};
+const whoChip=c=>c==null?'':`<span class="who ${{AJ:'aj',Caroline:'caroline',Pete:'pete','Not covered':'nc'}[c]||'aj'}">${esc(c)}</span>`;
+const dayVisits=d=>V.filter(v=>v.date===d&&whoOk(v)&&!['done','denied'].includes(P[v.p].status)||(v.date===d&&v.res&&whoOk(v))).filter((v,i,a)=>a.indexOf(v)===i).sort((a,b)=>(a.time||'99').localeCompare(b.time||'99'));
+const dayEvents=d=>S.who==='all'||S.who==='AJ'?E.filter(e=>e.date===d).sort((a,b)=>(a.time||'99').localeCompare(b.time||'99')):[];
+const appNo=v=>{const p=P[v.p];if(v.app)return v.app;if(p.status==='or')return null;return v.date===p.next&&p.apps!=null&&!v.res?p.apps+1:null;};
+
+function visitRow(v,showAcct){const p=P[v.p],a=appNo(v),c=coverOf(v);
+  const bits=[[p.product,p.size].filter(Boolean).join(' '),a?'A'+a:'',p.status==='or'?'OR case':'',v.loc].filter(Boolean);
+  return `<div class="row" style="--ac:var(--a${p.ac})"><div class="tm${v.time?'':' none'}">${v.time?ampm(v.time):'—'}</div>
+    <div><div class="l1"><span class="ini">${esc(p.ini)}</span>${showAcct?`<span class="acct">${esc(p.acct)}</span>`:''}<span class="mu">${esc(p.prov)}</span></div><div class="l2">${esc(bits.join(' · '))}</div></div>
+    <div class="rt">${v.res?`<span class="res ${v.res==='Grafted'?'ok':'no'}">${esc(v.res)}</span>`:whoChip(c)}${!v.res&&v.date===p.next&&p.confirm?'<span class="flag">Confirm time</span>':''}</div></div>`;}
+function eventRow(e){return `<div class="row ev"><div class="tm${e.time?'':' none'}">${e.time?ampm(e.time):'—'}</div><div><div class="l1"><span class="ini">${esc(e.title)}</span></div><div class="l2">${esc([e.kind!==e.title?e.kind:'',e.place].filter(Boolean).join(' · '))}</div></div><div class="rt"><span class="who aj">AJ</span></div></div>`;}
+
+function vSched(){const t=today(),ws=weekStart(S.day),days=[0,1,2,3,4].map(i=>addDays(ws,i));
+  let h=`<div class="wk"><button data-wk="-7" aria-label="Previous week">‹ Prev</button><button class="lbl tnum" data-wk="0" title="Back to this week">${mon(days[0])} – ${mon(days[4])}</button><button data-wk="7" aria-label="Next week">Next ›</button></div>
+  <div class="bar"><div class="chips" role="group" aria-label="Covered by">${WHO.map(([k,l])=>`<button class="chip" data-who="${esc(k)}" aria-pressed="${S.who===k}">${l}</button>`).join('')}</div>
+  <div class="seg" role="group" aria-label="Group"><button data-by="time" aria-pressed="${S.by==='time'}">By time</button><button data-by="clinic" aria-pressed="${S.by==='clinic'}">By clinic</button></div></div>
+  <div class="days">${days.map(d=>{const n=dayVisits(d).length+dayEvents(d).length;return `<button data-day="${d}" aria-pressed="${d===S.day}" class="${d===t?'today':''}"><small>${DN[D(d).getDay()]}</small><b class="tnum">${D(d).getDate()}</b><em class="tnum">${n||'·'}</em></button>`;}).join('')}</div>`;
+  const vs=dayVisits(S.day),es=dayEvents(S.day);
+  if(!vs.length&&!es.length)return h+`<div class="card" id="list"><div class="empty">Nothing on ${DN[D(S.day).getDay()]} ${md(S.day)}${S.who!=='all'?' for '+esc(S.who):''}.</div></div>`;
+  if(S.by==='clinic'){const g={};vs.forEach(v=>{const a=P[v.p].acct;(g[a]=g[a]||[]).push(v);});
+    const keys=Object.keys(g).sort((a,b)=>P[g[a][0].p].ac-P[g[b][0].p].ac);
+    return h+`<div class="stack" id="list">${keys.map(a=>`<div class="card"><div class="gh" style="--ac:var(--a${P[g[a][0].p].ac})"><span><i></i>${esc(a)}</span><span class="tnum">${g[a].length}</span></div>${g[a].map(v=>visitRow(v,false)).join('')}</div>`).join('')}${es.length?`<div class="card"><div class="gh"><span>AJ's events</span><span>${es.length}</span></div>${es.map(eventRow).join('')}</div>`:''}</div>`;}
+  const all=[...vs.map(v=>({t:v.time||'99',h:visitRow(v,true)})),...es.map(e=>({t:e.time||'99',h:eventRow(e)}))].sort((a,b)=>a.t.localeCompare(b.t));
+  return h+`<div class="card" id="list">${all.map(x=>x.h).join('')}</div>`;}
+
+function vPts(){const cur=['active','approved','or','pending','potential','hold'];
+  const L=P.map((p,i)=>({p,i})).filter(({p})=>S.pf==='all'||cur.includes(p.status));
+  const g={};L.forEach(x=>{(g[x.p.acct]=g[x.p.acct]||[]).push(x);});
+  const keys=Object.keys(g).sort((a,b)=>g[a][0].p.ac-g[b][0].p.ac||a.localeCompare(b));
+  const ord=['active','approved','pending','potential','or','hold','done','denied'];
+  let h=`<div class="bar"><div class="chips" role="group" aria-label="Which patients"><button class="chip" data-pf="current" aria-pressed="${S.pf==='current'}">Current</button><button class="chip" data-pf="all" aria-pressed="${S.pf==='all'}">All, incl. done</button></div><span class="mu tnum" style="font-size:.86rem">${L.length} patients</span></div><div class="stack">`;
+  h+=keys.map(a=>{const rows=g[a].sort((x,y)=>ord.indexOf(x.p.status)-ord.indexOf(y.p.status)||(x.p.next||'9').localeCompare(y.p.next||'9'));
+    return `<div class="card"><div class="gh" style="--ac:var(--a${rows[0].p.ac})"><span><i></i>${esc(a)}</span><span class="tnum">${rows.length}</span></div>${rows.map(({p})=>{
+      const nx=p.next&&!['done','denied'].includes(p.status)?`Next <b>${DN[D(p.next).getDay()]} ${md(p.next)}${p.time?' '+ampm(p.time):''}</b>${p.loc?' · '+esc(p.loc):''}`:'No visit booked';
+      const cov=p.next&&!['done','denied'].includes(p.status)?' · '+whoChip(p.cover||'AJ'):'';
+      return `<div class="prow" style="--ac:var(--a${p.ac})"><div class="l1"><span class="ini">${esc(p.ini)}</span><span class="mu">${esc(p.prov)}</span></div><span class="pill ${esc(p.status)}">${esc(STATUS[p.status]||p.status||'—')}</span>
+        <div class="pm">${esc([[p.product,p.size].filter(Boolean).join(' '),p.status==='or'?'OR case':p.freq,p.apps?p.apps+' application'+(p.apps===1?'':'s'):''].filter(Boolean).join(' · '))}</div>
+        <div class="pn">${nx}${cov}${p.confirm&&p.next?' <span class="flag">Confirm time</span>':''}</div></div>`;}).join('')}</div>`;}).join('');
+  return h+`</div>`;}
+
+function render(dir){$('t-sched').setAttribute('aria-pressed',S.tab==='sched');$('t-pts').setAttribute('aria-pressed',S.tab==='pts');
+  $('app').innerHTML=S.tab==='sched'?vSched():vPts();
+  if(dir){const l=$('list');if(l){l.classList.add(dir>0?'swl':'swr');}}}
+function stepDay(n){let d=addDays(S.day,n);while([0,6].includes(D(d).getDay()))d=addDays(d,n);S.day=d;render(n);}
+document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;
+  if(b.dataset.tab){S.tab=b.dataset.tab;ls.set('tab',S.tab);render();window.scrollTo({top:0});return;}
+  if(b.dataset.wk!=null){const n=+b.dataset.wk;if(!n){const t=today(),dow=D(t).getDay();S.day=dow>=1&&dow<=5?t:weekStart(t);}else S.day=addDays(weekStart(S.day),n);render(n);return;}
+  if(b.dataset.day){S.day=b.dataset.day;render();return;}
+  if(b.dataset.who){S.who=b.dataset.who;ls.set('who',S.who);render();return;}
+  if(b.dataset.by){S.by=b.dataset.by;ls.set('by',S.by);render();return;}
+  if(b.dataset.pf){S.pf=b.dataset.pf;ls.set('pf',S.pf);render();return;}});
+/* swipe left / right on the schedule for the next / previous day */
+let sx=null;
+document.addEventListener('touchstart',e=>{sx=null;if(S.tab!=='sched'||e.touches.length!==1)return;const t=e.target;if(t.closest('.chips,.seg'))return;const p=e.touches[0];if(p.clientX<18||p.clientX>innerWidth-18)return;sx={x:p.clientX,y:p.clientY,t:Date.now()};},{passive:true});
+document.addEventListener('touchend',e=>{if(!sx)return;const p=e.changedTouches[0],dx=p.clientX-sx.x,dy=p.clientY-sx.y,v=Math.abs(dx)/Math.max(1,Date.now()-sx.t);sx=null;
+  if(Math.abs(dx)>Math.abs(dy)*1.4&&(Math.abs(dx)>70||(v>.5&&Math.abs(dx)>35)))stepDay(dx<0?1:-1);},{passive:true});
+
+{const u=DATA&&DATA.updated?new Date(DATA.updated):null;
+ $('upd').textContent='View only'+(u&&!isNaN(u)?' · updated '+DN[u.getDay()]+' '+(u.getMonth()+1)+'/'+u.getDate()+' '+ampm(pad(u.getHours())+':'+pad(u.getMinutes())):'');
+ $('foot').textContent="Initials only, no names or notes. Coverage shows on each patient's next visit; a visit with no name tag is AJ's. Updated a few times a day from AJ's tracker.";}
+render();
+</script>

@@ -1,0 +1,142 @@
+#!/usr/bin/env python3
+"""Build the view-only "Chi West Schedule" page AJ shares with Caroline and Pete.
+
+It is the Patients tab of Chi West (the week schedule and the patient list) with NO patient names and no notes:
+initials, account, provider, product/size, frequency, application count, visit date/time/place, who covers the
+visit, and a "time to confirm" flag. No sales data. The data is baked into the page, so it works for anyone with the
+link (no sign-in) and changes only when the page is republished.
+
+Usage:
+    python3 -I tools/assoc_view.py CW_PATIENTS_JSON OUT_HTML
+
+CW_PATIENTS_JSON is Chi West's data/patients doc: the chiwest_sync.py output (OUT/data/patients.json) or an
+ArtifactData export of Chi West's `data` collection. Then publish OUT_HTML to the Chi West Schedule artifact
+(https://claude.ai/artifact/5V9C5K8zikma7b7AUjAoFz; Artifact publish with its url, after an Artifact read of it in that
+session) when AJ asks for a refresh. The script stops without writing the page if a patient name would be in it.
+"""
+import json, os, re, sys, datetime as dt
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+TEMPLATE = os.path.join(HERE, 'assoc_view.html')
+
+SHORT = {'Alexian Brothers Wound Center': 'Alexian WCC', 'Advocate Good Samaritan Hospital': 'Good Sam',
+         'Ascension Saint Alexius': 'St. Alexius', 'Saint Joseph Hospital - Elgin': 'St. Joseph Elgin',
+         'Central DuPage Foot and Ankle': 'Central DuPage F&A', 'Northwest Suburban Foot and Ankle Clinic': 'NW Suburban F&A',
+         'Suburban Foot and Ankle Center': 'Suburban F&A', 'Romano Orthopaedics - Lombard': 'Romano Lombard',
+         'Elmhurst Hospital': 'Elmhurst', 'UChicago Medicine AdventHealth GlenOaks': 'GlenOaks',
+         'Ankle and Foot Surgery LLC': 'Ankle & Foot Surgery', 'Alexian Ambulatory': 'Alexian Ambulatory',
+         'Alexian Brothers - Ambulatory': 'Alexian Ambulatory', 'Sherman': 'Sherman'}
+# same account order (and so the same account colors) as Chi West
+ORDER = ['Advocate Good Samaritan Hospital', 'Alexian Brothers Wound Center', 'Alexian Ambulatory', 'Northwest Suburban Foot and Ankle Clinic',
+         'Saint Joseph Hospital - Elgin', 'Sherman', 'Ascension Saint Alexius', 'Central DuPage Foot and Ankle', 'Elmhurst Hospital',
+         'UChicago Medicine AdventHealth GlenOaks', 'Suburban Foot and Ankle Center', 'Romano Orthopaedics - Lombard', 'Ankle and Foot Surgery LLC']
+
+
+def norm_ini(s):
+    return re.sub(r'[^A-Z]', '', str(s or '').upper())
+
+
+def fmt_ini(s):
+    s = str(s or '').strip()
+    if re.fullmatch(r'[A-Za-z]{2,3}', s):
+        return '.'.join(s.upper()) + '.'
+    return s or '?'
+
+
+def safe_ini(ini, name):
+    """Initials only. A field that holds a name (e.g. a surname typed where the initials go) is cut to its initials."""
+    s = str(ini or '').strip()
+    letters = re.sub(r'[^A-Za-z]', '', s)
+    nm = str(name or '').lower()
+    looks_like_name = len(letters) > 3 or (len(letters) > 1 and not s.isupper() and nm and s.lower() in nm)
+    if looks_like_name:
+        return ''.join(w[0].upper() + '.' for w in re.findall(r'[A-Za-z]+', s)) or '?'
+    return fmt_ini(s)
+
+
+def acct_key(a):
+    a = a or ''
+    if a == 'Alexian Brothers - Ambulatory':
+        a = 'Alexian Ambulatory'
+    return a
+
+
+def build(src):
+    d = json.load(open(src))
+    d = d.get('data', d)
+    today = dt.date.today()
+    lo, hi = (today - dt.timedelta(days=21)).isoformat(), (today + dt.timedelta(days=42)).isoformat()
+    pts, index = [], {}
+    for p in d.get('patients') or []:
+        a = acct_key(p.get('acct'))
+        k = a + '|' + norm_ini(p.get('ini'))
+        i = len(pts)
+        index.setdefault(k, i)
+        pts.append({
+            'acct': SHORT.get(a, a), 'ac': ORDER.index(a) % 12 if a in ORDER else 11,
+            'prov': p.get('prov') or '', 'ini': safe_ini(p.get('ini'), p.get('name')), 'status': p.get('status') or '',
+            'product': p.get('product') or '', 'size': p.get('size') or '', 'freq': p.get('freq') or '',
+            'apps': p.get('apps') if isinstance(p.get('apps'), (int, float)) else None,
+            'next': p.get('next') or '', 'time': p.get('time') or '', 'loc': p.get('loc') or '',
+            'cover': p.get('cover') or '', 'confirm': bool(p.get('verify') or p.get('fuVerify')),
+        })
+    visits = {}
+
+    def add(i, date, time='', loc='', app=None, res=''):
+        if not date or not (lo <= date <= hi):
+            return
+        v = visits.setdefault((i, date), {'p': i, 'date': date, 'time': '', 'loc': '', 'app': None, 'res': ''})
+        v['time'] = v['time'] or time or ''
+        v['loc'] = v['loc'] or loc or ''
+        v['app'] = v['app'] if v['app'] is not None else app
+        v['res'] = res or v['res']
+
+    def res_of(s):
+        s = str(s or '')
+        return 'Grafted' if s.startswith('Grafted') else 'Not grafted' if s.startswith('Not grafted') else ''
+
+    for v in d.get('visits') or []:
+        i = index.get(acct_key(v.get('acct')) + '|' + norm_ini(v.get('ini')))
+        if i is not None:
+            add(i, v.get('date'), v.get('time'), v.get('loc'), v.get('app'), res_of(v.get('status')))
+    for e in d.get('log') or []:
+        i = index.get(acct_key(e.get('acct')) + '|' + norm_ini(e.get('ini')))
+        if i is not None and e.get('date', '') <= today.isoformat():
+            add(i, e.get('date'), '', '', e.get('app'), res_of(e.get('result')))
+    for i, p in enumerate(pts):
+        if p['status'] in ('done', 'denied'):
+            continue
+        add(i, p['next'], p['time'], p['loc'])
+    events = [{'title': e.get('title') or '', 'kind': e.get('kind') or '', 'place': e.get('place') or '',
+               'date': e.get('date') or '', 'time': e.get('time') or '', 'end': e.get('end') or ''}
+              for e in d.get('events') or [] if lo <= (e.get('date') or '') <= hi]
+    return {'updated': d.get('synced') or dt.datetime.now().isoformat(timespec='minutes'), 'built': today.isoformat(),
+            'patients': pts, 'visits': sorted(visits.values(), key=lambda v: (v['date'], v['time'])), 'events': events}
+
+
+def main():
+    if len(sys.argv) != 3:
+        sys.exit(__doc__)
+    data = build(sys.argv[1])
+    # nothing that could identify a patient beyond initials goes out
+    blob = json.dumps(data, separators=(',', ':'), ensure_ascii=False)
+    assert '"name"' not in blob and '"note' not in blob
+    # last check: no patient's full name, and no part of a patient's name in that patient's own row
+    src = json.load(open(sys.argv[1]))
+    src = src.get('data', src)
+    for p, q in zip(src.get('patients') or [], data['patients']):
+        n = str(p.get('name') or '').strip()
+        if not n:
+            continue
+        assert len(n) < 4 or n not in blob, 'a patient name would be published'
+        own = ' '.join(str(q.get(k) or '') for k in ('ini', 'loc'))
+        for w in re.findall(r'[A-Za-z]{3,}', n):
+            assert not re.search(r'\b' + re.escape(w) + r'\b', own, re.I), 'part of a patient name would be published'
+    html = open(TEMPLATE).read().replace('/*DATA*/null', blob.replace('</', '<\\/'))
+    open(sys.argv[2], 'w').write(html)
+    print(f"{sys.argv[2]}: {len(data['patients'])} patients, {len(data['visits'])} visits, {len(data['events'])} events, "
+          f"{len(html)//1024} KB")
+
+
+if __name__ == '__main__':
+    main()
