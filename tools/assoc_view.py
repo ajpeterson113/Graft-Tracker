@@ -67,12 +67,13 @@ def build(src):
     d = d.get('data', d)
     today = dt.date.today()
     lo, hi = (today - dt.timedelta(days=21)).isoformat(), (today + dt.timedelta(days=42)).isoformat()
-    pts, index = [], {}
+    pts, index, src_rows = [], {}, []
     for p in d.get('patients') or []:
         a = acct_key(p.get('acct'))
         k = a + '|' + norm_ini(p.get('ini'))
         i = len(pts)
-        index.setdefault(k, i)
+        index.setdefault(k, []).append(i)
+        src_rows.append(p)
         pts.append({
             'acct': SHORT.get(a, a), 'ac': ORDER.index(a) % 12 if a in ORDER else 11,
             'prov': p.get('prov') or '', 'ini': safe_ini(p.get('ini'), p.get('name')), 'status': p.get('status') or '',
@@ -96,12 +97,30 @@ def build(src):
         s = str(s or '')
         return 'Grafted' if s.startswith('Grafted') else 'Not grafted' if s.startswith('Not grafted') else ''
 
+    low = lambda s: str(s or '').strip().lower()
+
+    def who(row):
+        """The patient a visit / log row belongs to. Rows carry only account + initials, and two patients can share
+        those (an office patient and their OR case, two people with the same initials), so pick the best fit."""
+        c = index.get(acct_key(row.get('acct')) + '|' + norm_ini(row.get('ini'))) or []
+        if len(c) < 2:
+            return c[0] if c else None
+        date, is_or = row.get('date') or '', 'OR' in str(row.get('status') or '')
+
+        def score(i):
+            p = src_rows[i]
+            return ((p.get('next') == date) * 8 + (p.get('last') == date) * 4
+                    + (bool(row.get('product')) and low(p.get('product')).startswith(low(row.get('product'))[:6])) * 2
+                    + (bool(row.get('size')) and low(p.get('size')).startswith(low(row.get('size')))) * 1
+                    + ((p.get('status') == 'or') == is_or) * 1)
+        return max(c, key=score)  # ties keep the first
+
     for v in d.get('visits') or []:
-        i = index.get(acct_key(v.get('acct')) + '|' + norm_ini(v.get('ini')))
+        i = who(v)
         if i is not None:
             add(i, v.get('date'), v.get('time'), v.get('loc'), v.get('app'), res_of(v.get('status')))
     for e in d.get('log') or []:
-        i = index.get(acct_key(e.get('acct')) + '|' + norm_ini(e.get('ini')))
+        i = who(e)
         if i is not None and e.get('date', '') <= today.isoformat():
             add(i, e.get('date'), '', '', e.get('app'), res_of(e.get('result')))
     for i, p in enumerate(pts):
