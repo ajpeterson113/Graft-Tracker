@@ -1,6 +1,6 @@
 # Chi West app: keeping it current
 
-Chi West (https://claude.ai/artifact/HzjrjSVDB4oF6oAfWUuwDN) is AJ's combined app (Today · Patients · Tracker · Grow). He started using it on 11/4 alongside the Graft Tracker, Chi West Patients and Chi West Targets apps, which stay the source of truth until he says he has fully switched.
+Chi West (https://claude.ai/artifact/HzjrjSVDB4oF6oAfWUuwDN) is AJ's combined app (Home · Patients · Tracker · Grow). The Patients tab has the coverage planner, coverage email and Read with Claude (coverage reply, clinic schedule, calendar); Home and Tracker have the projection email. He started using it on 11/4 alongside the Graft Tracker, Chi West Patients and Chi West Targets apps, which stay the source of truth until he says he has fully switched.
 
 It reads six documents in its db collection `data`, all written by `tools/chiwest_sync.py`:
 `core` (period, sales, forecast, accounts, year, open action items), `cases` (last three month tabs), `forecast` (projection rows), `stock` (shelves), `patients` (patient list, visits, application log, day notes from Chi_West_Patient_List.xlsx, plus names, who covers each visit, next-visit location, verify flags and AJ's events from the Chi West Patients db) and `targets` (target list + Targets-app outreach). AJ wants names (shown on tap, as in the Patients app) and coverage in Chi West (11/4).
@@ -23,11 +23,15 @@ A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {
 - `grafted` {pid, ini, acct, product, size, qty, app, date, status, note}: log the visit on that patient in Chi West Patients (log entry, apps, status, last) and add the tracker row as waiting on a PO, exactly as a Grafted tap in the Patients app.
 - `notgrafted` {pid, date, reason, status, note}: log it in Chi West Patients.
 - `status` {pid, status, cover, next, note}: update the patient in Chi West Patients.
-- `cover` {pid, cover: "" | "Caroline" | "Pete"}: the patient's `cover` field in Chi West Patients (the schedule's coverage dropdown).
+- `cover` {pid, date, cover: "" | "Caroline" | "Pete" | "Not covered"}: the patient's `cover` field in Chi West Patients (the schedule's coverage dropdown, the coverage planner's Apply, or a coverage reply read by Claude). "" means AJ. It applies to the patient's next visit; skip it (leave "new" and list it) if `date` is no longer that patient's `next`.
+- `next` {pid, date, time, loc}: move the patient's next visit (from a clinic schedule or AJ's calendar read by Claude): `next`, `nextTime` (if given), `nextLoc` (if given); clear `fuVerify`; clear `cover` when the date changed. Never change `status` for it.
+- `verify` {pid, text}: set the patient's `verify` field to text; empty text clears `verify` and `fuVerify` (calendar confirmed it).
 - `time` {pid, date, time}: the visit on that date moved to that time — Chi West Patients `nextTime` (clear `fuVerify`), same as the Patients app's time picker.
 - `appno` {pid, app}: the next visit is application #app — Chi West Patients `apps` = app − 1, same as the Patients app's A# picker.
 - `note` {pid | caseId, text}: dated note on the patient, or the tracker row's Notes / right column.
-- `newpatient` {acct, prov, ini, product, size, freq, status, first, note}: add to Chi West Patients (Pending unless status says otherwise).
+- `newpatient` {acct, prov, ini, product, size, freq, status, first, time, loc, note}: add to Chi West Patients (Pending unless status says otherwise; `first`/`time`/`loc` become next/nextTime/nextLoc).
+
+AJ 11/4: never change a patient's category (status) unless his own tap says so (`status` actions, or a Grafted/Not grafted tap that carries a status). Clinic schedules, calendars and coverage replies only move visits, set coverage, add notes and set verify flags.
 - `todo` {todo}: set that Graft Tracker `todos` item to done (doneAt now).
 - `touch` / `lunch` {target, who, type, approach, newStatus, next, note, edate, etime}: add a history entry and status / followUp on the Targets app `outreach` doc for that target (lunch: also the Lunch booked entry). Keep the action's `approach` — it is how Chi West learns.
 - `objection` {target, text}: the target's objection field in the Targets app.

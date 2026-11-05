@@ -176,12 +176,12 @@ def build_patients(xlsx, today, extra=None, events=None):
             nd, nt = x.get('next') or '', x.get('nextTime') or ''
         pts.append({'id': pid, 'acct': acct, 'short': SHORT.get(acct, acct),
                     'status': x.get('status') or STATUS.get(r.get('Status'), 'active'), 'prov': r.get('Provider') or '', 'ini': x.get('ini') or r.get('Initials') or '',
-                    'name': x.get('name') or '', 'cover': x.get('cover') if x.get('cover') in ('Caroline', 'Pete') else '',
+                    'name': x.get('name') or '', 'cover': x.get('cover') if x.get('cover') in ('Caroline', 'Pete', 'Not covered') else '',
                     'coverage': cut(r.get('Coverage Status'), 140), 'pa': r.get('PA Required?') or '', 'product': x.get('product') or r.get('Product') or '',
                     'size': str(x.get('size') or r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
                     'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
                     'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420)})
-    t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=45)).isoformat()
+    t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=63)).isoformat()
     acct_of = {p['id']: p['acct'] for p in pts}
     ini_of = {p['id']: p['ini'] for p in pts}
     dbl = {}  # (acct, initials, date) -> db log entry
