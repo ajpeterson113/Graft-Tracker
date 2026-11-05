@@ -13,7 +13,7 @@ A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {
    - Chi West Targets (https://claude.ai/artifact/JCPaNuwhst38msAxKippjo): `outreach` → TGT.
    - Chi West Patients (https://claude.ai/artifact/AwS5M2wc9Wm7Pe6oTuJuwQ): `patients` and `events` → PDB. If ArtifactData refuses out_dir for these (it can, because AJ writes them through the app), list them without out_dir and write PDB/overlay.json yourself: {"patients": [{id, name, cover, status, apps, next, nextTime, nextLoc, verify, fuVerify, ivrDate, paExp} for every patient], "events": [{id, title, kind, place, date, time, end, note}]}. Names stay exactly as in the db (drop an insurance or DOB tacked onto a name).
    - Chi West: `data` → CW (note each version) and `actions`, `uploads`.
-2. `python3 -I tools/chiwest_sync.py --gt GTDB --patients Chi_West_Patient_List.xlsx --pdb PDB --targets Chi_West_Surgeon_Targets.xlsx --outreach TGT/outreach --cw CW OUT_CW` (or `--overlay PDB/overlay.json` instead of `--pdb PDB`). Never run it without one of the two: the app would lose names and coverage.
+2. `python3 -I tools/chiwest_sync.py --gt GTDB --patients Chi_West_Patient_List.xlsx --pdb PDB --targets Chi_West_Surgeon_Targets.xlsx --outreach TGT/outreach --plans TGT/plans --cw CW OUT_CW` (or `--overlay PDB/overlay.json` instead of `--pdb PDB`). Never run it without one of the two: the app would lose names and coverage.
    It prints each doc's size (keep every doc under 240 KB) and writes OUT_CW/batches.json. Replace any "VERSION" with that doc's version from step 1 and send each batch with ArtifactData `batch` on the Chi West url. `core` goes last.
 
 ## AJ's taps in Chi West (apply them in the same run, before step 2)
@@ -57,3 +57,7 @@ Chi West reads PO and case sheet photos itself when they are uploaded (same as t
 ## Chi West Schedule page (AJ 11/5)
 
 The view-only page AJ shares with Caroline and Pete, https://claude.ai/artifact/5V9C5K8zikma7b7AUjAoFz, must show exactly what Chi West shows after every sync. After `data` is written: `python3 -I tools/assoc_view.py OUT_CW/data/patients.json SCHED/chi-west-schedule.html`, then Artifact read + publish to that url. Do the same after any manual change to Chi West's `data/patients`. Initials only; never change its sharing.
+
+## Route plans (Grow · Plan, added 11/5 from the Chi West Targets app)
+
+Chi West's Plan tab is the Targets app's plan engine: My route / Caroline / Pete by day (a week ahead), each visit a stop, the open targets nearest each stop as drop-ins (same building / street / area, scored by tier, follow-up due, stage, claims and free time), "+ Add a stop", Hide, Copy for <name>, and the Sunday week email. Data it needs from the sync, all in `data/targets`: each target's `office` (with the Targets app's `edits.office` override), `lunch` {d, t, place, who, n} and `using` from the outreach doc, and `plans` (the Targets app's `plans` collection: `<day>` for AJ, `<day>~Caroline`, `<day>~Pete`, each {stops, skip, updated}). Chi West writes its own stops/hides to its `plans` collection (same ids and shape) and shows whichever copy is newer; the sync copies Chi West's `plans` docs to the Targets app when they are newer.

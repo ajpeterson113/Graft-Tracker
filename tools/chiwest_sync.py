@@ -227,7 +227,7 @@ def build_patients(xlsx, today, extra=None, events=None):
     return {'patients': pts, 'visits': visits, 'log': log, 'notes': notes, 'events': events or [], 'names': bool(extra)}
 
 
-def build_targets(xlsx, outreach_dir):
+def build_targets(xlsx, outreach_dir, plans_dir=None):
     wb = openpyxl.load_workbook(xlsx, data_only=True)
     byh = list(rows(wb['By hospital']))
     con = list(rows(wb['Contacts & emails']))
@@ -250,7 +250,10 @@ def build_targets(xlsx, outreach_dir):
                     'orc': r.get('OR/surgical claims'), 'qsn': r.get('Q-codes S+N'), 'qcomp': r.get('Q-codes competitor'), 'npi': r.get('NPI') or '',
                     'email': c.get('Email (published)') or '', 'emailFmt': cut(c.get('Email format (system)'), 80),
                     'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400),
-                    'obj': cut(o.get('objection') or o.get('objections'), 200), 'hist': hist})
+                    'obj': cut(o.get('objection') or o.get('objections'), 200), 'hist': hist,
+                    'lunch': o.get('lunch') or None, 'using': o.get('using') or []})
+        if (o.get('edits') or {}).get('office'):  # office corrected in the Targets app
+            out[-1]['office'] = cut(o['edits']['office'], 160)
     for tid, o in orx.items():  # contacts added in the Targets app (e.g. cwl-*)
         if tid in seen:
             continue
@@ -260,21 +263,28 @@ def build_targets(xlsx, outreach_dir):
                     'grp': 'Office / scheduling contact', 'spec': e.get('role') or '', 'office': cut(e.get('officeContact'), 160),
                     'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400), 'obj': '',
                     'hist': [{'d': (h.get('d') or '')[:10], 'a': h.get('a'), 'n': cut(h.get('n'), 200), 'who': h.get('who') or ''} for h in (o.get('history') or [])][-6:]})
-    return {'targets': out}
+    # route plans (manual stops / hidden drop-ins per day and person) from the Targets app's `plans` collection;
+    # Chi West keeps its own copy in its `plans` collection and shows whichever is newer
+    plans = {}
+    for k, v in (loadall(plans_dir) if plans_dir and os.path.isdir(plans_dir) else {}).items():
+        k = k.replace('@', '~')  # ArtifactData spells the "~" in a doc id as "@" in the file name
+        if isinstance(v, dict) and (v.get('stops') or v.get('skip')):
+            plans[k] = {'stops': v.get('stops') or [], 'skip': v.get('skip') or [], 'updated': v.get('updated') or ''}
+    return {'targets': out, 'plans': plans}
 
 
 # ---------------------------------------------------------------- writes
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--gt', required=True); ap.add_argument('--patients', required=True)
-    ap.add_argument('--targets', required=True); ap.add_argument('--outreach'); ap.add_argument('--cw')
+    ap.add_argument('--targets', required=True); ap.add_argument('--outreach'); ap.add_argument('--plans'); ap.add_argument('--cw')
     ap.add_argument('--pdb'); ap.add_argument('--overlay')
     ap.add_argument('out')
     a = ap.parse_args()
     core, cases, fc, stock = build_tracker(a.gt)
     today = core.get('today') or dt.date.today().isoformat()
     docs = {'core': core, 'cases': cases, 'forecast': fc, 'stock': stock,
-            'patients': build_patients(a.patients, today, *load_extra(a.pdb, a.overlay)), 'targets': build_targets(a.targets, a.outreach)}
+            'patients': build_patients(a.patients, today, *load_extra(a.pdb, a.overlay)), 'targets': build_targets(a.targets, a.outreach, a.plans)}
     if not docs['patients']['names']:
         print('NOTE: no --pdb or --overlay, so patients carry no names, coverage or events', file=sys.stderr)
     stamp = dt.datetime.now(dt.timezone(dt.timedelta(hours=-6))).isoformat(timespec='seconds')
