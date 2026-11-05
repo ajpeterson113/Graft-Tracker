@@ -8,7 +8,7 @@ usage:
 
   --app       output folder of `graft_app.py build` (meta/snap.json, meta/forecast.json,
               meta/stock.json, months/*.json): the same data the Graft Tracker app shows
-  --patients  the Chi West Patients db, exported with ArtifactData list out_dir=PDB for the
+  --patients  a Chi West data/patients.json file (Chi West sync output), or the Chi West Patients db, exported with ArtifactData list out_dir=PDB for the
               collections patients, inbox and uploads (PDB/patients/*.json, ...). A folder of
               patient JSON files on its own also works.
   --repo      the repo checkout to write into (default: the current folder)
@@ -766,6 +766,14 @@ def render_home_image(tr, path, theme, narrow=False):
 class Patients:
     def __init__(self, pdb, repo):
         d = pdb
+        if os.path.isfile(pdb):
+            # Chi West's data/patients doc (written by the Chi West sync, so it can always be exported with out_dir),
+            # used when the Chi West Patients db can't be exported to files. Mapped back to the Patients app's fields.
+            self.inbox, self.csq = [], []
+            self.pts = self.from_chiwest(pdb)
+            self.repo = repo
+            self.cws = ws_of(TODAY)
+            return
         if os.path.isdir(os.path.join(pdb, 'patients')):
             d = os.path.join(pdb, 'patients')
             self.inbox = [x for x in load_dir(os.path.join(pdb, 'inbox')) if x.get('status') == 'new']
@@ -775,6 +783,28 @@ class Patients:
         self.pts = load_dir(d)
         self.repo = repo
         self.cws = ws_of(TODAY)
+
+    @staticmethod
+    def from_chiwest(path):
+        d = json.load(open(path))
+        d = d.get('data', d)
+        key = lambda acct, ini: (acct or '') + '|' + re.sub(r'[^A-Z]', '', (ini or '').upper())
+        logs, notes = {}, {}
+        for e in d.get('log') or []:
+            logs.setdefault(key(e.get('acct'), e.get('ini')), []).append({'date': e.get('date'), 'app': e.get('app'), 'size': e.get('size'),
+                'grafted': (e.get('result') or '').startswith('Grafted'), 'note': e.get('note') or '', 'cover': e.get('cover') or ''})
+        for n in d.get('notes') or []:
+            notes.setdefault(key(n.get('acct'), n.get('ini')), []).append({'date': n.get('date'), 'note': n.get('note') or ''})
+        out = []
+        for i, x in enumerate(d.get('patients') or []):
+            k = key(x.get('acct'), x.get('ini'))
+            out.append({'id': x.get('id'), 'account': x.get('acct'), 'provider': x.get('prov'), 'initials': x.get('ini'), 'name': x.get('name') or '',
+                        'status': x.get('status'), 'product': x.get('product'), 'size': x.get('size'), 'freq': x.get('freq'), 'apps': x.get('apps'),
+                        'last': x.get('last'), 'caseDate': x.get('caseDate'), 'next': x.get('next'), 'nextTime': x.get('time'), 'nextLoc': x.get('loc'),
+                        'cover': x.get('cover'), 'coverage': x.get('coverage'), 'pa': x.get('pa'), 'paExp': x.get('paExp'), 'ivrDate': x.get('ivrDate'),
+                        'verify': x.get('verify'), 'fuVerify': x.get('fuVerify'), 'notes': x.get('notes') or '', 'order': i,
+                        'log': logs.get(k, []), 'dnotes': notes.get(k, [])})
+        return out
 
     # -- rules (same as the app)
     def fu_end(self):

@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 1 of 19 · updated Tue 11/3, 5:24 PM CT
+**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:56 AM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;11**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 3 · \$3,496
+## 🟢 Submit to SFDC · 8 · \$7,996
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -18,23 +18,25 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 9/29 | [Y.L.](../case-sheets/yl-0929.md) | Suburban F&A · Grinberg | Grafix 16mm | YL092926 · 🔁 transfer log on the sheet | \$190 |
 | 10/7 | [M.W.](../case-sheets/mw-1007.md) | Romano Lombard · Rojas | Grafix 16mm | MW100726 · 🔁 transfer log on the sheet | \$190 |
 | 10/26 | [P.C.](../case-sheets/pc-1026.md) | Elmhurst · McGann | Stravix 3x6 | P2353811 | \$3,115.50 |
+| 11/2 | [C.P.](../case-sheets/cp-1102.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 660040000286729 | \$600 |
+| 11/3 | [D.S.](../case-sheets/ds-1103.md) | Alexian WCC · Joshi | Grafix 5x5 | 660040000286762 | \$2,325 |
+| 11/3 | [O.O.](../case-sheets/oo-1103.md) | Alexian WCC · Vedantham | Grafix 16mm | 660040000286778 | \$360 |
+| 11/3 | M.L. | Alexian WCC · Joshi | Grafix 16mm | 660040000286779 | \$360 |
+| 11/4 | [S.G.](../case-sheets/sg-1104.md) | Romano Lombard · Rojas | Grafix 3x3 | SG110426 · 🔁 transfer log on the sheet | \$855 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 8 · \$7,894
+## 🟡 Waiting on a PO · 5 · \$4,609
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 48 days | 0003068368 | \$600 |
-| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 25 days |   | \$1,020 |
-| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 20 days |   | \$190 |
-| 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | 🟠 12 days |   | \$1,104 |
-| 11/2 | [T.A.](../case-sheets/ta-1102.md) | Good Sam · Farhan | Stravix 2x4 | 🟠 1 day |   | \$1,695 |
-| 11/2 | [C.P.](../case-sheets/cp-1102.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 🟠 1 day | 0002759724 | \$600 |
-| 11/3 | [D.S.](../case-sheets/ds-1103.md) | Alexian WCC · Joshi | Grafix 5x5 | — | 0003081837 | \$2,325 |
-| 11/3 | [O.O.](../case-sheets/oo-1103.md) | Alexian WCC · Vedantham | Grafix 16mm | — | 0003052679 | \$360 |
+| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 50 days | 0003068368 | \$600 |
+| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 27 days |   | \$1,020 |
+| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 22 days |   | \$190 |
+| 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | 🟠 14 days |   | \$1,104 |
+| 11/2 | [T.A.](../case-sheets/ta-1102.md) | Good Sam · Farhan | Stravix 2x4 | 🟠 3 days |   | \$1,695 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 8 · \$33,514
+## 🔵 Submitted, not in SFDC yet · 7 · \$33,559
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
@@ -46,32 +48,32 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 10/29 | J.B. | Alexian WCC · Adelstein | Grafix 2x3 | …286395 | \$925.35 |
 | 10/29 | D.K. | Alexian WCC · Halihan | Grafix 16mm | …286413 | \$360 |
 | 10/29 | — | Good Sam | OASIS Ultra 7x10 meshed · 1 box of 5 | PO006134008 | \$4,243.75 |
-| 10/30 | — | NW Suburban F&A | OASIS Ultra 3x3.5 · 1 box of 5 | Oasis11/2 | \$771.75 |
-| 10/30 | — | NW Suburban F&A | OASIS Ultra 3x7 · 1 box of 5 | Oasis11/2 | \$1,389.15 |
+| 11/4 | — | Alexian WCC | OASIS Wound 3x7 · 10 sheets = 1 box | …286884 | \$2,206.20 |
 
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 1
+## ⏳ Case sheets to come · 3
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
 | Date | Pt | Account | Graft | PO | Visit |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box |   | Seen Thu 10/22 |
+| 11/5 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA110526 | Seen Thu 11/5 |
+| 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
 
 <a name="stock"></a>
-## 📦 Stock · 6
+## 📦 Stock · 5
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **Grafix 16mm: 8 on hand (target 10–15)** · Order 7 now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
+> - **Grafix 16mm: 7 on hand (target 10–15)** · Order 8 now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
 > - **Grafix 3x3: 3 on hand (target 5–10)** · Order 7 now · [Alexian WCC](stock.md#alexian)
-> - **OASIS Wound 3x7: 5 sheets** · Order 2 boxes now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
 > - **Grafix 5x5: 0 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 22
+## 👥 Patients · 17
 
-11 to verify · 12 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)
+11 to verify · 10 with no follow-up booked → [Patient to-do](../patients/todo.md)
