@@ -33,7 +33,7 @@ A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {
 - `time` {pid, date, time}: the visit on that date moved to that time — Chi West Patients `nextTime` (clear `fuVerify`), same as the Patients app's time picker.
 - `appno` {pid, app}: the next visit is application #app — Chi West Patients `apps` = app − 1, same as the Patients app's A# picker.
 - `note` {pid | caseId, text}: dated note on the patient, or the tracker row's Notes / right column.
-- `newpatient` {acct, prov, ini, product, size, freq, pstatus, first, time, loc, note}: add to Chi West Patients (Pending unless pstatus says otherwise; `first`/`time`/`loc` become next/nextTime/nextLoc).
+- `newpatient` {acct, prov, ini, product, size, freq, pstatus, first, time, loc, note}: add to Chi West Patients (Pending unless pstatus says otherwise; `first`/`time`/`loc` become next/nextTime/nextLoc). **If it has a size, put it in projections in the same run (AJ 11/5):** `python3 -I tools/proj_newstart.py MASTER.xlsx --acct … --prov … --ini … --product … --size … --freq … --start <first> --note …` (Potential new starts, upside only), then recalc and rebuild the Graft Tracker app before this sync. The script skips a patient that already has a row. Same for a new patient from any other path (the Patients app's "+ New patient", one AJ mentions, repo inbox/new-patients).
 
 AJ 11/4: never change a patient's category (status) unless his own tap says so (`status` actions, or a Grafted/Not grafted tap that carries a status). Clinic schedules, calendars and coverage replies only move visits, set coverage, add notes and set verify flags.
 - `todo` {todo}: set that Graft Tracker `todos` item to done (doneAt now).

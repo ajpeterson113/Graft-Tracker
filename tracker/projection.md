@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 1:15 PM CT
+**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 1:22 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -13,13 +13,13 @@
 | Sold so far (November tab) | \$18,162 | \$18,162 |
 | \+ Projected Grafix, net of WCC stock | \$27,605 | \$26,165 |
 | \+ Upcoming Stravix | \$15,479 | \$9,786 |
-| \+ Potential new starts | \$1,277 | \$0 |
+| \+ Potential new starts | \$1,702 | \$0 |
 | \+ OASIS reorders (estimated) | \$9,818 | \$7,576 |
-| **P11 forecast** | **\$72,340** | **\$61,689** |
+| **P11 forecast** | **\$72,766** | **\$61,689** |
 | P11 target | \$92,891 | \$92,891 |
 | % of target | 78% | 66% |
-| Gap to target | \$20,551 | \$31,202 |
-| **Projected commission** | **\$5,064** | **\$4,318** |
+| Gap to target | \$20,125 | \$31,202 |
+| **Projected commission** | **\$5,094** | **\$4,318** |
 
 
 > [!NOTE]
@@ -35,7 +35,7 @@
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
 | [Alexian WCC](#alexian-wcc) | \$7,737 | \$21,347 | \$18,437 | **\$29,084** | **\$26,174** |
-| [Good Sam](#good-sam) | \$1,695 | \$10,729 | \$8,492 | **\$12,424** | **\$10,187** |
+| [Good Sam](#good-sam) | \$1,695 | \$11,154 | \$8,492 | **\$12,849** | **\$10,187** |
 | [St. Joseph Elgin](#st-joseph-elgin) | — | \$8,146 | \$6,206 | **\$8,146** | **\$6,206** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$2,066 | \$3,038 | \$2,267 | **\$5,104** | **\$4,332** |
 | [St. Alexius](#st-alexius) | — | \$4,938 | \$3,106 | **\$4,938** | **\$3,106** |
@@ -46,7 +46,7 @@
 | [Alexian Ambulatory](#x) | \$1,104 | \$0 | \$0 | **\$1,104** | **\$1,104** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | GlenOaks | — | — | — | — | — |
-| **Total** | **\$18,162** | **\$54,178** | **\$43,527** | **\$72,340** | **\$61,689** |
+| **Total** | **\$18,162** | **\$54,604** | **\$43,527** | **\$72,766** | **\$61,689** |
 
 
 ## Account by account
@@ -95,7 +95,7 @@ Sold so far: **\$7,737** · 8 cases
 </details>
 
 <a name="good-sam"></a>
-<details><summary><b>Good Sam</b> · upside &#36;12,424 · downside &#36;10,187</summary>
+<details><summary><b>Good Sam</b> · upside &#36;12,849 · downside &#36;10,187</summary>
 
 Sold so far: **\$1,695** · 1 case
 
@@ -133,6 +133,7 @@ Sold so far: **\$1,695** · 1 case
 | :-- | :-- | --: | --: | :-- |
 | **R.T. · Dr. Bach** | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit). | — | — |   |
 | **P.P. · Dr. Patni** | 16mm (assumed) · Weekly · 3 visits · from 11/10 | \$1,277 | \$0 | Approved; first visit Tue 11/10 per the Patients app (the 10/27 start was never logged). |
+| **Z.G. · Dr. Ayesh** | 16mm · Biweekly · 1 visit · from 11/19 | \$426 | \$0 | Pending (new patient AJ added in Chi West 11/5): GRAFIX 16mm every 2 weeks with Dr. Ayesh, first visit Thu 11/19 (time TBD). |
 
 **OASIS reorders (estimated)**
 
@@ -309,7 +310,7 @@ Sold so far: **\$190** · 1 case
 | Weekly and biweekly patients | 27 | \$34,808 | \$33,368 |
 | Less Good Sam WCC stock already sold | 8 | -\$7,203 | -\$7,203 |
 | Upcoming Stravix | 8 | \$15,479 | \$9,786 |
-| Potential new starts | 12 | \$1,277 | \$0 |
+| Potential new starts | 13 | \$1,702 | \$0 |
 | OASIS reorders (estimated) | 9 | \$9,818 | \$7,576 |
 
 
