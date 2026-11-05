@@ -52,3 +52,4 @@ Chi West reads PO and case sheet photos itself when they are uploaded (same as t
 - `mismatchOk`: AJ kept his own case even though the read pointed at another one.
 - No `confirmed`: nothing was confirmed; match it yourself (`read.match` is only a suggestion).
 - `readErr`: the in-app read failed (code); read it at the refresh as usual.
+- `dup` (with status "filed" and `filedNote`): AJ removed it in Chi West as a duplicate PO (its PO number was already on a case or in an earlier upload). Nothing to file. `dupOk`: AJ said it is not a duplicate even though the PO number matched; file it normally.
