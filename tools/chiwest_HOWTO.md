@@ -23,6 +23,9 @@ A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {
 - `grafted` {pid, ini, acct, product, size, qty, app, date, status, note}: log the visit on that patient in Chi West Patients (log entry, apps, status, last) and add the tracker row as waiting on a PO, exactly as a Grafted tap in the Patients app.
 - `notgrafted` {pid, date, reason, status, note}: log it in Chi West Patients.
 - `status` {pid, status, cover, next, note}: update the patient in Chi West Patients.
+- `cover` {pid, cover: "" | "Caroline" | "Pete"}: the patient's `cover` field in Chi West Patients (the schedule's coverage dropdown).
+- `time` {pid, date, time}: the visit on that date moved to that time — Chi West Patients `nextTime` (clear `fuVerify`), same as the Patients app's time picker.
+- `appno` {pid, app}: the next visit is application #app — Chi West Patients `apps` = app − 1, same as the Patients app's A# picker.
 - `note` {pid | caseId, text}: dated note on the patient, or the tracker row's Notes / right column.
 - `newpatient` {acct, prov, ini, product, size, freq, status, first, note}: add to Chi West Patients (Pending unless status says otherwise).
 - `todo` {todo}: set that Graft Tracker `todos` item to done (doneAt now).

@@ -104,7 +104,7 @@ def build_tracker(gt):
     todos = loadall(os.path.join(gt, 'todos'))
     if not snap or not months:
         sys.exit('STOP: --gt needs meta/snap.json and months/*.json')
-    core = {k: snap.get(k) for k in ('updated', 'today', 'period', 'sales', 'forecast', 'accounts', 'year', 'months', 'periods', 'tabs')}
+    core = {k: snap.get(k) for k in ('updated', 'today', 'period', 'sales', 'forecast', 'accounts', 'year', 'months', 'periods', 'tabs', 'weekly')}
     core['todos'] = [dict(id=k, **{f: v.get(f) for f in ('text', 'detail', 'acct', 'ini', 'caseId', 'due', 'src', 'ref', 'created', 'status')})
                      for k, v in sorted(todos.items()) if v.get('status') != 'done']
     keep = ('id', 'date', 'ini', 'alx', 'acct', 'short', 'surgeon', 'prod', 'product', 'size', 'sz', 'qty', 'lots', 'price',
@@ -147,7 +147,8 @@ def load_extra(pdb, overlay):
             d = d.get('data', d)
             ex[pid] = {'name': safe_name(d.get('name')), 'cover': d.get('cover') or '', 'status': d.get('status') or '',
                        'apps': d.get('apps'), 'next': d.get('next') or '', 'nextTime': d.get('nextTime') or '', 'nextLoc': d.get('nextLoc') or '',
-                       'verify': cut(d.get('verify'), 120), 'fuVerify': cut(d.get('fuVerify'), 120)}
+                       'verify': cut(d.get('verify'), 120), 'fuVerify': cut(d.get('fuVerify'), 120), 'ini': d.get('initials') or '',
+                       'size': d.get('size') or '', 'product': d.get('product') or '', 'log': d.get('log') or []}
         for eid, d in loadall(os.path.join(pdb, 'events')).items():
             d = d.get('data', d)
             events.append({'id': eid, 'title': d.get('title') or d.get('kind') or 'Event', 'kind': d.get('kind') or 'Other', 'place': d.get('place') or '',
@@ -155,7 +156,8 @@ def load_extra(pdb, overlay):
     elif overlay and os.path.exists(overlay):
         o = json.load(open(overlay))
         for d in o.get('patients', []):
-            ex[d['id']] = {k: (safe_name(d.get(k)) if k == 'name' else d.get(k, '')) for k in ('name', 'cover', 'status', 'apps', 'next', 'nextTime', 'nextLoc', 'verify', 'fuVerify')}
+            ex[d['id']] = {k: (safe_name(d.get(k)) if k == 'name' else d.get(k, '')) for k in ('name', 'cover', 'status', 'apps', 'next', 'nextTime', 'nextLoc', 'verify', 'fuVerify', 'ini', 'size', 'product')}
+            ex[d['id']]['log'] = d.get('log') or []
         events = [{'id': e.get('id'), 'title': e.get('title') or 'Event', 'kind': e.get('kind') or 'Other', 'place': e.get('place') or '', 'date': e.get('date') or '',
                    'time': e.get('time') or '', 'end': e.get('end') or '', 'note': cut(e.get('note'), 200)} for e in o.get('events', [])]
     return ex, events
@@ -173,13 +175,20 @@ def build_patients(xlsx, today, extra=None, events=None):
         if x.get('next') or x.get('next') == '' and x:
             nd, nt = x.get('next') or '', x.get('nextTime') or ''
         pts.append({'id': pid, 'acct': acct, 'short': SHORT.get(acct, acct),
-                    'status': x.get('status') or STATUS.get(r.get('Status'), 'active'), 'prov': r.get('Provider') or '', 'ini': r.get('Initials') or '',
+                    'status': x.get('status') or STATUS.get(r.get('Status'), 'active'), 'prov': r.get('Provider') or '', 'ini': x.get('ini') or r.get('Initials') or '',
                     'name': x.get('name') or '', 'cover': x.get('cover') if x.get('cover') in ('Caroline', 'Pete') else '',
-                    'coverage': cut(r.get('Coverage Status'), 140), 'pa': r.get('PA Required?') or '', 'product': r.get('Product') or '',
-                    'size': str(r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
+                    'coverage': cut(r.get('Coverage Status'), 140), 'pa': r.get('PA Required?') or '', 'product': x.get('product') or r.get('Product') or '',
+                    'size': str(x.get('size') or r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
                     'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
                     'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420)})
     t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=45)).isoformat()
+    acct_of = {p['id']: p['acct'] for p in pts}
+    ini_of = {p['id']: p['ini'] for p in pts}
+    dbl = {}  # (acct, initials, date) -> db log entry
+    for pid, x in extra.items():
+        for e in x.get('log') or []:
+            if (e.get('date') or '') >= t0 and pid in acct_of:
+                dbl[(acct_of[pid], re.sub(r'[^A-Za-z]', '', ini_of[pid] or '').upper(), e['date'])] = (pid, e)
     visits = []
     for r in rows(wb['Follow-ups']):
         d = iso(r.get('Date'))
@@ -188,11 +197,26 @@ def build_patients(xlsx, today, extra=None, events=None):
                            'ini': r.get('Initials') or '', 'prov': r.get('Surgeon') or '', 'product': r.get('Product') or '',
                            'size': str(r.get('Size') or ''), 'status': r.get('Status') or '', 'app': r.get('App #')})
     log = []
+    seen = set()
     for r in rows(wb['Application Log']):
         d = iso(r.get('Date'))
-        if d >= t0:
+        key = (r.get('Account') or '', re.sub(r'[^A-Za-z]', '', str(r.get('Initials') or '')).upper(), d)
+        if d >= t0 and key not in dbl:
+            seen.add(key)
             log.append({'date': d, 'acct': r.get('Account') or '', 'ini': r.get('Initials') or '', 'result': r.get('Result') or '',
                         'size': str(r.get('Size') or ''), 'app': r.get('App #'), 'cover': r.get('Covered by') or '', 'note': cut(r.get('Note'), 200)})
+    for (acct, _ini, d), (pid, e) in dbl.items():  # entries the Excel doesn't have yet (or has older)
+        log.append({'date': d, 'acct': acct, 'ini': ini_of[pid], 'result': 'Grafted' if e.get('grafted') else 'Not grafted', 'size': str(e.get('size') or ''),
+                    'app': e.get('app'), 'cover': e.get('cover') or '', 'note': cut(e.get('note'), 200), 'time': e.get('time') or '', 'loc': e.get('loc') or ''})
+        st = ('Grafted' if e.get('grafted') else 'Not grafted') + (': ' + e['note'] if e.get('note') and not e.get('grafted') else '')
+        hit = [v for v in visits if v['acct'] == acct and (re.sub(r'[^A-Za-z]', '', v['ini']).upper() == _ini or v['ini'] in ('', '??')) and v['date'] == d and (v['time'] == (e.get('time') or '') or not v['time'])]
+        if hit:
+            for v in hit:
+                v.update({'status': st, 'ini': ini_of[pid], 'app': e.get('app') or v.get('app'), 'size': str(e.get('size') or v.get('size') or ''), 'time': e.get('time') or v.get('time') or ''})
+        else:
+            visits.append({'date': d, 'time': e.get('time') or '', 'loc': e.get('loc') or '', 'acct': acct, 'ini': ini_of[pid], 'prov': '', 'product': '',
+                           'size': str(e.get('size') or ''), 'status': st, 'app': e.get('app')})
+    log.sort(key=lambda x: x['date'], reverse=True)
     notes = []
     for r in rows(wb['Day Notes']):
         d = iso(r.get('Date'))
