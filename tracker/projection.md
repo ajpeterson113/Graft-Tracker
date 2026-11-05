@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:49 PM CT
+**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:55 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -125,7 +125,7 @@ Sold so far: **\$1,695** · 1 case
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **S.W. · Dr. Ayesh** | Stravix 3x6 (assumed) · Fri 11/13 · S.W. | \$2,656 | \$1,695 | Stravix OR case Fri 11/13 at Good Sam (Dr. Ayesh, S.W., per the Patients app and AJ's Outlook calendar). |
+| **S.W. · Dr. Ayesh** | Stravix 3x6 (assumed) · Fri 11/13 · S.W. | \$2,656 | \$1,695 | Fri 11/13 7:00-8:00 AM (AJ's Outlook 11/5) \| Stravix OR case Fri 11/13 at Good Sam (Dr. Ayesh, S.W., per the Patients app and AJ's Outlook calendar). |
 
 **Potential new starts**
 
@@ -166,8 +166,8 @@ Sold so far: **\$1,695** · 1 case
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **J.N. · Dr. Bryniczka** | Stravix 3x6 (assumed) · Fri 10/30 · J.N. | \$2,615 | \$2,615 | Stravix OR case Fri 10/30 7:30 AM at St. Joseph Elgin (Dr. Bryniczka, J.N.), counted in P11 not P10 (AJ 10/29). |
-| **E.D. · Dr. Bryniczka** | Stravix 3x6 (assumed) · Fri 11/6 · E.D. | \$2,615 | \$1,645 | OR case Fri 11/6 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka, E.D.), from AJ's calendar 11/1; a different patient from J.N. (AJ 11/1). |
-| **Dr. Greg Bryniczka** | Stravix 3x6 (assumed) · Fri 11/20 | \$2,615 | \$1,645 | OR case Fri 11/20 morning at St. Joseph Elgin (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2. |
+| **E.D. · Dr. Bryniczka** | Stravix 3x6 (assumed) · Fri 11/6 · E.D. | \$2,615 | \$1,645 | Fri 11/6 7:30-8:30 AM (AJ's Outlook 11/5) \| OR case Fri 11/6 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka, E.D.), from AJ's calendar 11/1; a different patient from J.N. (AJ 11/1). |
+| **Dr. Greg Bryniczka** | Stravix 3x6 (assumed) · Fri 11/20 | \$2,615 | \$1,645 | Fri 11/20 7:30-8:30 AM (AJ's Outlook 11/5; same time as Dr. Adam Bryniczka at Sherman) \| OR case Fri 11/20 morning at St. Joseph Elgin (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2. |
 
 **Potential new starts**
 
@@ -214,8 +214,8 @@ Sold so far: **\$2,066** · 3 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **Restock · OR stock** | Stravix 2x4 | — | — |   |
-| **Dr. Greg Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | OR case Wed 11/18 8:00 AM at St. Alexius (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2. |
-| **Dr. Adam Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | OR case Wed 11/18 late morning at St. Alexius (Dr. Adam Bryniczka, Stravix), from AJ's Outlook calendar 11/2. |
+| **Dr. Greg Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | Not on AJ's Outlook list of 11/5 (his list has only Dr. Adam Bryniczka at St. Alexius on 11/18) — confirm whether this case is still on \| OR case Wed 11/18 8:00 AM at St. Alexius (Dr. Greg Bryniczka), from AJ's Outlook … |
+| **Dr. Adam Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | Wed 11/18 10:30-11:30 AM (AJ's Outlook 11/5) \| OR case Wed 11/18 late morning at St. Alexius (Dr. Adam Bryniczka, Stravix), from AJ's Outlook calendar 11/2. |
 
 </details>
 
@@ -247,7 +247,7 @@ Sold so far: **\$3,116** · 1 case
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **Dr. Adam Bryniczka** | Stravix 3x6 (assumed) · Fri 11/20 | \$2,656 | \$1,695 | OR case Fri 11/20 morning at Advocate Sherman (Dr. Adam Bryniczka), from AJ's Outlook calendar 11/2. |
+| **Dr. Adam Bryniczka** | Stravix 3x6 (assumed) · Fri 11/20 | \$2,656 | \$1,695 | Fri 11/20 7:30-8:30 AM (AJ's Outlook 11/5; same time as Dr. Greg Bryniczka at St. Joseph Elgin) \| OR case Fri 11/20 morning at Advocate Sherman (Dr. Adam Bryniczka), from AJ's Outlook calendar 11/2. |
 
 </details>
 
