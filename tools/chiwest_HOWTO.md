@@ -3,7 +3,7 @@
 Chi West (https://claude.ai/artifact/HzjrjSVDB4oF6oAfWUuwDN) is AJ's combined app (Today · Patients · Tracker · Grow). He started using it on 11/4 alongside the Graft Tracker, Chi West Patients and Chi West Targets apps, which stay the source of truth until he says he has fully switched.
 
 It reads six documents in its db collection `data`, all written by `tools/chiwest_sync.py`:
-`core` (period, sales, forecast, accounts, year, open action items), `cases` (last three month tabs), `forecast` (projection rows), `stock` (shelves), `patients` (patient list, visits, application log, day notes — initials only, from Chi_West_Patient_List.xlsx) and `targets` (target list + Targets-app outreach).
+`core` (period, sales, forecast, accounts, year, open action items), `cases` (last three month tabs), `forecast` (projection rows), `stock` (shelves), `patients` (patient list, visits, application log, day notes from Chi_West_Patient_List.xlsx, plus names, who covers each visit, next-visit location, verify flags and AJ's events from the Chi West Patients db) and `targets` (target list + Targets-app outreach). AJ wants names (shown on tap, as in the Patients app) and coverage in Chi West (11/4).
 A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {date, items: [..]}}, styles: {<target id>: {style: data|rel|eff|skep, why}}}`. The sync never overwrites it.
 
 ## Every refresh (after the Graft Tracker app, Patients app and repo are updated)
@@ -11,8 +11,9 @@ A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {
 1. Download into new, empty folders (ArtifactData list, limit 1000, out_dir):
    - Graft Tracker app (https://claude.ai/artifact/QygXA2j9AUKiYq42UimDBn): `meta`, `months`, `todos` → GTDB (or reuse the run's DB + OUT: OUT/meta, OUT/months and DB/todos).
    - Chi West Targets (https://claude.ai/artifact/JCPaNuwhst38msAxKippjo): `outreach` → TGT.
+   - Chi West Patients (https://claude.ai/artifact/AwS5M2wc9Wm7Pe6oTuJuwQ): `patients` and `events` → PDB. If ArtifactData refuses out_dir for these (it can, because AJ writes them through the app), list them without out_dir and write PDB/overlay.json yourself: {"patients": [{id, name, cover, status, apps, next, nextTime, nextLoc, verify, fuVerify} for every patient], "events": [{id, title, kind, place, date, time, end, note}]}. Names stay exactly as in the db (drop an insurance or DOB tacked onto a name).
    - Chi West: `data` → CW (note each version) and `actions`, `uploads`.
-2. `python3 -I tools/chiwest_sync.py --gt GTDB --patients Chi_West_Patient_List.xlsx --targets Chi_West_Surgeon_Targets.xlsx --outreach TGT/outreach --cw CW OUT_CW`
+2. `python3 -I tools/chiwest_sync.py --gt GTDB --patients Chi_West_Patient_List.xlsx --pdb PDB --targets Chi_West_Surgeon_Targets.xlsx --outreach TGT/outreach --cw CW OUT_CW` (or `--overlay PDB/overlay.json` instead of `--pdb PDB`). Never run it without one of the two: the app would lose names and coverage.
    It prints each doc's size (keep every doc under 240 KB) and writes OUT_CW/batches.json. Replace any "VERSION" with that doc's version from step 1 and send each batch with ArtifactData `batch` on the Chi West url. `core` goes last.
 
 ## AJ's taps in Chi West (apply them in the same run, before step 2)

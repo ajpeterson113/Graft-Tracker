@@ -2,11 +2,18 @@
 """Build the Chi West app's data (db collection `data`) from the sources the other apps already keep.
 
     python3 -I tools/chiwest_sync.py --gt GTDB --patients Chi_West_Patient_List.xlsx \
-        --targets Chi_West_Surgeon_Targets.xlsx --outreach TGTDB/outreach --cw CWDB OUT
+        [--pdb PDB | --overlay OVERLAY.json] --targets Chi_West_Surgeon_Targets.xlsx \
+        --outreach TGTDB/outreach --cw CWDB OUT
 
 GTDB      Graft Tracker app db download (or the build's OUT folder plus GTDB/todos): meta/snap.json,
           meta/forecast.json, meta/stock.json, months/*.json, todos/*.json
---patients  the patient list Excel the refresh just built (initials only, no names, no dollars)
+--patients  the patient list Excel the refresh just built (initials, notes, visits, log, day notes)
+--pdb       Patients app db export (ArtifactData list with out_dir: PDB/patients/*.json, PDB/events/*.json).
+            Adds what the Excel leaves out: names, who covers each visit, next-visit location, verify flags,
+            and AJ's events. Preferred when the export is allowed.
+--overlay   when the export isn't allowed: a JSON file {"patients":[{id,name,cover,status,apps,next,nextTime,
+            nextLoc,verify,fuVerify}], "events":[{id,title,kind,place,date,time,end,note}]} written from an
+            inline ArtifactData list of the same collections.
 --targets   Chi_West_Surgeon_Targets.xlsx from the repo
 --outreach  Targets app `outreach` collection download (one json per target)
 --cw        Chi West db download (data/*.json with their versions, actions/*, uploads/*); optional
@@ -126,18 +133,52 @@ def build_tracker(gt):
     return core, {'cases': cases}, {'items': items, 'rules': (fc or {}).get('rules'), 'projectFrom': (fc or {}).get('projectFrom')}, {'locations': locs}
 
 
-def build_patients(xlsx, today):
+def safe_name(n):
+    """Drop anything like an insurance or birth date tacked onto the name."""
+    n = re.sub(r'\s*\(.*$', '', str(n or '')).strip()
+    return re.sub(r'\s+', ' ', n)
+
+
+def load_extra(pdb, overlay):
+    """Names, coverage, next-visit location, verify flags and events, by patient id."""
+    ex, events = {}, []
+    if pdb and os.path.isdir(os.path.join(pdb, 'patients')):
+        for pid, d in loadall(os.path.join(pdb, 'patients')).items():
+            d = d.get('data', d)
+            ex[pid] = {'name': safe_name(d.get('name')), 'cover': d.get('cover') or '', 'status': d.get('status') or '',
+                       'apps': d.get('apps'), 'next': d.get('next') or '', 'nextTime': d.get('nextTime') or '', 'nextLoc': d.get('nextLoc') or '',
+                       'verify': cut(d.get('verify'), 120), 'fuVerify': cut(d.get('fuVerify'), 120)}
+        for eid, d in loadall(os.path.join(pdb, 'events')).items():
+            d = d.get('data', d)
+            events.append({'id': eid, 'title': d.get('title') or d.get('kind') or 'Event', 'kind': d.get('kind') or 'Other', 'place': d.get('place') or '',
+                           'date': d.get('date') or '', 'time': d.get('time') or '', 'end': d.get('end') or '', 'note': cut(d.get('note'), 200)})
+    elif overlay and os.path.exists(overlay):
+        o = json.load(open(overlay))
+        for d in o.get('patients', []):
+            ex[d['id']] = {k: (safe_name(d.get(k)) if k == 'name' else d.get(k, '')) for k in ('name', 'cover', 'status', 'apps', 'next', 'nextTime', 'nextLoc', 'verify', 'fuVerify')}
+        events = [{'id': e.get('id'), 'title': e.get('title') or 'Event', 'kind': e.get('kind') or 'Other', 'place': e.get('place') or '', 'date': e.get('date') or '',
+                   'time': e.get('time') or '', 'end': e.get('end') or '', 'note': cut(e.get('note'), 200)} for e in o.get('events', [])]
+    return ex, events
+
+
+def build_patients(xlsx, today, extra=None, events=None):
     wb = openpyxl.load_workbook(xlsx, data_only=True)
+    extra = extra or {}
     pts = []
     for r in rows(wb['All Patients']):
         nd, nt = next_appt(r.get('Next Appointment'))
         acct = r.get('Account') or ''
-        pts.append({'id': r.get('ID') or slug(f"{acct}-{r.get('Initials')}"), 'acct': acct, 'short': SHORT.get(acct, acct),
-                    'status': STATUS.get(r.get('Status'), 'active'), 'prov': r.get('Provider') or '', 'ini': r.get('Initials') or '',
+        pid = r.get('ID') or slug(f"{acct}-{r.get('Initials')}")
+        x = extra.get(pid, {})
+        if x.get('next') or x.get('next') == '' and x:
+            nd, nt = x.get('next') or '', x.get('nextTime') or ''
+        pts.append({'id': pid, 'acct': acct, 'short': SHORT.get(acct, acct),
+                    'status': x.get('status') or STATUS.get(r.get('Status'), 'active'), 'prov': r.get('Provider') or '', 'ini': r.get('Initials') or '',
+                    'name': x.get('name') or '', 'cover': x.get('cover') if x.get('cover') in ('Caroline', 'Pete') else '',
                     'coverage': cut(r.get('Coverage Status'), 140), 'pa': r.get('PA Required?') or '', 'product': r.get('Product') or '',
-                    'size': str(r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': r.get('Application Count') or 0,
-                    'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt,
-                    'notes': cut(r.get('Notes'), 420)})
+                    'size': str(r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
+                    'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
+                    'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420)})
     t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=45)).isoformat()
     visits = []
     for r in rows(wb['Follow-ups']):
@@ -157,7 +198,7 @@ def build_patients(xlsx, today):
         d = iso(r.get('Date'))
         if d >= t0:
             notes.append({'date': d, 'acct': r.get('Account') or '', 'ini': r.get('Initials') or '', 'note': cut(r.get('Note'), 240)})
-    return {'patients': pts, 'visits': visits, 'log': log, 'notes': notes}
+    return {'patients': pts, 'visits': visits, 'log': log, 'notes': notes, 'events': events or [], 'names': bool(extra)}
 
 
 def build_targets(xlsx, outreach_dir):
@@ -201,12 +242,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--gt', required=True); ap.add_argument('--patients', required=True)
     ap.add_argument('--targets', required=True); ap.add_argument('--outreach'); ap.add_argument('--cw')
+    ap.add_argument('--pdb'); ap.add_argument('--overlay')
     ap.add_argument('out')
     a = ap.parse_args()
     core, cases, fc, stock = build_tracker(a.gt)
     today = core.get('today') or dt.date.today().isoformat()
     docs = {'core': core, 'cases': cases, 'forecast': fc, 'stock': stock,
-            'patients': build_patients(a.patients, today), 'targets': build_targets(a.targets, a.outreach)}
+            'patients': build_patients(a.patients, today, *load_extra(a.pdb, a.overlay)), 'targets': build_targets(a.targets, a.outreach)}
+    if not docs['patients']['names']:
+        print('NOTE: no --pdb or --overlay, so patients carry no names, coverage or events', file=sys.stderr)
     stamp = dt.datetime.now(dt.timezone(dt.timedelta(hours=-6))).isoformat(timespec='seconds')
     os.makedirs(os.path.join(a.out, 'data'), exist_ok=True)
     prev = loadall(os.path.join(a.cw, 'data')) if a.cw else {}
