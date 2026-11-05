@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:34 PM CT
+**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:49 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -206,7 +206,7 @@ OASIS is counted in sheets and bought by the box, so update Sheets left when you
 
 ## Good Sam WCC
 
-**Clinic stock (already sold)** · 9 grafts · 5 OASIS sheets
+**Clinic stock (already sold)** · 9 grafts · 6 OASIS sheets
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
@@ -216,7 +216,7 @@ OASIS is counted in sheets and bought by the box, so update Sheets left when you
 | **2x3**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
 | **1.5x2**<br>Grafix | **1** | — | 1 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5 shelf photo: 1 x 1.5x2 (LYA-260165\_15003), covers C.B.'s 1.5x2 on Thu 11/19 \| Good Sam PO006130658 shipped 10/29: 1 x 1.5x2 at \$780 (in October sales).</sub> |
 | **3x3.5**<br>OASIS&nbsp;Wound | **1** sheet | — | box of 10<br><sub>P11: no OASIS Wound 3x3.5 box projected.</sub> |
-| **7x10 meshed**<br>OASIS&nbsp;Ultra | **4** sheets | Order 1 box (upside) | 2/wk · box of 5<br><sub>11/5 shelf photo: the open OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) has 4 lot labels left = 4 sheets.</sub> |
+| **7x10 meshed**<br>OASIS&nbsp;Ultra | **5** sheets | Order 1 box (upside) | 2/wk · box of 5<br><sub>11/5 shelf photo: the OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) is full, 5 sheets (AJ 11/5; Ultra and Burn come 5 to a box, Wound 10).</sub> |
 
 <details><summary><b>About this shelf</b></summary>
 

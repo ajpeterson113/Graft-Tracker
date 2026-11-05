@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:34 PM CT
+**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 12:49 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -139,7 +139,7 @@ Sold so far: **\$1,695** · 1 case
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **Dr. Patni** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · L.J. (I.S. healed 10/13) | — | — |   |
-| **Dr. Bach** | OASIS Ultra 7x10 meshed · 1 up / 1 down box · L.J. | \$4,244 | \$4,244 | 11/5 shelf photo: the open OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) has 4 lot labels left = 4 sheets. |
+| **Dr. Bach** | OASIS Ultra 7x10 meshed · 1 up / 1 down box · L.J. | \$4,244 | \$4,244 | 11/5 shelf photo: the OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) is full, 5 sheets (AJ 11/5; Ultra and Burn come 5 to a box, Wound 10). |
 
 </details>
 
