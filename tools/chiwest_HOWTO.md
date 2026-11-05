@@ -19,17 +19,20 @@ A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {
 ## AJ's taps in Chi West (apply them in the same run, before step 2)
 
 `actions` docs with status "new". Apply each, then update it to status "applied" (pinned with if_version). If one can't be applied confidently, leave it "new" and list it.
+`status` on an action is only this queue flag. A patient's category travels as `pstatus`, and only when AJ picked a different one in the form.
+
+**AJ's rule (11/4): never assume a change in a patient's category (grafting status) or graft size.** Change `status` only from a `pstatus`, and the patient's `size` only from a `status` action's `size`. A logged visit records the size used on its log entry and tracker row and changes nothing else on the patient. Never infer Done, On hold, Grafting or a size step-down from a reason ("Healed", "Infection"), a note, a schedule, a calendar or a projection rule.
 - `sfdc` {caseId, to: "Yes" | "In SFDC" | "No"}: same as a Graft Tracker Submitted / In SFDC tap on that case id.
-- `grafted` {pid, ini, acct, product, size, qty, app, date, status, note}: log the visit on that patient in Chi West Patients (log entry, apps, status, last) and add the tracker row as waiting on a PO, exactly as a Grafted tap in the Patients app.
-- `notgrafted` {pid, date, reason, status, note}: log it in Chi West Patients.
-- `status` {pid, status, cover, next, note}: update the patient in Chi West Patients.
+- `grafted` {pid, ini, acct, product, size, qty, app, date, pstatus?, note}: log the visit on that patient in Chi West Patients (log entry with the size used, apps, last; `status` only if `pstatus`) and add the tracker row as waiting on a PO, exactly as a Grafted tap in the Patients app.
+- `notgrafted` {pid, date, reason, pstatus?, note}: log it in Chi West Patients. The reason is just the log note; the category stays unless `pstatus` is set.
+- `status` {pid, pstatus?, size?, cover, next, note}: update the patient in Chi West Patients: `status` = pstatus and `size` = size only when present (AJ changed them in the Status form).
 - `cover` {pid, date, cover: "" | "Caroline" | "Pete" | "Not covered"}: the patient's `cover` field in Chi West Patients (the schedule's coverage dropdown, the coverage planner's Apply, or a coverage reply read by Claude). "" means AJ. It applies to the patient's next visit; skip it (leave "new" and list it) if `date` is no longer that patient's `next`.
 - `next` {pid, date, time, loc}: move the patient's next visit (from a clinic schedule or AJ's calendar read by Claude): `next`, `nextTime` (if given), `nextLoc` (if given); clear `fuVerify`; clear `cover` when the date changed. Never change `status` for it.
 - `verify` {pid, text, confirmed?}: set the patient's `verify` field to text; empty text clears `verify` and `fuVerify`. With `confirmed` {date, time, app}, AJ tapped Confirm on the schedule row: the visit is right as shown (that date, time and application number), so clear both flags and make sure `next`/`nextTime`/`apps` match it.
 - `time` {pid, date, time}: the visit on that date moved to that time — Chi West Patients `nextTime` (clear `fuVerify`), same as the Patients app's time picker.
 - `appno` {pid, app}: the next visit is application #app — Chi West Patients `apps` = app − 1, same as the Patients app's A# picker.
 - `note` {pid | caseId, text}: dated note on the patient, or the tracker row's Notes / right column.
-- `newpatient` {acct, prov, ini, product, size, freq, status, first, time, loc, note}: add to Chi West Patients (Pending unless status says otherwise; `first`/`time`/`loc` become next/nextTime/nextLoc).
+- `newpatient` {acct, prov, ini, product, size, freq, pstatus, first, time, loc, note}: add to Chi West Patients (Pending unless pstatus says otherwise; `first`/`time`/`loc` become next/nextTime/nextLoc).
 
 AJ 11/4: never change a patient's category (status) unless his own tap says so (`status` actions, or a Grafted/Not grafted tap that carries a status). Clinic schedules, calendars and coverage replies only move visits, set coverage, add notes and set verify flags.
 - `todo` {todo}: set that Graft Tracker `todos` item to done (doneAt now).
