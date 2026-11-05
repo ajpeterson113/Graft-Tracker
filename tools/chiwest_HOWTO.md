@@ -25,7 +25,7 @@ A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {
 - `status` {pid, status, cover, next, note}: update the patient in Chi West Patients.
 - `cover` {pid, date, cover: "" | "Caroline" | "Pete" | "Not covered"}: the patient's `cover` field in Chi West Patients (the schedule's coverage dropdown, the coverage planner's Apply, or a coverage reply read by Claude). "" means AJ. It applies to the patient's next visit; skip it (leave "new" and list it) if `date` is no longer that patient's `next`.
 - `next` {pid, date, time, loc}: move the patient's next visit (from a clinic schedule or AJ's calendar read by Claude): `next`, `nextTime` (if given), `nextLoc` (if given); clear `fuVerify`; clear `cover` when the date changed. Never change `status` for it.
-- `verify` {pid, text}: set the patient's `verify` field to text; empty text clears `verify` and `fuVerify` (calendar confirmed it).
+- `verify` {pid, text, confirmed?}: set the patient's `verify` field to text; empty text clears `verify` and `fuVerify`. With `confirmed` {date, time, app}, AJ tapped Confirm on the schedule row: the visit is right as shown (that date, time and application number), so clear both flags and make sure `next`/`nextTime`/`apps` match it.
 - `time` {pid, date, time}: the visit on that date moved to that time — Chi West Patients `nextTime` (clear `fuVerify`), same as the Patients app's time picker.
 - `appno` {pid, app}: the next visit is application #app — Chi West Patients `apps` = app − 1, same as the Patients app's A# picker.
 - `note` {pid | caseId, text}: dated note on the patient, or the tracker row's Notes / right column.
