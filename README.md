@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:04 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:49 PM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -33,7 +33,7 @@
 
 | [Mon 11/2](patients/week.md#mon) | [Tue 11/3](patients/week.md#tue) | [Wed 11/4](patients/week.md#wed) | [Thu 11/5](patients/week.md#thu) | [Fri 11/6 · today](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **7** visits | **9** visits | **8** visits | **18** visits | **7** visits 🟠 |
+| **8** visits | **10** visits | **8** visits | **21** visits | **8** visits 🟠 |
 
 
 Covering: Not covered 2 · Pete 1 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
