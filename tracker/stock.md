@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 11:03 AM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 3:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -16,32 +16,32 @@
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 11/3/26 · 42 grafts · 31 OASIS sheets
+**Consignment shelf** · counted 11/3/26 · 41 grafts · 31 OASIS sheets
 
-42 Grafix units on hand (\$47,454 consignment). 2 size(s) to reorder now. \$7,980 expiring before it can be used.
+41 Grafix units on hand (\$47,094 consignment). 2 size(s) to reorder now. \$7,980 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment
 
 > [!WARNING]
-> - **Grafix 16mm: 5 on hand (target 10–15)** · Order 10 now · runs out week of 11/09
+> - **Grafix 16mm: 4 on hand (target 10–15)** · Order 11 now · runs out week of 11/02
 > - **Grafix 3x3: 3 on hand (target 5–10)** · Order 7 now
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **16mm**<br>Grafix | 🟠 **5**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 10 | 5/wk · 1.0 wks left · out week of 11/9 · next exp 3/20/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
+| **16mm**<br>Grafix | 🟠 **4**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 11 | 6/wk · 0.7 wks left · out week of 11/2 · next exp 3/20/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
 | **1.5x2**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 10.0 wks left · out week of 1/11 · next exp 6/18/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 4.0 wks left · out week of 11/30 · next exp 6/9/27 |
 | **3x3**<br>Grafix | 🟠 **3**<br>target&nbsp;5⁠–⁠10 | 🟠 Reorder now · order 7 | next exp 5/2/27 |
 | **3x4**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🔴 7 expire before use | next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
 | **5x5**<br>Grafix | **9**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 9.0 wks left · out week of 1/4 · next exp 11/3/27 |
-| **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | 🟢 OK | 1/wk · 7.0 wks left · box of 10 · out week of 12/21 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
+| **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | No patients on it | box of 10 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
 | **3x7**<br>OASIS&nbsp;Wound | **15** sheets | 🟢 OK | 4/wk · 3.8 wks left · box of 10 · out week of 11/23 · next exp 8/1/28<br><sub>Box of 10 on the shelf per AJ 10/5; lot and expiry to come with the photos</sub> |
 | **3x3.5**<br>OASIS&nbsp;Burn | **3** sheets | No patients on it | box of 5 · next exp 4/3/28 |
 | **3x7**<br>OASIS&nbsp;Burn | **5** sheets | 🟢 OK | 1/wk · 5.0 wks left · box of 5 · out week of 12/7 · next exp 8/18/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
-<details><summary><b>Units on the shelf</b> · 42</summary>
+<details><summary><b>Units on the shelf</b> · 41</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -55,11 +55,10 @@
 | Grafix | 1.5x2 | LYA-260159\_15020 | 1/13/28 | 1/1 | On shelf |   |
 | Grafix | 1.5x2 | LYA-260159\_15019 | 1/13/28 | 1/8 | On shelf |   |
 | Grafix | 1.5x2 | LYA-260159\_15018 | 1/13/28 | 1/15 | On shelf |   |
-| Grafix | 16mm | LYA-260256\_16008 | 3/20/28 | 11/7 | On shelf |   |
-| Grafix | 16mm | LYA-260256\_16009 | 3/20/28 | 11/8 | On shelf |   |
-| Grafix | 16mm | LYA-260256\_16010 | 3/20/28 | 11/10 | On shelf |   |
-| Grafix | 16mm | LYA-260256\_16011 | 3/20/28 | 11/11 | On shelf |   |
-| Grafix | 16mm | LYA-260256\_16012 | 3/20/28 | 11/13 | On shelf |   |
+| Grafix | 16mm | LYA-260256\_16009 | 3/20/28 | 11/7 | On shelf |   |
+| Grafix | 16mm | LYA-260256\_16010 | 3/20/28 | 11/8 | On shelf |   |
+| Grafix | 16mm | LYA-260256\_16011 | 3/20/28 | 11/9 | On shelf |   |
+| Grafix | 16mm | LYA-260256\_16012 | 3/20/28 | 11/10 | On shelf |   |
 | Grafix | 2x3 | LYA-250558\_23005 | 6/9/27 | 11/9 | On shelf |   |
 | Grafix | 2x3 | LYA-250625\_23005 | 6/18/27 | 11/13 | On shelf |   |
 | Grafix | 2x3 | LYA-250625\_23013 | 6/18/27 | 11/16 | On shelf |   |
@@ -121,7 +120,7 @@
 | **J.C.** | Joshi | Grafix 16mm | Approved | — | Waiting on Mohs surgery |
 | **G.C.** | Joshi | Grafix | Pending | — | New 10/22 (pending); product and size not set, no visit booked. (Row was X.S., denied 10/11) |
 | **J.T.** | Lucas | Grafix | Done | — | Done per the Patients app (needed notes for prior auth; not grafting) |
-| **D.S.** | Lucas | OASIS Wound 3x3.5 | Active | 1 | A8 10/9; next visit Fri 10/16 12:35 PM (Alexian WCC stops at 8 applications) |
+| **D.S.** | Lucas | OASIS Wound 3x3.5 | Done | — | Done (AJ, Chi West 11/6: not grafted Fri 11/6, status Done). A8 10/9 was the last application |
 | **D.V.** | Hussain | OASIS Wound 3x7 | Active | 4 | A2 10/14: 4 sheets (A1 10/7: 3). 4 a visit, weekly |
 | **J.B.** | Adelstein | OASIS Burn 3x7 | Done | — | Done for now (AJ 11/2). A3 10/8 from the shelf (Burn 3x7); no-show Thu 10/15 (Caroline covered); not grafted 10/22 or 10/29 |
 | **B.P.** | Joshi | OASIS Burn 3x7 | Active | 1 | Moved down to Burn 3x7 at A3 10/19 (never back up); A1 10/5 and A2 10/12 were Burn 5x7 meshed from the shelf. The only Burn 3x7 patient now (J.B. done for now 11/2) |
@@ -133,7 +132,7 @@
 | **E.N.** | Turayhi | Grafix | Pending | — | New 10/19 (pending); seen Wed 10/21 9:15 AM, next Wed 10/28 9:15 AM (verify with the office); OASIS suggested |
 | **V.T.** | Halihan | Grafix | Pending | — | New 10/19 (pending); no visit booked |
 | **G.M.** | Goldkind | OASIS Wound 3x3.5 | Approved | — | PA approved 10/27/26–2/15/27 (BCBS Illinois): OASIS Wound 3x3.5, one a visit, weekly once booked; no visit booked yet. (New 10/20) |
-| **G.H.** | Lucas | Grafix | Pending | — | New 10/26 (pending); Grafix or OASIS, size not set, no visit booked |
+| **G.H.** | Lucas | Grafix 16mm | Active | 1 | A1 Fri 11/6 12:40 PM, 16mm LYA-260256\_16008 from the WCC shelf (case sheet in Chi West 11/6). Weekly 16mm |
 | **C.B.** | Goldkind | Grafix 2x3 | Starting | 1 | Approved new patient AJ added in Chi West 11/5: GRAFIX weekly with Dr. Goldkind, first visit Mon 11/9 (time TBD). Will start with either a 2x3 or 3x3 (projected at 2x3, the size AJ entered). Upside only. Alexian ID not given yet. |
 | **** |   | OASIS Boxes |   | — |   |
 | **Lot** | REF | Product Size | Sheets left | — | Flag |
@@ -148,7 +147,7 @@
 
 </details>
 
-<details><summary><b>Used since the count</b> · 36</summary>
+<details><summary><b>Used since the count</b> · 37</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
@@ -188,6 +187,7 @@
 | LYA-260221\_16012 | Grafix 16mm | Used Oct |
 | LYA-260221\_16015 | Grafix 16mm | Used Oct |
 | LYA-260220\_16005 | Grafix 16mm | Used Oct |
+| LYA-260256\_16008 | Grafix 16mm | Used Nov |
 
 </details>
 

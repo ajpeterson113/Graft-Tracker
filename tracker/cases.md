@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 11:03 AM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 3:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,11 +13,15 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**22 entries · \$23,239** · 🟢 8 Ready · 🟡 9 Needs PO · 🔵 1 Submitted · ⚪ 4 In SFDC
+**26 entries · \$27,089** · 🟢 8 Ready · 🟡 13 Needs PO · 🔵 1 Submitted · ⚪ 4 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
 | **11/6** | [**M.C.**](../case-sheets/mc-1106.md) 📄 · Alexian Ambulatory · Lucas<br>Stravix 2x4 + 3x6 + VERSAJET ×2 · no PO yet · LYU-251827\_24004, LYU-251697\_36005<details><summary><sub>Notes</sub></summary>OR case Fri 11/6 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C.: one case on one PO, kept as one row (like K.B. 10/21). Stravix PL 2x4 LYU-251827\_24004 (exp 8/18/27) \$1,553.10 + Stravix PL 3x6 LYU-251697\_36005 (exp 8/11/27) \$2,469.00 (Ascension rates, as on AJ's case sheet) + VERSAJET Exact assembly 45°, 14 mm (REF 66800041, lot 51417253, exp 6/30/28) \$695.00; case total \$4,717.10 per the case sheet. Both Stravix units from Alexian Ambulatory's own consignment shelf (no transfer). Case sheet photo from AJ 11/6: case-sheets/mc-1106 (hospital label covered on that copy). PO to come (bill only; match by FIN 3004469 on the hospital label). Same patient as the weekly OASIS M.C. (A11 10/30).</details> | \$4,717.10 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**G.H.**](../case-sheets/gh-1106.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260256\_16008<details><summary><sub>Notes</sub></summary>App #1, Fri 11/6 12:40 PM, Dr. Lucas: new start. Grafix 16mm LYA-260256\_16008 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). AJ's case sheet photo from Chi West 11/6 (with the Grafted tap). Bill-only PO to come (Alexian ID 0003095154, from the patient label).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
+|   | **A.S.** · Central DuPage · Luetkehans<br>Grafix 16mm · no PO yet<details><summary><sub>Notes</sub></summary>App #5, Fri 11/6 12:00 PM at CDFA (Grafted tap in Chi West 11/6): 16mm, \$190 (CDFA 16mm rate). Sale order for this visit not on the tracker yet (earlier visits were on AS&lt;date&gt; sale orders, e.g. AS103026); lot/SN and case sheet to come. AJ's note: "Send one more in might not need it".</details> | \$190 | 🟡&nbsp;Needs&nbsp;PO<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
+|   | [**E.D.**](../case-sheets/ed-1106.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · no PO yet · LYU-260236\_24001<details><summary><sub>Notes</sub></summary>OR case Fri 11/6 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka): Stravix PL 2x4 LYU-260236\_24001 (exp 1/12/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Bill-only PO to come (Prime Healthcare vendor acct 296620). Case sheet: case-sheets/ed-1106 (patient label covered).</details> | \$1,650 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**K.C.**](../case-sheets/kc-1106.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · no PO yet · LYU-260638\_24001<details><summary><sub>Notes</sub></summary>Add-on OR case Fri 11/6 at St. Joseph Elgin (Dr. Greg Bryniczka), new OR patient: Stravix PL 2x4 LYU-260638\_24001 (exp 3/16/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Bill-only PO to come. Case sheet: case-sheets/kc-1106 (patient label covered).</details> | \$1,650 | 🟡&nbsp;Needs&nbsp;PO |
 | **11/5** | [**J.B.**](../case-sheets/jb-1105.md) 📄 · Alexian WCC · Adelstein<br>Grafix 2x3 · no PO yet · LYA-250516\_23004<details><summary><sub>Notes</sub></summary>App #2, Thu 11/5 8:00 AM, Dr. Adelstein: Grafix 2x3 LYA-250516\_23004 (exp 5/2/27) from the Alexian WCC shelf, \$925.35 (Alexian 2x3 rate). Case sheet photo uploaded in Chi West 11/5. Bill-only PO to come (Alexian ID 0002601103).</details> | \$925.35 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**A.P.**](../case-sheets/ap-1105.md) 📄 · Alexian WCC · Adelstein<br>Grafix 16mm · no PO yet · LYA-260221\_16005<details><summary><sub>Notes</sub></summary>App #8 (the last one: Alexian WCC stops at 8), Thu 11/5 10:30 AM: 16mm LYA-260221\_16005 (exp 3/3/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). The case sheet says Dr. Adelstein (the patient is Dr. Hussain's). Marked Done in Chi West 11/5. Bill-only PO to come (Alexian ID 0003068368).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**D.K.**](../case-sheets/dk-1105.md) 📄 · Alexian WCC · Halihan<br>Grafix 16mm · no PO yet · LYA-260221\_16004<details><summary><sub>Notes</sub></summary>App #3, Thu 11/5 1:15 PM: 16mm LYA-260221\_16004 (exp 3/3/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). Case sheet photo uploaded in Chi West 11/5. Bill-only PO to come (Alexian ID 0003096605).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |

@@ -2,16 +2,16 @@
 
 # On hold
 
-**BIOT Chicago West** · 118 patients · updated Fri 11/6, 11:03 AM CT
+**BIOT Chicago West** · 119 patients · updated Fri 11/6, 3:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;119](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 13** · [OR 33](../patients/or.md) · [Done 22](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 13** · [OR 34](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -29,10 +29,10 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;3:30&nbsp;PM** | 🟢 0 of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
-| <details><summary><b>V.T.</b></summary>Virginia thomas</details> | GRAFIX · Dr.&nbsp;Halihan<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:15&nbsp;PM** | 🟢 0 of 8 |   |
-| <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | GRAFIX · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/4&nbsp;3:10&nbsp;PM** | 🟢 0 of 8 |   |
-| <details><summary><b>J.C.</b></summary>Jerry Cooper</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 0 of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;3:30&nbsp;PM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
+| <details><summary><b>V.T.</b></summary>Virginia thomas</details> | GRAFIX · Dr.&nbsp;Halihan<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:15&nbsp;PM** | 🟢 – of 8 |   |
+| <details><summary><b>J.C.</b></summary>Jerry Cooper</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
+| <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | GRAFIX · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/4&nbsp;3:10&nbsp;PM** | 🟢 – of 8 |   |
 
 </details>
 

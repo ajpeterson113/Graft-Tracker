@@ -2,16 +2,16 @@
 
 # Denied
 
-**BIOT Chicago West** · 118 patients · updated Fri 11/6, 11:03 AM CT
+**BIOT Chicago West** · 119 patients · updated Fri 11/6, 3:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;119](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 22](../patients/done.md) · **Denied 5**
+[Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 34](../patients/or.md) · [Done 23](../patients/done.md) · **Denied 5**
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -20,7 +20,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>R.T.</b></summary>Raymond Tarkowski</details> | Dr.&nbsp;Raigaga | 🟢 0 | Mentioned taking this patient to the operating room |
+| <details><summary><b>R.T.</b></summary>Raymond Tarkowski</details> | Dr.&nbsp;Raigaga |   | Mentioned taking this patient to the operating room |
 
 </details>
 
@@ -29,7 +29,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>X.S.</b></summary>Xerxes S.</details> | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** | 🟢 0 of 8 | Denied (moved in the app 10/11) |
+| <details><summary><b>X.S.</b></summary>Xerxes S.</details> | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** |   | Denied (moved in the app 10/11) |
 
 </details>
 
@@ -38,8 +38,8 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.F.** | Dr.&nbsp;Perez | 🟢 0 |   |
-| **R.B.** | Dr.&nbsp;Perez | 🟢 0 |   |
-| **D.M.** | OASIS&nbsp;Wound · Elizabeth&nbsp;Francis | 🟢 0 |   |
+| **R.F.** | Dr.&nbsp;Perez |   |   |
+| **R.B.** | Dr.&nbsp;Perez |   |   |
+| **D.M.** | OASIS&nbsp;Wound · Elizabeth&nbsp;Francis |   |   |
 
 </details>
