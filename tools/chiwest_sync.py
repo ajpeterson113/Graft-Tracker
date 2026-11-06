@@ -112,16 +112,13 @@ def arriving_of(s):
 
 
 def alerts_with_incoming(loc):
-    """Each stock alert says what's already on the way for its size (AJ 11/6: add in the reorder placed)."""
+    """AJ 11/6: no reorder or low-stock alert for a size that already has stock on the way (expiry alerts stay)."""
     out = []
     for a in loc.get('alerts', []) or []:
-        a = dict(a)
-        for s in loc.get('sizes', []) or []:
-            n = incoming_of(s)
-            if n and str(a.get('title', '')).startswith(f"{s.get('product')} {s.get('size')}:"):
-                arr = arriving_of(s)
-                a['text'] = (a.get('text') or '') + (' · ' if a.get('text') else '') + f"{n} on order" + (f", arriving {arr}" if arr else '')
-        out.append(a)
+        if a.get('level') != 'bad' and any(incoming_of(s) and str(a.get('title', '')).startswith(f"{s.get('product')} {s.get('size')}:")
+                                           for s in loc.get('sizes', []) or []):
+            continue
+        out.append(dict(a))
     return out
 
 

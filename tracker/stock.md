@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:24 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:27 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -18,17 +18,14 @@
 
 **Consignment shelf** · counted 11/3/26 · 41 grafts · 31 OASIS sheets
 
-41 Grafix units on hand (\$47,094 consignment). 1 size(s) to reorder now. \$7,980 expiring before it can be used.
+41 Grafix units on hand (\$47,094 consignment). 0 size(s) to reorder now. \$7,980 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment
 
-> [!WARNING]
-> - **Grafix 16mm: 4 on hand (target 10–15)** · Order 6 now · runs out week of 11/09
-
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **16mm**<br>Grafix | 🟠 **4**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 6 | 6/wk · 1.5 wks left · out week of 11/9 · next exp 3/20/28<br><sub>On order: 5 shipped 11/6 on the evening shipping report (FedEx Priority, arriving Mon 11/9), counted in the reorder; add them to the shelf list by lot/SN when …</sub> |
+| **16mm**<br>Grafix | 🟠 **4**<br>target&nbsp;5⁠–⁠15 | On order | 6/wk · 1.5 wks left · out week of 11/9 · next exp 3/20/28<br><sub>On order: 5 shipped 11/6 on the evening shipping report (FedEx Priority, arriving Mon 11/9), counted in the reorder; add them to the shelf list by lot/SN when …</sub> |
 | **1.5x2**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 10.0 wks left · out week of 1/11 · next exp 6/18/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 4.0 wks left · out week of 11/30 · next exp 6/9/27 |
 | **3x3**<br>Grafix | 🟠 **3**<br>target&nbsp;5⁠–⁠10 | On order | next exp 5/2/27<br><sub>On order: 5 shipped 11/6 on the evening shipping report (FedEx Priority, arriving Mon 11/9), counted in the reorder; add them to the shelf list by lot/SN when …</sub> |
@@ -194,7 +191,7 @@
 
 Alexian Brothers Wound Center shelf. Grafix on hand updates itself as Alexian cases are filed (lot + SN); use per week comes from the patient list below. 10/5: 10 x 16mm restock shipped. 10/14: 10 more 16mm received (LYA-260221 x9, LYA-260220 x1, exp 3/3/28). 16mm recounted 10/14 1:45 PM: 14 on the shelf. 10/26: 3x3 LYA-250533\_33002 transferred out to Dr. George (another rep's territory). 11/6: restock shipped on AJ's evening shipping report (FedEx Priority 10:30, delivery 11/9): 5 x 16mm + 5 x 3x3; add them to the shelf list by lot/SN when they arrive. Every Alexian Grafix unit filed since 11/3 is accounted for in the box list.
 
-Grafix: Reorder now = on hand is below your target min (16mm 10-15 while so many patients are on it, other sizes 5-10). The order fills back up to the max; a few over the max is fine. OASIS: Reorder now = under 2 weeks of stock at the current use; the order fills back to 4 weeks. On order (column U) is a restock already shipped: it counts toward the target and the weeks left until it lands, then it moves to the shelf list and U is cleared.
+Grafix: Reorder now = on hand is below your target min (16mm 5-15 (AJ 11/6), other sizes 5-10). The order fills back up to the max; a few over the max is fine. OASIS: Reorder now = under 2 weeks of stock at the current use; the order fills back to 4 weeks. On order (column U) is a restock already shipped: a size with stock on order shows On order instead of a reorder (AJ 11/6) and counts toward the weeks left until it lands, then it moves to the shelf list and U is cleared.
 
 Expire before use = at the current use the unit expires before its turn comes up (sizes nobody is on: expiring within the flag window). Use counts Active and Starting (potential new start with a first visit booked); Pipeline = Approved or On hold, not counted.
 

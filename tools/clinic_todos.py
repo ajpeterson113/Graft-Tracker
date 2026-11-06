@@ -46,20 +46,15 @@ def mdy(s):
 
 
 def alerts_with_incoming(L):
-    """Stock alerts with what's already on the way for that size (AJ 11/6), same wording as Chi West."""
-    out = []
-    for a in L.get('alerts') or []:
-        a = dict(a)
-        for s in L.get('sizes') or []:
-            n = s.get('incoming') or 0
-            if not n:
-                m = re.match(r'\s*On order:\s*(\d+)', str(s.get('note') or ''))
-                n = int(m.group(1)) if m else 0
-            if n and str(a.get('title', '')).startswith(f"{s.get('product')} {s.get('size')}:"):
-                m = re.search(r'arriving ([A-Z][a-z]{2} \d{1,2}/\d{1,2})', str(s.get('note') or ''))
-                a['text'] = (a.get('text') or '') + (' · ' if a.get('text') else '') + f"{int(n)} on order" + (f", arriving {m.group(1)}" if m else '')
-        out.append(a)
-    return out
+    """AJ 11/6: no reorder or low-stock alert for a size that already has stock on the way (expiry alerts stay)."""
+    def incoming(s):
+        if s.get('incoming'):
+            return int(s['incoming'])
+        m = re.match(r'\s*On order:\s*(\d+)', str(s.get('note') or ''))
+        return int(m.group(1)) if m else 0
+    return [dict(a) for a in L.get('alerts') or []
+            if a.get('level') == 'bad' or not any(incoming(s) and str(a.get('title', '')).startswith(f"{s.get('product')} {s.get('size')}:")
+                                                  for s in L.get('sizes') or [])]
 
 
 def stock_items(app_out):
@@ -70,7 +65,7 @@ def stock_items(app_out):
     st = json.load(open(path))
     for L in st.get('locations') or []:
         acct = LOC_ACCT.get(L.get('key'))
-        if not acct or not L.get('alerts'):
+        if not acct or not alerts_with_incoming(L):
             continue
         a = out.setdefault(acct, {'items': [], 'src': []})
         for al in alerts_with_incoming(L):
