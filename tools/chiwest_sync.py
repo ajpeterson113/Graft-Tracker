@@ -208,6 +208,11 @@ def build_patients(xlsx, today, extra=None, events=None):
                     'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
                     'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420),
                     'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or '', 'dnotes': x.get('dnotes') or []})
+        # the Patients app is the source of truth: a field AJ edited there (or through a Chi West tap) wins over the patient
+        # list Excel, which only changes when the morning update rebuilds it (AJ 11/6: what he changes shows and stays)
+        for k, lim in (('prov', 0), ('freq', 0), ('coverage', 140), ('pa', 0), ('caseDate', 0), ('last', 0), ('notes', 420)):
+            if x.get(k) not in (None, ''):
+                pts[-1][k] = cut(x[k], lim) if lim else x[k]
     # patients in the Patients app that the patient list Excel doesn't have yet (AJ 11/5: a new patient he adds
     # shows up in Chi West at the next sync, not only after the Excel is rebuilt)
     have = {p['id'] for p in pts}

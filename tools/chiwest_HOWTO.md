@@ -6,6 +6,17 @@ It reads six documents in its db collection `data`, all written by `tools/chiwes
 `core` (period, sales, forecast, accounts, year, open action items), `cases` (last three month tabs), `forecast` (projection rows), `stock` (shelves), `patients` (patient list, visits, application log, day notes from Chi_West_Patient_List.xlsx, plus names, who covers each visit, next-visit location, verify flags and AJ's events from the Chi West Patients db) and `targets` (target list + Targets-app outreach). AJ wants names (shown on tap, as in the Patients app) and coverage in Chi West (11/4).
 A seventh, `data/research`, is written by Claude only: `{briefs: {<target id>: {date, items: [..]}}, styles: {<target id>: {style: data|rel|eff|skep, why}}}`. The sync never overwrites it.
 
+## AJ's rule (11/6): show first, then always sync
+
+Everything AJ changes in Chi West shows in the app the moment he saves it, before any sync: the app's client overlays every
+tap with status "new" (`overlayActions` and `applyPending` for patient taps, edits and categories, `mergeNotes` for notes,
+new patients, uploads, coverage, times, A#). Every tap is then routed by the Chi West sync to the source apps (A below) and
+built back into Chi West's data (B), so it stays after the tap is marked applied. Never mark a tap applied unless its change
+is in the source app, and never drop one: one that can't be routed stays "new" (still showing) and goes in the summary.
+When a new kind of tap is added to Chi West, add its overlay and its routing in the same change. B builds patient fields from
+the Patients app first (category, size, product, provider, frequency, coverage, PA, dates, notes, Patients-app notes) and
+the patient list Excel only fills what the Patients app doesn't have.
+
 ## Every refresh (after the Graft Tracker app, Patients app and repo are updated)
 
 1. Download into new, empty folders (ArtifactData list, limit 1000, out_dir):
