@@ -151,7 +151,7 @@ def stock_users(stock, patients, today=None):
         ppl = [p for p in patients.get('patients', []) if p.get('acct') == acct and p.get('status') in ('active', 'approved', 'pending')]
         for s in loc.get('sizes', []):
             sz = re.sub(r'\s+', '', str(s.get('size') or '').lower())
-            users, weeks = [], [0] * 5
+            users, weeks, who = [], [0] * 5, [[] for _ in range(5)]
             for p in ppl:
                 for f, size, n in parts(p):
                     if f == s.get('product') and (sz == size or sz.startswith(size)):
@@ -167,9 +167,11 @@ def stock_users(stock, patients, today=None):
                             d += dt.timedelta(days=step)
                         while (d - ws).days < 35:
                             weeks[(d - ws).days // 7] += n
+                            who[(d - ws).days // 7].append(f"{p.get('ini')}" + (f" x{n}" if n > 1 else ''))
                             d += dt.timedelta(days=step)
             s['users'] = users
             s['useWeeks'] = weeks
+            s['useWho'] = who
             if s.get('usePerWeek') in (None, '') and loc.get('key') == 'goodsamwcc':
                 s['usePerWeek'] = weeks[1]
                 s['patients'] = sum(1 for u in users if u['status'] == 'active')
