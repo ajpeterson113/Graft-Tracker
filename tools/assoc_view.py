@@ -82,8 +82,9 @@ def build(src):
             'next': p.get('next') or '', 'time': p.get('time') or '', 'loc': p.get('loc') or '',
             # AJ's label for a booked visit (e.g. "Stravix follow up"), shown instead of the A# (AJ 11/6)
             'labels': {k: str(v)[:60] for k, v in (p.get('labels') or {}).items() if k >= today.isoformat()},
-            'cover': p.get('cover') or '', # same flag as Chi West's schedule row: "Verify" (app # or visit to check) wins over "Confirm" (time to confirm)
-            'flag': ('Verify A#' if str(p.get('verify')).startswith('App #') else 'Verify') if p.get('verify') else 'Confirm' if p.get('fuVerify') else '',
+            'cover': p.get('cover') or '', # same flags as Chi West's schedule row (AJ 11/6): "Verify A#" (application count to check) and "Confirm Time" (time to confirm)
+            'flag': ' · '.join((["Verify A#"] if str(p.get('verify') or '').startswith('App #') else [])
+                                + (["Confirm Time"] if p.get('fuVerify') or (p.get('verify') and not str(p.get('verify')).startswith('App #')) else [])),
         })
     visits = {}
 
