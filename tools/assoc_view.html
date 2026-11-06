@@ -98,7 +98,16 @@ button:focus-visible{outline:2px solid var(--or);outline-offset:2px}
 .pill.approved{background:var(--or-soft);color:var(--or-ink);box-shadow:none}
 .pill.or{background:var(--bl-soft);color:var(--bl-ink);box-shadow:none}
 .pill.hold,.pill.pending,.pill.potential{background:var(--warn-soft);color:var(--warn);box-shadow:none}
-.foot{margin-top:18px;font-size:.8rem;color:var(--mu);line-height:1.5}
+.row[data-p],.prow[data-p]{cursor:pointer}.row[data-p]:hover,.prow[data-p]:hover{background:var(--sunk,rgba(0,0,0,.03))}
+#hist{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.45);display:flex;align-items:flex-end;justify-content:center}
+#hist .sh{background:var(--surface,#fff);color:inherit;width:100%;max-width:560px;max-height:88vh;overflow:auto;border-radius:16px 16px 0 0;padding:16px 16px calc(18px + env(safe-area-inset-bottom,0px));box-shadow:0 -8px 30px rgba(0,0,0,.25)}
+@media (min-width:700px){#hist{align-items:center}#hist .sh{border-radius:16px}}
+#hist .hh{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:6px}
+#hist .hh h2{margin:0;font-size:1.25rem}#hist .x{border:1px solid var(--rule,#ddd);background:transparent;border-radius:8px;padding:6px 10px;font:inherit;cursor:pointer;color:inherit}
+#hist .meta{color:var(--mu);font-size:.9rem;line-height:1.5;margin-bottom:10px}
+#hist h3{font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;color:var(--mu);margin:14px 0 6px}
+#hist .hr{display:grid;grid-template-columns:86px 46px 1fr auto;gap:8px;align-items:center;padding:8px 0;border-top:1px solid var(--rule,#eee);font-size:.92rem}
+#hist .hr:first-of-type{border-top:0}#hist .none{color:var(--mu);font-size:.9rem}
 @keyframes swl{from{transform:translateX(30px);opacity:.4}to{transform:none;opacity:1}}
 @keyframes swr{from{transform:translateX(-30px);opacity:.4}to{transform:none;opacity:1}}
 .swl{animation:swl .18s ease-out}.swr{animation:swr .18s ease-out}
@@ -150,7 +159,7 @@ const appNo=v=>{const p=P[v.p];if(v.app)return v.app;if(p.status==='or')return n
 
 function visitRow(v,showAcct){const p=P[v.p],a=appNo(v),c=coverOf(v);
   const bits=[[p.product,p.size].filter(Boolean).join(' '),a?'A'+a:'',p.status==='or'?'OR case':'',v.loc].filter(Boolean);
-  return `<div class="row" style="--ac:var(--a${p.ac})"><div class="tm${v.time?'':' none'}">${v.time?ampm(v.time):'—'}</div>
+  return `<div class="row" data-p="${v.p}" role="button" tabindex="0" aria-label="${esc(p.ini)} history" style="--ac:var(--a${p.ac})"><div class="tm${v.time?'':' none'}">${v.time?ampm(v.time):'—'}</div>
     <div><div class="l1"><span class="ini">${esc(p.ini)}</span>${showAcct?`<span class="acct">${esc(p.acct)}</span>`:''}<span class="mu">${esc(p.prov)}</span></div><div class="l2">${esc(bits.join(' · '))}</div></div>
     <div class="rt">${v.res?`<span class="res ${v.res==='Grafted'?'ok':'no'}">${esc(v.res)}</span>`:whoChip(c)}${!v.res&&v.date===p.next&&p.flag?`<span class="flag">${p.flag}</span>`:''}</div></div>`;}
 function eventRow(e){return `<div class="row ev"><div class="tm${e.time?'':' none'}">${e.time?ampm(e.time):'—'}</div><div><div class="l1"><span class="ini">${esc(e.title)}</span></div><div class="l2">${esc([e.kind!==e.title?e.kind:'',e.place].filter(Boolean).join(' · '))}</div></div><div class="rt"><span class="who aj">AJ</span></div></div>`;}
@@ -178,7 +187,7 @@ function vPts(){const cur=['active','approved','or','pending','potential','hold'
     return `<div class="card"><div class="gh" style="--ac:var(--a${rows[0].p.ac})"><span><i></i>${esc(a)}</span><span class="tnum">${rows.length}</span></div>${rows.map(({p})=>{
       const nx=p.next&&!['done','denied'].includes(p.status)?`Next <b>${DN[D(p.next).getDay()]} ${md(p.next)}${p.time?' '+ampm(p.time):''}</b>${p.loc?' · '+esc(p.loc):''}`:'No visit booked';
       const cov=p.next&&!['done','denied'].includes(p.status)?' · '+whoChip(p.cover||'AJ'):'';
-      return `<div class="prow" style="--ac:var(--a${p.ac})"><div class="l1"><span class="ini">${esc(p.ini)}</span><span class="mu">${esc(p.prov)}</span></div><span class="pill ${esc(p.status)}">${esc(STATUS[p.status]||p.status||'—')}</span>
+      return `<div class="prow" data-p="${P.indexOf(p)}" role="button" tabindex="0" aria-label="${esc(p.ini)} history" style="--ac:var(--a${p.ac})"><div class="l1"><span class="ini">${esc(p.ini)}</span><span class="mu">${esc(p.prov)}</span></div><span class="pill ${esc(p.status)}">${esc(STATUS[p.status]||p.status||'—')}</span>
         <div class="pm">${esc([[p.product,p.size].filter(Boolean).join(' '),p.status==='or'?'OR case':p.freq,p.apps?p.apps+' application'+(p.apps===1?'':'s'):''].filter(Boolean).join(' · '))}</div>
         <div class="pn">${nx}${cov}${p.flag&&p.next?` <span class="flag">${p.flag}</span>`:''}</div></div>`;}).join('')}</div>`;}).join('');
   return h+`</div>`;}
@@ -187,7 +196,22 @@ function render(dir){$('t-sched').setAttribute('aria-pressed',S.tab==='sched');$
   $('app').innerHTML=S.tab==='sched'?vSched():vPts();
   if(dir){const l=$('list');if(l){l.classList.add(dir>0?'swl':'swr');}}}
 function stepDay(n){let d=addDays(S.day,n);while([0,6].includes(D(d).getDay()))d=addDays(d,n);S.day=d;render(n);}
-document.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;
+/* a patient's history: every visit in the last 9 weeks and what's booked next */
+function hist(i){const p=P[i];if(!p)return;const t=today();
+  const vs=V.filter(v=>v.p===i).sort((a,b)=>a.date.localeCompare(b.date));
+  const past=vs.filter(v=>v.res||v.date<t).reverse(),up=vs.filter(v=>!v.res&&v.date>=t);
+  const line=(v,fut)=>{const a=appNo(v);const r=v.res?`<span class="res ${v.res==='Grafted'?'ok':'no'}">${esc(v.res)}</span>`:fut?whoChip(coverOf(v)||(v.date===p.next?(p.cover||'AJ'):'AJ')):'<span class="mu">No result logged</span>';
+    return `<div class="hr"><span class="tnum">${DN[D(v.date).getDay()]} ${md(v.date)}</span><span class="tnum mu">${a?'A'+a:''}</span><span class="mu">${esc([fut&&v.time?ampm(v.time):'',v.size||(fut?'':''),v.loc].filter(Boolean).join(' · '))}</span><span>${r}</span></div>`;};
+  const grafted=vs.filter(v=>v.res==='Grafted').length;
+  const o=document.createElement('div');o.id='hist';
+  o.innerHTML=`<div class="sh" role="dialog" aria-modal="true" aria-label="${esc(p.ini)} history"><div class="hh"><div><h2>${esc(p.ini)} <span class="pill ${esc(p.status)}">${esc(STATUS[p.status]||p.status||'')}</span></h2></div><button class="x" data-close="1">Close</button></div>
+    <div class="meta">${esc([p.acct,p.prov].filter(Boolean).join(' · '))}<br>${esc([[p.product,p.size].filter(Boolean).join(' '),p.status==='or'?'OR case':p.freq,p.apps?p.apps+' application'+(p.apps===1?'':'s')+' to date':''].filter(Boolean).join(' · '))}</div>
+    <h3>Coming up</h3>${up.length?up.map(v=>line(v,true)).join(''):'<div class="none">No visit booked</div>'}
+    <h3>History · last 9 weeks${grafted?' · '+grafted+' grafted':''}</h3>${past.length?past.map(v=>line(v,false)).join(''):'<div class="none">No visits in the last 9 weeks</div>'}</div>`;
+  const close=()=>{o.remove();document.removeEventListener('keydown',k);};const k=e=>{if(e.key==='Escape')close();};
+  o.addEventListener('click',e=>{if(e.target===o||e.target.closest('[data-close]'))close();});document.addEventListener('keydown',k);document.body.appendChild(o);}
+document.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.dataset&&e.target.dataset.p!=null){e.preventDefault();hist(+e.target.dataset.p);}});
+document.addEventListener('click',e=>{if(e.target.closest('#hist'))return;const r=e.target.closest('[data-p]');if(r&&!e.target.closest('button')){hist(+r.dataset.p);return;}const b=e.target.closest('button');if(!b)return;
   if(b.dataset.tab){S.tab=b.dataset.tab;ls.set('tab',S.tab);render();window.scrollTo({top:0});return;}
   if(b.dataset.wk!=null){const n=+b.dataset.wk;if(!n){const t=today(),dow=D(t).getDay();S.day=dow>=1&&dow<=5?t:weekStart(t);}else S.day=addDays(weekStart(S.day),n);render(n);return;}
   if(b.dataset.day){S.day=b.dataset.day;render();return;}

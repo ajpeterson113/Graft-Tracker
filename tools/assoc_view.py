@@ -3,7 +3,7 @@
 
 It is the Patients tab of Chi West (the week schedule and the patient list) with NO patient names and no notes:
 initials, account, provider, product/size, frequency, application count, visit date/time/place, who covers the
-visit, and the same Verify / Confirm flag Chi West shows. No sales data. The data is baked into the page, so it works for anyone with the
+visit, each patient's visit history (date, A#, grafted or not, size used; tap a visit or patient), and the same Verify / Confirm flag Chi West shows. No sales data. The data is baked into the page, so it works for anyone with the
 link (no sign-in) and changes only when the page is republished.
 
 Usage:
@@ -66,7 +66,7 @@ def build(src):
     d = json.load(open(src))
     d = d.get('data', d)
     today = dt.date.today()
-    lo, hi = (today - dt.timedelta(days=21)).isoformat(), (today + dt.timedelta(days=42)).isoformat()
+    lo, hi = (today - dt.timedelta(days=63)).isoformat(), (today + dt.timedelta(days=42)).isoformat()  # 9 weeks back for each patient's history
     pts, index, src_rows = [], {}, []
     for p in d.get('patients') or []:
         a = acct_key(p.get('acct'))
@@ -85,13 +85,14 @@ def build(src):
         })
     visits = {}
 
-    def add(i, date, time='', loc='', app=None, res=''):
+    def add(i, date, time='', loc='', app=None, res='', size=''):
         if not date or not (lo <= date <= hi):
             return
-        v = visits.setdefault((i, date), {'p': i, 'date': date, 'time': '', 'loc': '', 'app': None, 'res': ''})
+        v = visits.setdefault((i, date), {'p': i, 'date': date, 'time': '', 'loc': '', 'app': None, 'res': '', 'size': ''})
+        v['size'] = v['size'] or (str(size) if size and res == 'Grafted' else '')
         v['time'] = v['time'] or time or ''
         v['loc'] = v['loc'] or loc or ''
-        v['app'] = v['app'] if v['app'] is not None else app
+        v['app'] = app if (res and app is not None) else (v['app'] if v['app'] is not None else app)  # a logged result's A# wins
         v['res'] = res or v['res']
 
     def res_of(s):
@@ -119,11 +120,11 @@ def build(src):
     for v in d.get('visits') or []:
         i = who(v)
         if i is not None:
-            add(i, v.get('date'), v.get('time'), v.get('loc'), v.get('app'), res_of(v.get('status')))
+            add(i, v.get('date'), v.get('time'), v.get('loc'), v.get('app'), res_of(v.get('status')), v.get('size'))
     for e in d.get('log') or []:
         i = who(e)
         if i is not None and e.get('date', '') <= today.isoformat():
-            add(i, e.get('date'), '', '', e.get('app'), res_of(e.get('result')))
+            add(i, e.get('date'), '', '', e.get('app'), res_of(e.get('result')), e.get('size'))
     for i, p in enumerate(pts):
         if p['status'] in ('done', 'denied'):
             continue
