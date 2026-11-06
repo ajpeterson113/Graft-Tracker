@@ -2,7 +2,7 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:01 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:04 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -13,7 +13,7 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**27 entries · \$28,216** · 🟢 8 Ready · 🟡 12 Needs PO · ⚪ 7 In SFDC
+**28 entries · \$31,921** · 🟢 8 Ready · 🟡 12 Needs PO · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
@@ -22,6 +22,7 @@
 |   | [**E.D.**](../case-sheets/ed-1106.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · no PO yet · LYU-260236\_24001<details><summary><sub>Notes</sub></summary>OR case Fri 11/6 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka): Stravix PL 2x4 LYU-260236\_24001 (exp 1/12/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Bill-only PO to come (Prime Healthcare vendor acct 296620). Case sheet: case-sheets/ed-1106 (patient label covered).</details> | \$1,650 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**K.C.**](../case-sheets/kc-1106.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · no PO yet · LYU-260638\_24001<details><summary><sub>Notes</sub></summary>Add-on OR case Fri 11/6 at St. Joseph Elgin (Dr. Greg Bryniczka), new OR patient: Stravix PL 2x4 LYU-260638\_24001 (exp 3/16/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Bill-only PO to come. Case sheet: case-sheets/kc-1106 (patient label covered).</details> | \$1,650 | 🟡&nbsp;Needs&nbsp;PO |
 |   | **A.S.** · Central DuPage · Luetkehans<br>Grafix 16mm · PO AS110626 · LYA-260290\_16004<details><summary><sub>Notes</sub></summary>App #5, Fri 11/6 12:00 PM at CDFA (Grafted tap in Chi West 11/6): 16mm, \$190 (CDFA 16mm rate) on sale order AS110626, shipped/invoiced 11/4 (inv 0985908414, LYA-260290\_16004). In SFDC per AJ's SFDC P11 report 11/6 3:58 PM (\$5,589, 31 units). Case sheet to come. AJ's note: "Send one more in might not need it".</details> | \$190 | ⚪&nbsp;In&nbsp;SFDC |
+|   | **Grafix 5x5 ×1, 16mm ×1, 1.5x2 ×1** · Good Sam<br>PO PO006180799<details><summary><sub>Notes</sub></summary>WCC stock order on PO006180799 (the To Order block for the week of 11/9), shipped Fri 11/6 (FedEx Priority 10:30, per AJ's evening shipping report 11/6): 5x5 x1 \$2,500 + 16mm x1 \$425.50 + 1.5x2 x1 \$780 = \$3,705.50 (Good Sam rates). PO-only, no case sheet; lots/SNs to come. Shipped from SFDC, so In SFDC. WCC stock: a sale when shipped; the Projections WCC stock rows offset the visits it covers (Good Sam shelf after it lands: 1 x 5x5, 4 x 16mm, 1 x 1.5x2).</details> | \$3,705.50 | ⚪&nbsp;In&nbsp;SFDC |
 | **11/5** | [**J.B.**](../case-sheets/jb-1105.md) 📄 · Alexian WCC · Adelstein<br>Grafix 2x3 · no PO yet · LYA-250516\_23004<details><summary><sub>Notes</sub></summary>App #2, Thu 11/5 8:00 AM, Dr. Adelstein: Grafix 2x3 LYA-250516\_23004 (exp 5/2/27) from the Alexian WCC shelf, \$925.35 (Alexian 2x3 rate). Case sheet photo uploaded in Chi West 11/5. Bill-only PO to come (Alexian ID 0002601103).</details> | \$925.35 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**A.P.**](../case-sheets/ap-1105.md) 📄 · Alexian WCC · Adelstein<br>Grafix 16mm · no PO yet · LYA-260221\_16005<details><summary><sub>Notes</sub></summary>App #8 (the last one: Alexian WCC stops at 8), Thu 11/5 10:30 AM: 16mm LYA-260221\_16005 (exp 3/3/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). The case sheet says Dr. Adelstein (the patient is Dr. Hussain's). Marked Done in Chi West 11/5. Bill-only PO to come (Alexian ID 0003068368).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**D.K.**](../case-sheets/dk-1105.md) 📄 · Alexian WCC · Halihan<br>Grafix 16mm · no PO yet · LYA-260221\_16004<details><summary><sub>Notes</sub></summary>App #3, Thu 11/5 1:15 PM: 16mm LYA-260221\_16004 (exp 3/3/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). Case sheet photo uploaded in Chi West 11/5. Bill-only PO to come (Alexian ID 0003096605).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |

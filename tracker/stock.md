@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:01 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:04 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -193,7 +193,7 @@
 
 <details><summary><b>About this shelf</b></summary>
 
-Alexian Brothers Wound Center shelf. Grafix on hand updates itself as Alexian cases are filed (lot + SN); use per week comes from the patient list below. 10/5: 10 x 16mm restock shipped. 10/14: 10 more 16mm received (LYA-260221 x9, LYA-260220 x1, exp 3/3/28). 16mm recounted 10/14 1:45 PM: 14 on the shelf. 10/26: 3x3 LYA-250533\_33002 transferred out to Dr. George (another rep's territory). Every Alexian Grafix unit filed since 11/3 is accounted for in the box list.
+Alexian Brothers Wound Center shelf. Grafix on hand updates itself as Alexian cases are filed (lot + SN); use per week comes from the patient list below. 10/5: 10 x 16mm restock shipped. 10/14: 10 more 16mm received (LYA-260221 x9, LYA-260220 x1, exp 3/3/28). 16mm recounted 10/14 1:45 PM: 14 on the shelf. 10/26: 3x3 LYA-250533\_33002 transferred out to Dr. George (another rep's territory). 11/6: restock shipped on AJ's evening shipping report (FedEx Priority 10:30, delivery 11/9): 5 x 16mm + 5 x 3x3; add them to the shelf list by lot/SN when they arrive. Every Alexian Grafix unit filed since 11/3 is accounted for in the box list.
 
 Grafix: Reorder now = on hand is below your target min (16mm 10-15 while so many patients are on it, other sizes 5-10). The order fills back up to the max; a few over the max is fine. OASIS: Reorder now = under 2 weeks of stock at the current use; the order fills back to 4 weeks.
 
@@ -207,15 +207,15 @@ OASIS is counted in sheets and bought by the box, so update Sheets left when you
 
 ## Good Sam WCC
 
-**Clinic stock (already sold)** · 7 grafts · 6 OASIS sheets
+**Clinic stock (already sold)** · 10 grafts · 6 OASIS sheets
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **5x5**<br>Grafix | **0** | — | 0 projected use through 11/28 · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23) + PO006130658 (10/29)<br><sub>11/5: D.F. used the last 5x5 (LYA-260414\_55004, A6, sticker photo from Chi West) = 0 x 5x5 on the shelf \| 11/5 shelf photo before today's grafts: 2 x 5x5, 5 x …</sub> |
-| **16mm**<br>Grafix | **3** | — | 9 projected use through 11/28 · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2 = 3 x 16mm on the shelf (LYA-2602…</sub> |
+| **5x5**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23) + PO006130658 (10/29) + PO006180799 (11/6)<br><sub>11/6: PO006180799 shipped 1 x 5x5 (for D.F. Thu 11/12) = 1 on the shelf, already sold.</sub> |
+| **16mm**<br>Grafix | **4** | — | 9 projected use through 11/28 · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658 + PO006180799 (11/6)<br><sub>11/6: PO006180799 shipped 1 x 16mm = 4 on the shelf, already sold.</sub> |
 | **3x4**<br>Grafix | **3** | — | 0 projected use through 11/28 · PO005986967 + earlier + PO006102148 (10/23)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
 | **2x3**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
-| **1.5x2**<br>Grafix | **0** | — | 1 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5: L.D. used it (LYA-260165\_15003, A27, sticker photo from Chi West) = 0 x 1.5x2 on the shelf \| 11/5 shelf photo: 1 x 1.5x2 (LYA-260165\_15003), covers C.B.'…</sub> |
+| **1.5x2**<br>Grafix | **1** | — | 1 projected use through 11/28 · PO006130658 (10/29) + PO006180799 (11/6)<br><sub>11/6: PO006180799 shipped 1 x 1.5x2 (for L.D. Thu 11/12) = 1 on the shelf, already sold.</sub> |
 | **3x3.5**<br>OASIS&nbsp;Wound | **1** sheet | — | box of 10<br><sub>P11: no OASIS Wound 3x3.5 box projected.</sub> |
 | **7x10 meshed**<br>OASIS&nbsp;Ultra | **5** sheets | Order 1 box (upside) | 2/wk · box of 5<br><sub>11/5 shelf photo: the OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) is full, 5 sheets (AJ 11/5; Ultra and Burn come 5 to a box, Wound 10).</sub> |
 
@@ -359,17 +359,26 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 
 ## GlenOaks OR
 
-**Consigned, Bill Only** · counted 10/8/26 · 12 grafts
+**Consigned, Bill Only** · counted 11/6/26 · 19 grafts
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
+| **5x5**<br>Grafix | **5** | — |   |
+| **7.5x15**<br>Grafix | **2** | — |   |
 | **2x4**<br>Stravix | **7** | — |   |
 | **3x6**<br>Stravix | **5** | — |   |
 
-<details><summary><b>Units on the shelf</b> · 12</summary>
+<details><summary><b>Units on the shelf</b> · 19</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 7.5x15 | TBD | — |   | On shelf |   |
+| Grafix | 7.5x15 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
@@ -387,7 +396,7 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 
 <details><summary><b>About this shelf</b></summary>
 
-Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit used is billed on a Bill Only PO, so it counts as a sale when used (no projection offset). Count from AJ 10/8 (after F.M.'s 10/7 case): 7 Stravix 2x4, 5 Stravix 3x6. Lot/SN to be added from a shelf photo.
+Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit used is billed on a Bill Only PO, so it counts as a sale when used (no projection offset). Count from AJ 10/8 (after F.M.'s 10/7 case): 7 Stravix 2x4, 5 Stravix 3x6. Lot/SN to be added from a shelf photo. 11/6: 5 x Grafix 5x5 and 2 x Grafix PL XC 7.5x15 cm (new product, OR use only) consigned here, shipped on the 11/6 morning shipping report and delivered 11/6 (AJ); lot/SN TBD.
 
 </details>
 
