@@ -2,22 +2,22 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 116 patients · updated Thu 11/5, 1:22 PM CT
+**BIOT Chicago West** · 118 patients · updated Thu 11/5, 9:59 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 21](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 21](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="verify"></a>
 
-## 🟠 Verify · 11
+## 🟠 Verify · 8
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
@@ -28,17 +28,15 @@
 | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | App # doesn't match: AJ's calendar has A6 on Wed 11/4, the app has 4 logged (next A5) — confirm the count |
 | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | NW Suburban F&A · Goldkind | OASIS Ultra 3x7 | App # doesn't match: AJ's calendar has A9 on Wed 11/4, the app has 6 logged (next A7) — confirm the count |
 | <details><summary><b>P.S.</b></summary>Peter S.</details> | NW Suburban F&A · Goldkind | GRAFIX 16mm | App # doesn't match: AJ's calendar has A5 on Mon 11/2, the app has 3 logged (next A4) — confirm the count |
-| **Upcoming · Dr. Greg Bryniczka** | St. Joseph Elgin · Greg Bryniczka | STRAVIX | Verify |
 | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count |
-| **Upcoming · Dr. Adam Bryniczka** | Sherman · Adam Bryniczka | STRAVIX | Verify |
-| **Upcoming · Dr. Adam Bryniczka** | St. Alexius · Adam Bryniczka | STRAVIX | Verify |
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 7
+## 🔴 No Follow-Up · 8
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
+| **C.B.** | Alexian WCC · Goldkind | GRAFIX 2x3 | Next 11/9, no time |
 | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | Alexian WCC · Joshi | GRAFIX 1.5x2 | Verify: assumed weekly — confirm Mon 11/9 1:15 PM with the office · usually Mon |
 | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | Alexian WCC · Lucas | OASIS Wound 3x3.5 | Verify: not on AJ's calendar (checked 11/2) — confirm Fri 11/6 12:35 PM with the office · usually Fri |
 | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory · Lucas | OASIS Wound (2x) 3x3.5 | Verify: Fri 11/6 is a VERSAJET case instead (its own entry), so book his next OASIS visit after it · usually Fri |
@@ -49,22 +47,24 @@
 
 <a name="ns"></a>
 
-## 🔵 Potential New Starts · 3
+## 🔵 Potential New Starts · 4
 
 | Patient | Clinic | Graft | Start |
 | :-- | :-- | :-- | :-- |
+| **C.B.** | Alexian WCC · Goldkind | GRAFIX 2x3 suggested | A1 Mon 11/9 |
 | <details><summary><b>V.T.</b></summary>Virginia thomas</details> | Alexian WCC · Halihan | GRAFIX | A1 Thu 11/5 2:15 PM |
 | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | Alexian WCC · Lucas | GRAFIX | A1 Fri 11/6 12:40 PM |
 | **R.E.** | NW Suburban F&A · Hussain | GRAFIX/OASIS | A1 Thu 11/5 10:30 AM |
 
 <a name="pending"></a>
 
-## 🟠 Pending IVRs · 5 · 1 to follow up
+## 🟠 Pending IVRs · 6 · 1 to follow up
 
 | Patient | Clinic | IVR | Coverage / notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>J.D.</b></summary>Johnny Dematropolis</details> | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 57 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinic… |
 | <details><summary><b>K.B.</b></summary>K. Bette</details> | Good Sam · Ayesh | No IVR date | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
+| **Z.G.** | Good Sam · Ayesh | No IVR date | New patient added in Chi West 11/5: Dr. Ayesh, GRAFIX 16mm every 2 weeks, first visit Thu 11/19. |
 | <details><summary><b>R.S.</b></summary>Robert Sparacio</details> | Alexian WCC · Srivastava | No IVR date |   |
 | **D.R.** | NW Suburban F&A | IVR sent 10/30 · 6 days ago | IVR sent 10/30 (BCBS) · New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
 | **J.D.** | NW Suburban F&A | No IVR date | Pending predetermination · Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination… |

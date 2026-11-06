@@ -2,26 +2,27 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 116 patients · updated Thu 11/5, 1:22 PM CT
+**BIOT Chicago West** · 118 patients · updated Thu 11/5, 9:59 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;116](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · **Potential New Start 3** · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 21](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · **Potential New Start 4** · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 21](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 2</summary>
+<details open><summary><b>Alexian WCC</b> · 3</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>V.T.</b></summary>Virginia thomas</details> | GRAFIX · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;11/5&nbsp;2:15&nbsp;PM · Caroline&nbsp;covering** | 🟢 0 of 8 |   |
 | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | GRAFIX · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/6&nbsp;12:40&nbsp;PM** | 🟢 0 of 8 |   |
+| **C.B.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;2x3&nbsp;suggested · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;11/9** | 🟢 0 of 8 | 🔴 Next 11/9, no time<br>New patient added in Chi West 11/5 (approved): Dr. Goldkind, GRAFIX weekly, first visit Mon 11/9. Will start with either a 2x3 or 3x3 size (entered as 2x3). |
 
 </details>
 

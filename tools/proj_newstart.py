@@ -9,17 +9,22 @@ stays out until a size is given. Upside only, like every potential new start, un
 on the sheet.
 
     python3 -I tools/proj_newstart.py MASTER.xlsx --acct "Advocate Good Samaritan Hospital" --prov "Dr. Ayesh" \
-        --ini Z.G. --product GRAFIX --size 16mm --freq Biweekly --start 2026-11-19 --note "..." \
-        [--price 425.5] [--units 1] [--down-size S --down-price P]
+        --ini Z.G. --product GRAFIX --size 16mm --freq Biweekly --start 2026-11-19 --status pending --note "..." \
+        [--price 425.5] [--units 1] [--down-size S --down-price P] [--stock-status Starting]
 
 --start is the first visit (YYYY-MM-DD); with no date the row counts 0 visits until one is set.
 --freq is Weekly, Biweekly or Once. --price defaults to the account's price for that size from the sheet's
 "Downside lookups" table, then from other rows on the sheet; the script stops if it finds none.
 
-It inserts a row at the end of the section (above the "Potential new starts" total), re-points every formula
-in the workbook that refers to Projections rows below it, widens the section's sums and per-account SUMIFs
-to take the new row, and copies the row formulas from the row above. Recalculate the Excel afterwards
-(the xlsx skill's recalc.py), then build as usual.
+For an Alexian Brothers Wound Center patient it also adds a row to the Stock sheet's "Patients using the WCC
+stock" list (the Alexian WCC shelf and its reorder math): status Pending for a pending patient, Starting for an
+approved one with a first visit (so its weekly use counts toward the next order), Approved without one
+(--stock-status overrides).
+
+It inserts each row at the end of its section, re-points every formula in the workbook that refers to rows
+below it, widens the section's sums, SUMIFs, formatting and dropdowns to take the new row, and copies the
+row formulas from the row above. Recalculate the Excel afterwards (the xlsx skill's recalc.py), then build as
+usual.
 """
 import argparse
 import datetime as dt
@@ -68,7 +73,7 @@ def shift_ref(ref, at, n, grow_from):
     return ':'.join(f'{x[1]}{x[2]}{x[3]}{r}' for x, r in zip(m, new))
 
 
-def shift_formula(f, at, n, grow_from, same_sheet):
+def shift_formula(f, at, n, grow_from, same_sheet, sheet=SHEET):
     tok = Tokenizer(f)
     changed = False
     for t in tok.items:
@@ -77,7 +82,7 @@ def shift_formula(f, at, n, grow_from, same_sheet):
         v = t.value
         if '!' in v:
             sh, ref = v.rsplit('!', 1)
-            if sh.strip("'") != SHEET:
+            if sh.strip("'") != sheet:
                 continue
             nv = sh + '!' + shift_ref(ref, at, n, grow_from)
         elif same_sheet:
@@ -89,13 +94,19 @@ def shift_formula(f, at, n, grow_from, same_sheet):
     return tok.render() if changed else f
 
 
-def insert_rows(wb, at, n, grow_from):
-    ws = wb[SHEET]
+def insert_rows(wb, at, n, grow_from, sheet=SHEET):
+    ws = wb[sheet]
     for other in wb.worksheets:
         for row in other.iter_rows():
             for c in row:
                 if isinstance(c.value, str) and c.value.startswith('='):
-                    c.value = shift_formula(c.value, at, n, grow_from, other is ws)
+                    c.value = shift_formula(c.value, at, n, grow_from, other is ws, sheet)
+    from openpyxl.formatting.formatting import ConditionalFormattingList
+    old_cf, ws.conditional_formatting = ws.conditional_formatting, ConditionalFormattingList()
+    for cf in old_cf:
+        rng = ' '.join(shift_ref(str(cr), at, n, grow_from) for cr in cf.sqref.ranges)
+        for rule in cf.rules:
+            ws.conditional_formatting.add(rng, rule)
     heights = {r: d.height for r, d in ws.row_dimensions.items() if r >= at and d.height}
     ws.insert_rows(at, n)
     for r in sorted(heights, reverse=True):
@@ -120,7 +131,7 @@ def price_for(ws, acct, size, lookup_rows):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('xlsx')
-    for k in ('acct', 'prov', 'ini', 'product', 'size', 'freq', 'start', 'note', 'down_size'):
+    for k in ('acct', 'prov', 'ini', 'product', 'size', 'freq', 'start', 'note', 'down_size', 'status', 'stock_status'):
         ap.add_argument('--' + k.replace('_', '-'), default='')
     ap.add_argument('--price', type=float)
     ap.add_argument('--down-price', type=float)
@@ -162,9 +173,44 @@ def main():
         vals[16] = 0
     for col, v in vals.items():
         ws.cell(at, col).value = v
-    wb.save(a.xlsx)
     print(f'{SHEET} row {at}: {ini} {a.acct} {prod} {size} {a.freq} from {a.start or "TBD"} at ${price:,.2f} '
-          f'({"downside " + norm_size(a.down_size) if a.down_size else "upside only"}); recalc before building')
+          f'({"downside " + norm_size(a.down_size) if a.down_size else "upside only"})')
+    if a.acct == 'Alexian Brothers Wound Center' and 'Stock' in wb.sheetnames:
+        stock_row(wb, a, ini, prod, size)
+    wb.save(a.xlsx)
+    print('saved; recalc before building')
+
+
+def stock_row(wb, a, ini, prod, size):
+    """The Alexian WCC shelf's patient list (Stock sheet, "Patients using the WCC stock")."""
+    ws = wb['Stock']
+    t = find_row(ws, lambda v: v == 'Patients using the WCC stock')
+    end = find_row(ws, lambda v: v.startswith('OASIS boxes on the shelf'))
+    if not (t and end and end > t + 2):
+        print('Stock: patient list not found; add the patient there by hand')
+        return
+    for r in range(t + 2, end):
+        if str(ws.cell(r, 4).value or '').replace('.', '') == ini.replace('.', '') and ws.cell(r, 7).value != 'Done':
+            print(f'Stock row {r}: {ini} already listed; nothing added')
+            return
+    prev = end - 1
+    while prev > t + 2 and ws.cell(prev, 1).value in (None, ''):
+        prev -= 1
+    at = prev + 1
+    if at == end:  # no blank row left in the list: insert one
+        insert_rows(wb, at, 1, t + 2, 'Stock')
+    for col in range(1, 10):
+        ws.cell(at, col)._style = ws.cell(prev, col)._style
+    st = a.stock_status or {'pending': 'Pending', 'approved': 'Starting' if a.start else 'Approved',
+                            'active': 'Active'}.get(a.status.lower(), 'Pending')
+    h = ws.cell(prev, 8).value
+    vals = {1: prod if prod in ('Grafix PL Prime', 'OASIS Wound Matrix', 'OASIS Burn Matrix') else prod, 2: size, 3: a.prov, 4: ini,
+            5: a.freq or 'Weekly', 6: a.units, 7: st,
+            8: Translator(h, f'H{prev}').translate_formula(f'H{at}') if isinstance(h, str) and h.startswith('=') else 0,
+            9: a.note}
+    for col, v in vals.items():
+        ws.cell(at, col).value = v
+    print(f'Stock row {at}: {ini} {prod} {size} {a.freq} {st}')
 
 
 if __name__ == '__main__':

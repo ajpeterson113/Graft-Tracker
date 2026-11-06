@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 1:22 PM CT
+**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 9:59 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -31,7 +31,7 @@
 | :-- | --: | :-- | :-- |
 | **16mm**<br>Grafix | 🟠 **6**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 9 | 5/wk · 1.2 wks left · out week of 11/9 · next exp 3/3/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
 | **1.5x2**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 10.0 wks left · out week of 1/11 · next exp 6/18/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
-| **2x3**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 8.0 wks left · out week of 12/28 · next exp 6/9/27 |
+| **2x3**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 4.0 wks left · out week of 11/30 · next exp 6/9/27 |
 | **3x3**<br>Grafix | 🟠 **3**<br>target&nbsp;5⁠–⁠10 | 🟠 Reorder now · order 7 | next exp 5/2/27 |
 | **3x4**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🔴 7 expire before use | next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
 | **5x5**<br>Grafix | **9**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 9.0 wks left · out week of 1/4 · next exp 11/3/27 |
@@ -61,14 +61,14 @@
 | Grafix | 16mm | LYA-260256\_16010 | 3/20/28 | 11/10 | On shelf |   |
 | Grafix | 16mm | LYA-260256\_16011 | 3/20/28 | 11/12 | On shelf |   |
 | Grafix | 16mm | LYA-260256\_16012 | 3/20/28 | 11/13 | On shelf |   |
-| Grafix | 2x3 | LYA-250558\_23005 | 6/9/27 | 11/12 | On shelf |   |
-| Grafix | 2x3 | LYA-250625\_23005 | 6/18/27 | 11/19 | On shelf |   |
-| Grafix | 2x3 | LYA-250625\_23013 | 6/18/27 | 11/26 | On shelf |   |
-| Grafix | 2x3 | LYA-250868\_23006 | 11/3/27 | 12/3 | On shelf |   |
-| Grafix | 2x3 | LYA-250868\_23005 | 11/3/27 | 12/10 | On shelf |   |
-| Grafix | 2x3 | LYA-250866\_23007 | 11/3/27 | 12/17 | On shelf |   |
-| Grafix | 2x3 | LYA-250866\_23008 | 11/3/27 | 12/24 | On shelf |   |
-| Grafix | 2x3 | LYA-250866\_23002 | 11/3/27 | 12/31 | On shelf |   |
+| Grafix | 2x3 | LYA-250558\_23005 | 6/9/27 | 11/8 | On shelf |   |
+| Grafix | 2x3 | LYA-250625\_23005 | 6/18/27 | 11/12 | On shelf |   |
+| Grafix | 2x3 | LYA-250625\_23013 | 6/18/27 | 11/15 | On shelf |   |
+| Grafix | 2x3 | LYA-250868\_23006 | 11/3/27 | 11/19 | On shelf |   |
+| Grafix | 2x3 | LYA-250868\_23005 | 11/3/27 | 11/22 | On shelf |   |
+| Grafix | 2x3 | LYA-250866\_23007 | 11/3/27 | 11/26 | On shelf |   |
+| Grafix | 2x3 | LYA-250866\_23008 | 11/3/27 | 11/29 | On shelf |   |
+| Grafix | 2x3 | LYA-250866\_23002 | 11/3/27 | 12/3 | On shelf |   |
 | Grafix | 3x3 | LYA-250533\_33005 | 5/2/27 |   | On shelf |   |
 | Grafix | 3x3 | LYA-250533\_33004 | 5/2/27 |   | On shelf |   |
 | Grafix | 3x3 | LYA-250742\_33003 | 8/12/27 |   | On shelf |   |
@@ -106,7 +106,7 @@
 
 </details>
 
-<details><summary><b>Patients using this shelf</b> · 16 active</summary>
+<details><summary><b>Patients using this shelf</b> · 17 active</summary>
 
 | Pt | Surgeon | Graft | Status | Use / wk | Note |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -135,6 +135,7 @@
 | **V.T.** | Halihan | Grafix | Pending | — | New 10/19 (pending); no visit booked |
 | **G.M.** | Goldkind | OASIS Wound 3x3.5 | Approved | — | PA approved 10/27/26–2/15/27 (BCBS Illinois): OASIS Wound 3x3.5, one a visit, weekly once booked; no visit booked yet. (New 10/20) |
 | **G.H.** | Lucas | Grafix | Pending | — | New 10/26 (pending); Grafix or OASIS, size not set, no visit booked |
+| **C.B.** | Goldkind | Grafix 2x3 | Starting | 1 | Approved new patient AJ added in Chi West 11/5: GRAFIX weekly with Dr. Goldkind, first visit Mon 11/9 (time TBD). Will start with either a 2x3 or 3x3 (projected at 2x3, the size AJ entered). Upside only. Alexian ID not given yet. |
 | **** |   | OASIS Boxes |   | — |   |
 | **Lot** | REF | Product Size | Sheets left | — | Flag |
 | **LB1741499** | 8213-1000-33 | OASIS Wound 3x3.5 | 7 | 452 |   |

@@ -35,6 +35,7 @@ SHORT = {
     'Elmhurst Hospital': 'Elmhurst', 'UChicago Medicine AdventHealth GlenOaks': 'GlenOaks',
     'Ankle and Foot Surgery LLC': 'Ankle & Foot Surgery',
 }
+CANON_ACCT = {'Alexian Brothers - Ambulatory': 'Alexian Ambulatory', 'Advocate Sherman Hospital': 'Sherman'}
 # target-list hospital (Contacts tab) -> account it belongs to in the tracker
 HOSP_ACCT = {'Good Sam': 'Advocate Good Samaritan Hospital', 'St. Alexius / Alexian': 'Ascension Saint Alexius',
              'Elmhurst': 'Elmhurst Hospital', 'GlenOaks': 'UChicago Medicine AdventHealth GlenOaks',
@@ -139,6 +140,12 @@ def safe_name(n):
     return re.sub(r'\s+', ' ', n)
 
 
+# fields a patient needs when it is in the Patients app but not yet in the patient list Excel (a new patient AJ just
+# added): overlay key -> Patients app field
+NEW_FIELDS = {'acct': 'account', 'prov': 'provider', 'freq': 'freq', 'notes': 'notes', 'coverage': 'coverage',
+              'last': 'last', 'caseDate': 'caseDate', 'pa': 'pa'}
+
+
 def load_extra(pdb, overlay):
     """Names, coverage, next-visit location, verify flags and events, by patient id."""
     ex, events = {}, []
@@ -150,6 +157,7 @@ def load_extra(pdb, overlay):
                        'verify': cut(d.get('verify'), 120), 'fuVerify': cut(d.get('fuVerify'), 120), 'ini': d.get('initials') or '',
                        'size': d.get('size') or '', 'product': d.get('product') or '', 'log': d.get('log') or [],
                        'ivrDate': d.get('ivrDate') or '', 'paExp': d.get('paExp') or ''}
+            ex[pid].update({k: d.get(src) or '' for k, src in NEW_FIELDS.items()})
         for eid, d in loadall(os.path.join(pdb, 'events')).items():
             d = d.get('data', d)
             events.append({'id': eid, 'title': d.get('title') or d.get('kind') or 'Event', 'kind': d.get('kind') or 'Other', 'place': d.get('place') or '',
@@ -158,7 +166,9 @@ def load_extra(pdb, overlay):
         o = json.load(open(overlay))
         for d in o.get('patients', []):
             ex[d['id']] = {k: (safe_name(d.get(k)) if k == 'name' else d.get(k, '')) for k in ('name', 'cover', 'status', 'apps', 'next', 'nextTime', 'nextLoc', 'verify', 'fuVerify', 'ini', 'size', 'product', 'ivrDate', 'paExp')}
+            ex[d['id']]['ini'] = ex[d['id']]['ini'] or d.get('initials') or ''
             ex[d['id']]['log'] = d.get('log') or []
+            ex[d['id']].update({k: d.get(k) or d.get(src) or '' for k, src in NEW_FIELDS.items()})
         events = [{'id': e.get('id'), 'title': e.get('title') or 'Event', 'kind': e.get('kind') or 'Other', 'place': e.get('place') or '', 'date': e.get('date') or '',
                    'time': e.get('time') or '', 'end': e.get('end') or '', 'note': cut(e.get('note'), 200)} for e in o.get('events', [])]
     return ex, events
@@ -182,6 +192,22 @@ def build_patients(xlsx, today, extra=None, events=None):
                     'size': str(x.get('size') or r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
                     'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
                     'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420),
+                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or ''})
+    # patients in the Patients app that the patient list Excel doesn't have yet (AJ 11/5: a new patient he adds
+    # shows up in Chi West at the next sync, not only after the Excel is rebuilt)
+    have = {p['id'] for p in pts}
+    for pid, x in extra.items():
+        if pid in have or not x.get('acct'):
+            continue
+        acct = CANON_ACCT.get(x['acct'], x['acct'])
+        pts.append({'id': pid, 'acct': acct, 'short': SHORT.get(acct, acct), 'status': x.get('status') or 'pending',
+                    'prov': x.get('prov') or '', 'ini': x.get('ini') or '', 'name': x.get('name') or '',
+                    'cover': x.get('cover') if x.get('cover') in ('Caroline', 'Pete', 'Not covered') else '',
+                    'coverage': cut(x.get('coverage'), 140), 'pa': x.get('pa') or '', 'product': x.get('product') or '',
+                    'size': str(x.get('size') or ''), 'freq': x.get('freq') or '', 'apps': x.get('apps') or 0,
+                    'last': x.get('last') or '', 'caseDate': x.get('caseDate') or '', 'next': x.get('next') or '',
+                    'time': x.get('nextTime') or '', 'loc': x.get('nextLoc') or '', 'verify': x.get('verify') or '',
+                    'fuVerify': x.get('fuVerify') or '', 'notes': cut(x.get('notes'), 420),
                     'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or ''})
     t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=63)).isoformat()
     acct_of = {p['id']: p['acct'] for p in pts}
