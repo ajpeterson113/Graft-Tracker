@@ -2,19 +2,19 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 3:51 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:00 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$27,089 | \$27,089 |
+| Sold so far (November tab) | \$28,216 | \$28,216 |
 | \+ Projected Grafix, net of WCC stock | \$27,835 | \$26,015 |
 | \+ Upcoming Stravix | \$12,864 | \$8,141 |
 | \+ Potential new starts | \$5,558 | \$0 |
-| \+ OASIS reorders (estimated) | \$9,818 | \$7,576 |
+| \+ OASIS reorders (estimated) | \$8,692 | \$6,450 |
 | **P11 forecast** | **\$83,164** | **\$68,821** |
 | P11 target | \$92,891 | \$92,891 |
 | % of target | 90% | 74% |
@@ -38,7 +38,7 @@
 | [Good Sam](#good-sam) | \$1,695 | \$11,934 | \$9,272 | **\$13,629** | **\$10,967** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$3,300 | \$5,531 | \$4,561 | **\$8,831** | **\$7,861** |
 | [Alexian Ambulatory](#x) | \$5,821 | \$0 | \$0 | **\$5,821** | **\$5,821** |
-| [NW Suburban F&A](#nw-suburban-f-a) | \$2,066 | \$3,038 | \$2,267 | **\$5,104** | **\$4,332** |
+| [NW Suburban F&A](#nw-suburban-f-a) | \$3,192 | \$1,912 | \$1,140 | **\$5,104** | **\$4,332** |
 | [St. Alexius](#st-alexius) | — | \$4,938 | \$3,106 | **\$4,938** | **\$3,106** |
 | [Romano Lombard](#romano-lombard) | \$1,235 | \$2,565 | \$2,565 | **\$3,800** | **\$3,800** |
 | [Elmhurst](#elmhurst) | \$3,116 | \$0 | \$0 | **\$3,116** | **\$3,116** |
@@ -46,7 +46,7 @@
 | [Central DuPage](#central-dupage) | \$1,210 | \$570 | \$190 | **\$1,780** | **\$1,400** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | GlenOaks | — | — | — | — | — |
-| **Total** | **\$27,089** | **\$56,075** | **\$41,732** | **\$83,164** | **\$68,821** |
+| **Total** | **\$28,216** | **\$54,948** | **\$40,606** | **\$83,164** | **\$68,821** |
 
 
 ## Account by account
@@ -195,7 +195,7 @@ Sold so far: **\$5,821** · 2 cases
 <a name="nw-suburban-f-a"></a>
 <details><summary><b>NW Suburban F&amp;A</b> · upside &#36;5,104 · downside &#36;4,332</summary>
 
-Sold so far: **\$2,066** · 3 cases
+Sold so far: **\$3,192** · 4 cases
 
 **Weekly and biweekly patients**
 
@@ -216,7 +216,7 @@ Sold so far: **\$2,066** · 3 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **Dr. Adelstein / Dr. Hussain** | OASIS Ultra 3x3.5 · 1 up / 0 down box · C.C., G.K. (R.D., S.B. on hold) | \$772 | \$0 | P11: NWSFA count 10/30 had 3 Ultra 3x3.5 on hand + the box of 5 ordered Fri 10/30 on PO Oasis11/2 (November tab: SFDC posted it 11/2, P11) = 8; C.C. and G.K. weekly = 2 a week, 8 over the 4 weeks of P11, so 0 left at pe… |
-| **Dr. Adelstein / Dr. Goldkind** | OASIS Wound 3x3.5 · 1 up / 1 down box · J.M., P.M., C.T., E.P. (+ L.W. from wk of 10/12) | \$1,127 | \$1,127 | P11: NWSFA count 10/30 had 7 Wound 3x3.5 on hand; E.P., P.M., C.T., L.W. weekly = 4 a week (J.M. on hold), 16 over P11, so AJ orders the next box of 10 (\$1,126.50) the week of 11/2 (a P11 sale, upside and downside); 1 l… |
+| **Dr. Adelstein / Dr. Goldkind** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · J.M., P.M., C.T., E.P. (+ L.W. from wk of 10/12) | — | — |   |
 | **Dr. Goldkind** | OASIS Ultra 5x7 · 0 up / 0 down boxes · M.Z. (L) | — | — |   |
 
 </details>
@@ -313,7 +313,7 @@ Sold so far: **\$190** · 1 case
 | Less Good Sam WCC stock already sold | 8 | -\$6,423 | -\$6,423 |
 | Upcoming Stravix | 7 | \$12,864 | \$8,141 |
 | Potential new starts | 14 | \$5,558 | \$0 |
-| OASIS reorders (estimated) | 9 | \$9,818 | \$7,576 |
+| OASIS reorders (estimated) | 9 | \$8,692 | \$6,450 |
 
 
 <details><summary><b>OASIS patients</b> · 20 · reorders come from the OASIS lines above</summary>

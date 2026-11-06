@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 3:51 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 4:00 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -25,7 +25,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/4 | [S.G.](../case-sheets/sg-1104.md) | Romano Lombard · Rojas | Grafix 3x3 | SG110426 · 🔁 transfer log on the sheet | \$855 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 13 · \$14,821
+## 🟡 Waiting on a PO · 12 · \$14,631
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -39,12 +39,11 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/5 | [D.K.](../case-sheets/dk-1105.md) | Alexian WCC · Halihan | Grafix 16mm | 🟠 1 day | 0003096605 | \$360 |
 | 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | Stravix 2x4 + 3x6 + VERSAJET ×2 | — |   | \$4,717.10 |
 | 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003095154 | \$360 |
-| 11/6 | A.S. | Central DuPage · Luetkehans | Grafix 16mm | — |   | \$190 |
 | 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
 | 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 7 · \$33,559
+## 🔵 Submitted, not in SFDC yet · 6 · \$31,353
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
@@ -56,19 +55,16 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 10/29 | J.B. | Alexian WCC · Adelstein | Grafix 2x3 | …286395 | \$925.35 |
 | 10/29 | D.K. | Alexian WCC · Halihan | Grafix 16mm | …286413 | \$360 |
 | 10/29 | — | Good Sam | OASIS Ultra 7x10 meshed · 1 box of 5 | PO006134008 | \$4,243.75 |
-| 11/4 | — | Alexian WCC | OASIS Wound 3x7 · 10 sheets = 1 box | …286884 | \$2,206.20 |
 
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 4
+## ⏳ Case sheets to come · 2
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
 | Date | Pt | Account | Graft | PO | Visit |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box |   | Seen Thu 10/22 |
-| 11/5 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA110526 | Seen Thu 11/5 |
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
-| 11/6 | A.S. | Central DuPage · Luetkehans | Grafix 16mm |   | Seen Fri 11/6 |
 
 <a name="stock"></a>
 ## 📦 Stock · 5
