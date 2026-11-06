@@ -122,6 +122,46 @@ def alerts_with_incoming(loc):
     return out
 
 
+def stock_users(stock, patients):
+    """Who is on each size of a wound-care-center shelf (AJ 11/6), from Chi West's own patient list: Alexian WCC and
+    Good Sam WCC. Each size gets `users` [{ini, status, freq, qty, next}]; a size with no use per week from the tracker
+    (Good Sam WCC) gets it from its grafting patients (weekly = 1 a week, every 2 weeks = 0.5, times the grafts a visit)."""
+    shelf = {'alexian': 'Alexian Brothers Wound Center', 'goodsamwcc': 'Advocate Good Samaritan Hospital'}
+    fam = lambda p: ('OASIS Ultra' if re.search(r'ultra', p, re.I) else 'OASIS Burn' if re.search(r'burn', p, re.I) else
+                     'OASIS Wound' if re.search(r'oasis', p, re.I) else 'Grafix' if re.search(r'grafix', p, re.I) else '')
+    def parts(p):
+        prod, out = fam(p.get('product') or ''), []
+        for chunk in re.split(r'\s*\+\s*|,\s*|\band\b', str(p.get('size') or '')):
+            m = re.search(r'(\d+(?:\.\d+)?\s*x\s*\d+(?:\.\d+)?|\d+\s*mm)', chunk, re.I)
+            if not m:
+                continue
+            q = re.search(r'\((?:x\s*)?(\d+)(?:\s*sheets?)?\)|\b(\d+)x\s*(?=\d+\s*x)|^\s*\((\d+)\)', chunk, re.I)
+            n = next((int(g) for g in (q.groups() if q else ()) if g), 1)
+            f = fam(chunk) or prod
+            out.append((f, re.sub(r'\s+', '', m.group(1).lower()), n))
+        return out
+    for loc in stock.get('locations', []):
+        acct = shelf.get(loc.get('key'))
+        if not acct:
+            continue
+        ppl = [p for p in patients.get('patients', []) if p.get('acct') == acct and p.get('status') in ('active', 'approved', 'pending')]
+        for s in loc.get('sizes', []):
+            sz = re.sub(r'\s+', '', str(s.get('size') or '').lower())
+            users, wk = [], 0.0
+            for p in ppl:
+                for f, size, n in parts(p):
+                    if f == s.get('product') and (sz == size or sz.startswith(size)):
+                        rate = 0.5 if re.search(r'2 weeks|biweekly', str(p.get('freq') or ''), re.I) else 1.0
+                        users.append({'ini': p.get('ini'), 'status': p.get('status'), 'freq': p.get('freq') or '', 'qty': n, 'next': p.get('next') or ''})
+                        if p.get('status') == 'active':
+                            wk += rate * n
+            s['users'] = users
+            if s.get('usePerWeek') in (None, '') and loc.get('key') == 'goodsamwcc':
+                s['usePerWeek'] = round(wk, 2)
+                s['patients'] = sum(1 for u in users if u['status'] == 'active')
+    return stock
+
+
 def build_tracker(gt):
     snap = load(os.path.join(gt, 'meta', 'snap.json'))
     fc = load(os.path.join(gt, 'meta', 'forecast.json'))
@@ -383,6 +423,7 @@ def main():
     today = core.get('today') or dt.date.today().isoformat()
     docs = {'core': core, 'cases': cases, 'forecast': fc, 'stock': stock,
             'patients': build_patients(a.patients, today, *load_extra(a.pdb, a.overlay)), 'targets': build_targets(a.targets, a.outreach, a.plans)}
+    docs['stock'] = stock_users(docs['stock'], docs['patients'])
     if not docs['patients']['names']:
         print('NOTE: no --pdb or --overlay, so patients carry no names, coverage or events', file=sys.stderr)
     stamp = dt.datetime.now(dt.timezone(dt.timedelta(hours=-6))).isoformat(timespec='seconds')
