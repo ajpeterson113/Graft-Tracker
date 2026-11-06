@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 118 patients · updated Fri 11/6, 7:00 AM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 10:16 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 22](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -69,16 +69,16 @@
 
 <a name="pending"></a>
 
-## 🟠 Pending IVRs · 6 · 1 to follow up
+## 🟠 Pending IVRs · 6 · 3 to follow up
 
 | Patient | Clinic | IVR | Coverage / notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>J.D.</b></summary>Johnny Dematropolis</details> | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 58 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinic… |
-| <details><summary><b>K.B.</b></summary>K. Bette</details> | Good Sam · Ayesh | No IVR date | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
-| **Z.G.** | Good Sam · Ayesh | No IVR date | New patient added in Chi West 11/5: Dr. Ayesh, GRAFIX 16mm every 2 weeks, first visit Thu 11/19. |
-| <details><summary><b>R.S.</b></summary>Robert Sparacio</details> | Alexian WCC · Srivastava | No IVR date |   |
+| <details><summary><b>K.B.</b></summary>K. Bette</details> | Good Sam · Ayesh | 🔴 Added 10/6 · 31 days ago · follow up | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
+| **J.D.** | NW Suburban F&A | 🔴 Added 10/18 · 19 days ago · follow up | Pending predetermination · Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination… |
+| <details><summary><b>J.D.</b></summary>Johnny  Dematropolis</details> | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 58 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinic… |
+| **Z.G.** | Good Sam · Ayesh | Added 11/5 · yesterday | New patient added in Chi West 11/5: Dr. Ayesh, GRAFIX 16mm every 2 weeks, first visit Thu 11/19. |
+| <details><summary><b>R.S.</b></summary>Robert Sparacio</details> | Alexian WCC · Srivastava | Added 11/2 · 4 days ago | New 11/2 |
 | **D.R.** | NW Suburban F&A | IVR sent 10/30 · 7 days ago | IVR sent 10/30 (BCBS) · New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
-| **J.D.** | NW Suburban F&A | No IVR date | Pending predetermination · Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination… |
 
 <a name="hold"></a>
 

@@ -2,13 +2,13 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 118 patients · updated Fri 11/6, 7:00 AM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 10:16 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · **Potential New Start 3** · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 22](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -20,8 +20,8 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | GRAFIX · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/6&nbsp;12:40&nbsp;PM** | 🟢 0 of 8 |   |
-| **C.B.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;2x3&nbsp;suggested · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;11/9** | 🟢 0 of 8 | 🔴 Next 11/9, no time<br>New patient added in Chi West 11/5 (approved): Dr. Goldkind, GRAFIX weekly, first visit Mon 11/9. Will start with either a 2x3 or 3x3 size (entered as 2x3). |
+| <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | GRAFIX · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/6&nbsp;12:40&nbsp;PM** | 🟢 – of 8 |   |
+| **C.B.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;2x3&nbsp;suggested · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;11/9** | 🟢 – of 8 | 🔴 Next 11/9, no time<br>New patient added in Chi West 11/5 (approved): Dr. Goldkind, GRAFIX weekly, first visit Mon 11/9. Will start with either a 2x3 or 3x3 size (entered as 2x3). |
 
 </details>
 
@@ -30,6 +30,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.E.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX/OASIS · Dr.&nbsp;Hussain<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:30&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 0 | 🔴 Last appt 11/5 passed, nothing new booked<br>IVRs received 11/2 (Chatter): GRAFIX PRIME/PL case 06579363 and OASIS Wound Matrix case 06579505, Dr. Hussain at NWSFAC, DFU right foot (E11.621 / L97.511), Wellpoint Federal primary, BCBS Illinois secondary — waiting on the determinations. New 10/30 (NWSFA office note from Chris): IVR sent 10/30. Appointment Mon 11/2 10:30 AM at Hoffman Estates with Dr. Hussain. Nothing ordered until the IVR comes back.<br>_11/2:_ Need to confirm time |
+| **R.E.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX/OASIS · Dr.&nbsp;Hussain<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:30&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 – | 🔴 Last appt 11/5 passed, nothing new booked<br>IVRs received 11/2 (Chatter): GRAFIX PRIME/PL case 06579363 and OASIS Wound Matrix case 06579505, Dr. Hussain at NWSFAC, DFU right foot (E11.621 / L97.511), Wellpoint Federal primary, BCBS Illinois secondary — waiting on the determinations. New 10/30 (NWSFA office note from Chris): IVR sent 10/30. Appointment Mon 11/2 10:30 AM at Hoffman Estates with Dr. Hussain. Nothing ordered until the IVR comes back.<br>_11/2:_ Need to confirm time |
 
 </details>
