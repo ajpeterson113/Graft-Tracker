@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:09 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:24 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -18,21 +18,20 @@
 
 **Consignment shelf** · counted 11/3/26 · 41 grafts · 31 OASIS sheets
 
-41 Grafix units on hand (\$47,094 consignment). 2 size(s) to reorder now. \$7,980 expiring before it can be used.
+41 Grafix units on hand (\$47,094 consignment). 1 size(s) to reorder now. \$7,980 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment
 
 > [!WARNING]
-> - **Grafix 16mm: 4 on hand (target 10–15)** · Order 11 now · runs out week of 11/02
-> - **Grafix 3x3: 3 on hand (target 5–10)** · Order 7 now
+> - **Grafix 16mm: 4 on hand (target 10–15)** · Order 6 now · runs out week of 11/09
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **16mm**<br>Grafix | 🟠 **4**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 11 | 6/wk · 0.7 wks left · out week of 11/2 · next exp 3/20/28<br><sub>All active Alexian Grafix patients are on 16mm.</sub> |
+| **16mm**<br>Grafix | 🟠 **4**<br>target&nbsp;10⁠–⁠15 | 🟠 Reorder now · order 6 | 6/wk · 1.5 wks left · out week of 11/9 · next exp 3/20/28<br><sub>On order: 5 shipped 11/6 on the evening shipping report (FedEx Priority, arriving Mon 11/9), counted in the reorder; add them to the shelf list by lot/SN when …</sub> |
 | **1.5x2**<br>Grafix | **10**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 10.0 wks left · out week of 1/11 · next exp 6/18/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 4.0 wks left · out week of 11/30 · next exp 6/9/27 |
-| **3x3**<br>Grafix | 🟠 **3**<br>target&nbsp;5⁠–⁠10 | 🟠 Reorder now · order 7 | next exp 5/2/27 |
+| **3x3**<br>Grafix | 🟠 **3**<br>target&nbsp;5⁠–⁠10 | On order | next exp 5/2/27<br><sub>On order: 5 shipped 11/6 on the evening shipping report (FedEx Priority, arriving Mon 11/9), counted in the reorder; add them to the shelf list by lot/SN when …</sub> |
 | **3x4**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🔴 7 expire before use | next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
 | **5x5**<br>Grafix | **9**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 9.0 wks left · out week of 1/4 · next exp 11/3/27 |
 | **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | No patients on it | box of 10 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
@@ -195,7 +194,7 @@
 
 Alexian Brothers Wound Center shelf. Grafix on hand updates itself as Alexian cases are filed (lot + SN); use per week comes from the patient list below. 10/5: 10 x 16mm restock shipped. 10/14: 10 more 16mm received (LYA-260221 x9, LYA-260220 x1, exp 3/3/28). 16mm recounted 10/14 1:45 PM: 14 on the shelf. 10/26: 3x3 LYA-250533\_33002 transferred out to Dr. George (another rep's territory). 11/6: restock shipped on AJ's evening shipping report (FedEx Priority 10:30, delivery 11/9): 5 x 16mm + 5 x 3x3; add them to the shelf list by lot/SN when they arrive. Every Alexian Grafix unit filed since 11/3 is accounted for in the box list.
 
-Grafix: Reorder now = on hand is below your target min (16mm 10-15 while so many patients are on it, other sizes 5-10). The order fills back up to the max; a few over the max is fine. OASIS: Reorder now = under 2 weeks of stock at the current use; the order fills back to 4 weeks.
+Grafix: Reorder now = on hand is below your target min (16mm 10-15 while so many patients are on it, other sizes 5-10). The order fills back up to the max; a few over the max is fine. OASIS: Reorder now = under 2 weeks of stock at the current use; the order fills back to 4 weeks. On order (column U) is a restock already shipped: it counts toward the target and the weeks left until it lands, then it moves to the shelf list and U is cleared.
 
 Expire before use = at the current use the unit expires before its turn comes up (sizes nobody is on: expiring within the flag window). Use counts Active and Starting (potential new start with a first visit booked); Pipeline = Approved or On hold, not counted.
 
@@ -229,22 +228,28 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 ## St. Alexius OR
 
-**Bill & replace** · counted 10/29/26 · 10 grafts
+**Bill & replace** · counted 11/6/26 · 17 grafts
 
 > [!WARNING]
-> - **Grafix 5x5: 0 on the shelf (target 7)**
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **5x5**<br>Grafix | 🟠 **0**<br>target&nbsp;7 | — | +8 incoming<br><sub>0 on the shelf (count 10/29): all 7 counted 10/22 plus LYA-260346\_55010 used on M.P. 10/29 (Dr. Singh) · 8 replacements due on bill & replace PO 66008000021395…</sub> |
+| **5x5**<br>Grafix | **7**<br>target&nbsp;7 | — | +1 incoming<br><sub>7 on the shelf (AJ 11/6): the replacements for M.P. 10/29 (Dr. Singh) on bill & replace PO 660080000213959 are in, lot/SN to add from a shelf photo · 1 more 5x…</sub> |
 | **3x6**<br>Stravix | **8**<br>target&nbsp;7 | — | next exp 7/7/27<br><sub>8 on the shelf (count 10/29 after the M.P. case): LYU-251434\_36001-36004 (exp 7/7/27) + 4 new LYU-260766\_36002, LYU-260755\_36002, LYU-260755\_36004, LYU-260668\_…</sub> |
 | **2x4**<br>Stravix | 🟠 **2**<br>target&nbsp;7 | — | +1 incoming · next exp 3/16/28<br><sub>2 on the shelf (count 10/29): LYU-260718\_24001, LYU-260719\_24002 (exp 3/16/28), new since 10/22 · LYU-251818\_24004 used on M.P. 10/29, its replacement due on P…</sub> |
 
-<details><summary><b>Units on the shelf</b> · 10</summary>
+<details><summary><b>Units on the shelf</b> · 17</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
+| Grafix | 5x5 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | LYU-260718\_24001 | 3/16/28 |   | On shelf |   |
 | Stravix | 2x4 | LYU-260719\_24002 | 3/16/28 |   | On shelf |   |
 | Stravix | 3x6 | LYU-251434\_36001 | 7/7/27 |   | On shelf |   |
@@ -258,17 +263,10 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 </details>
 
-<details><summary><b>Incoming</b> · 9</summary>
+<details><summary><b>Incoming</b> · 2</summary>
 
 | Product | Size |  |
 | :-- | :-- | :-- |
-| Grafix | 5x5 | lot/SN when it arrives |
-| Grafix | 5x5 | lot/SN when it arrives |
-| Grafix | 5x5 | lot/SN when it arrives |
-| Grafix | 5x5 | lot/SN when it arrives |
-| Grafix | 5x5 | lot/SN when it arrives |
-| Grafix | 5x5 | lot/SN when it arrives |
-| Grafix | 5x5 | lot/SN when it arrives |
 | Grafix | 5x5 | lot/SN when it arrives |
 | Stravix | 2x4 | lot/SN when it arrives |
 
@@ -295,7 +293,7 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 <details><summary><b>About this shelf</b></summary>
 
-Bill & replace stock on the OR shelf at Ascension Saint Alexius (not consignment). Each unit used in a case is billed on a St. Alexius PO and a replacement ships back to the shelf (SFDC shows the replacement serial), so it counts as a sale when used (no projection offset). Target: 7 of each size (AJ to the OR 10/7); a 2x4 restock is not in the projection. Counted 10/29 from AJ's shelf photo after Dr. Singh's M.P. case: 8 Stravix 3x6 (the 4 LYU-251434 units from 10/7 plus 4 new 3/16/28 units — the replacements for A.B. 10/7, Dr. Liao 10/16 and V.M. x2 10/22), 2 Stravix 2x4 (new, LYU-260718\_24001 and LYU-260719\_24002), 0 Grafix 5x5. The M.P. case used the whole Grafix 5x5 shelf (7 counted 10/22 + LYA-260346\_55010 stocked since) and the 2x4 LYU-251818\_24004; 9 replacements due.
+Bill & replace stock on the OR shelf at Ascension Saint Alexius (not consignment). Each unit used in a case is billed on a St. Alexius PO and a replacement ships back to the shelf (SFDC shows the replacement serial), so it counts as a sale when used (no projection offset). Target: 7 of each size (AJ to the OR 10/7); a 2x4 restock is not in the projection. Counted 10/29 from AJ's shelf photo after Dr. Singh's M.P. case: 8 Stravix 3x6 (the 4 LYU-251434 units from 10/7 plus 4 new 3/16/28 units — the replacements for A.B. 10/7, Dr. Liao 10/16 and V.M. x2 10/22), 2 Stravix 2x4 (new, LYU-260718\_24001 and LYU-260719\_24002), 0 Grafix 5x5. The M.P. case used the whole Grafix 5x5 shelf (7 counted 10/22 + LYA-260346\_55010 stocked since) and the 2x4 LYU-251818\_24004; 9 replacements due. 11/6 (AJ): 7 Grafix 5x5 from the M.P. replacement PO are on the shelf; 1 x 5x5 and the 2x4 replacement still due.
 
 </details>
 

@@ -20,6 +20,7 @@ import argparse
 import datetime as dt
 import json
 import os
+import re
 
 import openpyxl
 
@@ -44,6 +45,23 @@ def mdy(s):
         return str(s or '')
 
 
+def alerts_with_incoming(L):
+    """Stock alerts with what's already on the way for that size (AJ 11/6), same wording as Chi West."""
+    out = []
+    for a in L.get('alerts') or []:
+        a = dict(a)
+        for s in L.get('sizes') or []:
+            n = s.get('incoming') or 0
+            if not n:
+                m = re.match(r'\s*On order:\s*(\d+)', str(s.get('note') or ''))
+                n = int(m.group(1)) if m else 0
+            if n and str(a.get('title', '')).startswith(f"{s.get('product')} {s.get('size')}:"):
+                m = re.search(r'arriving ([A-Z][a-z]{2} \d{1,2}/\d{1,2})', str(s.get('note') or ''))
+                a['text'] = (a.get('text') or '') + (' · ' if a.get('text') else '') + f"{int(n)} on order" + (f", arriving {m.group(1)}" if m else '')
+        out.append(a)
+    return out
+
+
 def stock_items(app_out):
     path = os.path.join(app_out, 'meta', 'stock.json')
     out = {}
@@ -55,7 +73,7 @@ def stock_items(app_out):
         if not acct or not L.get('alerts'):
             continue
         a = out.setdefault(acct, {'items': [], 'src': []})
-        for al in L['alerts']:
+        for al in alerts_with_incoming(L):
             a['items'].append({'kind': 'stock', 'level': al.get('level') or 'warn',
                                'title': f"{L.get('name')}: {al.get('title', '')}" if acct == GOOD_SAM else al.get('title', ''),
                                'text': al.get('text') or ''})

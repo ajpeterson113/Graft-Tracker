@@ -97,6 +97,34 @@ def rows(ws, start=2):
 
 
 # ---------------------------------------------------------------- sources
+def incoming_of(s):
+    """Grafts on the way to a shelf: an OR shelf's Incoming units, or a restock already shipped to the Alexian WCC
+    shelf (the Stock tab's On order column, carried in the size note as "On order: N ..."). AJ 11/6."""
+    if s.get('incoming'):
+        return int(s['incoming'])
+    m = re.match(r'\s*On order:\s*(\d+)', str(s.get('note') or ''))
+    return int(m.group(1)) if m else 0
+
+
+def arriving_of(s):
+    m = re.search(r'arriving ([A-Z][a-z]{2} \d{1,2}/\d{1,2})', str(s.get('note') or ''))
+    return m.group(1) if m else ''
+
+
+def alerts_with_incoming(loc):
+    """Each stock alert says what's already on the way for its size (AJ 11/6: add in the reorder placed)."""
+    out = []
+    for a in loc.get('alerts', []) or []:
+        a = dict(a)
+        for s in loc.get('sizes', []) or []:
+            n = incoming_of(s)
+            if n and str(a.get('title', '')).startswith(f"{s.get('product')} {s.get('size')}:"):
+                arr = arriving_of(s)
+                a['text'] = (a.get('text') or '') + (' · ' if a.get('text') else '') + f"{n} on order" + (f", arriving {arr}" if arr else '')
+        out.append(a)
+    return out
+
+
 def build_tracker(gt):
     snap = load(os.path.join(gt, 'meta', 'snap.json'))
     fc = load(os.path.join(gt, 'meta', 'forecast.json'))
@@ -128,10 +156,10 @@ def build_tracker(gt):
     locs = []
     for l in (stock or {}).get('locations', []):
         locs.append({'name': l.get('name'), 'acct': l.get('acct'), 'kind': l.get('kind'), 'key': l.get('key'), 'counted': l.get('counted'),
-                     'summary': l.get('summary'), 'about': cut(l.get('about'), 300), 'alerts': l.get('alerts', []),
+                     'summary': l.get('summary'), 'about': cut(l.get('about'), 300), 'alerts': alerts_with_incoming(l),
                      'rules': cut(l.get('rules'), 300) if isinstance(l.get('rules'), str) else l.get('rules'),
                      'sizes': [{k: s.get(k) for k in ('product', 'size', 'onHand', 'min', 'max', 'usePerWeek', 'patients', 'runsOut',
-                                                       'weeksLeft', 'order', 'status', 'pipeline', 'value', 'nextExp')} | {'note': cut(s.get('note'), 160)}
+                                                       'weeksLeft', 'order', 'status', 'pipeline', 'value', 'nextExp')} | {'note': cut(s.get('note'), 160), 'incoming': incoming_of(s), 'arriving': arriving_of(s)}
                                for s in l.get('sizes', [])],
                      'boxes': [{k: b.get(k) for k in ('product', 'size', 'lot', 'left', 'perBox', 'exp', 'flag')} for b in l.get('boxes', [])],
                      'incoming': l.get('incoming')})

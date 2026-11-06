@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:09 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:24 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -42,20 +42,6 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
 | 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
 
-<a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 6 · \$31,353
-
-Upload an SFDC report in the app and Claude marks what shows up.
-
-| Date | Pt | Account | Graft | PO | Amount |
-| :-- | :-- | :-- | :-- | :-- | --: |
-| 10/28 | A.P. | Alexian WCC · Joshi | Grafix 16mm | …286282 | \$360 |
-| 10/28 | R.C. | Good Sam · Luetkehans | Stravix 3x6 ×2 | PO006131804 | \$5,311 |
-| 10/29 | M.P. | St. Alexius · Singh | Grafix 5x5 ×8 + Stravix 2x4 ×1 | …213959 | \$20,153.10 |
-| 10/29 | J.B. | Alexian WCC · Adelstein | Grafix 2x3 | …286395 | \$925.35 |
-| 10/29 | D.K. | Alexian WCC · Halihan | Grafix 16mm | …286413 | \$360 |
-| 10/29 | — | Good Sam | OASIS Ultra 7x10 meshed · 1 box of 5 | PO006134008 | \$4,243.75 |
-
 <a name="sheets"></a>
 ## ⏳ Case sheets to come · 2
 
@@ -67,15 +53,13 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
 
 <a name="stock"></a>
-## 📦 Stock · 5
+## 📦 Stock · 3
 
 > [!CAUTION]
 > - **Grafix 3x4: 7 expire 12/18/26** · No patients on it · \$7,980 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
-> - **Grafix 16mm: 4 on hand (target 10–15)** · Order 11 now · runs out week of 11/02 · [Alexian WCC](stock.md#alexian)
-> - **Grafix 3x3: 3 on hand (target 5–10)** · Order 7 now · [Alexian WCC](stock.md#alexian)
-> - **Grafix 5x5: 0 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
+> - **Grafix 16mm: 4 on hand (target 10–15)** · Order 6 now · runs out week of 11/09 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
