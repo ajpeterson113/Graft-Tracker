@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 118 patients · updated Fri 11/6, 4:49 PM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 4:52 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -115,9 +115,9 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **7:30&nbsp;AM** | <details><summary><b>E.D.</b></summary>Elise Drumm</details> | **OR** · STRAVIX 2x4 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Bryniczka | ✅ Grafted · STRAVIX PL 2x4 LYU-260236\_24001 |
 | **12:35&nbsp;PM** | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | **Done** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Other |
-| **12:40&nbsp;PM** | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | **A1** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ✅ Grafted A1 · GRAFIX 16mm LYA-260256\_16008. Logged in Chi West 11/6 |
 | **1:00&nbsp;PM** | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | **A4** · OASIS Wound Matrix 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas | 🟠 Verify: App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count · 👤&nbsp;Pete&nbsp;covering |
 | — | <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | GRAFIX 5x5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Other |
+| — | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | **A1** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ✅ Grafted A1 · GRAFIX 16mm LYA-260256\_16008. Logged in Chi West 11/6 |
 | — | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | OASIS Wound 2x4 + 3x6 + VERSAJET | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Lucas | ✅ Grafted · OR case: Stravix 2x4 LYU-251827\_24004 + Stravix 3x6 LYU-251697\_36005 (both from the Alexian Ambulatory shelf) + VERSAJET Exact 45°, 14 mm (lot 51417253). Case sheet filed to the tracker 11/6 (Novembe… |
 | — | <details><summary><b>K.C.</b></summary>Karen Cook</details> | **OR** · STRAVIX 2x4 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Greg&nbsp;Bryniczka | ✅ Grafted · STRAVIX PL 2x4 LYU-260638\_24001 |
 | — | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | **A5** · GRAFIX 16mm | Central&nbsp;DuPage<br>Dr.&nbsp;Luetkehans | ✅ Grafted A5 · Send one more in might not need it |
@@ -143,7 +143,7 @@
 **Covering this week:** Not covered 2 · Pete 1
 
 
-<details><summary><b>Next week</b> · 28 visits booked so far</summary>
+<details><summary><b>Next week</b> · 29 visits booked so far</summary>
 
 <a name="next-mon"></a>
 ### Monday, Nov 9
@@ -214,7 +214,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **8:00&nbsp;AM** | <details><summary><b>J.B.</b></summary>J. Buschmann</details> | **A3** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein · MA&nbsp;Joe |   |
 | **1:00&nbsp;PM** | <details><summary><b>D.F.</b></summary>Dominga Flores</details> | **A7** · GRAFIX 5x5 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans |   |
-| **1:15&nbsp;PM** | <details><summary><b>D.K.</b></summary>David Knopp</details> | **A4** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Halihan |   |
+| **1:15&nbsp;PM** | <details><summary><b>D.K.</b></summary>David Knopp</details> | **A4** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Halihan | 🟠&nbsp;Verify:&nbsp;Verify&nbsp;time |
 | **1:30&nbsp;PM** | <details><summary><b>H.P.</b></summary>Hiten Patel</details> | **A3** · OASIS Wound 3x3.5 | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Ramani |   |
 | **1:30&nbsp;PM** | **M.A.** | **A3** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind |   |
 | **1:45&nbsp;PM** | **L.W.** | **A5** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
@@ -236,12 +236,13 @@
 <a name="next-fri"></a>
 ### Friday, Nov 13
 
-2 visits · **Grafts:** GRAFIX 16mm · STRAVIX
+3 visits · **Grafts:** GRAFIX · GRAFIX 16mm · STRAVIX
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **7:00&nbsp;AM** | <details><summary><b>S.W.</b></summary>S. Wyoski</details> | **OR** · STRAVIX | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh |   |
 | **12:00&nbsp;PM** | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | **A6** · GRAFIX 16mm | Central&nbsp;DuPage · CDFA<br>Dr.&nbsp;Luetkehans |   |
+| **12:40&nbsp;PM** | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | **A2** · GRAFIX | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Mallory | 🟠&nbsp;Verify:&nbsp;Verify&nbsp;time |
 
 
 🔴 **No follow-up · usually seen Fridays** · 1
