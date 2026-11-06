@@ -2,16 +2,16 @@
 
 # This week
 
-**BIOT Chicago West** · 119 patients · updated Fri 11/6, 4:00 PM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 4:01 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;119](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 34](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -20,7 +20,7 @@
 
 | [Mon 2](#mon) | [Tue 3](#tue) | [Wed 4](#wed) | [Thu 5](#thu) | [Fri 6 · today](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **7** | **9** | **8** | **18** | **7** 🟠 🔴 |
+| **7** | **9** | **8** | **18** | **7** 🟠 |
 
 
 <a name="mon"></a>
@@ -109,20 +109,12 @@
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **7:30&nbsp;AM** | <details><summary><b>E.D.</b></summary>Elise Drumm</details> | **OR** · STRAVIX 2x4 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Bryniczka | ✅ Grafted · STRAVIX PL 2x4 LYU-260236\_24001 |
-| **9:45&nbsp;AM** | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | **OR** · STRAVIX + VERSAJET 2x4 + 3x6 + VERSAJET | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Lucas | ✅ Grafted · OR case: Stravix 2x4 LYU-251827\_24004 + Stravix 3x6 LYU-251697\_36005 (both from the Alexian Ambulatory shelf) + VERSAJET Exact 45°, 14 mm (lot 51417253). Case sheet filed to the tracker 11/6 (November row 30); PO to come |
+| **9:45&nbsp;AM** | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | OASIS Wound 2x4 + 3x6 + VERSAJET | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Lucas | ✅ Grafted · OR case: Stravix 2x4 LYU-251827\_24004 + Stravix 3x6 LYU-251697\_36005 (both from the Alexian Ambulatory shelf) + VERSAJET Exact 45°, 14 mm (lot 51417253). Case sheet filed to the tracker 11/6 (November row 30); PO to come |
 | **12:00&nbsp;PM** | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | **A5** · GRAFIX 16mm | Central&nbsp;DuPage · CDFA<br>Dr.&nbsp;Luetkehans | ✅ Grafted A5 · Send one more in might not need it |
 | **12:35&nbsp;PM** | <details><summary><b>D.S.</b></summary>D. Stanbury</details> | **Done** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Other |
 | **12:40&nbsp;PM** | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | **A1** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ✅ Grafted A1 · GRAFIX 16mm LYA-260256\_16008. Logged in Chi West 11/6 |
 | **1:00&nbsp;PM** | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | **A4** · OASIS Wound Matrix 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas | 🟠 Verify: App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count · 👤&nbsp;Pete&nbsp;covering |
 | — | <details><summary><b>K.C.</b></summary>Karen Cook</details> | **OR** · STRAVIX 2x4 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Greg&nbsp;Bryniczka | ✅ Grafted · STRAVIX PL 2x4 LYU-260638\_24001 |
-
-
-🔴 **No follow-up · usually seen Fridays** · 1
-
-
-| Patient | Clinic | Graft | Surgeon | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory | OASIS Wound (2x) 3x3.5 | Lucas | Verify: Fri 11/6 is a VERSAJET case instead (its own entry), so book his next OASIS visit after it |
 
 <a name="glance"></a>
 
@@ -132,14 +124,14 @@
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-- |
 | **Good Sam** | 1 | 1 | – | 7 | – | 9 | GRAFIX 16mm ×2 · GRAFIX 1.5x2 ×1 · GRAFIX 3x4 ×1 · GRAFIX 5x5 ×1 · GRAFIX 5x5 + 3x4 ×1 · STRAVIX 2x4 ×1 |
 | **Alexian WCC** | 2 | 5 | 4 | 4 | 2 | 17 | GRAFIX 16mm ×5 · OASIS Wound 3x7 ×4 · GRAFIX 1.5x2 ×1 · GRAFIX 2x3 ×1 · GRAFIX 5x5 ×1 · OASIS Wound 3x3.5 ×1 · Oasis burn 3x7 ×1 |
-| **Alexian Ambulatory** | – | – | – | 1 | 1 | 2 | STRAVIX + VERSAJET 2x4 + 3x6 + VERSAJET ×1 |
+| **Alexian Ambulatory** | – | – | – | 1 | 1 | 2 | OASIS Wound 2x4 + 3x6 + VERSAJET ×1 |
 | **NW Suburban F&A** | 4 | – | 2 | 4 | – | 10 | OASIS Ultra 3x3.5 ×3 · OASIS Wound 3x3.5 ×3 · GRAFIX 16mm ×1 · OASIS Ultra 3x7 ×1 |
 | **St. Joseph Elgin** | – | 2 | – | 2 | 3 | 7 | STRAVIX 2x4 ×2 · GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · GRAFIX/OASIS ×1 · OASIS Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 |
 | **Central DuPage** | – | – | – | – | 1 | 1 | GRAFIX 16mm ×1 |
 | **Suburban F&A** | – | – | 1 | – | – | 1 |   |
 | **Romano Lombard** | – | – | 1 | – | – | 1 | GRAFIX 3x3 ×1 |
 | **Ankle and Foot Surgery LLC** | – | 1 | – | – | – | 1 | STRAVIX ×1 |
-| **All clinics** | **7** | **9** | **8** | **18** | **7** | **49** | GRAFIX 16mm ×9 · OASIS Wound 3x3.5 ×5 · OASIS Wound 3x7 ×4 · OASIS Ultra 3x3.5 ×3 · STRAVIX 2x4 ×3 · GRAFIX 1.5x2 ×2 · GRAFIX 2x3 ×2 · GRAFIX 3x3 ×2 · GRAFIX 5x5 ×2 · GRAFIX 3x4 ×1 · GRAFIX 5x5 + 3x4 ×1 · GRAFIX/OASIS ×1 · OASIS Ultra 3x7 ×1 · OASIS Wound Matrix 3x3.5 ×1 · Oasis burn 3x7 ×1 · STRAVIX ×1 · STRAVIX + VERSAJET 2x4 + 3x6 + VERSAJET ×1 |
+| **All clinics** | **7** | **9** | **8** | **18** | **7** | **49** | GRAFIX 16mm ×9 · OASIS Wound 3x3.5 ×5 · OASIS Wound 3x7 ×4 · OASIS Ultra 3x3.5 ×3 · STRAVIX 2x4 ×3 · GRAFIX 1.5x2 ×2 · GRAFIX 2x3 ×2 · GRAFIX 3x3 ×2 · GRAFIX 5x5 ×2 · GRAFIX 3x4 ×1 · GRAFIX 5x5 + 3x4 ×1 · GRAFIX/OASIS ×1 · OASIS Ultra 3x7 ×1 · OASIS Wound 2x4 + 3x6 + VERSAJET ×1 · OASIS Wound Matrix 3x3.5 ×1 · Oasis burn 3x7 ×1 · STRAVIX ×1 |
 
 
 **Covering this week:** Not covered 2 · Pete 1
@@ -251,6 +243,6 @@
 
 | Patient | Clinic | Graft | Surgeon | Why |
 | :-- | :-- | :-- | :-- | :-- |
-| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory | OASIS Wound (2x) 3x3.5 | Lucas | Verify: Fri 11/6 is a VERSAJET case instead (its own entry), so book his next OASIS visit after it |
+| <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | Alexian Ambulatory | OASIS Wound (2x) 3x3.5 | Lucas | Verify: Book his next OASIS visit (after the 11/6 OR case) |
 
 </details>

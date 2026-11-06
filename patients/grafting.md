@@ -2,16 +2,16 @@
 
 # Grafting
 
-**BIOT Chicago West** · 119 patients · updated Fri 11/6, 4:00 PM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 4:01 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;119](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-**Grafting 36** · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 34](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
+**Grafting 36** · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -57,7 +57,7 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>H.P.</b></summary>Hiten Patel</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Ramani<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;1:30&nbsp;PM** | 🟢 2 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:30 PM (held 11/5, possible infection)<br>A1 Thu 10/22 1:30 PM: OASIS Wound 3x3.5, lot LB1751182 (case sheet filed to the tracker 10/22, October row 76). Billed as the whole box of 10; PO to come. 9 sheets left in the box for this patient. Weekly; next Thu 10/29 1:30 PM. |
-| <details><summary><b>M.C.</b></summary>Martin Cozzi</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;(2x)&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Last&nbsp;graft&nbsp;10/30** | 🟡 11 | 🔴 Verify: Fri 11/6 is a VERSAJET case instead (its own entry), so book his next OASIS visit after it<br>Fri 11/6 9:45 AM at Alexian Ambulatory is now a VERSAJET case with Dr. Lucas (AJ 11/2), not an OASIS visit; it has its own VERSAJET entry. Next OASIS visit TBD. A11 Fri 10/30: two OASIS Wound 3x3.5 (the 3x7 wasn't delivered in time).<br>_10/30:_ Used two oasis wound 3x3.5 because oasis wound 3x7 didn’t get delivered in time. Lucas wants versajet at ambulatory for this patient next week 11/6 |
+| <details><summary><b>M.C.</b></summary>Martin Cozzi</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;(2x)&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Last&nbsp;graft&nbsp;11/6** | 🟡 11 | 🔴 Verify: Book his next OASIS visit (after the 11/6 OR case)<br>Weekly OASIS Wound patient (A11 Fri 10/30: two OASIS Wound 3x3.5, the 3x7 wasn't delivered in time). OR case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas in place of his OASIS visit: Stravix PL 2x4 LYU-251827\_24004 + Stravix PL 3x6 LYU-251697\_36005 from the Alexian Ambulatory shelf + VERSAJET Exact assembly 45°, 14 mm; filed to the tracker 11/6 (November row 30), bill-only PO to come (FIN 3004469). One record for both (AJ 11/6). Next OASIS visit TBD.<br>_11/6:_ Merged the OR case entry (Stravix + VERSAJET 11/6) into this record (AJ 11/6: same patient). |
 
 </details>
 
