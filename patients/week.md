@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 118 patients · updated Fri 11/6, 5:00 PM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 5:03 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -30,13 +30,13 @@
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
-| **11:15&nbsp;AM** | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | **A13** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A13 |
-| **1:15&nbsp;PM** | <details><summary><b>P.M.</b></summary>Paul Michael</details> | **A9** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A9 |
 | — | **T.A.** | **A1 · OR** · STRAVIX 2x4 | Good&nbsp;Sam<br>Dr.&nbsp;Farhan | ✅&nbsp;Grafted&nbsp;A1&nbsp;·&nbsp;LYU-260468\_24003 · 5&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op |
 | — | <details><summary><b>T.A.</b></summary>Timothy Albertson</details> | **A1 · OR** · STRAVIX 2x4 | Good&nbsp;Sam<br>Dr.&nbsp;Farhan | ✅&nbsp;Grafted&nbsp;A1&nbsp;·&nbsp;LYU-260468\_24003 |
 | — | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | **A5** · Oasis burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ✅&nbsp;Grafted&nbsp;A5 |
 | — | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | **A2** · GRAFIX 1.5x2 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ✅&nbsp;Grafted&nbsp;A2&nbsp;·&nbsp;LYA-260068\_15005 |
+| — | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | **A13** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A13 |
 | — | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A4** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A4 |
+| — | <details><summary><b>P.M.</b></summary>Paul Michael</details> | **A9** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A9 |
 | — | <details><summary><b>P.S.</b></summary>Peter S.</details> | GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Goldkind | ➖ Not grafted · Held: Waiting until next week to make sure wound is healed. |
 
 
@@ -66,14 +66,14 @@
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
-| **10:45&nbsp;AM** | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | **A7** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | ✅&nbsp;Grafted&nbsp;A7 |
 | **3:10&nbsp;PM** | <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | **On hold** · GRAFIX | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ➖ Not grafted · Insurance: OOP is too high |
-| **3:45&nbsp;PM** | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | **A5** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | ✅&nbsp;Grafted&nbsp;A5 |
 | **4:45&nbsp;PM** | **Upcoming · Dr. McKanna** | **OR** · STRAVIX | Suburban&nbsp;F&A · Bloomingdale,&nbsp;303&nbsp;E&nbsp;Army&nbsp;Trail&nbsp;Rd&nbsp;Ste&nbsp;101<br>Dr.&nbsp;McKanna | ➖ Not grafted · Other — sample patient (donated Stravix), never a sale. Follow up with Dr. McKanna Wed 11/11 on how they're doing (AJ). |
 | — | <details><summary><b>L.J.</b></summary>Louis Marie Jacques</details> | OASIS Ultra 7x10 (x2) | Good&nbsp;Sam<br>Dr.&nbsp;Bach | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;No-show |
 | — | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | **A5** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain | ✅&nbsp;Grafted&nbsp;A5 |
 | — | <details><summary><b>D.L.</b></summary>David Lazzaro</details> | **On hold** · Oasis Burn | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Insurance:&nbsp;OOP&nbsp;too&nbsp;high |
 | — | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | **A1** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi | ✅&nbsp;Grafted&nbsp;A1 |
+| — | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | **A5** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Goldkind | ✅&nbsp;Grafted&nbsp;A5 |
+| — | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | **A7** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Goldkind | ✅&nbsp;Grafted&nbsp;A7 |
 | — | <details><summary><b>S.G.</b></summary>Sergio Garcia</details> | **A1** · GRAFIX 3x3 | Romano&nbsp;Lombard<br>Dr.&nbsp;Rojas | ✅&nbsp;Grafted&nbsp;A1&nbsp;·&nbsp;LYA-250742\_33004 |
 
 
@@ -88,7 +88,6 @@
 | **10:00&nbsp;AM** | <details><summary><b>C.B.</b></summary>C. Baker</details> | **A4** · GRAFIX 3x4 | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh | ✅ Grafted A4 · Dr. Ayesh would like a 1.5x2 for next appointment |
 | **10:15&nbsp;AM** | <details><summary><b>K.P.</b></summary>K. Prince</details> | **A8** · GRAFIX 5x5 + 3x4 | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh | ✅ Grafted A8 · Skipping next application. Going to do santyl and then resume after |
 | **10:30&nbsp;AM** | <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | **A8 · Done** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain | ✅&nbsp;Grafted&nbsp;A8 |
-| **10:30&nbsp;AM** | **R.E.** | GRAFIX/OASIS | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain | ➖ Not grafted · Other: Chris texted saying that we’re starting the graft on Monday now |
 | **1:30&nbsp;PM** | <details><summary><b>J.C.</b></summary>James Churchill</details> | **A12** · OASIS Wound 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Bhagat | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
 | **2:00&nbsp;PM** | **C.T.** | **A5 · Done** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A5 |
 | **2:15&nbsp;PM** | <details><summary><b>V.T.</b></summary>Virginia thomas</details> | **On hold** · GRAFIX | Alexian&nbsp;WCC<br>Dr.&nbsp;Halihan | ➖ Not grafted · Abi results came back with a 75% blockage so holding until she gets procedure |
@@ -105,6 +104,7 @@
 | — | <details><summary><b>H.P.</b></summary>Hiten Patel</details> | OASIS Wound 3x3.5 | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Ramani | ➖ Not grafted · Infection: Held this week due to possible infection |
 | — | **L.W.** | **A4** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A4 |
 | — | **M.A.** | **A2** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Goldkind | ✅&nbsp;Grafted&nbsp;A2 |
+| — | **R.E.** | GRAFIX/OASIS | NW&nbsp;Suburban&nbsp;F&A<br>Dr.&nbsp;Hussain | ➖ Not grafted · Other: Chris texted saying that we’re starting the graft on Monday now |
 
 
 <a name="fri"></a>
@@ -144,29 +144,23 @@
 **Covering this week:** Not covered 2 · Pete 1
 
 
-<details><summary><b>Next week</b> · 30 visits booked so far</summary>
+<details><summary><b>Next week</b> · 36 visits booked so far</summary>
 
 <a name="next-mon"></a>
 ### Monday, Nov 9
 
-5 visits · **Grafts:** GRAFIX 1.5x2 · GRAFIX 16mm · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7 · OASIS Ultra 3x3.5
+8 visits · **Grafts:** OASIS Ultra 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 16mm · GRAFIX 2x3 · GRAFIX/OASIS · OASIS Burn Oasis burn 3x7 · OASIS Wound 3x3.5
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:45&nbsp;AM** | <details><summary><b>P.S.</b></summary>Peter S.</details> | **A4** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind | 🟠 Verify: App # doesn't match: AJ's calendar has A5 on Mon 11/2, the app has 3 logged (next A4) — confirm the count |
+| **10:15&nbsp;AM** | <details><summary><b>P.M.</b></summary>Paul Michael</details> | **A10** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 🟠 Verify: App # doesn't match: AJ's calendar has A11 on Mon 11/2, the app has 8 logged (next A9) — confirm the count |
+| **10:15&nbsp;AM** | **R.E.** | **A1 · New start** · GRAFIX/OASIS | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain |   |
 | **10:45&nbsp;AM** | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A5** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 🟠 Verify: App # doesn't match: AJ's calendar has A6 on Mon 11/2, the app has 3 logged (next A4) — confirm the count |
+| **11:15&nbsp;AM** | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | **A14** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 🟠 Verify: App # doesn't match: AJ's calendar has A14 on Mon 11/2, the app has 12 logged (next A13) — confirm the count |
 | **12:50&nbsp;PM** | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | **A6** · OASIS Burn Oasis burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **1:15&nbsp;PM** | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | **A3** · GRAFIX 1.5x2 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **2:15&nbsp;PM** | **C.B.** | **A1 · New start** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Goldkind · MA&nbsp;Denise |   |
-
-
-🔴 **No follow-up · usually seen Mondays** · 2
-
-
-| Patient | Clinic | Graft | Surgeon | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| <details><summary><b>C.C.</b></summary>Constance Campbell</details> | NW Suburban F&A | OASIS Ultra 3x3.5 | Adelstein | Last appt 11/2 passed, nothing new booked |
-| <details><summary><b>P.M.</b></summary>Paul Michael</details> | NW Suburban F&A | OASIS Wound 3x3.5 | Adelstein | Last appt 11/2 passed, nothing new booked |
 
 <a name="next-tue"></a>
 ### Tuesday, Nov 10
@@ -187,7 +181,7 @@
 <a name="next-wed"></a>
 ### Wednesday, Nov 11
 
-5 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Ultra 7x10 ×2 · GRAFIX 3x3 · OASIS Wound 3x3.5 · Oasis Burn
+7 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Ultra 7x10 ×2 · OASIS Wound 3x3.5 ×2 · GRAFIX 3x3 · Oasis Burn
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
@@ -196,15 +190,8 @@
 | **11:40&nbsp;AM** | <details><summary><b>S.G.</b></summary>Sergio Garcia</details> | **A2** · GRAFIX 3x3 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas |   |
 | **1:45&nbsp;PM** | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | **A6** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain · MA&nbsp;Denise |   |
 | **3:30&nbsp;PM** | <details><summary><b>D.L.</b></summary>David Lazzaro</details> | **A1 · On hold** · Oasis Burn | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
-
-
-🔴 **No follow-up · usually seen Wednesdays** · 2
-
-
-| Patient | Clinic | Graft | Surgeon | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | NW Suburban F&A | OASIS Ultra 3x7 | Goldkind | Last appt 11/4 passed, nothing new booked |
-| <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | NW Suburban F&A | OASIS Wound 3x3.5 | Goldkind | Last appt 11/4 passed, nothing new booked |
+| **3:45&nbsp;PM** | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | **A6** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | 🟠 Verify: App # doesn't match: AJ's calendar has A6 on Wed 11/4, the app has 4 logged (next A5) — confirm the count |
+| **5:00&nbsp;PM** | **D.R.** | **Pending** | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind |   |
 
 <a name="next-thu"></a>
 ### Thursday, Nov 12
@@ -214,16 +201,16 @@
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:00&nbsp;AM** | <details><summary><b>J.B.</b></summary>J. Buschmann</details> | **A3** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein · MA&nbsp;Joe |   |
+| **9:45&nbsp;AM** | **M.A.** | **A3** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind |   |
 | **1:00&nbsp;PM** | <details><summary><b>D.F.</b></summary>Dominga Flores</details> | **A7** · GRAFIX 5x5 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans |   |
 | **1:15&nbsp;PM** | <details><summary><b>D.K.</b></summary>David Knopp</details> | **A4** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Halihan | 🟠&nbsp;Verify:&nbsp;Verify&nbsp;time |
 | **1:30&nbsp;PM** | <details><summary><b>H.P.</b></summary>Hiten Patel</details> | **A3** · OASIS Wound 3x3.5 | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Ramani |   |
-| **1:30&nbsp;PM** | **M.A.** | **A3** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind |   |
-| **1:45&nbsp;PM** | **L.W.** | **A5** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
+| **1:30&nbsp;PM** | **L.W.** | **A5** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 | **2:00&nbsp;PM** | <details><summary><b>P.J.</b></summary>Paul Jagust</details> | **A7** · GRAFIX (2) 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans |   |
 | **2:45&nbsp;PM** | <details><summary><b>L.D.</b></summary>L. Dituri</details> | **A28** · GRAFIX 1.5x2 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans |   |
 
 
-🔴 **No follow-up · usually seen Thursdays** · 5
+🔴 **No follow-up · usually seen Thursdays** · 4
 
 
 | Patient | Clinic | Graft | Surgeon | Why |
@@ -231,18 +218,18 @@
 | <details><summary><b>W.K.</b></summary>W. Knudsen</details> | Good Sam | GRAFIX 16mm | Ayesh | Last appt 11/5 passed, nothing new booked |
 | <details><summary><b>C.B.</b></summary>C. Baker</details> | Good Sam | GRAFIX 1.5x2 | Ayesh | Last appt 11/5 passed, nothing new booked |
 | <details><summary><b>K.P.</b></summary>K. Prince</details> | Good Sam | GRAFIX 5x5 + 3x4 | Ayesh | Last appt 11/5 passed, nothing new booked |
-| **R.E.** | NW Suburban F&A | GRAFIX/OASIS | Hussain | Last appt 11/5 passed, nothing new booked |
 | <details><summary><b>J.C.</b></summary>James Churchill</details> | St. Joseph Elgin | OASIS Wound 3x3.5 | Bhagat | Last appt 11/5 passed, nothing new booked |
 
 <a name="next-fri"></a>
 ### Friday, Nov 13
 
-4 visits · **Grafts:** GRAFIX · GRAFIX 16mm · OASIS Wound (2x) 3x3.5 · STRAVIX
+5 visits · **Grafts:** GRAFIX · GRAFIX 16mm · OASIS Ultra 3x7 · OASIS Wound (2x) 3x3.5 · STRAVIX
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **7:00&nbsp;AM** | <details><summary><b>S.W.</b></summary>S. Wyoski</details> | **OR** · STRAVIX | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh |   |
 | **9:45&nbsp;AM** | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | **A12** · OASIS Wound (2x) 3x3.5 | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Lucas |   |
+| **11:30&nbsp;AM** | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | **A8** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | 🟠 Verify: App # doesn't match: AJ's calendar has A9 on Wed 11/4, the app has 6 logged (next A7) — confirm the count |
 | **12:00&nbsp;PM** | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | **A6** · GRAFIX 16mm | Central&nbsp;DuPage · CDFA<br>Dr.&nbsp;Luetkehans |   |
 | **12:40&nbsp;PM** | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | **A2** · GRAFIX | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Mallory | 🟠&nbsp;Verify:&nbsp;Verify&nbsp;time |
 

@@ -2,13 +2,13 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 118 patients · updated Fri 11/6, 5:00 PM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 5:03 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · **Potential New Start 2** · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -29,6 +29,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.E.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX/OASIS · Dr.&nbsp;Hussain<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:30&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 0 | 🔴 Last appt 11/5 passed, nothing new booked<br>IVRs received 11/2 (Chatter): GRAFIX PRIME/PL case 06579363 and OASIS Wound Matrix case 06579505, Dr. Hussain at NWSFAC, DFU right foot (E11.621 / L97.511), Wellpoint Federal primary, BCBS Illinois secondary — waiting on the determinations. New 10/30 (NWSFA office note from Chris): IVR sent 10/30. Appointment Mon 11/2 10:30 AM at Hoffman Estates with Dr. Hussain. Nothing ordered until the IVR comes back.<br>_11/2:_ Need to confirm time |
+| **R.E.** | GRAFIX/OASIS · Dr.&nbsp;Hussain<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;10:15&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 0 | IVRs received 11/2 (Chatter): GRAFIX PRIME/PL case 06579363 and OASIS Wound Matrix case 06579505, Dr. Hussain at NWSFAC, DFU right foot (E11.621 / L97.511), Wellpoint Federal primary, BCBS Illinois secondary — waiting on the determinations. New 10/30 (NWSFA office note from Chris): IVR sent 10/30. Appointment Mon 11/2 10:30 AM at Hoffman Estates with Dr. Hussain. Nothing ordered until the IVR comes back.<br>_11/2:_ Need to confirm time |
 
 </details>
