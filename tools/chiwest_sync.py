@@ -150,6 +150,15 @@ NEW_FIELDS = {'acct': 'account', 'prov': 'provider', 'freq': 'freq', 'notes': 'n
               'last': 'last', 'caseDate': 'caseDate', 'pa': 'pa'}
 
 
+def dnotes_of(d):
+    """Notes AJ added on a patient in the Patients app (dnotes), text only (photo notes keep their caption)."""
+    out = []
+    for n in d.get('dnotes') or []:
+        if isinstance(n, dict) and str(n.get('note') or '').strip():
+            out.append({'date': n.get('date') or '', 'note': cut(n.get('note'), 300)})
+    return out[-12:]
+
+
 def load_extra(pdb, overlay):
     """Names, coverage, next-visit location, verify flags and events, by patient id."""
     ex, events = {}, []
@@ -162,6 +171,7 @@ def load_extra(pdb, overlay):
                        'size': d.get('size') or '', 'product': d.get('product') or '', 'log': d.get('log') or [],
                        'ivrDate': d.get('ivrDate') or '', 'paExp': d.get('paExp') or ''}
             ex[pid].update({k: d.get(src) or '' for k, src in NEW_FIELDS.items()})
+            ex[pid]['dnotes'] = dnotes_of(d)
         for eid, d in loadall(os.path.join(pdb, 'events')).items():
             d = d.get('data', d)
             events.append({'id': eid, 'title': d.get('title') or d.get('kind') or 'Event', 'kind': d.get('kind') or 'Other', 'place': d.get('place') or '',
@@ -173,6 +183,7 @@ def load_extra(pdb, overlay):
             ex[d['id']]['ini'] = ex[d['id']]['ini'] or d.get('initials') or ''
             ex[d['id']]['log'] = d.get('log') or []
             ex[d['id']].update({k: d.get(k) or d.get(src) or '' for k, src in NEW_FIELDS.items()})
+            ex[d['id']]['dnotes'] = dnotes_of(d)
         events = [{'id': e.get('id'), 'title': e.get('title') or 'Event', 'kind': e.get('kind') or 'Other', 'place': e.get('place') or '', 'date': e.get('date') or '',
                    'time': e.get('time') or '', 'end': e.get('end') or '', 'note': cut(e.get('note'), 200)} for e in o.get('events', [])]
     return ex, events
@@ -196,7 +207,7 @@ def build_patients(xlsx, today, extra=None, events=None):
                     'size': str(x.get('size') or r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
                     'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
                     'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420),
-                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or ''})
+                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or '', 'dnotes': x.get('dnotes') or []})
     # patients in the Patients app that the patient list Excel doesn't have yet (AJ 11/5: a new patient he adds
     # shows up in Chi West at the next sync, not only after the Excel is rebuilt)
     have = {p['id'] for p in pts}
@@ -212,7 +223,7 @@ def build_patients(xlsx, today, extra=None, events=None):
                     'last': x.get('last') or '', 'caseDate': x.get('caseDate') or '', 'next': x.get('next') or '',
                     'time': x.get('nextTime') or '', 'loc': x.get('nextLoc') or '', 'verify': x.get('verify') or '',
                     'fuVerify': x.get('fuVerify') or '', 'notes': cut(x.get('notes'), 420),
-                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or ''})
+                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or '', 'dnotes': x.get('dnotes') or []})
     t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=63)).isoformat()
     acct_of = {p['id']: p['acct'] for p in pts}
     ini_of = {p['id']: p['ini'] for p in pts}
