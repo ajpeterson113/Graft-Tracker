@@ -80,6 +80,8 @@ def build(src):
             'product': p.get('product') or '', 'size': p.get('size') or '', 'freq': p.get('freq') or '',
             'apps': p.get('apps') if isinstance(p.get('apps'), (int, float)) else None,
             'next': p.get('next') or '', 'time': p.get('time') or '', 'loc': p.get('loc') or '',
+            # AJ's label for a booked visit (e.g. "Stravix follow up"), shown instead of the A# (AJ 11/6)
+            'labels': {k: str(v)[:60] for k, v in (p.get('labels') or {}).items() if k >= today.isoformat()},
             'cover': p.get('cover') or '', # same flag as Chi West's schedule row: "Verify" (app # or visit to check) wins over "Confirm" (time to confirm)
             'flag': 'Verify' if p.get('verify') else 'Confirm' if p.get('fuVerify') else '',
         })
@@ -120,7 +122,10 @@ def build(src):
     for v in d.get('visits') or []:
         i = who(v)
         if i is not None:
-            add(i, v.get('date'), v.get('time'), v.get('loc'), v.get('app'), res_of(v.get('status')), v.get('size'))
+            r = res_of(v.get('status'))
+            if r and (v.get('date') or '') > today.isoformat():  # AJ 11/6: a result logged on a later booked visit (a no-show)
+                r, v = '', dict(v, app=None)                        # doesn't close it; it stays a normal appointment
+            add(i, v.get('date'), v.get('time'), v.get('loc'), v.get('app'), r, v.get('size'))
     for e in d.get('log') or []:
         i = who(e)
         if i is not None and e.get('date', '') <= today.isoformat():

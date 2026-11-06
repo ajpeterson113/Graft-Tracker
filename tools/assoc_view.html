@@ -155,10 +155,11 @@ const whoOk=v=>{if(S.who==='all')return true;const c=coverOf(v);return S.who==='
 const whoChip=c=>c==null?'':`<span class="who ${{AJ:'aj',Caroline:'caroline',Pete:'pete','Not covered':'nc'}[c]||'aj'}">${esc(c)}</span>`;
 const dayVisits=d=>V.filter(v=>v.date===d&&whoOk(v)&&!['done','denied'].includes(P[v.p].status)||(v.date===d&&v.res&&whoOk(v))).filter((v,i,a)=>a.indexOf(v)===i).sort((a,b)=>(a.time||'99').localeCompare(b.time||'99'));
 const dayEvents=d=>S.who==='all'||S.who==='AJ'?E.filter(e=>e.date===d).sort((a,b)=>(a.time||'99').localeCompare(b.time||'99')):[];
-const appNo=v=>{const p=P[v.p];if(v.app)return v.app;if(p.status==='or')return null;return v.date===p.next&&p.apps!=null&&!v.res?p.apps+1:null;};
+const labOf=v=>v.res?'':((P[v.p].labels||{})[v.date]||'');
+const appNo=v=>{const p=P[v.p];if(labOf(v))return null;if(v.app)return v.app;if(p.status==='or')return null;return v.date===p.next&&p.apps!=null&&!v.res?p.apps+1:null;};
 
 function visitRow(v,showAcct){const p=P[v.p],a=appNo(v),c=coverOf(v);
-  const bits=[[p.product,p.size].filter(Boolean).join(' '),a?'A'+a:'',p.status==='or'?'OR case':'',v.loc].filter(Boolean);
+  const lb=labOf(v),bits=[lb||[p.product,p.size].filter(Boolean).join(' '),a?'A'+a:'',p.status==='or'&&!lb?'OR case':'',v.loc].filter(Boolean);
   return `<div class="row" data-p="${v.p}" role="button" tabindex="0" aria-label="${esc(p.ini)} history" style="--ac:var(--a${p.ac})"><div class="tm${v.time?'':' none'}">${v.time?ampm(v.time):'—'}</div>
     <div><div class="l1"><span class="ini">${esc(p.ini)}</span>${showAcct?`<span class="acct">${esc(p.acct)}</span>`:''}<span class="mu">${esc(p.prov)}</span></div><div class="l2">${esc(bits.join(' · '))}</div></div>
     <div class="rt">${v.res?`<span class="res ${v.res==='Grafted'?'ok':'no'}">${esc(v.res)}</span>`:whoChip(c)}${!v.res&&v.date===p.next&&p.flag?`<span class="flag">${p.flag}</span>`:''}</div></div>`;}
@@ -201,7 +202,7 @@ function hist(i){const p=P[i];if(!p)return;const t=today();
   const vs=V.filter(v=>v.p===i).sort((a,b)=>a.date.localeCompare(b.date));
   const past=vs.filter(v=>v.res||v.date<t).reverse(),up=vs.filter(v=>!v.res&&v.date>=t);
   const line=(v,fut)=>{const a=appNo(v);const r=v.res?`<span class="res ${v.res==='Grafted'?'ok':'no'}">${esc(v.res)}</span>`:fut?whoChip(coverOf(v)||(v.date===p.next?(p.cover||'AJ'):'AJ')):'<span class="mu">No result logged</span>';
-    return `<div class="hr"><span class="tnum">${DN[D(v.date).getDay()]} ${md(v.date)}</span><span class="tnum mu">${a?'A'+a:''}</span><span class="mu">${esc([fut&&v.time?ampm(v.time):'',v.size||(fut?'':''),v.loc].filter(Boolean).join(' · '))}</span><span>${r}</span></div>`;};
+    return `<div class="hr"><span class="tnum">${DN[D(v.date).getDay()]} ${md(v.date)}</span><span class="tnum mu">${a?'A'+a:''}</span><span class="mu">${esc([fut&&v.time?ampm(v.time):'',fut&&labOf(v)?labOf(v):'',v.size||(fut?'':''),v.loc].filter(Boolean).join(' · '))}</span><span>${r}</span></div>`;};
   const grafted=vs.filter(v=>v.res==='Grafted').length;
   const o=document.createElement('div');o.id='hist';
   o.innerHTML=`<div class="sh" role="dialog" aria-modal="true" aria-label="${esc(p.ini)} history"><div class="hh"><div><h2>${esc(p.ini)} <span class="pill ${esc(p.status)}">${esc(STATUS[p.status]||p.status||'')}</span></h2></div><button class="x" data-close="1">Close</button></div>

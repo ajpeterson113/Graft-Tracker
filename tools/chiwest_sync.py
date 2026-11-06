@@ -159,6 +159,13 @@ def dnotes_of(d):
     return out[-12:]
 
 
+def labels_of(d):
+    """AJ's label for a booked visit, by date (Patients app `visitLabels`, e.g. {"2026-11-13": "Stravix follow up"}):
+    the schedule shows the label instead of an application number (AJ 11/6)."""
+    v = d.get('visitLabels') or d.get('labels') or {}
+    return {str(k)[:10]: cut(str(t), 60) for k, t in v.items() if str(t or '').strip()} if isinstance(v, dict) else {}
+
+
 def load_extra(pdb, overlay):
     """Names, coverage, next-visit location, verify flags and events, by patient id."""
     ex, events = {}, []
@@ -172,6 +179,7 @@ def load_extra(pdb, overlay):
                        'ivrDate': d.get('ivrDate') or '', 'paExp': d.get('paExp') or ''}
             ex[pid].update({k: d.get(src) or '' for k, src in NEW_FIELDS.items()})
             ex[pid]['dnotes'] = dnotes_of(d)
+            ex[pid]['labels'] = labels_of(d)
         for eid, d in loadall(os.path.join(pdb, 'events')).items():
             d = d.get('data', d)
             events.append({'id': eid, 'title': d.get('title') or d.get('kind') or 'Event', 'kind': d.get('kind') or 'Other', 'place': d.get('place') or '',
@@ -184,6 +192,7 @@ def load_extra(pdb, overlay):
             ex[d['id']]['log'] = d.get('log') or []
             ex[d['id']].update({k: d.get(k) or d.get(src) or '' for k, src in NEW_FIELDS.items()})
             ex[d['id']]['dnotes'] = dnotes_of(d)
+            ex[d['id']]['labels'] = labels_of(d)
         events = [{'id': e.get('id'), 'title': e.get('title') or 'Event', 'kind': e.get('kind') or 'Other', 'place': e.get('place') or '', 'date': e.get('date') or '',
                    'time': e.get('time') or '', 'end': e.get('end') or '', 'note': cut(e.get('note'), 200)} for e in o.get('events', [])]
     return ex, events
@@ -207,7 +216,8 @@ def build_patients(xlsx, today, extra=None, events=None):
                     'size': str(x.get('size') or r.get('Size') or ''), 'freq': r.get('Frequency') or '', 'apps': (x.get('apps') if x.get('apps') is not None else r.get('Application Count')) or 0,
                     'last': iso(r.get('Last Graft')), 'caseDate': iso(r.get('Case Date')), 'next': nd, 'time': nt, 'loc': x.get('nextLoc') or '',
                     'verify': x.get('verify') or '', 'fuVerify': x.get('fuVerify') or '', 'notes': cut(r.get('Notes'), 420),
-                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or '', 'dnotes': x.get('dnotes') or []})
+                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or '', 'dnotes': x.get('dnotes') or [],
+                    'labels': x.get('labels') or {}})
         # the Patients app is the source of truth: a field AJ edited there (or through a Chi West tap) wins over the patient
         # list Excel, which only changes when the morning update rebuilds it (AJ 11/6: what he changes shows and stays)
         for k, lim in (('prov', 0), ('freq', 0), ('coverage', 140), ('pa', 0), ('caseDate', 0), ('last', 0), ('notes', 420)):
@@ -228,14 +238,16 @@ def build_patients(xlsx, today, extra=None, events=None):
                     'last': x.get('last') or '', 'caseDate': x.get('caseDate') or '', 'next': x.get('next') or '',
                     'time': x.get('nextTime') or '', 'loc': x.get('nextLoc') or '', 'verify': x.get('verify') or '',
                     'fuVerify': x.get('fuVerify') or '', 'notes': cut(x.get('notes'), 420),
-                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or '', 'dnotes': x.get('dnotes') or []})
+                    'ivrDate': x.get('ivrDate') or '', 'paExp': x.get('paExp') or '', 'dnotes': x.get('dnotes') or [],
+                    'labels': x.get('labels') or {}})
     t0 = (dt.date.fromisoformat(today) - dt.timedelta(days=63)).isoformat()
     acct_of = {p['id']: p['acct'] for p in pts}
     ini_of = {p['id']: p['ini'] for p in pts}
     dbl = {}  # (acct, initials, date) -> db log entry
     for pid, x in extra.items():
         for e in x.get('log') or []:
-            if (e.get('date') or '') >= t0 and pid in acct_of:
+            # AJ 11/6: a result dated after today (a no-show logged on the next booked visit) doesn't close that visit
+            if t0 <= (e.get('date') or '') <= today and pid in acct_of:
                 dbl[(acct_of[pid], re.sub(r'[^A-Za-z]', '', ini_of[pid] or '').upper(), e['date'])] = (pid, e)
     visits = []
     for r in rows(wb['Follow-ups']):
@@ -249,7 +261,7 @@ def build_patients(xlsx, today, extra=None, events=None):
     for r in rows(wb['Application Log']):
         d = iso(r.get('Date'))
         key = (r.get('Account') or '', re.sub(r'[^A-Za-z]', '', str(r.get('Initials') or '')).upper(), d)
-        if d >= t0 and key not in dbl:
+        if t0 <= d <= today and key not in dbl:
             seen.add(key)
             log.append({'date': d, 'acct': r.get('Account') or '', 'ini': r.get('Initials') or '', 'result': r.get('Result') or '',
                         'size': str(r.get('Size') or ''), 'app': r.get('App #'), 'cover': r.get('Covered by') or '', 'note': cut(r.get('Note'), 200)})
