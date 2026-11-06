@@ -115,6 +115,10 @@ def build_tracker(gt):
         for c in m['cases']:
             d = {k: c.get(k) for k in keep}
             d['notes'] = cut(c.get('notes'), 220)
+            # the case's own files (case sheet, transport log) by file name; Chi West opens them from its copies listed in
+            # its data/files doc (tools/chiwest_files.py keeps those in step with GT, AJ 11/5)
+            d['files'] = [{'f': f.get('f'), 'kind': f.get('kind') or 'Case sheet'} for f in (c.get('files') or [])
+                          if str(f.get('f') or '').lower().endswith('.jpg')]
             d['ym'], d['period'] = m['ym'], m.get('period')
             cases.append(d)
     items = []
