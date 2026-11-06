@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 3 of 19 · updated Thu 11/5, 9:59 PM CT
+**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 7:00 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,12 +13,13 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**20 entries · \$18,162** · 🟢 8 Ready · 🟡 7 Needs PO · 🔵 1 Submitted · ⚪ 4 In SFDC
+**21 entries · \$18,522** · 🟢 8 Ready · 🟡 8 Needs PO · 🔵 1 Submitted · ⚪ 4 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
 | **11/5** | [**J.B.**](../case-sheets/jb-1105.md) 📄 · Alexian WCC · Adelstein<br>Grafix 2x3 · no PO yet · LYA-250516\_23004<details><summary><sub>Notes</sub></summary>App #2, Thu 11/5 8:00 AM, Dr. Adelstein: Grafix 2x3 LYA-250516\_23004 (exp 5/2/27) from the Alexian WCC shelf, \$925.35 (Alexian 2x3 rate). Case sheet photo uploaded in Chi West 11/5. Bill-only PO to come (Alexian ID 0002601103).</details> | \$925.35 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**A.P.**](../case-sheets/ap-1105.md) 📄 · Alexian WCC · Adelstein<br>Grafix 16mm · no PO yet · LYA-260221\_16005<details><summary><sub>Notes</sub></summary>App #8 (the last one: Alexian WCC stops at 8), Thu 11/5 10:30 AM: 16mm LYA-260221\_16005 (exp 3/3/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). The case sheet says Dr. Adelstein (the patient is Dr. Hussain's). Marked Done in Chi West 11/5. Bill-only PO to come (Alexian ID 0003068368).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**D.K.**](../case-sheets/dk-1105.md) 📄 · Alexian WCC · Halihan<br>Grafix 16mm · no PO yet · LYA-260221\_16004<details><summary><sub>Notes</sub></summary>App #3, Thu 11/5 1:15 PM: 16mm LYA-260221\_16004 (exp 3/3/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). Case sheet photo uploaded in Chi West 11/5. Bill-only PO to come (Alexian ID 0003096605).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 |   | **M.A.** · NW Suburban F&A · Goldkind<br>Grafix 16mm · PO MA110526<details><summary><sub>Notes</sub></summary>App #2, Thu 11/5 1:30 PM (Elk Grove), Dr. Goldkind: 1 x 16mm ordered on sales-order PO MA110526, \$190 (NWSFA 16mm rate). Shipped/invoiced 11/3 (invoice 0985903632, serial 16007; lot cut off in the screenshot — fill from the case sheet). In SFDC per AJ's SFDC report 11/5.</details> | \$190 | ⚪&nbsp;In&nbsp;SFDC<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 | **11/4** | [**S.G.**](../case-sheets/sg-1104.md) 📄 · Romano Lombard · Rojas<br>Grafix 3x3 · PO SG110426 · LYA-250742\_33004<details><summary><sub>Notes</sub></summary>App #1 (new start), Wed 11/4, Dr. Rojas: Grafix 3x3 LYA-250742\_33004 (exp 8/12/27), \$855 (Romano \$95/cm2 x 9 cm2). Sale order on PO SG110426 (AJ). Workers comp patient. Sticker photo from the Patients app 11/4; case sheet made 11/5 (case-sheets/sg-1104). TRANSFER (AJ): unit from the Alexian WCC shelf (253985) to Romano Orthopaedics - Lombard; transport log typed 11/5 (case-sheets/sg-1104-transport-log), Transfers tab. Ready to submit.</details> | \$855 | 🟢&nbsp;Ready<br>🔁&nbsp;Transfer |
 |   | **OASIS Wound 3x7 · 10 sheets = 1 box** · Alexian WCC<br>PO 660040000286884<details><summary><sub>Notes</sub></summary>OASIS Wound Matrix 3x7 box for the Alexian WCC shelf (D.V., 4 sheets a visit): PO 660040000286884 (11/4, Ascension, contract SMITH-0131401.DP, release 10574), 1 BX = 1 box of 10, \$2,206.20 (Alexian box price), per the PO photo uploaded in Chi West 11/5. Ships to Alexian (not bill only). This is the box the Stock and Projections tabs had as the Wound 3x7 reorder. PO (ship) order, nothing to submit — it posts to SFDC on its own (Submitted, pending SFDC). Lot and expiry when it arrives.</details> | \$2,206.20 | 🔵&nbsp;Submitted |

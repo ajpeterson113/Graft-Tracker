@@ -2,16 +2,16 @@
 
 # Done
 
-**BIOT Chicago West** · 118 patients · updated Thu 11/5, 9:59 PM CT
+**BIOT Chicago West** · 118 patients · updated Fri 11/6, 7:00 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;15](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 4](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 33](../patients/or.md) · **Done 21** · [Denied 5](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · **Done 22** · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -33,10 +33,10 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Thu&nbsp;11/5&nbsp;10:30&nbsp;AM · Pete&nbsp;covering** | 🔴 8 of 8 | A7 Wed 10/28 2:00 PM: 16mm LYA-260221\_16015 (case sheet filed to the tracker 10/28; Dr. Joshi on the sheet). Alexian WCC stops at 8, so 1 application left. A6 Wed 10/21: 16mm LYA-260159\_16003 (case sheet photo 10/27, PO …285709). A5 Wed 10/14 2:00 PM: 16mm LYA-260146\_16008 (PO …285130, case sheet ap-1014). A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
 | <details><summary><b>J.B.</b></summary>Jozef B.</details> | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/8** | 🟢 3 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. Last graft A3 10/8 (OASIS Burn 3x7 from the WCC shelf); not grafted 10/15 (no-show), 10/22 or 10/29. |
 | <details><summary><b>D.C.</b></summary>Donald Carrothers</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein | 🟢 5 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. 5 GRAFIX applications (AJ confirmed 10/12): 2x3 9/3, 1.5x2 9/10 and 9/17, 16mm from 9/24. Held 10/8, 10/15 (wound got larger, vascular consult) and 10/29. |
 | <details><summary><b>G.M.</b></summary>Givarkis Mirza</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Goldkind | 🟢 0 of 8 | Patient is Medicaid, won’t graft PA approved (BCBS Illinois, case 06524833): OASIS Wound Matrix (Q4102) x130 sq cm, 15275 x12 and 15276 x36, 10/27/26–2/15/27, Dr. Goldkind. DFU right heel/midfoot 3.8 x 2.5 x 0.3 cm, so one OASIS Wound 3x3.5 a visit. Not started yet; weekly once booked (Alexian). Payer noted earlier as Blue Cross Community. |
+| <details><summary><b>A.P.</b></summary>Aldo Perellu</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:30&nbsp;AM** | 🔴 8 of 8 | A7 Wed 10/28 2:00 PM: 16mm LYA-260221\_16015 (case sheet filed to the tracker 10/28; Dr. Joshi on the sheet). Alexian WCC stops at 8, so 1 application left. A6 Wed 10/21: 16mm LYA-260159\_16003 (case sheet photo 10/27, PO …285709). A5 Wed 10/14 2:00 PM: 16mm LYA-260146\_16008 (PO …285130, case sheet ap-1014). A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
 | <details><summary><b>M.D.</b></summary>Marvin Drafall</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Hussain<br>**Last&nbsp;graft&nbsp;9/16** | 🟢 6 of 8 | Patient complaining about bills, no longer grafting |
 | <details><summary><b>M.O.</b></summary>Maria Ochoa</details> | OASIS&nbsp;Burn&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🔴 8 of 8 | Healed |
 | <details><summary><b>A.N.</b></summary>Aloysius Newman</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Last&nbsp;graft&nbsp;10/6** | 🟢 4 of 8 | Next assumed Tue 10/27 12:50 PM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. A4 10/6 (LYA-260159\_16026, PO …284482). |
@@ -49,10 +49,11 @@
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 2</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 3</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| **C.T.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:00&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 5 | NWSFA schedule wk of 11/2: Thu 11/5 2:00 PM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Thu 10/29 2:30 PM Dr. Adelstein (HE). A3 Thu 10/15 (AJ confirmed 10/18). A2 10/8 (1st 10/1) |
 | <details><summary><b>MZ (R)</b></summary>Mariusz Zabrodzki</details> | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Goldkind | 🔴 21 |   |
 | <details><summary><b>G.G.</b></summary>Gerald G</details> | Dr.&nbsp;Goldkind | 🟢 0 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
 
@@ -63,7 +64,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.C.** | GRAFIX&nbsp;2x&nbsp;5x5&nbsp;+&nbsp;3x4 · Weekly · Dr.&nbsp;Luetkehans<br>**Last&nbsp;graft&nbsp;10/9** | 🟢 2 | STOPPED (AJ 10/29): patient admitted, grafting stopped — no more 5x5 orders. Still owed by the office: the PO for the WFNU 5x5 used 10/16 and the PO for the 10/9 3x4. A2 10/9: 2 x 5x5 (LYA-260337\_55005, LYA-260335\_55004, billed on RC100926) + 1 x 3x4 (LYA-250008\_34006, PO to come). 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on RC101626. 10/23: 2 x 5x5 on RC102326. Case sheets on file.<br>_10/29:_ Admitted to the hospital; grafting stopped (AJ). Taken out of the P10 projections; the WFNU 5x5 PO and the 10/9 3x4 PO are still outstanding |
+| **R.C.** | GRAFIX&nbsp;2x&nbsp;5x5&nbsp;+&nbsp;3x4 · Weekly · Dr.&nbsp;Luetkehans<br>**Last&nbsp;graft&nbsp;10/9** | 🟢 2 | STOPPED (AJ 10/29): patient admitted, grafting stopped — no more 5x5 orders. Still owed by the office: the PO for the WFNU 5x5 used 10/16 and the PO for the 10/9 3x4. A2 10/9: 2 x 5x5 (LYA-260337\_55005, LYA-260335\_55004, billed on RC100926) + 1 x 3x4 (LYA-250008\_34006, PO to come). 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on RC101626. 10/23: 2 x 5x5 on RC102326. Case sheets on file. |
 
 </details>
 
