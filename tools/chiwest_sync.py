@@ -122,10 +122,14 @@ def alerts_with_incoming(loc):
     return out
 
 
-def stock_users(stock, patients):
+def stock_users(stock, patients, today=None):
     """Who is on each size of a wound-care-center shelf (AJ 11/6), from Chi West's own patient list: Alexian WCC and
     Good Sam WCC. Each size gets `users` [{ini, status, freq, qty, next}]; a size with no use per week from the tracker
-    (Good Sam WCC) gets it from its grafting patients (weekly = 1 a week, every 2 weeks = 0.5, times the grafts a visit)."""
+    (Good Sam WCC) gets it from its grafting patients' booked visits: `useWeeks` = whole grafts in this week and the next
+    four (weekly patients every week, every-2-week patients every other week from their next visit), and use per week =
+    next week's grafts (AJ 11/6: never a fraction of a graft)."""
+    t = dt.date.fromisoformat(str(today or dt.date.today().isoformat())[:10])
+    ws = t - dt.timedelta(days=t.weekday())
     shelf = {'alexian': 'Alexian Brothers Wound Center', 'goodsamwcc': 'Advocate Good Samaritan Hospital'}
     fam = lambda p: ('OASIS Ultra' if re.search(r'ultra', p, re.I) else 'OASIS Burn' if re.search(r'burn', p, re.I) else
                      'OASIS Wound' if re.search(r'oasis', p, re.I) else 'Grafix' if re.search(r'grafix', p, re.I) else '')
@@ -147,17 +151,27 @@ def stock_users(stock, patients):
         ppl = [p for p in patients.get('patients', []) if p.get('acct') == acct and p.get('status') in ('active', 'approved', 'pending')]
         for s in loc.get('sizes', []):
             sz = re.sub(r'\s+', '', str(s.get('size') or '').lower())
-            users, wk = [], 0.0
+            users, weeks = [], [0] * 5
             for p in ppl:
                 for f, size, n in parts(p):
                     if f == s.get('product') and (sz == size or sz.startswith(size)):
-                        rate = 0.5 if re.search(r'2 weeks|biweekly', str(p.get('freq') or ''), re.I) else 1.0
+                        step = 14 if re.search(r'2 weeks|biweekly', str(p.get('freq') or ''), re.I) else 7
                         users.append({'ini': p.get('ini'), 'status': p.get('status'), 'freq': p.get('freq') or '', 'qty': n, 'next': p.get('next') or ''})
-                        if p.get('status') == 'active':
-                            wk += rate * n
+                        try:
+                            d = dt.date.fromisoformat(str(p.get('next'))[:10])
+                        except ValueError:
+                            continue
+                        if p.get('status') != 'active':
+                            continue
+                        while d < t:
+                            d += dt.timedelta(days=step)
+                        while (d - ws).days < 35:
+                            weeks[(d - ws).days // 7] += n
+                            d += dt.timedelta(days=step)
             s['users'] = users
+            s['useWeeks'] = weeks
             if s.get('usePerWeek') in (None, '') and loc.get('key') == 'goodsamwcc':
-                s['usePerWeek'] = round(wk, 2)
+                s['usePerWeek'] = weeks[1]
                 s['patients'] = sum(1 for u in users if u['status'] == 'active')
     return stock
 
@@ -423,7 +437,7 @@ def main():
     today = core.get('today') or dt.date.today().isoformat()
     docs = {'core': core, 'cases': cases, 'forecast': fc, 'stock': stock,
             'patients': build_patients(a.patients, today, *load_extra(a.pdb, a.overlay)), 'targets': build_targets(a.targets, a.outreach, a.plans)}
-    docs['stock'] = stock_users(docs['stock'], docs['patients'])
+    docs['stock'] = stock_users(docs['stock'], docs['patients'], today)
     if not docs['patients']['names']:
         print('NOTE: no --pdb or --overlay, so patients carry no names, coverage or events', file=sys.stderr)
     stamp = dt.datetime.now(dt.timezone(dt.timedelta(hours=-6))).isoformat(timespec='seconds')
