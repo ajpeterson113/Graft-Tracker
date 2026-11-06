@@ -115,7 +115,6 @@ button:focus-visible{outline:2px solid var(--or);outline-offset:2px}
     </div>
   </header>
   <main id="app"></main>
-  <p class="foot" id="foot"></p>
 </div>
 
 <script>
@@ -203,6 +202,6 @@ document.addEventListener('touchend',e=>{if(!sx)return;const p=e.changedTouches[
 
 {const u=DATA&&DATA.updated?new Date(DATA.updated):null;
  $('upd').textContent='View only'+(u&&!isNaN(u)?' · updated '+DN[u.getDay()]+' '+(u.getMonth()+1)+'/'+u.getDate()+' '+ampm(pad(u.getHours())+':'+pad(u.getMinutes())):'');
- $('foot').textContent="Initials only, no names or notes. Coverage shows on each patient's next visit; a visit with no name tag is AJ's. Updated a few times a day from AJ's tracker.";}
+}
 render();
 </script>
