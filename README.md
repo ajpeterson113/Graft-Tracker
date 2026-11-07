@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:53 PM CT
+**BIOT Chicago West** · P11 · day 5 of 19 · updated Sat 11/7, 6:50 AM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -12,7 +12,7 @@
   <source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="view/home-narrow-dark.png">
   <source media="(max-width: 700px)" srcset="view/home-narrow.png">
   <source media="(prefers-color-scheme: dark)" srcset="view/home-dark.png">
-  <img alt="P11: &#36;9,294 in SFDC + submitted, 10% of the &#36;92,891 target (&#36;31,921 booked). Forecast &#36;71,321 downside to &#36;85,664 upside. Shipping day 4 of 19." src="view/home.png" width="880">
+  <img alt="P11: &#36;9,294 in SFDC + submitted, 10% of the &#36;92,891 target (&#36;31,921 booked). Forecast &#36;71,321 downside to &#36;85,664 upside. Shipping day 5 of 19." src="view/home.png" width="880">
 </picture>
 
 ### To do
@@ -29,14 +29,14 @@
 </table>
 
 
-### This week · Nov 2–6
+### Next week · Nov 9–13
 
-| [Mon 11/2](patients/week.md#mon) | [Tue 11/3](patients/week.md#tue) | [Wed 11/4](patients/week.md#wed) | [Thu 11/5](patients/week.md#thu) | [Fri 11/6 · today](patients/week.md#fri) |
+| [Mon 11/9](patients/week.md#mon) | [Tue 11/10](patients/week.md#tue) | [Wed 11/11](patients/week.md#wed) | [Thu 11/12](patients/week.md#thu) | [Fri 11/13](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **7** visits | **9** visits | **9** visits | **18** visits | **7** visits |
+| **8** visits 🟠 | **8** visits | **7** visits 🟠 | **8** visits 🟠 🔴 | **5** visits 🟠 🔴 |
 
 
-Covering: Not covered 1 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
+🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
 
 
 ### P11 forecast

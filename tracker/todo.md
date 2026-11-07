@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 4 of 19 · updated Fri 11/6, 5:53 PM CT
+**BIOT Chicago West** · P11 · day 5 of 19 · updated Sat 11/7, 6:50 AM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -33,14 +33,14 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 51 days | 0003068368 | \$600 |
-| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 28 days |   | \$1,020 |
-| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 23 days |   | \$190 |
-| 11/2 | [T.A.](../case-sheets/ta-1102.md) | Good Sam · Farhan | Stravix 2x4 | 🟠 4 days |   | \$1,695 |
-| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | Stravix 2x4 + 3x6 + VERSAJET ×2 | — |   | \$4,717.10 |
-| 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003095154 | \$360 |
-| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
-| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
+| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 52 days | 0003068368 | \$600 |
+| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 29 days |   | \$1,020 |
+| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 24 days |   | \$190 |
+| 11/2 | [T.A.](../case-sheets/ta-1102.md) | Good Sam · Farhan | Stravix 2x4 | 🟠 5 days |   | \$1,695 |
+| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | Stravix 2x4 + 3x6 + VERSAJET ×2 | 🟠 1 day |   | \$4,717.10 |
+| 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 1 day | 0003095154 | \$360 |
+| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 1 day |   | \$1,650 |
+| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 1 day |   | \$1,650 |
 
 <a name="sheets"></a>
 ## ⏳ Case sheets to come · 2
@@ -62,6 +62,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 21
+## 👥 Patients · 22
 
-9 to verify · 9 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)
+9 to verify · 10 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)
