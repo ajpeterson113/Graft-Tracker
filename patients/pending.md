@@ -2,7 +2,7 @@
 
 # Pending
 
-**BIOT Chicago West** · 118 patients · updated Sun 11/8, 3:04 PM CT
+**BIOT Chicago West** · 118 patients · updated Sun 11/8, 3:19 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -39,7 +39,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **D.R.** | Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;5:00&nbsp;PM · Hoffman&nbsp;Estates** |   | New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
+| **D.R.** | Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;5:00&nbsp;PM · Hoffman&nbsp;Estates · Not&nbsp;covered&nbsp;covering** |   | New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
 | **J.D.** | GRAFIX<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/29&nbsp;2:45&nbsp;PM** |   | Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
 
 </details>
