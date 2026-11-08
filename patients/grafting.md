@@ -2,7 +2,7 @@
 
 # Grafting
 
-**BIOT Chicago West** · 118 patients · updated Sat 11/7, 6:59 AM CT
+**BIOT Chicago West** · 118 patients · updated Sun 11/8, 3:04 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -84,8 +84,8 @@
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>M.B.</b></summary>Merrill Burleigh</details> | GRAFIX&nbsp;2x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;11/10&nbsp;8:15&nbsp;AM** | 🟢 3 | Approved (AJ 10/20). A1 Mon 10/20 8:00 AM, one Grafix 3x3; one 3x3 a week (AJ 10/14), next Mon 10/27. IVR submitted 10/13. |
 | <details><summary><b>P.H.</b></summary>Pamela Hartlipp</details> | GRAFIX&nbsp;3x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;11/10&nbsp;9:15&nbsp;AM · Elgin** | 🟢 4 | Approved 100% (10/8). A1 10/13: one Grafix 3x3 from the clinic's own stock (bought on an earlier PO, no new sale); 1 x 3x3 left on their shelf, which covers 10/20. One Grafix 3x3 a week going forward (AJ 10/14); the clinic orders on PO. IVR ran 10/5. |
-| <details><summary><b>J.C.</b></summary>James Churchill</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Bhagat<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;1:30&nbsp;PM** | 🔴 12 | 🔴 Last appt 11/5 passed, nothing new booked<br>Confirmed Thu 11/5 1:30 PM (St. Joe's text, AJ 11/4). A11 Thu 10/29 1:30 PM. A9 (10/1) was an eval OASIS Wound 3x3.5<br>_11/6:_ Peter asked Eva to order another oasis wound 3x3.5. Add to do: Remind Eva to order Oasis Wound 3x3.5 for JC |
-| <details><summary><b>D.N.</b></summary>Dennis Napier</details>🟠&nbsp;Verify<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Veronica&nbsp;Pappas<br>**Was&nbsp;due&nbsp;Fri&nbsp;11/6&nbsp;1:00&nbsp;PM** | 🟢 4 | 🔴 Last appt 11/6 passed, nothing new booked<br>🟠 **Verify:** App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count<br>Confirmed Fri 11/6 1:00 PM (St. Joe's text, AJ 11/4; calendar had 10:00 AM). A1 10/9 confirmed (AJ 10/12): one OASIS Wound 3x3.5. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm.<br>[📄 IVR](../ivr/sj-dn.md) |
+| <details><summary><b>J.C.</b></summary>James Churchill</details>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;1:30&nbsp;PM** | 🔴 12 | 🔴 Verify: Assumed weekly (AJ 11/8): Thu 1:30 PM<br>Confirmed Thu 11/5 1:30 PM (St. Joe's text, AJ 11/4). A11 Thu 10/29 1:30 PM. A9 (10/1) was an eval OASIS Wound 3x3.5<br>_11/6:_ Peter asked Eva to order another oasis wound 3x3.5. Add to do: Remind Eva to order Oasis Wound 3x3.5 for JC |
+| <details><summary><b>D.N.</b></summary>Dennis Napier</details>🟠&nbsp;Verify<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;1:00&nbsp;PM** | 🟢 4 | 🔴 Verify: Assumed weekly (AJ 11/8): Fri 1:00 PM<br>🟠 **Verify:** App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count<br>Confirmed Fri 11/6 1:00 PM (St. Joe's text, AJ 11/4; calendar had 10:00 AM). A1 10/9 confirmed (AJ 10/12): one OASIS Wound 3x3.5. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm.<br>[📄 IVR](../ivr/sj-dn.md) |
 
 </details>
 
