@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 10:54 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 12:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;18](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -26,13 +26,13 @@
 <a name="mon"></a>
 ### Monday, Nov 9 · Today
 
-8 visits · 3 logged · **Grafts:** OASIS Ultra 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7
+8 visits · 4 logged · **Grafts:** GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7 · OASIS Ultra 3x3.5
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:45&nbsp;AM** | <details><summary><b>P.S.</b></summary>Peter S.</details> | **Done** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Healed |
 | **10:15&nbsp;AM** | <details><summary><b>P.M.</b></summary>Paul Michael</details> | **A11** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅ Grafted A11 · NWSFA graft log: Graft #11, OASIS Wound Matrix 3x3.5 lot LB1751182; AJ: This is #11 today (11/9/26) |
-| **10:45&nbsp;AM** | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A6** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
+| **10:45&nbsp;AM** | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A6** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A6 |
 | **10:45&nbsp;AM** | **R.E.** | **A1** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain | ✅ Grafted A1 · NWSFA graft log: Graft #1, OASIS Ultra (Tri-Layer Matrix) 3x3.5 lot LB1709198 |
 | **11:15&nbsp;AM** | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | **A15** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 | **12:50&nbsp;PM** | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | **A6** · OASIS Burn Oasis burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
@@ -135,7 +135,16 @@
 **Covering this week:** Caroline 8 · Not covered 2 · Pete 6
 
 
-<details><summary><b>Next week</b> · 5 visits booked so far</summary>
+<details><summary><b>Next week</b> · 6 visits booked so far</summary>
+
+<a name="next-mon"></a>
+### Monday, Nov 16
+
+1 visit · **Grafts:** OASIS Ultra 3x3.5
+
+| Time | Patient | Visit | Clinic | Status |
+| :-- | :-- | :-- | :-- | :-- |
+| **10:45&nbsp;AM** | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A7** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 
 <a name="next-wed"></a>
 ### Wednesday, Nov 18

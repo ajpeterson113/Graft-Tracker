@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 10:54 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 12:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;18**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -29,7 +29,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 10
+## 🔴 No Follow-Up · 11
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -40,6 +40,7 @@
 | <details><summary><b>L.D.</b></summary>L. Dituri</details> | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:45 PM · usually Thu |
 | <details><summary><b>P.J.</b></summary>Paul Jagust</details> | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:00 PM, back from vacation · usually Thu |
 | <details><summary><b>H.P.</b></summary>Hiten Patel</details> | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:30 PM (held 11/5, possible infection) · usually Thu |
+| <details><summary><b>G.K.</b></summary>George Kuszynski</details> | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Verify: Assumed weekly (AJ 11/6): Mon 11/16 10:45 AM · usually Mon |
 | <details><summary><b>J.C.</b></summary>James Churchill</details> | St. Joseph Elgin · Bhagat | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/8): Thu 1:30 PM · usually Thu |
 | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | Verify: Assumed weekly (AJ 11/8): Fri 1:00 PM · usually Fri |
 | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | Central DuPage · Luetkehans | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Fri 11/13 12:00 PM · usually Fri |
