@@ -2,16 +2,16 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:30 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:32 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 35](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -49,22 +49,22 @@
 
 <a name="ns"></a>
 
-## 🔵 Potential New Starts · 2
+## 🔵 Potential New Starts · 3
 
 | Patient | Clinic | Graft | Start |
 | :-- | :-- | :-- | :-- |
 | **C.B.** | Alexian WCC · Goldkind | GRAFIX 2x3 suggested | A1 Mon 11/9 2:15 PM |
+| **D.R.** | NW Suburban F&A · Goldkind | GRAFIX | A1 Wed 11/11 5:00 PM |
 | **R.E.** | NW Suburban F&A · Hussain | GRAFIX/OASIS | A1 Mon 11/9 10:15 AM |
 
 <a name="pending"></a>
 
-## 🟠 Pending IVRs · 6 · 4 to follow up
+## 🟠 Pending IVRs · 5 · 3 to follow up
 
 | Patient | Clinic | IVR | Coverage / notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>K.B.</b></summary>K. Bette</details> | Good Sam · Ayesh | 🔴 Added 10/6 · 34 days ago · follow up | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
 | **J.D.** | NW Suburban F&A | 🔴 Added 10/18 · 22 days ago · follow up | Pending predetermination · Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination… |
-| **D.R.** | NW Suburban F&A · Goldkind | 🔴 IVR sent 10/30 · 10 days ago · follow up | IVR sent 10/30 (BCBS) · New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS. Provider and appointment not given yet. |
 | <details><summary><b>J.D.</b></summary>Johnny  Dematropolis</details> | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 61 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinic… |
 | **Z.G.** | Good Sam · Ayesh | Added 11/5 · 4 days ago | New patient added in Chi West 11/5: Dr. Ayesh, GRAFIX 16mm every 2 weeks, first visit Thu 11/19. |
 | <details><summary><b>R.S.</b></summary>Robert Sparacio</details> | Alexian WCC · Srivastava | Added 11/2 · 7 days ago | New 11/2 |
