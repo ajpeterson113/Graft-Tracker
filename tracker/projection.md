@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 5 of 19 · updated Sun 11/8, 8:58 PM CT
+**BIOT Chicago West** · P11 · day 5 of 19 · updated Mon 11/9, 6:51 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -82,7 +82,7 @@ Sold so far: **\$8,457** · 10 cases
 | **V.T. · Dr. Halihan** | Approved in the Patients app, no size or start date yet, so nothing projected. | — | — |   |
 | **G.M. · Dr. Goldkind** | PA approved 10/27/26–2/15/27 (BCBS Illinois; OASIS Wound up to 130 sq cm / 12 applications, Dr. Goldkind). | — | — |   |
 | **D.L. · Dr. Joshi** | Approved (OASIS Burn, Dr. Joshi). | — | — |   |
-| **C.B. · Dr. Goldkind** | 2x3 · Weekly · 3 visits · from 11/9 | \$2,776 | \$0 | Approved new patient AJ added in Chi West 11/5: GRAFIX weekly with Dr. Goldkind, first visit Mon 11/9 (time TBD). |
+| **C.B. · Dr. Goldkind** | 2x3 · Weekly · 3 visits | \$2,776 | \$0 | Approved new patient AJ added in Chi West 11/5: GRAFIX weekly with Dr. Goldkind, first visit Mon 11/9 (time TBD). |
 
 **OASIS reorders (estimated)**
 
@@ -202,7 +202,7 @@ Sold so far: **\$3,192** · 4 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **M.A. · Dr. Goldkind** | 16mm · Weekly · 3 visits | \$570 | \$570 | P11: A1 Fri 10/30 grafted (16mm on PO MA103026, P10 sale); A2 Thu 11/5 1:30 PM Elk Grove, 16mm to order on PO MA110526 (P11), weekly after that \| New start Fri 10/30 8:45 AM (AJ 10/27): the 16mm on PO MA103026 is alread… |
-| **P.S. · Dr. Goldkind** | 16mm · Weekly · 3 visits · from 11/9 | \$570 | \$570 | P11: A4 Mon 11/2 uses the 16mm already sold on PO PS110226 (October tab, P10 sale, sent to Elk Grove), so P11 projects weekly from Mon 11/9 \| A1 10/5 from the 16mm NWSFA bought 8/22/26 (PO PS100626, not a P10 sale). |
+| **P.S. · Dr. Goldkind** | 16mm · Weekly · 3 visits | \$570 | \$570 | P11: A4 Mon 11/2 uses the 16mm already sold on PO PS110226 (October tab, P10 sale, sent to Elk Grove), so P11 projects weekly from Mon 11/9 \| A1 10/5 from the 16mm NWSFA bought 8/22/26 (PO PS100626, not a P10 sale). |
 
 **Potential new starts**
 
