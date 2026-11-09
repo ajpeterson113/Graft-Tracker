@@ -16,8 +16,8 @@ OUT      The workbook to write (Chi_West_Patient_List_<date>.xlsx, then copied t
 
 Rules (AJ): initials only, no full names; no sales or dollar figures; Smith+Nephew colors
 (orange #E9963E titles/tabs, slate blue #3F7097 headers on the To Order block).
-Tabs: Summary, All Patients, one tab per account (Alexian WCC and Alexian Ambulatory share
-"Alexian"), Follow-ups, Application Log, Day Notes. Summary counts are formulas over
+Tabs: Summary, All Patients, one tab per account (Alexian WCC, Alexian Ambulatory and Alexian Main
+OR share "Alexian"), Follow-ups, Application Log, Day Notes. Summary counts are formulas over
 All Patients, so they stay right if rows are edited by hand.
 """
 import argparse
@@ -40,7 +40,7 @@ BOX = Border(left=THIN, right=THIN, top=THIN, bottom=THIN)
 F = lambda **k: Font(name='Arial', **{'size': 10, **k})
 
 ACCOUNTS = [  # Summary / All Patients order
-    'Advocate Good Samaritan Hospital', 'Alexian Brothers Wound Center', 'Alexian Ambulatory',
+    'Advocate Good Samaritan Hospital', 'Alexian Brothers Wound Center', 'Alexian Ambulatory', 'Alexian Brothers Medical Center',
     'Northwest Suburban Foot and Ankle Clinic', 'Saint Joseph Hospital - Elgin', 'Sherman',
     'Ascension Saint Alexius', 'Central DuPage Foot and Ankle', 'Elmhurst Hospital',
     'Suburban Foot and Ankle Center', 'UChicago Medicine AdventHealth GlenOaks',
@@ -48,7 +48,7 @@ ACCOUNTS = [  # Summary / All Patients order
 ]
 TABS = [  # (tab name, title, accounts on the tab) in tab order
     ('Good Samaritan', 'Good Samaritan', ['Advocate Good Samaritan Hospital']),
-    ('Alexian', None, ['Alexian Brothers Wound Center', 'Alexian Ambulatory']),
+    ('Alexian', None, ['Alexian Brothers Wound Center', 'Alexian Ambulatory', 'Alexian Brothers Medical Center']),
     ('NWSFA', 'NWSFA', ['Northwest Suburban Foot and Ankle Clinic']),
     ('St Joes Elgin', 'St Joes Elgin', ['Saint Joseph Hospital - Elgin']),
     ('Sherman', 'Sherman', ['Sherman']),

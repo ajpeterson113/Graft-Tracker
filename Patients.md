@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 120 patients · updated Mon 11/9, 2:22 PM CT
+**BIOT Chicago West** · 120 patients · updated Mon 11/9, 2:34 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,7 +16,7 @@
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
-**Accounts:** [Good Sam 29](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 4](#alexian-ambulatory) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 10](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 8](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 1](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 3](#romano-lombard)
+**Accounts:** [Good Sam 29](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [Alexian Main OR 1](#alexian-main-or) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 10](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 8](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 1](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 3](#romano-lombard)
 
 Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Alexian WCC stops at 8: 🟡 7 · 🔴 8). Each clinic lists upcoming visits first, then pending, denied, on hold and done.
 
@@ -98,14 +98,22 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="alexian-ambulatory"></a>
-<details open><summary><b>Alexian Ambulatory</b> · 2 grafting · 4 total</summary>
+<details open><summary><b>Alexian Ambulatory</b> · 2 grafting · 3 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>H.P.</b></summary>Hiten Patel</details>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Ramani<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;1:30&nbsp;PM** | 🟢 2 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:30 PM (held 11/5, possible infection)<br>A1 Thu 10/22 1:30 PM: OASIS Wound 3x3.5, lot LB1751182 (case sheet filed to the tracker 10/22, October row 76). Billed as the whole box of 10; PO to come. 9 sheets left in the box for this patient. Weekly; next Thu 10/29 1:30 PM. |
 | <details><summary><b>M.C.</b></summary>Martin Cozzi</details>Grafting | OASIS&nbsp;Wound&nbsp;(2x)&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;9:45&nbsp;AM · Pete&nbsp;covering** | 🟡 11 | Weekly OASIS Wound patient (A11 Fri 10/30: two OASIS Wound 3x3.5, the 3x7 wasn't delivered in time). OR case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas in place of his OASIS visit: Stravix PL 2x4 LYU-251827\_24004 + Stravix PL 3x6 LYU-251697\_36005 from the Alexian Ambulatory shelf + VERSAJET Exact assembly 45°, 14 mm; filed to the tracker 11/6 (November row 30), bill-only PO to come (FIN 3004469). One record for both (AJ 11/6). Next: Stravix follow up Fri 11/13 9:45 AM at Alexian Ambulatory (AJ 11/6).<br>_11/6:_ Merged the OR case entry (Stravix + VERSAJET 11/6) into this record (AJ 11/6: same patient). |
-| **Upcoming · Dr. Lucas**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Lucas<br>**OR&nbsp;Sat&nbsp;11/7 · 2&nbsp;d&nbsp;post-op** |   | OR case Sat 11/7 in the main OR at Alexian Brothers Medical Center (Dr. Lucas), not Ambulatory care (AJ 11/9; same S+N account 186035): STRAVIX PL 3x6 LYU-252185\_36001. Filed from PO 660040000287130 (11/9, consignment ordered to replace the unit used 11/7; MR# 201145071; attn Cindy Brandt). New OR patient: initials and case sheet not on file yet (the PO came first). November row 38. |
 | **K.B.**<br>OR | STRAVIX&nbsp;3x6&nbsp;+&nbsp;GRAFIX&nbsp;5x5&nbsp;(x3) · Dr.&nbsp;Singh<br>**OR&nbsp;Wed&nbsp;10/21 · 2&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   | OR case Wed 10/21 at Alexian Ambulatory (Dr. Singh): STRAVIX 3x6 (LYU-251697\_36002) + 3 x GRAFIX 5x5 (LYA-250895\_55007, \_55008, \_55009), from Alexian Ambulatory's own consignment. Case sheet photo 10/21 filed to the tracker 10/21; PO (bill only) to come. |
+
+</details>
+
+<a name="alexian-main-or"></a>
+<details open><summary><b>Alexian Main OR</b> · 0 grafting · 1 total</summary>
+
+| Patient | Graft · next visit | Apps | Notes |
+| :-- | :-- | :-- | :-- |
+| **Upcoming · Dr. Lucas**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Lucas<br>**OR&nbsp;Sat&nbsp;11/7 · 2&nbsp;d&nbsp;post-op** |   | OR case Sat 11/7 in the main OR at Alexian Brothers Medical Center (Dr. Lucas), not Ambulatory care (AJ 11/9: its own account, Alexian Main OR; S+N bills it as acct 186035): STRAVIX PL 3x6 LYU-252185\_36001. Filed from PO 660040000287130 (11/9, consignment ordered to replace the unit used 11/7; MR# 201145071; attn Cindy Brandt). New OR patient: initials and case sheet not on file yet (the PO came first). November row 38. |
 
 </details>
 

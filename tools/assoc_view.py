@@ -26,7 +26,8 @@ SHORT = {'Alexian Brothers Wound Center': 'Alexian WCC', 'Advocate Good Samarita
          'Suburban Foot and Ankle Center': 'Suburban F&A', 'Romano Orthopaedics - Lombard': 'Romano Lombard',
          'Elmhurst Hospital': 'Elmhurst', 'UChicago Medicine AdventHealth GlenOaks': 'GlenOaks',
          'Ankle and Foot Surgery LLC': 'Ankle & Foot Surgery', 'Alexian Ambulatory': 'Alexian Ambulatory',
-         'Alexian Brothers - Ambulatory': 'Alexian Ambulatory', 'Sherman': 'Sherman'}
+         'Alexian Brothers - Ambulatory': 'Alexian Ambulatory', 'Sherman': 'Sherman',
+         'Alexian Brothers Medical Center': 'Alexian Main OR'}
 # same account order (and so the same account colors) as Chi West
 ORDER = ['Advocate Good Samaritan Hospital', 'Alexian Brothers Wound Center', 'Alexian Ambulatory', 'Northwest Suburban Foot and Ankle Clinic',
          'Saint Joseph Hospital - Elgin', 'Sherman', 'Ascension Saint Alexius', 'Central DuPage Foot and Ankle', 'Elmhurst Hospital',

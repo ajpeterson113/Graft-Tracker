@@ -34,6 +34,7 @@ SHORT = {
     'Suburban Foot and Ankle Center': 'Suburban F&A', 'Romano Orthopaedics - Lombard': 'Romano Lombard',
     'Elmhurst Hospital': 'Elmhurst', 'UChicago Medicine AdventHealth GlenOaks': 'GlenOaks',
     'Ankle and Foot Surgery LLC': 'Ankle & Foot Surgery',
+    'Alexian Brothers Medical Center': 'Alexian Main OR',  # the hospital's main OR, its own account (AJ 11/9)
 }
 CANON_ACCT = {'Alexian Brothers - Ambulatory': 'Alexian Ambulatory', 'Advocate Sherman Hospital': 'Sherman'}
 # target-list hospital (Contacts tab) -> account it belongs to in the tracker
