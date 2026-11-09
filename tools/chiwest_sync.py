@@ -382,6 +382,25 @@ def build_patients(xlsx, today, extra=None, events=None):
     return {'patients': pts, 'visits': visits, 'log': log, 'notes': notes, 'events': events or [], 'names': bool(extra)}
 
 
+# VERSAJET (AJ 11/9): AJ also sells VERSAJET, for now only at Alexian Brothers (Elk Grove Village). Targets are general,
+# vascular, podiatry, plastics and anyone else who debrides in the OR; it is also a way to get tissue in with the same
+# provider. 'yes' = tied to Alexian Brothers, 'check' = in the St. Alexius / Alexian area, Alexian privileges not confirmed.
+# Same rule as vjOf() in the Targets app page; when another account opens up, change both.
+VJ_GROUPS = {'Podiatry / foot & ankle', 'Vascular surgery', 'Plastics / reconstruction', 'General / trauma / colorectal',
+             'Orthopedics (trauma / F&A)', 'Wound center clinician'}
+VJ_AT = re.compile(r'alexian|biesterfield|beisner|elk grove', re.I)
+
+
+def versajet(r, hosp):
+    if (r.get('Specialty group') or '') not in VJ_GROUPS:
+        return ''
+    where = ' '.join(str(r.get(k) or '') for k in ('Hospital affiliation (source)', 'Office(s)', 'Practice', 'Existing customer',
+                                                   'Where to find / clinic days', 'Role / program'))
+    if VJ_AT.search(where):
+        return 'yes'
+    return 'check' if 'Alexi' in f"{hosp} {r.get('Hospital') or ''}" else ''
+
+
 def build_targets(xlsx, outreach_dir, plans_dir=None):
     wb = openpyxl.load_workbook(xlsx, data_only=True)
     byh = list(rows(wb['By hospital']))
@@ -407,6 +426,7 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
                     'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400),
                     'obj': cut(o.get('objection') or o.get('objections'), 200), 'hist': hist,
                     'lunch': o.get('lunch') or None, 'using': o.get('using') or []})
+        out[-1]['vj'] = versajet(r, hosp)
         if (o.get('edits') or {}).get('office'):  # office corrected in the Targets app
             out[-1]['office'] = cut(o['edits']['office'], 160)
     for tid, o in orx.items():  # contacts added in the Targets app (e.g. cwl-*)
