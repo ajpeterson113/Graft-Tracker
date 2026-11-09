@@ -2,7 +2,7 @@
 
 # OR
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:32 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:36 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -82,11 +82,10 @@
 </details>
 
 <a name="elmhurst"></a>
-<details open><summary><b>Elmhurst</b> · 2</summary>
+<details open><summary><b>Elmhurst</b> · 1</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics).<br>_11/9:_ Stravix follow up Wed 11/11 11:40 AM at Dr. McGann's Lombard office (Romano Orthopedics). AJ sent in a sample GRAFIX 3x4 for P.C. (sample, not a sale). |
 | **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 6&nbsp;wks&nbsp;post-op** |   | Stravix 3x6 OR case 9/28 (round 1). PO P2325870 received 10/6 (in SFDC). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). Round 2: separate STRAVIX 3x6 OR case Mon 10/26 at Elmhurst (Dr. McGann), filed 10/27. |
 
 </details>
@@ -108,6 +107,15 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna<br>**OR&nbsp;11/4** |   | Post-op follow-up Wed 11/4 4:45 PM at Suburban Foot & Ankle Center, Bloomingdale office (303 E Army Trail Rd, Suite 101, Bloomingdale, IL 60108; (630) 893-3668) with Dr. Alexander McKanna, DPM. The Stravix was already applied in the OR and was donated, so no sale and nothing in projections. Patient name to come after the visit.<br>_11/4:_ Seen 11/4 (not grafted). Sample patient that will never be a sale patient. Follow up with Dr. McKanna Wednesday 11/11 on how they're doing (AJ, from Chi West). |
+
+</details>
+
+<a name="romano-lombard"></a>
+<details open><summary><b>Romano Lombard</b> · 1</summary>
+
+| Patient | Graft · next visit | Apps | Notes |
+| :-- | :-- | :-- | :-- |
+| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | Follow-ups are at Dr. McGann's Romano Orthopaedics office in Lombard (account moved from Elmhurst Hospital, AJ 11/9; the OR cases themselves were at Elmhurst Hospital and stay there on the tracker). OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO P2353811 received.<br>_11/9:_ Stravix follow up Wed 11/11 11:40 AM at Dr. McGann's Lombard office (Romano Orthopedics). AJ sent in a sample GRAFIX 3x4 for P.C. (sample, not a sale). |
 
 </details>
 

@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:32 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:36 AM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,7 +16,7 @@
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
-**Accounts:** [Good Sam 29](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 9](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 8](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 2](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 2](#romano-lombard)
+**Accounts:** [Good Sam 29](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 9](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 8](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 1](#elmhurst) · [GlenOaks 3](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 3](#romano-lombard)
 
 Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Alexian WCC stops at 8: 🟡 7 · 🔴 8). Each clinic lists upcoming visits first, then pending, denied, on hold and done.
 
@@ -193,11 +193,10 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="elmhurst"></a>
-<details open><summary><b>Elmhurst</b> · 0 grafting · 2 total</summary>
+<details open><summary><b>Elmhurst</b> · 0 grafting · 1 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics).<br>_11/9:_ Stravix follow up Wed 11/11 11:40 AM at Dr. McGann's Lombard office (Romano Orthopedics). AJ sent in a sample GRAFIX 3x4 for P.C. (sample, not a sale). |
 | **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 6&nbsp;wks&nbsp;post-op** |   | Stravix 3x6 OR case 9/28 (round 1). PO P2325870 received 10/6 (in SFDC). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). Round 2: separate STRAVIX 3x6 OR case Mon 10/26 at Elmhurst (Dr. McGann), filed 10/27. |
 
 </details>
@@ -224,11 +223,12 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="romano-lombard"></a>
-<details open><summary><b>Romano Lombard</b> · 1 grafting · 2 total</summary>
+<details open><summary><b>Romano Lombard</b> · 1 grafting · 3 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | <details><summary><b>S.G.</b></summary>Sergio Garcia</details>Grafting | GRAFIX&nbsp;3x3 · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;11:40&nbsp;AM · Lombard · Pete&nbsp;covering** | 🟢 1 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside. |
+| **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | Follow-ups are at Dr. McGann's Romano Orthopaedics office in Lombard (account moved from Elmhurst Hospital, AJ 11/9; the OR cases themselves were at Elmhurst Hospital and stay there on the tracker). OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO P2353811 received.<br>_11/9:_ Stravix follow up Wed 11/11 11:40 AM at Dr. McGann's Lombard office (Romano Orthopedics). AJ sent in a sample GRAFIX 3x4 for P.C. (sample, not a sale). |
 | **M.W.**<br>Done | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Rojas<br>**Last&nbsp;graft&nbsp;10/14** | 🟢 2 | Healing check Wed 10/28 9:50 AM at Lombard (AJ 10/27): follow-up to make sure the wound is still healed, not a graft visit. Healed 10/21 (not grafted): done after 2 applications. New start 10/7 (A1, LYA-260007\_16005, PO MW100726); A2 10/14 (LYA-260146\_16009, transfer from the Alexian WCC shelf). Weekly 16mm; future orders go on sale-order POs. |
 
 </details>
