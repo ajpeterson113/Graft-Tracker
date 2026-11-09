@@ -2,16 +2,16 @@
 
 # Patients
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 7:05 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:30 AM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](patients/todo.md) |
+| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](patients/grafting.md) · [Potential New Start 2](patients/potential-new-start.md) · [Pending 6](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 13](patients/on-hold.md) · [OR 33](patients/or.md) · [Done 23](patients/done.md) · [Denied 5](patients/denied.md)
+[Grafting 35](patients/grafting.md) · [Potential New Start 2](patients/potential-new-start.md) · [Pending 6](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 13](patients/on-hold.md) · [OR 33](patients/or.md) · [Done 24](patients/done.md) · [Denied 5](patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -109,11 +109,10 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 8 grafting · 21 total</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 7 grafting · 21 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>P.S.</b></summary>Peter S.</details>Grafting<br>🟠&nbsp;Verify | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 3 | 🟠 **Verify:** App # doesn't match: AJ's calendar has A5 on Mon 11/2, the app has 3 logged (next A4) — confirm the count<br>NWSFA schedule wk of 11/2: Mon 11/2 8:45 AM Dr. Goldkind (EG) — graft (PO PS110226) sent to Elk Grove. NWSFA schedule wk of 10/26: Mon 10/26 8:30 AM Dr. Goldkind (EG). NWSFA schedule wk of 10/19: Mon 10/19 10:45 AM Dr. Goldkind (EG) — graft is in EG. A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm.<br>[📄 IVR](ivr/nw-ps.md) |
 | <details><summary><b>P.M.</b></summary>Paul Michael</details>Grafting<br>🟠&nbsp;Verify | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;10:15&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 9 | 🟠 **Verify:** App # doesn't match: AJ's calendar has A11 on Mon 11/2, the app has 8 logged (next A9) — confirm the count<br>NWSFA schedule wk of 11/2: Mon 11/2 1:15 PM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Mon 10/26 10:15 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Mon 10/19 11:45 AM Dr. Adelstein (HE). A7 10/12 (NWSFA graft log: Graft #7, OASIS Wound Matrix 3x3.5 lot LB1744562; AJ confirmed A7). A6 was 9/28; cancelled 10/5 (AJ 10/12). |
 | **R.E.**<br>Potential&nbsp;New&nbsp;Start | GRAFIX/OASIS · Dr.&nbsp;Hussain<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;10:15&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 – | IVRs received 11/2 (Chatter): GRAFIX PRIME/PL case 06579363 and OASIS Wound Matrix case 06579505, Dr. Hussain at NWSFAC, DFU right foot (E11.621 / L97.511), Wellpoint Federal primary, BCBS Illinois secondary — waiting on the determinations. New 10/30 (NWSFA office note from Chris): IVR sent 10/30. Appointment Mon 11/2 10:30 AM at Hoffman Estates with Dr. Hussain. Nothing ordered until the IVR comes back.<br>_11/2:_ Need to confirm time |
 | <details><summary><b>G.K.</b></summary>George Kuszynski</details>Grafting<br>🟠&nbsp;Verify | OASIS&nbsp;Ultra&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;10:45&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 4 | 🟠 **Verify:** App # doesn't match: AJ's calendar has A6 on Mon 11/2, the app has 3 logged (next A4) — confirm the count<br>NWSFA schedule wk of 11/2: Mon 11/2 10:45 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Mon 10/26 11:15 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Mon 10/19 9:30 AM Dr. Adelstein (HE). A1 10/5 1:30 PM: OASIS Ultra 3x3.5, lot LB1709196 (case sheet in the app). A2 10/12 (HE). Next Mon 10/19 11:45 AM. |
@@ -131,6 +130,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | <details><summary><b>J.C.</b></summary>Jeffrey Chase</details>On&nbsp;hold | Oasis&nbsp;Ultra&nbsp;7x20 · Dr.&nbsp;Hussain | 🔴 12 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Last 7/27/26 |
 | <details><summary><b>J.S.</b></summary>John Snyder</details>On&nbsp;hold | GRAFIX&nbsp;2x3 · Dr.&nbsp;Hussain | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
 | <details><summary><b>S.B.</b></summary>Shirley Ballard</details>On&nbsp;hold | OASIS&nbsp;Ultra&nbsp;3x3.5 · Home&nbsp;Visit | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Home visit patient |
+| <details><summary><b>P.S.</b></summary>Peter S.</details>Done | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 4 | NWSFA schedule wk of 11/2: Mon 11/2 8:45 AM Dr. Goldkind (EG) — graft (PO PS110226) sent to Elk Grove. NWSFA schedule wk of 10/26: Mon 10/26 8:30 AM Dr. Goldkind (EG). NWSFA schedule wk of 10/19: Mon 10/19 10:45 AM Dr. Goldkind (EG) — graft is in EG. A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm.<br>_11/9:_ Total applications is 4. Healed<br>[📄 IVR](ivr/nw-ps.md) |
 | **C.T.**<br>Done | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:00&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 5 | NWSFA schedule wk of 11/2: Thu 11/5 2:00 PM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Thu 10/29 2:30 PM Dr. Adelstein (HE). A3 Thu 10/15 (AJ confirmed 10/18). A2 10/8 (1st 10/1) |
 | <details><summary><b>MZ (R)</b></summary>Mariusz Zabrodzki</details>Done | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Goldkind | 🔴 21 |   |
 | <details><summary><b>G.G.</b></summary>Gerald G</details>Done | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
@@ -197,7 +197,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics). |
+| **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics).<br>_11/9:_ Stravix follow up Wed 11/11 11:40 AM at Dr. McGann's Lombard office (Romano Orthopedics). AJ sent in a sample GRAFIX 3x4 for P.C. (sample, not a sale). |
 | **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 6&nbsp;wks&nbsp;post-op** |   | Stravix 3x6 OR case 9/28 (round 1). PO P2325870 received 10/6 (in SFDC). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). Round 2: separate STRAVIX 3x6 OR case Mon 10/26 at Elmhurst (Dr. McGann), filed 10/27. |
 
 </details>

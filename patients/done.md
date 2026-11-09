@@ -2,16 +2,16 @@
 
 # Done
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 7:05 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:30 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · **Done 23** · [Denied 5](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · **Done 24** · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -50,10 +50,11 @@
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 3</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 4</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| <details><summary><b>P.S.</b></summary>Peter S.</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 4 | NWSFA schedule wk of 11/2: Mon 11/2 8:45 AM Dr. Goldkind (EG) — graft (PO PS110226) sent to Elk Grove. NWSFA schedule wk of 10/26: Mon 10/26 8:30 AM Dr. Goldkind (EG). NWSFA schedule wk of 10/19: Mon 10/19 10:45 AM Dr. Goldkind (EG) — graft is in EG. A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm.<br>_11/9:_ Total applications is 4. Healed<br>[📄 IVR](../ivr/nw-ps.md) |
 | **C.T.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:00&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 5 | NWSFA schedule wk of 11/2: Thu 11/5 2:00 PM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Thu 10/29 2:30 PM Dr. Adelstein (HE). A3 Thu 10/15 (AJ confirmed 10/18). A2 10/8 (1st 10/1) |
 | <details><summary><b>MZ (R)</b></summary>Mariusz Zabrodzki</details> | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Goldkind | 🔴 21 |   |
 | <details><summary><b>G.G.</b></summary>Gerald G</details> | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |

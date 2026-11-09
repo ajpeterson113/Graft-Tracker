@@ -2,16 +2,16 @@
 
 # OR
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 7:05 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:30 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · **OR 33** · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · **OR 33** · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -86,7 +86,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics). |
+| **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 2&nbsp;wks&nbsp;post-op** |   | OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO to come. Follow-ups are at Dr. McGann's Lombard office (Romano Orthopedics).<br>_11/9:_ Stravix follow up Wed 11/11 11:40 AM at Dr. McGann's Lombard office (Romano Orthopedics). AJ sent in a sample GRAFIX 3x4 for P.C. (sample, not a sale). |
 | **P.C.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 6&nbsp;wks&nbsp;post-op** |   | Stravix 3x6 OR case 9/28 (round 1). PO P2325870 received 10/6 (in SFDC). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). Round 2: separate STRAVIX 3x6 OR case Mon 10/26 at Elmhurst (Dr. McGann), filed 10/27. |
 
 </details>

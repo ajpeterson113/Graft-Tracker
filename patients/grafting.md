@@ -2,16 +2,16 @@
 
 # Grafting
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 7:05 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:30 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-**Grafting 36** · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
+**Grafting 35** · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -62,11 +62,10 @@
 </details>
 
 <a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 8</summary>
+<details open><summary><b>NW Suburban F&amp;A</b> · 7</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| <details><summary><b>P.S.</b></summary>Peter S.</details>🟠&nbsp;Verify | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 3 | 🟠 **Verify:** App # doesn't match: AJ's calendar has A5 on Mon 11/2, the app has 3 logged (next A4) — confirm the count<br>NWSFA schedule wk of 11/2: Mon 11/2 8:45 AM Dr. Goldkind (EG) — graft (PO PS110226) sent to Elk Grove. NWSFA schedule wk of 10/26: Mon 10/26 8:30 AM Dr. Goldkind (EG). NWSFA schedule wk of 10/19: Mon 10/19 10:45 AM Dr. Goldkind (EG) — graft is in EG. A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm.<br>[📄 IVR](../ivr/nw-ps.md) |
 | <details><summary><b>P.M.</b></summary>Paul Michael</details>🟠&nbsp;Verify | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;10:15&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 9 | 🟠 **Verify:** App # doesn't match: AJ's calendar has A11 on Mon 11/2, the app has 8 logged (next A9) — confirm the count<br>NWSFA schedule wk of 11/2: Mon 11/2 1:15 PM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Mon 10/26 10:15 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Mon 10/19 11:45 AM Dr. Adelstein (HE). A7 10/12 (NWSFA graft log: Graft #7, OASIS Wound Matrix 3x3.5 lot LB1744562; AJ confirmed A7). A6 was 9/28; cancelled 10/5 (AJ 10/12). |
 | <details><summary><b>G.K.</b></summary>George Kuszynski</details>🟠&nbsp;Verify | OASIS&nbsp;Ultra&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;10:45&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 4 | 🟠 **Verify:** App # doesn't match: AJ's calendar has A6 on Mon 11/2, the app has 3 logged (next A4) — confirm the count<br>NWSFA schedule wk of 11/2: Mon 11/2 10:45 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Mon 10/26 11:15 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Mon 10/19 9:30 AM Dr. Adelstein (HE). A1 10/5 1:30 PM: OASIS Ultra 3x3.5, lot LB1709196 (case sheet in the app). A2 10/12 (HE). Next Mon 10/19 11:45 AM. |
 | <details><summary><b>C.C.</b></summary>Constance Campbell</details>🟠&nbsp;Verify | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;11/9&nbsp;11:15&nbsp;AM · Hoffman&nbsp;Estates** | 🔴 13 | 🟠 **Verify:** App # doesn't match: AJ's calendar has A14 on Mon 11/2, the app has 12 logged (next A13) — confirm the count<br>NWSFA schedule wk of 11/2: Mon 11/2 11:15 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Mon 10/26 10:00 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Mon 10/19 11:30 AM Dr. Adelstein (HE). A11 10/12 (HE). |

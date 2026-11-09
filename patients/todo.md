@@ -2,22 +2,22 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 7:05 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:30 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 23](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 35](../patients/grafting.md) · [Potential New Start 2](../patients/potential-new-start.md) · [Pending 6](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="verify"></a>
 
-## 🟠 Verify · 9
+## 🟠 Verify · 8
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
@@ -28,7 +28,6 @@
 | <details><summary><b>P.M.</b></summary>Paul Michael</details> | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | App # doesn't match: AJ's calendar has A11 on Mon 11/2, the app has 8 logged (next A9) — confirm the count |
 | <details><summary><b>E.P.</b></summary>Edmundo Punzalan</details> | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | App # doesn't match: AJ's calendar has A6 on Wed 11/4, the app has 4 logged (next A5) — confirm the count |
 | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | NW Suburban F&A · Goldkind | OASIS Ultra 3x7 | App # doesn't match: AJ's calendar has A9 on Wed 11/4, the app has 6 logged (next A7) — confirm the count |
-| <details><summary><b>P.S.</b></summary>Peter S.</details> | NW Suburban F&A · Goldkind | GRAFIX 16mm | App # doesn't match: AJ's calendar has A5 on Mon 11/2, the app has 3 logged (next A4) — confirm the count |
 | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count |
 
 <a name="nofu"></a>
