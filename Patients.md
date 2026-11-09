@@ -2,9 +2,9 @@
 
 # Patients
 
-**BIOT Chicago West** · 120 patients · updated Mon 11/9, 4:40 PM CT
+**BIOT Chicago West** · 120 patients · updated Mon 11/9, 5:24 PM CT
 
-| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
+| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -113,7 +113,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Lucas**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Lucas<br>**OR&nbsp;Sat&nbsp;11/7 · 2&nbsp;d&nbsp;post-op** |   | OR case Sat 11/7 in the main OR at Alexian Brothers Medical Center (Dr. Lucas), not Ambulatory care (AJ 11/9: its own account, Alexian Main OR; S+N bills it as acct 186035): STRAVIX PL 3x6 LYU-252185\_36001. Filed from PO 660040000287130 (11/9, consignment ordered to replace the unit used 11/7; MR# 201145071; attn Cindy Brandt). New OR patient: initials and case sheet not on file yet (the PO came first). November row 38. |
+| **Upcoming · Dr. Lucas**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Lucas<br>**OR&nbsp;Sat&nbsp;11/7 · 2&nbsp;d&nbsp;post-op** |   | OR case Sat 11/7 in the main OR at Alexian Brothers Medical Center (Dr. Lucas), not Ambulatory care (AJ 11/9: its own account, Alexian Main OR; S+N bills it as acct 186035): STRAVIX PL 3x6 LYU-252185\_36001. Bill & replace (AJ 11/9: the main OR is on bill and replace): PO 660040000287130 (11/9) is the replacement order for the unit used 11/7 and posts to SFDC on its own, nothing to submit (MR# 201145071; attn Cindy Brandt). New OR patient: initials and case sheet not on file yet (the PO came first). November row 38. |
 
 </details>
 

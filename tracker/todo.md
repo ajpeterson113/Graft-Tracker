@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 5 of 19 · updated Mon 11/9, 4:40 PM CT
+**BIOT Chicago West** · P11 · day 5 of 19 · updated Mon 11/9, 5:24 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 14 · \$14,909
+## 🟢 Submit to SFDC · 13 · \$12,440
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -28,7 +28,6 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/5 | [J.B.](../case-sheets/jb-1105.md) | Alexian WCC · Adelstein | Grafix 2x3 | 660040000286972 | \$925.35 |
 | 11/5 | [A.P.](../case-sheets/ap-1105.md) | Alexian WCC · Adelstein | Grafix 16mm | 660040000286995 | \$360 |
 | 11/5 | [D.K.](../case-sheets/dk-1105.md) | Alexian WCC · Halihan | Grafix 16mm | 660040000286996 | \$360 |
-| 11/7 | — | Alexian Main OR · Lucas | Stravix 3x6 | 660040000287130 | \$2,469 |
 
 <a name="needspo"></a>
 ## 🟡 Waiting on a PO · 9 · \$11,712
@@ -46,12 +45,13 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/9 | [C.B.](../case-sheets/cb-1109.md) | Alexian WCC · Goldkind | Grafix 2x3 | — | 0003103740 | \$925.35 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 1 · \$772
+## 🔵 Submitted, not in SFDC yet · 2 · \$3,241
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
 | Date | Pt | Account | Graft | PO | Amount |
 | :-- | :-- | :-- | :-- | :-- | --: |
+| 11/7 | — | Alexian Main OR · Lucas | Stravix 3x6 | …287130 | \$2,469 |
 | 11/9 | — | NW Suburban F&A | OASIS Ultra 3x3.5 · 1 box of 5 | Oasis11/9 | \$771.75 |
 
 <a name="sheets"></a>
