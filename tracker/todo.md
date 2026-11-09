@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 5 of 19 · updated Mon 11/9, 1:51 PM CT
+**BIOT Chicago West** · P11 · day 5 of 19 · updated Mon 11/9, 2:20 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 12 · \$10,745
+## 🟢 Submit to SFDC · 13 · \$13,214
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -27,9 +27,10 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/5 | [J.B.](../case-sheets/jb-1105.md) | Alexian WCC · Adelstein | Grafix 2x3 | 660040000286972 | \$925.35 |
 | 11/5 | [A.P.](../case-sheets/ap-1105.md) | Alexian WCC · Adelstein | Grafix 16mm | 660040000286995 | \$360 |
 | 11/5 | [D.K.](../case-sheets/dk-1105.md) | Alexian WCC · Halihan | Grafix 16mm | 660040000286996 | \$360 |
+| 11/7 | — | Alexian Ambulatory · Lucas | Stravix 3x6 | 660040000287130 | \$2,469 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 8 · \$11,882
+## 🟡 Waiting on a PO · 9 · \$12,482
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -41,6 +42,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 3 days | 0003095154 | \$360 |
 | 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 3 days |   | \$1,650 |
 | 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 3 days |   | \$1,650 |
+| 11/9 | [C.P.](../case-sheets/cp-1109.md) | Alexian WCC · Joshi | Grafix 1.5x2 | — | 0002759724 | \$600 |
 
 <a name="sheets"></a>
 ## ⏳ Case sheets to come · 2
@@ -62,6 +64,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 18
+## 👥 Patients · 20
 
-5 to verify · 11 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)
+7 to verify · 11 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)

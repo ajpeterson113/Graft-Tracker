@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 5 of 19 · updated Mon 11/9, 1:51 PM CT
+**BIOT Chicago West** · P11 · day 5 of 19 · updated Mon 11/9, 2:20 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,10 +13,12 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**28 entries · \$31,921** · 🟢 12 Ready · 🟡 8 Needs PO · ⚪ 8 In SFDC
+**30 entries · \$34,990** · 🟢 13 Ready · 🟡 9 Needs PO · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/9** | [**C.P.**](../case-sheets/cp-1109.md) 📄 · Alexian WCC · Joshi<br>Grafix 1.5x2 · no PO yet · LYA-250668\_15009<details><summary><sub>Notes</sub></summary>App #3, Mon 11/9 1:15 PM, Dr. Joshi: 1.5x2 LYA-250668\_15009 (exp 6/18/27) from the Alexian WCC shelf, \$600 (Alexian 1.5x2 rate). AJ's case sheet photo from Chi West 11/9 (with the Grafted tap). Bill-only PO to come (Alexian ID 0002759724, same as A1 and A2).</details> | \$600 | 🟡&nbsp;Needs&nbsp;PO |
+| **11/7** | **Stravix 3x6** · Alexian Ambulatory · Lucas<br>PO 660040000287130 · LYU-252185\_36001<details><summary><sub>Notes</sub></summary>OR case Sat 11/7 at Alexian Brothers (Dr. Lucas), new patient: from PO 660040000287130 (11/9, sent by AJ 11/9), "consignment ordered to replace item used 11/07/26 by Dr. Lucas": Stravix PL 3x6 LYU-252185\_36001, \$2,469.00 (Ascension 3x6 rate), MR# 201145071 (column C), attn Cindy Brandt 847/437-5500 x7127, ship to the ABMC receiving dock (800 Biesterfield). The unit is on the S+N consignment list for acct 186035 (exp 11/3/27 per that list) but was not in the 11/3 Alexian Ambulatory shelf photos. PO came before the case sheet: no case sheet or patient initials on file yet; add them when AJ sends the case sheet. SFDC will show the replacement serial.</details> | \$2,469 | 🟢&nbsp;Ready |
 | **11/6** | [**M.C.**](../case-sheets/mc-1106.md) 📄 · Alexian Ambulatory · Lucas<br>Stravix 2x4 + 3x6 + VERSAJET ×2 · no PO yet · LYU-251827\_24004, LYU-251697\_36005<details><summary><sub>Notes</sub></summary>OR case Fri 11/6 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C.: one case on one PO, kept as one row (like K.B. 10/21). Stravix PL 2x4 LYU-251827\_24004 (exp 8/18/27) \$1,553.10 + Stravix PL 3x6 LYU-251697\_36005 (exp 8/11/27) \$2,469.00 (Ascension rates, as on AJ's case sheet) + VERSAJET Exact assembly 45°, 14 mm (REF 66800041, lot 51417253, exp 6/30/28) \$695.00; case total \$4,717.10 per the case sheet. Both Stravix units from Alexian Ambulatory's own consignment shelf (no transfer). Case sheet photo from AJ 11/6: case-sheets/mc-1106 (hospital label covered on that copy). PO to come (bill only; match by FIN 3004469 on the hospital label). Same patient as the weekly OASIS M.C. (A11 10/30).</details> | \$4,717.10 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**G.H.**](../case-sheets/gh-1106.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260256\_16008<details><summary><sub>Notes</sub></summary>App #1, Fri 11/6 12:40 PM, Dr. Lucas: new start. Grafix 16mm LYA-260256\_16008 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). AJ's case sheet photo from Chi West 11/6 (with the Grafted tap). Bill-only PO to come (Alexian ID 0003095154, from the patient label).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**E.D.**](../case-sheets/ed-1106.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · no PO yet · LYU-260236\_24001<details><summary><sub>Notes</sub></summary>OR case Fri 11/6 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka): Stravix PL 2x4 LYU-260236\_24001 (exp 1/12/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Bill-only PO to come (Prime Healthcare vendor acct 296620). Case sheet: case-sheets/ed-1106 (patient label covered).</details> | \$1,650 | 🟡&nbsp;Needs&nbsp;PO |
