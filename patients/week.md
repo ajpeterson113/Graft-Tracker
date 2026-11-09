@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 118 patients · updated Sun 11/8, 3:50 PM CT
+**BIOT Chicago West** · 118 patients · updated Sun 11/8, 8:48 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -43,16 +43,16 @@
 <a name="tue"></a>
 ### Tuesday, Nov 10
 
-8 visits · **Grafts:** GRAFIX 16mm ×5 · GRAFIX 2x3 · GRAFIX 3x3 · GRAFIX 5x5 · **Covering:** Not covered 4
+8 visits · **Grafts:** GRAFIX 16mm ×5 · GRAFIX 2x3 · GRAFIX 3x3 · GRAFIX 5x5 · **Covering:** Caroline 3 · Not covered 1
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:15&nbsp;AM** | <details><summary><b>M.B.</b></summary>Merrill Burleigh</details> | **A4** · GRAFIX 2x3 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas |   |
 | **9:00&nbsp;AM** | <details><summary><b>P.P.</b></summary>P. Patrizi</details> | **A2** · GRAFIX 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Patni | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
-| **9:00&nbsp;AM** | <details><summary><b>D.G.</b></summary>Diane Grunder</details> | **A4** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
-| **9:15&nbsp;AM** | <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | **A4** · GRAFIX 5x5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Mallory | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
+| **9:00&nbsp;AM** | <details><summary><b>D.G.</b></summary>Diane Grunder</details> | **A4** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Caroline&nbsp;covering |
+| **9:15&nbsp;AM** | <details><summary><b>D.S.</b></summary>Donald Schroeder</details> | **A4** · GRAFIX 5x5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Mallory | 👤&nbsp;Caroline&nbsp;covering |
 | **9:15&nbsp;AM** | <details><summary><b>P.H.</b></summary>Pamela Hartlipp</details> | **A5** · GRAFIX 3x3 | St.&nbsp;Joseph&nbsp;Elgin · Elgin<br>Veronica&nbsp;Pappas |   |
-| **9:40&nbsp;AM** | <details><summary><b>J.L.</b></summary>J. Leamann</details> | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
+| **9:40&nbsp;AM** | <details><summary><b>J.L.</b></summary>J. Leamann</details> | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Caroline&nbsp;covering |
 | **12:55&nbsp;PM** | <details><summary><b>O.O.</b></summary>Omar Osama</details> | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham · MA&nbsp;Maria |   |
 | **1:00&nbsp;PM** | <details><summary><b>M.L.</b></summary>Mariam Lopez</details> | **A7** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 
@@ -60,11 +60,11 @@
 <a name="wed"></a>
 ### Wednesday, Nov 11
 
-7 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Ultra 7x10 ×2 · OASIS Wound 3x3.5 ×2 · GRAFIX 3x3 · Oasis Burn · **Covering:** Not covered 4
+7 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Ultra 7x10 ×2 · OASIS Wound 3x3.5 ×2 · GRAFIX 3x3 · Oasis Burn · **Covering:** Caroline 1 · Not covered 3
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
-| **9:15&nbsp;AM** | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | **A2** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
+| **9:15&nbsp;AM** | <details><summary><b>E.N.</b></summary>Eloy Nunezguzman</details> | **A2** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe | 👤&nbsp;Caroline&nbsp;covering |
 | **10:45&nbsp;AM** | <details><summary><b>L.J.</b></summary>Louis Marie Jacques</details> | **A4** · OASIS Ultra 7x10 (x2) | Good&nbsp;Sam<br>Dr.&nbsp;Bach |   |
 | **11:40&nbsp;AM** | <details><summary><b>S.G.</b></summary>Sergio Garcia</details> | **A2** · GRAFIX 3x3 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
 | **1:45&nbsp;PM** | <details><summary><b>D.V.</b></summary>Donald Vondraceck</details> | **A6** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain · MA&nbsp;Denise |   |
@@ -76,19 +76,19 @@
 <a name="thu"></a>
 ### Thursday, Nov 12
 
-9 visits · **Grafts:** GRAFIX 16mm ×4 · OASIS Wound 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · GRAFIX 5x5 · OASIS Ultra 3x3.5 · **Covering:** Not covered 5
+9 visits · **Grafts:** GRAFIX 16mm ×4 · OASIS Wound 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · GRAFIX 5x5 · OASIS Ultra 3x3.5 · **Covering:** Caroline 3 · Not covered 2
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:00&nbsp;AM** | <details><summary><b>J.B.</b></summary>J. Buschmann</details> | **A3** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein · MA&nbsp;Joe |   |
 | **9:45&nbsp;AM** | **M.A.** | **A3** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind |   |
-| **1:00&nbsp;PM** | <details><summary><b>D.F.</b></summary>Dominga Flores</details> | **A7** · GRAFIX 5x5 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
+| **1:00&nbsp;PM** | <details><summary><b>D.F.</b></summary>Dominga Flores</details> | **A7** · GRAFIX 5x5 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
 | **1:15&nbsp;PM** | <details><summary><b>D.K.</b></summary>David Knopp</details> | **A4** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Halihan | 🟠 Verify: Not confirmed with the office yet: Thu 11/12 1:15 PM |
 | **1:30&nbsp;PM** | <details><summary><b>H.P.</b></summary>Hiten Patel</details> | **A3** · OASIS Wound 3x3.5 | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Ramani |   |
 | **1:30&nbsp;PM** | **L.W.** | **A5** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
 | **1:30&nbsp;PM** | <details><summary><b>J.C.</b></summary>James Churchill</details> | **A13** · OASIS Wound 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Bhagat | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
-| **2:00&nbsp;PM** | <details><summary><b>P.J.</b></summary>Paul Jagust</details> | **A7** · GRAFIX (2) 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
-| **2:45&nbsp;PM** | <details><summary><b>L.D.</b></summary>L. Dituri</details> | **A28** · GRAFIX 1.5x2 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
+| **2:00&nbsp;PM** | <details><summary><b>P.J.</b></summary>Paul Jagust</details> | **A7** · GRAFIX (2) 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
+| **2:45&nbsp;PM** | <details><summary><b>L.D.</b></summary>L. Dituri</details> | **A28** · GRAFIX 1.5x2 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
 
 
 🔴 **No follow-up · usually seen Thursdays** · 3
@@ -104,13 +104,13 @@
 <a name="fri"></a>
 ### Friday, Nov 13
 
-6 visits · **Grafts:** GRAFIX · GRAFIX 16mm · OASIS Ultra 3x7 · OASIS Wound (2x) 3x3.5 · OASIS Wound Matrix 3x3.5 · STRAVIX · **Covering:** Not covered 3
+6 visits · **Grafts:** GRAFIX · GRAFIX 16mm · OASIS Ultra 3x7 · OASIS Wound (2x) 3x3.5 · OASIS Wound Matrix 3x3.5 · STRAVIX · **Covering:** Caroline 1 · Not covered 2
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **7:00&nbsp;AM** | <details><summary><b>S.W.</b></summary>S. Wyoski</details> | **OR** · STRAVIX | Good&nbsp;Sam<br>Dr.&nbsp;Ayesh |   |
 | **9:45&nbsp;AM** | <details><summary><b>M.C.</b></summary>Martin Cozzi</details> | **A12** · OASIS Wound (2x) 3x3.5 | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Lucas | 👤&nbsp;Not&nbsp;covered&nbsp;covering |
-| **11:30&nbsp;AM** | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | **A8** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | 🟠 Verify: App # doesn't match: AJ's calendar has A9 on Wed 11/4, the app has 6 logged (next A7) — confirm the count · 👤&nbsp;Not&nbsp;covered&nbsp;covering |
+| **11:30&nbsp;AM** | <details><summary><b>MZ (L)</b></summary>Mariusz Zabrodzki</details> | **A8** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | 🟠 Verify: App # doesn't match: AJ's calendar has A9 on Wed 11/4, the app has 6 logged (next A7) — confirm the count · 👤&nbsp;Caroline&nbsp;covering |
 | **12:00&nbsp;PM** | <details><summary><b>A.S.</b></summary>Antanas Sabaluauskas</details> | **A6** · GRAFIX 16mm | Central&nbsp;DuPage · CDFA<br>Dr.&nbsp;Luetkehans |   |
 | **12:40&nbsp;PM** | <details><summary><b>G.H.</b></summary>Gordon Hamby</details> | **A2** · GRAFIX | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Mallory | 🟠 Verify: Not confirmed with the office yet: Fri 11/13 12:40 PM |
 | **1:00&nbsp;PM** | <details><summary><b>D.N.</b></summary>Dennis Napier</details> | **A5** · OASIS Wound Matrix 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas | 🟠 Verify: App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count · 👤&nbsp;Not&nbsp;covered&nbsp;covering |
@@ -131,7 +131,7 @@
 | **All clinics** | **8** | **8** | **7** | **9** | **6** | **38** | GRAFIX 16mm ×11 · OASIS Wound 3x3.5 ×5 · OASIS Wound 3x7 ×4 · GRAFIX 2x3 ×3 · OASIS Ultra 3x3.5 ×3 · GRAFIX 1.5x2 ×2 · GRAFIX 3x3 ×2 · GRAFIX 5x5 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX ×1 · GRAFIX/OASIS ×1 · OASIS Burn Oasis burn 3x7 ×1 · OASIS Ultra 3x7 ×1 · OASIS Wound (2x) 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · Oasis Burn ×1 · STRAVIX ×1 |
 
 
-**Covering this week:** Not covered 16
+**Covering this week:** Caroline 8 · Not covered 8
 
 
 <details><summary><b>Next week</b> · 5 visits booked so far</summary>
