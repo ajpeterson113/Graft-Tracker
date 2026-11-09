@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 12:50 PM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 1:51 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -26,7 +26,7 @@
 <a name="mon"></a>
 ### Monday, Nov 9 · Today
 
-8 visits · 4 logged · **Grafts:** GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7 · OASIS Ultra 3x3.5
+8 visits · 5 logged · **Grafts:** GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
@@ -34,7 +34,7 @@
 | **10:15&nbsp;AM** | <details><summary><b>P.M.</b></summary>Paul Michael</details> | **A11** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅ Grafted A11 · NWSFA graft log: Graft #11, OASIS Wound Matrix 3x3.5 lot LB1751182; AJ: This is #11 today (11/9/26) |
 | **10:45&nbsp;AM** | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A6** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A6 |
 | **10:45&nbsp;AM** | **R.E.** | **A1** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain | ✅ Grafted A1 · NWSFA graft log: Graft #1, OASIS Ultra (Tri-Layer Matrix) 3x3.5 lot LB1709198 |
-| **11:15&nbsp;AM** | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | **A15** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
+| **11:15&nbsp;AM** | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | **A15** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A15 |
 | **12:50&nbsp;PM** | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | **A6** · OASIS Burn Oasis burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **1:15&nbsp;PM** | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | **A3** · GRAFIX 1.5x2 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **2:15&nbsp;PM** | **C.B.** | **A1 · New start** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Goldkind · MA&nbsp;Denise |   |

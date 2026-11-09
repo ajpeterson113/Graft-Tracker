@@ -2,7 +2,7 @@
 
 # Pending
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 12:50 PM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 1:51 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
