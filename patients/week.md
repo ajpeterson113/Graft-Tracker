@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 118 patients · updated Mon 11/9, 9:39 AM CT
+**BIOT Chicago West** · 118 patients · updated Mon 11/9, 10:51 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;118](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;18](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 35](../patients/grafting.md) · [Potential New Start 3](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 33](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -26,14 +26,14 @@
 <a name="mon"></a>
 ### Monday, Nov 9 · Today
 
-8 visits · 1 logged · **Grafts:** OASIS Ultra 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · GRAFIX/OASIS · OASIS Burn Oasis burn 3x7 · OASIS Wound 3x3.5
+8 visits · 2 logged · **Grafts:** OASIS Ultra 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · GRAFIX/OASIS · OASIS Burn Oasis burn 3x7
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:45&nbsp;AM** | <details><summary><b>P.S.</b></summary>Peter S.</details> | **Done** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Healed |
-| **10:15&nbsp;AM** | <details><summary><b>P.M.</b></summary>Paul Michael</details> | **A10** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 🟠 Verify: App # doesn't match: AJ's calendar has A11 on Mon 11/2, the app has 8 logged (next A9) — confirm the count |
+| **10:15&nbsp;AM** | <details><summary><b>P.M.</b></summary>Paul Michael</details> | **A11** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅ Grafted A11 · NWSFA graft log: Graft #11, OASIS Wound Matrix 3x3.5 lot LB1751182 |
 | **10:15&nbsp;AM** | **R.E.** | **A1 · New start** · GRAFIX/OASIS | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain |   |
-| **10:45&nbsp;AM** | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A5** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 🟠 Verify: App # doesn't match: AJ's calendar has A6 on Mon 11/2, the app has 3 logged (next A4) — confirm the count |
+| **10:45&nbsp;AM** | <details><summary><b>G.K.</b></summary>George Kuszynski</details> | **A6** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 | **11:15&nbsp;AM** | <details><summary><b>C.C.</b></summary>Constance Campbell</details> | **A14** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | 🟠 Verify: App # doesn't match: AJ's calendar has A14 on Mon 11/2, the app has 12 logged (next A13) — confirm the count |
 | **12:50&nbsp;PM** | <details><summary><b>B.P.</b></summary>Boguslaw Pryzybcien</details> | **A6** · OASIS Burn Oasis burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **1:15&nbsp;PM** | <details><summary><b>C.P.</b></summary>Christine Porkfyke</details> | **A3** · GRAFIX 1.5x2 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
