@@ -22,6 +22,14 @@
    "h": "",
    "t": "Every target now carries its hospitals",
    "s": "Filter the Targets list by hospital. A \"?\" after a hospital means the affiliation is not confirmed yet."
+  },
+  {
+   "d": "2026-11-09",
+   "k": "upd",
+   "h": "Elmhurst",
+   "t": "Mohammed Aslam, DPM: matched to the existing listing",
+   "s": "AJ added Dr. Aslam in Chi West (operates with Dr. Farhan at Elmhurst); matched to the listed Premier Foot & Ankle (Oakbrook Terrace) podiatrist, set as a target and assigned to the associates. Dr. Farhan is likely Mohammed Farhan, DPM (Naperville), not yet listed.",
+   "target": "mohammed-aslam-elmhurst"
   }
  ],
  "news": [

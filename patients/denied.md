@@ -2,7 +2,7 @@
 
 # Denied
 
-**BIOT Chicago West** · 120 patients · updated Mon 11/9, 6:05 PM CT
+**BIOT Chicago West** · 120 patients · updated Mon 11/9, 8:03 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +20,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.T.** | Dr.&nbsp;Raigaga |   | Mentioned taking this patient to the operating room |
+| <details><summary><b>R.T.</b></summary>Raymond Tarkowski</details> | Dr.&nbsp;Raigaga |   | Mentioned taking this patient to the operating room |
 
 </details>
 
@@ -29,7 +29,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **X.S.** | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** |   | Denied (moved in the app 10/11) |
+| <details><summary><b>X.S.</b></summary>Xerxes S.</details> | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** |   | Denied (moved in the app 10/11) |
 
 </details>
 

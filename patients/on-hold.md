@@ -2,7 +2,7 @@
 
 # On hold
 
-**BIOT Chicago West** · 120 patients · updated Mon 11/9, 6:05 PM CT
+**BIOT Chicago West** · 120 patients · updated Mon 11/9, 8:03 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +20,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **C.H.** | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Bach | 🟢 0 | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |
+| <details><summary><b>C.H.</b></summary>Candace Hein</details> | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Bach | 🟢 0 | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |
 
 </details>
 
@@ -29,10 +29,10 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **D.L.** | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;3:30&nbsp;PM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
-| **V.T.** | GRAFIX · Dr.&nbsp;Halihan<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:15&nbsp;PM** | 🟢 – of 8 |   |
-| **J.C.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
-| **G.C.** | GRAFIX · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/4&nbsp;3:10&nbsp;PM** | 🟢 – of 8 |   |
+| <details><summary><b>D.L.</b></summary>David Lazzaro</details> | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;3:30&nbsp;PM** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
+| <details><summary><b>V.T.</b></summary>Virginia thomas</details> | GRAFIX · Dr.&nbsp;Halihan<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:15&nbsp;PM** | 🟢 – of 8 |   |
+| <details><summary><b>J.C.</b></summary>Jerry Cooper</details> | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
+| <details><summary><b>G.C.</b></summary>Gabriel Curiel</details> | GRAFIX · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/4&nbsp;3:10&nbsp;PM** | 🟢 – of 8 |   |
 
 </details>
 
@@ -41,13 +41,13 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **F.A.** | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/13** | 🔴 12 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris; office was running a new IVR 10/16. NWSFA schedule wk of 10/26: Tue 10/27 11:30 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Tue 10/20 11:30 AM Dr. Adelstein (HE) — office running IVR 10/16. A11 10/6 (A10 the week of 9/28, exact date not recorded) |
-| **J.M.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/14** | 🟢 3 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris. NWSFA schedule wk of 10/26: Wed 10/28 12:45 PM Dr. Adelstein (EG). NWSFA schedule wk of 10/19: Wed 10/21 12:30 PM Dr. Adelstein (HE). A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
-| **J.R.** | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
-| **R.D.** | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🟡 10 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
-| **J.C.** | Oasis&nbsp;Ultra&nbsp;7x20 · Dr.&nbsp;Hussain | 🔴 12 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Last 7/27/26 |
-| **J.S.** | GRAFIX&nbsp;2x3 · Dr.&nbsp;Hussain | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
-| **S.B.** | OASIS&nbsp;Ultra&nbsp;3x3.5 · Home&nbsp;Visit | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Home visit patient |
+| <details><summary><b>F.A.</b></summary>Frank Auman</details> | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/13** | 🔴 12 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris; office was running a new IVR 10/16. NWSFA schedule wk of 10/26: Tue 10/27 11:30 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Tue 10/20 11:30 AM Dr. Adelstein (HE) — office running IVR 10/16. A11 10/6 (A10 the week of 9/28, exact date not recorded) |
+| <details><summary><b>J.M.</b></summary>Joyce Morales</details> | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/14** | 🟢 3 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris. NWSFA schedule wk of 10/26: Wed 10/28 12:45 PM Dr. Adelstein (EG). NWSFA schedule wk of 10/19: Wed 10/21 12:30 PM Dr. Adelstein (HE). A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
+| <details><summary><b>J.R.</b></summary>James Roshbach</details> | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>R.D.</b></summary>Roosevelt Dunlap</details> | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🟡 10 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>J.C.</b></summary>Jeffrey Chase</details> | Oasis&nbsp;Ultra&nbsp;7x20 · Dr.&nbsp;Hussain | 🔴 12 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Last 7/27/26 |
+| <details><summary><b>J.S.</b></summary>John Snyder</details> | GRAFIX&nbsp;2x3 · Dr.&nbsp;Hussain | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
+| <details><summary><b>S.B.</b></summary>Shirley Ballard</details> | OASIS&nbsp;Ultra&nbsp;3x3.5 · Home&nbsp;Visit | 🟡 11 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Home visit patient |
 
 </details>
 

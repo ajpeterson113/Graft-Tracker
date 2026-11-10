@@ -2,7 +2,7 @@
 
 # Pending
 
-**BIOT Chicago West** · 120 patients · updated Mon 11/9, 6:05 PM CT
+**BIOT Chicago West** · 120 patients · updated Mon 11/9, 8:03 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -21,7 +21,7 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **Z.G.** | GRAFIX&nbsp;16mm · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Next&nbsp;Thu&nbsp;11/19** |   | New patient added in Chi West 11/5: Dr. Ayesh, GRAFIX 16mm every 2 weeks, first visit Thu 11/19. |
-| **K.B.** | OASIS · Dr.&nbsp;Ayesh |   | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6. |
+| <details><summary><b>K.B.</b></summary>K. Bette</details> | OASIS · Dr.&nbsp;Ayesh |   | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6. |
 
 </details>
 
@@ -30,7 +30,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.S.** | Oasis · Dr.&nbsp;Srivastava |   | New 11/2 |
+| <details><summary><b>R.S.</b></summary>Robert Sparacio</details> | Oasis · Dr.&nbsp;Srivastava |   | New 11/2 |
 
 </details>
 
@@ -48,6 +48,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.D.** | GRAFIX/OASIS · Dr.&nbsp;Bhagat<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:30&nbsp;PM** |   | Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinicals, needs referral |
+| <details><summary><b>J.D.</b></summary>Johnny  Dematropolis</details> | GRAFIX/OASIS · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;2:30&nbsp;PM** |   | Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinicals, needs referral |
 
 </details>
