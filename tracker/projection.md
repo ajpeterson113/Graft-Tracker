@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 10:51 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 10:55 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -12,18 +12,18 @@
 | :-- | --: | --: |
 | Sold so far (November tab) | \$36,687 | \$36,687 |
 | \+ Projected Grafix, net of WCC stock | \$29,213 | \$19,987 |
-| \+ Upcoming Stravix | \$12,864 | \$8,141 |
+| \+ Upcoming Stravix | \$27,678 | \$18,017 |
 | \+ Potential new starts | \$4,633 | \$0 |
 | \+ OASIS reorders (estimated) | \$6,450 | \$4,244 |
-| **P11 forecast** | **\$89,846** | **\$69,059** |
+| **P11 forecast** | **\$104,660** | **\$78,935** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 97% | 74% |
-| Gap to target | \$3,045 | \$23,832 |
-| **Projected commission** | **\$6,289** | **\$4,834** |
+| % of target | 113% | 85% |
+| Gap to target | ✅ over by \$11,769 | \$13,956 |
+| **Projected commission** | **\$10,466** | **\$5,525** |
 
 
 > [!NOTE]
-> Hitting target pays 10% on everything. Closing the \$23,832 downside gap adds about **\$4,455** in commission.
+> Hitting target pays 10% on everything. Closing the \$13,956 downside gap adds about **\$3,764** in commission.
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/9.</sub>
@@ -36,6 +36,7 @@
 | :-- | --: | --: | --: | --: | --: |
 | [Alexian WCC](#alexian-wcc) | \$9,982 | \$21,128 | \$14,911 | **\$31,110** | **\$24,893** |
 | [Good Sam](#good-sam) | \$5,401 | \$17,218 | \$6,790 | **\$22,618** | **\$12,190** |
+| [GlenOaks](#glenoaks) | — | \$14,814 | \$9,876 | **\$14,814** | **\$9,876** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$3,300 | \$3,515 | \$2,545 | **\$6,815** | **\$5,845** |
 | [Alexian Ambulatory](#x) | \$5,821 | \$0 | \$0 | **\$5,821** | **\$5,821** |
 | [St. Alexius](#st-alexius) | — | \$4,938 | \$3,106 | **\$4,938** | **\$3,106** |
@@ -46,8 +47,7 @@
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$570 | \$190 | **\$1,780** | **\$1,400** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| GlenOaks | — | — | — | — | — |
-| **Total** | **\$36,687** | **\$53,159** | **\$32,372** | **\$89,846** | **\$69,059** |
+| **Total** | **\$36,687** | **\$67,973** | **\$42,248** | **\$104,660** | **\$78,935** |
 
 
 ## Account by account
@@ -144,6 +144,18 @@ Sold so far: **\$5,401** · 2 cases
 | :-- | :-- | --: | --: | :-- |
 | **Dr. Patni** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · L.J. (I.S. healed 10/13) | — | — |   |
 | **Dr. Bach** | OASIS Ultra 7x10 meshed · 1 up / 1 down box · L.J. | \$4,244 | \$4,244 | 11/5 shelf photo: the OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) is full, 5 sheets (AJ 11/5; Ultra and Burn come 5 to a box, Wound 10). |
+
+</details>
+
+<a name="glenoaks"></a>
+<details><summary><b>GlenOaks</b> · upside &#36;14,814 · downside &#36;9,876</summary>
+
+**Upcoming Stravix**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **Dr. Reed** | Stravix TBD | — | — |   |
+| **Dr. McKanna** | Stravix 3x6 · Wed 11/11 | \$14,814 | \$9,876 | Wed 11/11 1:00 PM OR case at GlenOaks (Dr. McKanna, debridement, from Yvette's text 11/10). |
 
 </details>
 
@@ -302,17 +314,6 @@ Sold so far: **\$190** · 1 case
 
 </details>
 
-<a name="glenoaks"></a>
-<details><summary><b>GlenOaks</b> · upside &#36;0 · downside &#36;0</summary>
-
-**Upcoming Stravix**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **Dr. Reed** | Stravix TBD | — | — |   |
-
-</details>
-
 
 ## By type
 
@@ -320,7 +321,7 @@ Sold so far: **\$190** · 1 case
 | :-- | --: | --: | --: |
 | Weekly and biweekly patients | 28 | \$39,341 | \$31,247 |
 | Less Good Sam WCC stock already sold | 8 | -\$10,129 | -\$11,260 |
-| Upcoming Stravix | 7 | \$12,864 | \$8,141 |
+| Upcoming Stravix | 8 | \$27,678 | \$18,017 |
 | Potential new starts | 14 | \$4,633 | \$0 |
 | OASIS reorders (estimated) | 9 | \$6,450 | \$4,244 |
 

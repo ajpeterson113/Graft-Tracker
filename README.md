@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 10:51 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 10:55 AM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -12,7 +12,7 @@
   <source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="view/home-narrow-dark.png">
   <source media="(max-width: 700px)" srcset="view/home-narrow.png">
   <source media="(prefers-color-scheme: dark)" srcset="view/home-dark.png">
-  <img alt="P11: &#36;23,740 in SFDC + submitted, 26% of the &#36;92,891 target (&#36;36,687 booked). Forecast &#36;69,059 downside to &#36;89,846 upside. Shipping day 6 of 19." src="view/home.png" width="880">
+  <img alt="P11: &#36;23,740 in SFDC + submitted, 26% of the &#36;92,891 target (&#36;36,687 booked). Forecast &#36;78,935 downside to &#36;104,660 upside. Shipping day 6 of 19." src="view/home.png" width="880">
 </picture>
 
 ### To do
@@ -33,7 +33,7 @@
 
 | [Mon 11/9](patients/week.md#mon) | [Tue 11/10 · today](patients/week.md#tue) | [Wed 11/11](patients/week.md#wed) | [Thu 11/12](patients/week.md#thu) | [Fri 11/13](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **8** visits | **8** visits | **9** visits 🟠 | **10** visits 🟠 🔴 | **6** visits 🟠 |
+| **8** visits | **8** visits | **9** visits 🟠 | **11** visits 🟠 🔴 | **6** visits 🟠 |
 
 
 Covering: Caroline 8 · Not covered 2 · Pete 6 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
@@ -45,6 +45,7 @@ Covering: Caroline 8 · Not covered 2 · Pete 6 · 🟠 to verify · 🔴 no fol
 | :-- | --: | --: | --: |
 | Alexian WCC | \$9,982 | **\$31,110** | \$24,893 |
 | Good Sam | \$5,401 | **\$22,618** | \$12,190 |
+| GlenOaks | — | **\$14,814** | \$9,876 |
 | St. Joseph Elgin | \$3,300 | **\$6,815** | \$5,845 |
 | Alexian Ambulatory | \$5,821 | **\$5,821** | \$5,821 |
 | St. Alexius | — | **\$4,938** | \$3,106 |
@@ -55,8 +56,7 @@ Covering: Caroline 8 · Not covered 2 · Pete 6 · 🟠 to verify · 🔴 no fol
 | Alexian Main OR | \$2,469 | **\$2,469** | \$2,469 |
 | Central DuPage | \$1,210 | **\$1,780** | \$1,400 |
 | Suburban F&A | \$190 | **\$190** | \$190 |
-| GlenOaks | — | — | — |
-| **Total** | **\$36,687** | **\$89,846** | **\$69,059** |
+| **Total** | **\$36,687** | **\$104,660** | **\$78,935** |
 
 
 Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. [Full projection →](tracker/projection.md)
@@ -64,7 +64,7 @@ Scheduled visits this week count until they're filed; once a visit is in Novembe
 
 ### 2026 full year
 
-**77%** of \$1,237,893 · \$284,764 to go — \$925,736 in SFDC (10/16) + \$27,393 in this tracker, not in SFDC yet. Through P11: \$1.01M upside / \$985.5K downside (81% / 80%).
+**77%** of \$1,237,893 · \$284,764 to go — \$925,736 in SFDC (10/16) + \$27,393 in this tracker, not in SFDC yet. Through P11: \$1.02M upside / \$995.4K downside (82% / 80%).
 
 
 <details><summary><b>By month (SFDC)</b></summary>
@@ -102,7 +102,7 @@ Scheduled visits this week count until they're filed; once a visit is in Novembe
 
 |  | File | Updated |
 | :-: | :-- | :-- |
-| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-10.xlsx · Tue 11/10, 10:50 AM CT |
+| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-10.xlsx · Tue 11/10, 10:55 AM CT |
 | ⬇ | [Patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) | from the Chi West Patients app |
 | ⬇ | [Target workbook (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx) | surgeon targets |
 

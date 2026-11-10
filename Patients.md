@@ -2,21 +2,21 @@
 
 # Patients
 
-**BIOT Chicago West** · 121 patients · updated Tue 11/10, 10:51 AM CT
+**BIOT Chicago West** · 122 patients · updated Tue 11/10, 10:55 AM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;121**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](patients/todo.md) |
+| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;122**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](patients/grafting.md) · [Potential New Start 1](patients/potential-new-start.md) · [Pending 5](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 13](patients/on-hold.md) · [OR 36](patients/or.md) · [Done 24](patients/done.md) · [Denied 5](patients/denied.md)
+[Grafting 37](patients/grafting.md) · [Potential New Start 1](patients/potential-new-start.md) · [Pending 5](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 13](patients/on-hold.md) · [OR 37](patients/or.md) · [Done 24](patients/done.md) · [Denied 5](patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
-**Accounts:** [Good Sam 29](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [Alexian Main OR 1](#alexian-main-or) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 10](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 8](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 1](#elmhurst) · [GlenOaks 4](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 3](#romano-lombard)
+**Accounts:** [Good Sam 29](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [Alexian Main OR 1](#alexian-main-or) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 10](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 8](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 1](#elmhurst) · [GlenOaks 5](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 3](#romano-lombard)
 
 Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Alexian WCC stops at 8: 🟡 7 · 🔴 8). Each clinic lists upcoming visits first, then pending, denied, on hold and done.
 
@@ -212,11 +212,12 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 </details>
 
 <a name="glenoaks"></a>
-<details open><summary><b>GlenOaks</b> · 0 grafting · 4 total</summary>
+<details open><summary><b>GlenOaks</b> · 0 grafting · 5 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. McKanna**<br>OR | STRAVIX · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;11/11 · OR&nbsp;tomorrow** |   | New OR case Wed 11/11 1:00 PM at GlenOaks (Dr. McKanna), from his text to AJ 11/10: about 105 sq cm of venous wounds, prefers STRAVIX. AJ confirmed there is enough on the shelf and he will be there. Patient initials and sizes to come. Not in projections until a size is given. |
+| **Upcoming · Dr. McKanna**<br>OR | STRAVIX · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;11/11 · OR&nbsp;tomorrow** |   | New OR case Wed 11/11 1:00 PM at GlenOaks (Dr. McKanna, debridement), from Yvette's text (GlenOaks surgery) to AJ 11/10: about 105 sq cm of venous wounds, prefers STRAVIX. AJ confirmed there is enough on the shelf and he will be there. Projected (AJ 11/10): 6 Stravix 3x6 upside, 4 Stravix 3x6 downside. Patient initials to come; size used comes from the implant record. Second case Thu 11/12 7:30 AM (separate record). |
+| **Upcoming · Dr. McKanna**<br>OR | STRAVIX · Dr.&nbsp;McKanna<br>**OR&nbsp;Thu&nbsp;11/12 · OR&nbsp;in&nbsp;2&nbsp;days** |   | New OR case Thu 11/12 7:30 AM at GlenOaks (Dr. McKanna), from Yvette's text (GlenOaks surgery) to AJ 11/10: STRAVIX for his debridement, the second case after Wed 11/11 1:00 PM. AJ replied he'll make sure there is enough on the shelf for Thursday and will be there. Patient initials and sizes to come. Not in projections until a size is given. |
 | **F.M.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x3) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;10/7 · 4&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611\_36004, \_36005; LYU-251530\_36001). PO-1000931284 received 10/9; ready to submit |
 | **S.A.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Fri&nbsp;9/18 · 7&nbsp;wks&nbsp;4&nbsp;d&nbsp;post-op** |   |   |
 | **Upcoming · Dr. Reed**<br>OR | Stravix · Dr.&nbsp;Reed |   | Spoke to Dr. Reed 10/5 and he mentioned possible Stravix this week or next on calcaneus. |

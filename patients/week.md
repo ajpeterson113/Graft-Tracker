@@ -2,16 +2,16 @@
 
 # This week
 
-**BIOT Chicago West** · 121 patients · updated Tue 11/10, 10:51 AM CT
+**BIOT Chicago West** · 122 patients · updated Tue 11/10, 10:55 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;121](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;122](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 36](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 37](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -20,7 +20,7 @@
 
 | [Mon 9](#mon) | [Tue 10 · today](#tue) | [Wed 11](#wed) | [Thu 12](#thu) | [Fri 13](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **8** | **8** | **9** 🟠 | **10** 🟠 🔴 | **6** 🟠 |
+| **8** | **8** | **9** 🟠 | **11** 🟠 🔴 | **6** 🟠 |
 
 
 <a name="mon"></a>
@@ -78,10 +78,11 @@
 <a name="thu"></a>
 ### Thursday, Nov 12
 
-10 visits · **Grafts:** GRAFIX 16mm ×4 · OASIS Wound 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · GRAFIX 5x5 · GRAFIX/OASIS · OASIS Ultra 3x3.5 · **Covering:** Caroline 3 · Not covered 1 · Pete 1
+11 visits · **Grafts:** GRAFIX 16mm ×4 · OASIS Wound 3x3.5 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · GRAFIX 5x5 · GRAFIX/OASIS · OASIS Ultra 3x3.5 · STRAVIX · **Covering:** Caroline 3 · Not covered 1 · Pete 1
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
+| **7:30&nbsp;AM** | **Upcoming · Dr. McKanna** | **OR** · STRAVIX | GlenOaks<br>Dr.&nbsp;McKanna |   |
 | **8:00&nbsp;AM** | **J.B.** | **A3** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein · MA&nbsp;Joe |   |
 | **9:45&nbsp;AM** | **M.A.** | **A3** · GRAFIX 16mm | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Goldkind |   |
 | **1:00&nbsp;PM** | **D.F.** | **A7** · GRAFIX 5x5 | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans | 👤&nbsp;Caroline&nbsp;covering |
@@ -130,9 +131,9 @@
 | **NW Suburban F&A** | 5 | – | 2 | 2 | 1 | 10 | OASIS Ultra 3x3.5 ×4 · OASIS Wound 3x3.5 ×2 · GRAFIX ×1 · GRAFIX 16mm ×1 · OASIS Ultra 3x7 ×1 |
 | **St. Joseph Elgin** | – | 2 | – | 2 | 1 | 5 | GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · GRAFIX/OASIS ×1 · OASIS Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 |
 | **Central DuPage** | – | – | – | – | 1 | 1 | GRAFIX 16mm ×1 |
-| **GlenOaks** | – | – | 1 | – | – | 1 | STRAVIX ×1 |
+| **GlenOaks** | – | – | 1 | 1 | – | 2 | STRAVIX ×2 |
 | **Romano Lombard** | – | – | 2 | – | – | 2 | GRAFIX 3x3 ×1 · STRAVIX 3x6 ×1 |
-| **All clinics** | **8** | **8** | **9** | **10** | **6** | **41** | GRAFIX 16mm ×10 · OASIS Wound 3x3.5 ×5 · OASIS Ultra 3x3.5 ×4 · OASIS Wound 3x7 ×4 · GRAFIX 2x3 ×3 · GRAFIX ×2 · GRAFIX 1.5x2 ×2 · GRAFIX 3x3 ×2 · GRAFIX 5x5 ×2 · OASIS Ultra 7x10 ×2 · STRAVIX ×2 · GRAFIX/OASIS ×1 · OASIS Ultra 3x7 ×1 · OASIS Wound (2x) 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · Oasis Burn ×1 · Oasis burn 3x7 ×1 · STRAVIX 3x6 ×1 |
+| **All clinics** | **8** | **8** | **9** | **11** | **6** | **42** | GRAFIX 16mm ×10 · OASIS Wound 3x3.5 ×5 · OASIS Ultra 3x3.5 ×4 · OASIS Wound 3x7 ×4 · GRAFIX 2x3 ×3 · STRAVIX ×3 · GRAFIX ×2 · GRAFIX 1.5x2 ×2 · GRAFIX 3x3 ×2 · GRAFIX 5x5 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX/OASIS ×1 · OASIS Ultra 3x7 ×1 · OASIS Wound (2x) 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · Oasis Burn ×1 · Oasis burn 3x7 ×1 · STRAVIX 3x6 ×1 |
 
 
 **Covering this week:** Caroline 8 · Not covered 2 · Pete 6
