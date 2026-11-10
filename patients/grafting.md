@@ -2,16 +2,16 @@
 
 # Grafting
 
-**BIOT Chicago West** · 120 patients · updated Tue 11/10, 7:00 AM CT
+**BIOT Chicago West** · 121 patients · updated Tue 11/10, 10:51 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;120](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;121](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-**Grafting 37** · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 35](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
+**Grafting 37** · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 36](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -85,7 +85,7 @@
 | :-- | :-- | :-- | :-- |
 | **M.B.** | GRAFIX&nbsp;2x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;11/10&nbsp;8:15&nbsp;AM** | 🟢 3 | Approved (AJ 10/20). A1 Mon 10/20 8:00 AM, one Grafix 3x3; one 3x3 a week (AJ 10/14), next Mon 10/27. IVR submitted 10/13. |
 | **P.H.** | GRAFIX&nbsp;3x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;11/10&nbsp;9:15&nbsp;AM · Elgin** | 🟢 4 | Approved 100% (10/8). A1 10/13: one Grafix 3x3 from the clinic's own stock (bought on an earlier PO, no new sale); 1 x 3x3 left on their shelf, which covers 10/20. One Grafix 3x3 a week going forward (AJ 10/14); the clinic orders on PO. IVR ran 10/5. |
-| **J.C.**<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;1:30&nbsp;PM · Pete&nbsp;covering** | 🔴 12 | 🔴 Verify: Assumed weekly (AJ 11/8): Thu 1:30 PM<br>Confirmed Thu 11/5 1:30 PM (St. Joe's text, AJ 11/4). A11 Thu 10/29 1:30 PM. A9 (10/1) was an eval OASIS Wound 3x3.5<br>_11/6:_ Peter asked Eva to order another oasis wound 3x3.5. Add to do: Remind Eva to order Oasis Wound 3x3.5 for JC |
+| **J.C.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;1:30&nbsp;PM · Pete&nbsp;covering** | 🔴 12 | Confirmed Thu 11/5 1:30 PM (St. Joe's text, AJ 11/4). A11 Thu 10/29 1:30 PM. A9 (10/1) was an eval OASIS Wound 3x3.5<br>_11/6:_ Peter asked Eva to order another oasis wound 3x3.5. Add to do: Remind Eva to order Oasis Wound 3x3.5 for JC |
 | **D.N.**<br>🟠&nbsp;Verify<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;1:00&nbsp;PM · Pete&nbsp;covering** | 🟢 4 | 🔴 Verify: Assumed weekly (AJ 11/8): Fri 1:00 PM<br>🟠 **Verify:** App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count<br>Confirmed Fri 11/6 1:00 PM (St. Joe's text, AJ 11/4; calendar had 10:00 AM). A1 10/9 confirmed (AJ 10/12): one OASIS Wound 3x3.5. Covered 100% (Aetna Better Health, IVR #06237039 revised). Clinic only has OASIS Wound 3x3.5. R thigh wound 11.5 x 2.7 x 0.3 cm.<br>[📄 IVR](../ivr/sj-dn.md) |
 
 </details>
