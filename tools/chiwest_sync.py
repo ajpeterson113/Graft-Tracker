@@ -401,6 +401,46 @@ def versajet(r, hosp):
     return 'check' if 'Alexi' in f"{hosp} {r.get('Hospital') or ''}" else ''
 
 
+# Hospital affiliation filter (AJ 11/9): each target's hospitals, from the workbook's "Hospital affiliation (source)" text.
+# [short name, how sure]: "y" = the text names the hospital, "l" = named but hedged (verify / likely / presumed / claims),
+# "a" = nothing named, so the hospitals of the target's area are assumed. A hospital the text rules out ("Good Sam NOT listed",
+# "not GlenOaks") is left off, even as an area guess.
+HOSPITALS = [('Good Sam', r'good sam'), ('GlenOaks', r'glen\s?oaks'), ('St. Alexius', r'(?:saint|st\.?)\s+alexius'),
+             ('Alexian', r'alexian'), ('Elmhurst', r'elmhurst'), ('Sherman', r'sherman'),
+             ('St. Joe Elgin', r'(?:saint|st\.?)\s+jo(?:seph|e)\b(?!\s*[-\u2013\u2014]?\s*\(?chicago)'),
+             ('CDH', r'central dupage|\bcdh\b'), ('Delnor', r'delnor')]
+_HEDGE = re.compile(r'verify|likely|presum|assum|suggest|claims|legacy|former|prior|probabl|unconfirm|inferred|appears', re.I)
+_NEG_AFTER = re.compile(r'^[^;.]{0,45}?(?:\bNOT\b|\bnot (?:listed|found|verifi|confirmed|stated)|unverified|\b404)', re.I)
+_NEG_BEFORE = re.compile(r"\b(?:no|not)\s+[\w\s/&'-]{0,22}$", re.I)
+
+
+def hospitals(affil, cluster):
+    """[[short, 'y'|'l'|'a'], ...] for one target; see HOSPITALS above."""
+    text = str(affil or '')
+    elgin = bool(re.search(r'elgin', f'{cluster} {text}', re.I))
+    found, ruled_out = {}, set()
+    for clause in re.split(r';|(?<!\bSt)(?<!\bDr)\.\s|\s[-\u2013\u2014]\s|\s->\s', text):
+        for name, pat in HOSPITALS:
+            for m in re.finditer(pat, clause, re.I):
+                if name == 'St. Joe Elgin' and not (elgin or re.search(r'airlite|prime', clause, re.I)):
+                    continue
+                if _NEG_BEFORE.search(clause[:m.start()]) or _NEG_AFTER.search(clause[m.end():]):
+                    ruled_out.add(name)
+                    continue
+                sure = 'l' if _HEDGE.search(clause) else 'y'
+                if found.get(name) != 'y':
+                    found[name] = sure
+    for name in ruled_out:
+        found.pop(name, None) if found.get(name) != 'y' else None
+    if not found:
+        area = [n for n, pat in HOSPITALS if re.search(pat, str(cluster or ''), re.I)]
+        if re.search(r'elgin', str(cluster or ''), re.I):
+            area = ['Sherman', 'St. Joe Elgin']
+        found = {n: 'a' for n in area if n not in ruled_out}
+    order = [n for n, _ in HOSPITALS]
+    return [[n, found[n]] for n in order if n in found]
+
+
 def build_targets(xlsx, outreach_dir, plans_dir=None):
     wb = openpyxl.load_workbook(xlsx, data_only=True)
     byh = list(rows(wb['By hospital']))
@@ -428,6 +468,7 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
                     'lunch': o.get('lunch') or None, 'using': o.get('using') or [],
                     'fav': bool(o.get('fav')), 'assoc': bool(o.get('assoc'))})  # AJ 11/9: Set Target / Assign to Associates
         out[-1]['vj'] = versajet(r, hosp)
+        out[-1]['aff'] = hospitals(r.get('Hospital affiliation (source)'), f"{hosp} {r.get('Hospital') or ''}")
         if (o.get('edits') or {}).get('office'):  # office corrected in the Targets app
             out[-1]['office'] = cut(o['edits']['office'], 160)
     for tid, o in orx.items():  # contacts added in the Targets app (e.g. cwl-*)
@@ -446,6 +487,7 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
                         'fav': bool(o.get('fav')), 'assoc': bool(o.get('assoc')),
                         'vj': versajet({'Specialty group': a.get('group'), 'Hospital affiliation (source)': a.get('affil'), 'Office(s)': a.get('office'),
                                         'Practice': a.get('practice'), 'Hospital': a.get('hosp')}, a.get('hosp') or ''),
+                        'aff': hospitals(a.get('affil'), a.get('hosp') or ''),
                         'hist': [{'d': (h.get('d') or '')[:10], 'a': h.get('a'), 'n': cut(h.get('n'), 200), 'who': h.get('who') or ''} for h in (o.get('history') or [])][-6:]})
             continue
         out.append({'id': tid, 'name': e.get('name') or tid.replace('cwl-', '').replace('-', ' ').title(), 'cred': '', 'tier': '',
@@ -454,6 +496,9 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
                     'grp': 'Office / scheduling contact', 'spec': e.get('role') or '', 'office': cut(e.get('officeContact'), 160),
                     'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400), 'obj': '',
                     'hist': [{'d': (h.get('d') or '')[:10], 'a': h.get('a'), 'n': cut(h.get('n'), 200), 'who': h.get('who') or ''} for h in (o.get('history') or [])][-6:]})
+    for t in out:  # office contacts and anything else without a parsed affiliation: the hospitals of its area
+        if 'aff' not in t:
+            t['aff'] = hospitals('', t.get('hosp') or '')
     # route plans (manual stops / hidden drop-ins per day and person) from the Targets app's `plans` collection;
     # Chi West keeps its own copy in its `plans` collection and shows whichever is newer
     plans = {}
