@@ -498,6 +498,12 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
                     'grp': 'Office / scheduling contact', 'spec': e.get('role') or '', 'office': cut(e.get('officeContact'), 160),
                     'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400), 'obj': '',
                     'hist': [{'d': (h.get('d') or '')[:10], 'a': h.get('a'), 'n': cut(h.get('n'), 200), 'who': h.get('who') or ''} for h in (o.get('history') or [])][-6:]})
+    for t in out:  # AJ 11/9: Archive / Current customer take a surgeon off the target list; Chi West hides both and lists them for Restore
+        o = orx.get(t['id'], {})
+        if o.get('archived'):
+            t['arch'] = True
+        elif o.get('customer'):
+            t['cust'] = True
     for t in out:  # office contacts and anything else without a parsed affiliation: the hospitals of its area
         if 'aff' not in t:
             t['aff'] = hospitals('', t.get('hosp') or '')
@@ -526,6 +532,7 @@ def build_events(repo_file, intel_file, prev, targets):
     base = load(repo_file) if repo_file and os.path.isfile(repo_file) else {}
     intel = load(intel_file) if intel_file and os.path.isfile(intel_file) else None
     byid = {t['id']: t for t in targets}
+    gone = {t['id'] for t in targets if t.get('arch')}  # archived: nothing about them shows anywhere
     items = []
 
     def add(d, k, h, t, s='', src='', p=3, target='', o='log'):
@@ -544,6 +551,8 @@ def build_events(repo_file, intel_file, prev, targets):
             add(n.get('d'), n.get('k'), n.get('h'), n.get('t'), n.get('s'), n.get('src'), n.get('p'), o='web')
         conf = {}
         for tid, v in (intel.get('people') or {}).items():
+            if tid in gone:
+                continue
             t = byid.get(tid) or {}
             nm = t.get('name') or tid.replace('-', ' ').title()
             if v.get('s') == 'moved':
