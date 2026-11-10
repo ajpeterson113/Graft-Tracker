@@ -4,6 +4,13 @@
   {
    "d": "2026-11-09",
    "k": "upd",
+   "h": "NM CDH / Delnor (expansion)",
+   "t": "Meetings scheduled now show in Targets",
+   "s": "Dr. Pastore's lunch (Mon 11/16, noon, Winfield office) is marked Lunch booked, and both apps list every meeting on your calendar: Sherman WCC lunch 11/11, Pastore 11/16, Mohs Surgery and Dermatology and the St. Joe's Friendsgiving 11/18."
+  },
+  {
+   "d": "2026-11-09",
+   "k": "upd",
    "h": "",
    "t": "Dollar potential by product on every surgeon",
    "s": "From the claims export you added to the Project. Each card shows STRAVIX, GRAFIX, OASIS and VERSAJET potential, the Targets list sorts by potential, and Insights › Territory has the account totals and the surgeons with volume who are not on your list."

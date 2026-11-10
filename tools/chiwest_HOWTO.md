@@ -53,7 +53,7 @@ the patient list Excel only fills what the Patients app doesn't have.
 
 AJ 11/4: never change a patient's category (status) unless his own tap says so (`status` actions, or a Grafted/Not grafted tap that carries a status). Clinic schedules, calendars and coverage replies only move visits, set coverage, add notes and set verify flags.
 - `todo` {todo}: set that Graft Tracker `todos` item to done (doneAt now).
-- `touch` / `lunch` {target, who, type, approach, newStatus, next, note, edate, etime}: add a history entry and status / followUp on the Targets app `outreach` doc for that target (lunch: also the Lunch booked entry). Keep the action's `approach` — it is how Chi West learns.
+- `touch` / `lunch` {target, who, type, approach, newStatus, next, note, edate, etime}: add a history entry and status / followUp on the Targets app `outreach` doc for that target (lunch: also the Lunch booked entry and `status` "lunch", the Targets app's "Lunch booked" stage; the meeting then shows under Meetings scheduled in both apps, AJ 11/9). Keep the action's `approach` — it is how Chi West learns.
 - `objection` {target, text}: the target's objection field in the Targets app.
 - `style` {target, style}: `data/research.styles[target]` in Chi West.
 - `research` {target}: research that target on the web (practice, offices, affiliations, OR/clinic days, publications, who they share a building with, competitive product, claims signal from the target list, and the dollar potential by product from Chi West `data/potential` (`by[<npi>]`; say "few cases" under its `floor`)) and write 4–8 short findings to `data/research.briefs[target]` with today's date. No patient data.
