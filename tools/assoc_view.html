@@ -214,7 +214,7 @@ function vPts(){const cur=['active','approved','or','pending','potential','hold'
 
 /* ---- Targets: Chi West's Grow > Targets list, view only (no dollar figures on this shared page) ---- */
 const TST={none:'',called:'Called',emailed:'Emailed',texted:'Texted',visited:'Dropped by',lunch:'Lunch booked',meeting:'Meeting booked',met:'Met',case:'First case',using:'Using',dead:'Not a fit'};
-const TG=[['all','All',()=>true],['mine','\u2605 Mine',t=>t.fav],['assoc','Associates',t=>t.assoc],['vj','VERSAJET',t=>!!t.vj],['due','Due',t=>t.due&&t.due<=today()],['mtg','Meetings',t=>t.mtg&&t.mtg.d>=today()]];
+const TG=[['all','All',()=>true],['mine','\u2605 AJ',t=>t.fav],['assoc','Associates',t=>t.assoc],['vj','VERSAJET',t=>!!t.vj],['due','Due',t=>t.due&&t.due<=today()],['mtg','Meetings',t=>t.mtg&&t.mtg.d>=today()]];
 const affTxt=t=>(t.aff||[]).map(a=>a[0]+(a[1]==='y'?'':'?')).join(', ');
 function tFiltered(){const f=(TG.find(x=>x[0]===S.tg)||TG[0])[2],q=S.tq.trim().toLowerCase();
   return T.filter(t=>f(t)&&(!S.th||(t.aff||[]).some(a=>a[0]===S.th))&&(!S.ts||t.grp===S.ts)&&(!q||[t.n,t.grp,t.spec,t.prac,affTxt(t),t.office].join(' ').toLowerCase().includes(q)));}
