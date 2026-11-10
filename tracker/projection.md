@@ -2,28 +2,28 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:24 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:34 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$36,687 | \$36,687 |
+| Sold so far (November tab) | \$38,676 | \$38,676 |
 | \+ Projected Grafix, net of WCC stock | \$29,213 | \$19,987 |
 | \+ Upcoming Stravix | \$27,678 | \$18,017 |
 | \+ Potential new starts | \$4,633 | \$0 |
 | \+ OASIS reorders (estimated) | \$6,450 | \$4,244 |
-| **P11 forecast** | **\$104,660** | **\$78,935** |
+| **P11 forecast** | **\$106,649** | **\$80,924** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 113% | 85% |
-| Gap to target | ✅ over by \$11,769 | \$13,956 |
-| **Projected commission** | **\$10,466** | **\$5,525** |
+| % of target | 115% | 87% |
+| Gap to target | ✅ over by \$13,758 | \$11,967 |
+| **Projected commission** | **\$10,665** | **\$5,665** |
 
 
 > [!NOTE]
-> Hitting target pays 10% on everything. Closing the \$13,956 downside gap adds about **\$3,764** in commission.
+> Hitting target pays 10% on everything. Closing the \$11,967 downside gap adds about **\$3,624** in commission.
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/9.</sub>
@@ -39,15 +39,15 @@
 | [GlenOaks](#glenoaks) | — | \$14,814 | \$9,876 | **\$14,814** | **\$9,876** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$3,300 | \$3,515 | \$2,545 | **\$6,815** | **\$5,845** |
 | [Alexian Ambulatory](#x) | \$5,821 | \$0 | \$0 | **\$5,821** | **\$5,821** |
+| [Elmhurst](#elmhurst) | \$5,104 | \$0 | \$0 | **\$5,104** | **\$5,104** |
 | [St. Alexius](#st-alexius) | — | \$4,938 | \$3,106 | **\$4,938** | **\$3,106** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$3,964 | \$570 | \$570 | **\$4,534** | **\$4,534** |
 | [Romano Lombard](#romano-lombard) | \$1,235 | \$2,565 | \$2,565 | **\$3,800** | **\$3,800** |
-| [Elmhurst](#elmhurst) | \$3,116 | \$0 | \$0 | **\$3,116** | **\$3,116** |
 | [Sherman](#sherman) | — | \$2,656 | \$1,695 | **\$2,656** | **\$1,695** |
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$570 | \$190 | **\$1,780** | **\$1,400** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$36,687** | **\$67,973** | **\$42,248** | **\$104,660** | **\$78,935** |
+| **Total** | **\$38,676** | **\$67,973** | **\$42,248** | **\$106,649** | **\$80,924** |
 
 
 ## Account by account
@@ -206,6 +206,13 @@ Sold so far: **\$5,821** · 2 cases
 
 </details>
 
+<a name="elmhurst"></a>
+<details><summary><b>Elmhurst</b> · upside &#36;5,104 · downside &#36;5,104</summary>
+
+Sold so far: **\$5,104** · 2 cases
+
+</details>
+
 <a name="st-alexius"></a>
 <details><summary><b>St. Alexius</b> · upside &#36;4,938 · downside &#36;3,106</summary>
 
@@ -259,13 +266,6 @@ Sold so far: **\$1,235** · 3 cases
 | :-- | :-- | --: | --: | :-- |
 | **S.G. · Dr. Rojas** | 3x3 · Weekly · 3 visits · from 11/11 | \$2,565 | \$2,565 | P11: A1 Wed 11/4 (3x3 LYA-250742\_33004, PO SG110426) is in November sales; weekly 3x3 Wednesdays from 11/11 per the Patients app (next visit Wed 11/11 11:40). |
 | **M.W. · Dr. Rojas** | Healed Wed 10/21 (not grafted, per the Patients app), so nothing projected (upside or downside). | — | — |   |
-
-</details>
-
-<a name="elmhurst"></a>
-<details><summary><b>Elmhurst</b> · upside &#36;3,116 · downside &#36;3,116</summary>
-
-Sold so far: **\$3,116** · 1 case
 
 </details>
 
