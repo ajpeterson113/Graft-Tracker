@@ -2,28 +2,28 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 2:16 PM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 3:52 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;18](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$41,790 | \$41,790 |
-| \+ Projected Grafix, net of WCC stock | \$25,453 | \$15,112 |
+| Sold so far (November tab) | \$44,416 | \$44,416 |
+| \+ Projected Grafix, net of WCC stock | \$24,553 | \$14,212 |
 | \+ Upcoming Stravix | \$27,678 | \$18,017 |
 | \+ Potential new starts | \$4,207 | \$0 |
 | \+ OASIS reorders (estimated) | \$6,450 | \$4,244 |
-| **P11 forecast** | **\$105,578** | **\$79,163** |
+| **P11 forecast** | **\$107,304** | **\$80,889** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 114% | 85% |
-| Gap to target | ✅ over by \$12,687 | \$13,728 |
-| **Projected commission** | **\$10,558** | **\$5,541** |
+| % of target | 116% | 87% |
+| Gap to target | ✅ over by \$14,413 | \$12,002 |
+| **Projected commission** | **\$10,730** | **\$5,662** |
 
 
 > [!NOTE]
-> Hitting target pays 10% on everything. Closing the \$13,728 downside gap adds about **\$3,748** in commission.
+> Hitting target pays 10% on everything. Closing the \$12,002 downside gap adds about **\$3,627** in commission.
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/9.</sub>
@@ -37,7 +37,7 @@
 | [Alexian WCC](#alexian-wcc) | \$12,202 | \$15,353 | \$9,136 | **\$27,555** | **\$21,338** |
 | [Good Sam](#good-sam) | \$5,401 | \$16,792 | \$6,790 | **\$22,193** | **\$12,190** |
 | [GlenOaks](#glenoaks) | — | \$14,814 | \$9,876 | **\$14,814** | **\$9,876** |
-| [St. Joseph Elgin](#st-joseph-elgin) | \$4,416 | \$5,531 | \$3,445 | **\$9,946** | **\$7,861** |
+| [St. Joseph Elgin](#st-joseph-elgin) | \$7,042 | \$4,631 | \$2,545 | **\$11,673** | **\$9,587** |
 | [Alexian Ambulatory](#x) | \$5,821 | \$0 | \$0 | **\$5,821** | **\$5,821** |
 | [St. Alexius](#st-alexius) | — | \$4,938 | \$3,106 | **\$4,938** | **\$3,106** |
 | [Elmhurst](#elmhurst) | \$4,883 | \$0 | \$0 | **\$4,883** | **\$4,883** |
@@ -47,7 +47,7 @@
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$570 | \$190 | **\$1,780** | **\$1,400** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$41,790** | **\$63,788** | **\$37,373** | **\$105,578** | **\$79,163** |
+| **Total** | **\$44,416** | **\$62,888** | **\$36,473** | **\$107,304** | **\$80,889** |
 
 
 ## Account by account
@@ -160,9 +160,9 @@ Sold so far: **\$5,401** · 2 cases
 </details>
 
 <a name="st-joseph-elgin"></a>
-<details><summary><b>St. Joseph Elgin</b> · upside &#36;9,946 · downside &#36;7,861</summary>
+<details><summary><b>St. Joseph Elgin</b> · upside &#36;11,673 · downside &#36;9,587</summary>
 
-Sold so far: **\$4,416** · 3 cases
+Sold so far: **\$7,042** · 6 cases
 
 **Weekly and biweekly patients**
 
@@ -176,7 +176,7 @@ Sold so far: **\$4,416** · 3 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **WCC stock** | Grafix 3x3 · 2 on the shelf cover 3 projected · 712063022 (10/16) + 712063227 (10/29) + 712063519 (11/10) | -\$2,231 | \$0 | 11/10: P.H. used one 3x3 on 11/3 (A4) and one on 11/10 (A5) = 1 on the shelf, + PO 712063519 (11/10, 1 x 3x3, in November sales, AJ: add to shelf stock) = 2, both already sold; they cover P.H.'s next two weekly visits \|… |
-| **WCC stock** | Grafix 2x3 · 1 on the shelf cover 3 projected · 712063226 (10/29) | -\$900 | -\$900 | 11/10: M.B. is on 2x3 (A3 Tue 11/3 used one; not grafted 11/10) = 1 x 2x3 on the Elgin shelf, already sold; it offsets her next visit \| P11: M.B. moved down to 2x3 on 10/27, so the 2 x 2x3 on the Elgin shelf cover her f… |
+| **WCC stock** | Grafix 2x3 · 2 on the shelf cover 3 projected · 712063226 (10/29) + 712063518 (11/10) | -\$1,800 | -\$1,800 | 11/10: PO 712063518 (11/10, 1 x 2x3, in November sales, AJ: update shelf stock) = 2 x 2x3 on the Elgin shelf, already sold; they cover M.B.'s next two 2x3 visits \| 11/10: M.B. is on 2x3 (A3 Tue 11/3 used one; not grafte… |
 | **WCC stock** | Grafix 5x5 · 1 on the shelf cover 0 projected · 712063226 (10/29) | — | — |   |
 
 **Upcoming Stravix**
@@ -320,7 +320,7 @@ Sold so far: **\$190** · 1 case
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
 | Weekly and biweekly patients | 28 | \$33,566 | \$22,126 |
-| Less Good Sam WCC stock already sold | 8 | -\$8,113 | -\$7,014 |
+| Less Good Sam WCC stock already sold | 8 | -\$9,013 | -\$7,914 |
 | Upcoming Stravix | 8 | \$27,678 | \$18,017 |
 | Potential new starts | 14 | \$4,207 | \$0 |
 | OASIS reorders (estimated) | 9 | \$6,450 | \$4,244 |
@@ -354,6 +354,6 @@ Sold so far: **\$190** · 1 case
 </details>
 
 
-<sub>Good Sam WCC stock on hand (3 x 16mm, 3 x 3x4, 0 x 5x5, 1 x 2x3, 0 x 1.5x2 after the 11/5 visits, from the 11/5 shelf photo) and Elgin clinic stock (3 x 3x3, 2 x 2x3, 1 x 5x5), already sold in P10: covers projected P11 visits, so not counted twice</sub>
+<sub>Good Sam WCC stock on hand (3 x 16mm, 3 x 3x4, 0 x 5x5, 1 x 2x3, 0 x 1.5x2 after the 11/5 visits, from the 11/5 shelf photo) and Elgin clinic stock (3 x 3x3, 2 x 2x3, 1 x 5x5), already sold in P10: covers projected P11 visits, so not counted twice. Elgin PO 712063518 (11/10) adds 1 x 2x3 and 1 x 1.5x2 (and one OASIS Wound 3x3.5 box) to the Elgin shelf</sub>
 
 <sub>OASIS reorders (estimated, by the box): NWSFA from the 10/30 shelf count; Alexian WCC comes from the Stock tab; Good Sam from the shelf as of 10/29 (on hand vs weekly use, from this week through period end). Other accounts still wait for stock levels</sub>
