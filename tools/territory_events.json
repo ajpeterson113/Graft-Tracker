@@ -1,0 +1,326 @@
+{
+ "_about": "Chi West Grow > Targets > Recent events. news: the 10/12 web-check baseline (the Monday web refresh adds newer items through the Targets app intel/latest doc). log: updates Claude makes by hand, newest first: {d, k (upd | opp | chg | warn | new), h (cluster or \"\"), t (headline), s (one or two sentences), target (target id, optional), src (url, optional)}. No patient information.",
+ "log": [
+  {
+   "d": "2026-11-09",
+   "k": "upd",
+   "h": "St. Alexius / Alexian",
+   "t": "Emilie Robinson: two listings merged into one",
+   "s": "The St. Alexius / Alexian and Elgin entries were the same vascular surgeon (NPI 1285048595). One card now, with her Elgin clinic at 1975 Lin Lor Ln Ste 155 on it. Elgin privileges are not confirmed.",
+   "target": "emilie-robinson-st-alexius-alexian"
+  },
+  {
+   "d": "2026-11-09",
+   "k": "upd",
+   "h": "St. Alexius / Alexian",
+   "t": "VERSAJET added to targeting (Alexian Brothers only)",
+   "s": "32 targets tied to Alexian Brothers are flagged VERSAJET; 11 more in the area say \"confirm Alexian\". Use the VERSAJET chip on the Targets list."
+  },
+  {
+   "d": "2026-11-09",
+   "k": "upd",
+   "h": "",
+   "t": "Every target now carries its hospitals",
+   "s": "Filter the Targets list by hospital. A \"?\" after a hospital means the affiliation is not confirmed yet."
+  }
+ ],
+ "news": [
+  {
+   "d": "2026-10-12",
+   "k": "opp",
+   "p": 1,
+   "h": "NM CDH / Delnor (expansion)",
+   "t": "CDH still hiring its wound care physician",
+   "s": "NM's posting for a Winfield wound physician asks for “familiarity with biologics and advanced skin substitute application.” A wound PA/NP, wound care assistant (hyperbaric) and clinic coordinator are also posted, so product decisions will move to the new hire.",
+   "src": "https://jobs.nm.org/job/winfield/physician-wound-care-winfield-il/27763/93384461664"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "opp",
+   "p": 1,
+   "h": "NM CDH / Delnor (expansion)",
+   "t": "NM recruiting a reconstructive plastic surgeon",
+   "s": "For Winfield and Geneva, with local wound care, pressure sores and abdominal wall reconstruction in scope. Whoever is hired becomes a top target at both hospitals.",
+   "src": "https://jobs.nm.org/job/winfield/physician-plastic-surgery/27763/62555481840"
+  },
+  {
+   "d": "2026-08-13",
+   "k": "opp",
+   "p": 1,
+   "h": "NM CDH / Delnor (expansion)",
+   "t": "Three new NM surgeons at CDH / Delnor",
+   "s": "Ansab Haider (vascular), Nicholas Esposito (podiatry, lists wound care) and Raelene Kennedy Kim (trauma, Delnor). All are new this year and on your list as New.",
+   "src": "https://www.nm.org/doctors/1376246181"
+  },
+  {
+   "d": "2026-05-29",
+   "k": "opp",
+   "p": 3,
+   "h": "NM CDH / Delnor (expansion)",
+   "t": "New NMG ortho / podiatry site in Warrenville",
+   "s": "27650 Ferry Rd Ste 200 (Esposito, Rachel Cisko, Tiffany Kadow). No press release yet.",
+   "src": "https://npiregistry.cms.hhs.gov/provider-view/1043142730"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "chg",
+   "p": 1,
+   "h": "St. Alexius / Alexian",
+   "t": "Alexian-campus podiatry turned over",
+   "s": "Ankle & Foot Surgery (Beyond Podiatry) moved to the Eberle Building #750 with Claudia Radek-Ziffra and Shivani Sheth. Bozich, Palmieri and Mirza are no longer listed; Mirza is at STAT Ankle and Foot in Schaumburg.",
+   "src": "https://beyond-podiatry.com/locations/elk-grove-village/"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "chg",
+   "p": 1,
+   "h": "St. Alexius / Alexian",
+   "t": "Tejas Shah is now vascular chief at Alexian",
+   "s": "He left Advocate Good Sam for Ascension Heart & Vascular (Elk Grove Village, Hoffman Estates). Moved to your St. Alexius / Alexian list as Tier 1.",
+   "src": "https://healthcare.ascension.org/doctors/1326243171"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "opp",
+   "p": 2,
+   "h": "St. Alexius / Alexian",
+   "t": "Ask who staffs the Alexian wound center now",
+   "s": "Still listed at 955 Beisner with hyperbarics and total contact casting, but no providers are named. Medernach is at ID Associates; Turayhi's NPI still points to 955 Beisner.",
+   "src": "https://prdcdn-healthcare.ascension.org/find-care/location/wound-care-and-hyperbarics/elk-grove-village--illinois"
+  },
+  {
+   "d": "2025-10-15",
+   "k": "opp",
+   "p": 2,
+   "h": "St. Alexius / Alexian",
+   "t": "Jejurikar opened a St. Alexius campus office",
+   "s": "His NPI primary location is now 1585 Barrington Rd Ste 601, Hoffman Estates (Frank Madda's suite), with Saint Alexius privileges.",
+   "src": "https://npiregistry.cms.hhs.gov/provider-view/1871632018"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "chg",
+   "p": 2,
+   "h": "St. Alexius / Alexian",
+   "t": "Myron Wolf moved to Endeavor in Schaumburg",
+   "s": "He closed his Elk Grove office and now sees patients at Endeavor Health Medical Group, 519 S Roselle Rd, 3rd floor (847-618-0326).",
+   "src": "https://www.endeavorhealth.org/providers/myron-wolf"
+  },
+  {
+   "d": "2026-02-24",
+   "k": "warn",
+   "p": 3,
+   "h": "St. Alexius / Alexian",
+   "t": "New Alexian president: Ellis Hawkins",
+   "s": "Returning Ascension leader. Re-check value-analysis contacts under the new leadership.",
+   "src": "https://about.ascension.org/news/2026/02/ascension-alexian-brothers-welcomes-new-president-to-hospital"
+  },
+  {
+   "d": "2026-01-05",
+   "k": "warn",
+   "p": 3,
+   "h": "St. Alexius / Alexian",
+   "t": "Labor & delivery consolidated at St. Alexius",
+   "s": "Alexian stopped scheduling deliveries; St. Alexius is now Ascension Saint Alexius Women and Children's Hospital.",
+   "src": "https://healthcare.ascension.org/locations/illinois/ilchi/elk-grove-village-ascension-alexian-brothers/departments/birthing-center"
+  },
+  {
+   "d": "2025-09-02",
+   "k": "opp",
+   "p": 1,
+   "h": "Elgin",
+   "t": "New mobile wound practice in Elgin",
+   "s": "Advanced Mobile Wound Care LLC, started by Haris Khan DPM in Advanced Foot & Ankle's suite (1750 N Randall Rd Ste 160). Khan also has an office on the Alexian campus.",
+   "src": "https://npiregistry.cms.hhs.gov/provider-view/1396624391"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "opp",
+   "p": 2,
+   "h": "Elgin",
+   "t": "St. Joseph wound / hyperbaric center survived the Prime purchase",
+   "s": "No director is published. Pappas bills through Healogics, so the center is likely Healogics-managed; Chau's Elgin office is in the same building (87 N Airlite).",
+   "src": "https://saintjosephelgin.com/our-services/"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "opp",
+   "p": 2,
+   "h": "Elgin",
+   "t": "Sherman wound clinic hiring a PRN NP",
+   "s": "Advocate is recruiting a wound and hyperbaric APRN to cover Good Shepherd and Sherman, so a new NP may arrive at the Sherman wound center.",
+   "src": "https://careers.aah.org/job/22302049"
+  },
+  {
+   "d": "2026-07-13",
+   "k": "chg",
+   "p": 2,
+   "h": "Elgin",
+   "t": "Departures from AMG 745 Fletcher",
+   "s": "Chaus went to Duly (Schaumburg, Arlington Heights); Dholakia moved to Palos Heights; Aron may have retired.",
+   "src": "https://www.dulyhealthandcare.com/providers/fahad-m-chaus-md-mba"
+  },
+  {
+   "d": "2026-06-08",
+   "k": "opp",
+   "p": 3,
+   "h": "Elgin",
+   "t": "OrthoIllinois Elgin added a podiatrist",
+   "s": "Trevor Page DPM, likely a 2026 residency graduate; not on their website yet.",
+   "src": "https://npiregistry.cms.hhs.gov/provider-view/1477240034"
+  },
+  {
+   "d": "2026-05-13",
+   "k": "warn",
+   "p": 3,
+   "h": "Elgin",
+   "t": "Prime stays in Blue Cross networks",
+   "s": "Saint Joseph Elgin keeps BCBS patients after Prime reversed its plan to leave. Medicaid (BCCHP) status is a separate question.",
+   "src": "https://bcbsil.com/producer/news/05-13-26-prime-healthcare-remains-bcbsil-network"
+  },
+  {
+   "d": "2025-06-17",
+   "k": "warn",
+   "p": 1,
+   "h": "Elmhurst",
+   "t": "Elmhurst has no outpatient wound clinic",
+   "s": "It closed 6/17/2025 and nothing replaced it; outpatients go to Edward in Naperville. Near Elmhurst, outpatient wounds sit with EHMG vascular: Tayyebi, Rajaei and Najjar.",
+   "src": "https://www.endeavorhealth.org/services/wound-care"
+  },
+  {
+   "d": "2026-09-17",
+   "k": "opp",
+   "p": 2,
+   "h": "Elmhurst",
+   "t": "Michigan Avenue Podiatry opened in Elmhurst",
+   "s": "277 N York St (shared with Dr. Turf), with Zohaib Hassan DPM as the Elmhurst surgeon.",
+   "src": "https://www.michiganavenuepodiatry.com/"
+  },
+  {
+   "d": "2026-07-16",
+   "k": "opp",
+   "p": 2,
+   "h": "Elmhurst",
+   "t": "Elmhurst adding 3 ORs by 2028",
+   "s": "Part of a $100.8M surgery and cancer-center expansion; the 16-bed observation unit opened 7/16/2026.",
+   "src": "https://www.endeavorhealth.org/press-releases/endeavor-health-elmhurst-hospital-opens-new-patient-observation-unit-enhance-emergency-care-access"
+  },
+  {
+   "d": "2026-09",
+   "k": "chg",
+   "p": 2,
+   "h": "Elmhurst",
+   "t": "Elmhurst urology is turning over",
+   "s": "Richgels is at Loyola and Hoeh is Naperville / Plainfield only. David Tella joined, and Endeavor is recruiting another general urologist.",
+   "src": "https://www.builtinchicago.org/job/physician-urologist-elmhurst/10788441"
+  },
+  {
+   "d": "2025-12-05",
+   "k": "chg",
+   "p": 3,
+   "h": "Elmhurst",
+   "t": "Weil Foot & Ankle is in Oak Brook, not Elmhurst",
+   "s": "915 Harger Rd Ste 250, Oak Brook (9 DPMs). Some NPI records still show the old Elmhurst office.",
+   "src": "https://balancehealth.com/location/weil-foot-ankle-institute-oak-brook-il/"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "chg",
+   "p": 3,
+   "h": "Elmhurst",
+   "t": "Duly Elmhurst: vascular only",
+   "s": "Singha now practices at Duly Lombard and Westmont. Duly vascular in Elmhurst means APRN Faith Almieri, and Takyi added an Elmhurst office.",
+   "src": "https://dulyhealthandcare.com/location/133-e-brush-hill-road-elmhurst"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "opp",
+   "p": 2,
+   "h": "GlenOaks",
+   "t": "No public lead for the GlenOaks wound clinic",
+   "s": "The clinic at 701 Winthrop is staffed (an RN wound-care job is posted), but no medical director or operator is published. Ask who makes product decisions.",
+   "src": "https://jobs.adventhealth.com/job/22999674/registered-nure-wound-care-glendale-heights-il/"
+  },
+  {
+   "d": "2026-02-05",
+   "k": "opp",
+   "p": 2,
+   "h": "GlenOaks",
+   "t": "Itasca Foot & Ankle added Hoffman Estates",
+   "s": "McKanna and Schlund added 1585 N Barrington Rd Ste 103 (Suburban Foot & Ankle), extending your customer group toward St. Alexius.",
+   "src": "https://www.tebra.com/care/practice/suburban-foot-ankle-center-496013"
+  },
+  {
+   "d": "2024-09-05",
+   "k": "opp",
+   "p": 2,
+   "h": "GlenOaks",
+   "t": "WoundCare VIP, a mile from GlenOaks",
+   "s": "An NP-owned wound practice (Marnella Elizalde NP, 1508 Bloomingdale Rd). On your list as New.",
+   "src": "https://npiregistry.cms.hhs.gov/api/?number=1710712070&version=2.1"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "warn",
+   "p": 2,
+   "h": "GlenOaks",
+   "t": "UroPartners Wheaton temporarily closed",
+   "s": "Storm-damage repairs, no reopening date posted. Call 630-653-5550 before going.",
+   "src": "https://uropartners.com/news/204"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "chg",
+   "p": 3,
+   "h": "GlenOaks",
+   "t": "Niknam-Bienia now at UIC",
+   "s": "She was the only UCM AH plastic surgeon near GlenOaks with trauma and wound interests; no replacement found.",
+   "src": "https://chicago.medicine.uic.edu/surgery/profiles/niknam-bienia-soleil"
+  },
+  {
+   "d": "2025-05-15",
+   "k": "warn",
+   "p": 3,
+   "h": "GlenOaks",
+   "t": "GlenOaks president: Seleem Choudhury",
+   "s": "Since 6/15/2025. He reports to Kenneth Rose at Bolingbrook, so GlenOaks is run as a pair with Bolingbrook.",
+   "src": "https://www.adventhealth.com/news/seleem-choudhury-named-president-ceo-uchicago-medicine-adventhealth-glenoaks"
+  },
+  {
+   "d": "2026-10-12",
+   "k": "opp",
+   "p": 2,
+   "h": "Good Sam",
+   "t": "Limb preservation clinic still “coming soon”",
+   "s": "Advocate's limb preservation program (founded by Dr. Jaafer Golzar) lists Good Sam as coming soon, with no local team named. Worth asking who will staff it.",
+   "src": "https://advocatehealth.com/health-services/advocate-heart-institute/programs-and-treatments/vascular-disease-program/limb-salvage-clinic"
+  },
+  {
+   "d": "2026-10-06",
+   "k": "chg",
+   "p": 2,
+   "h": "Good Sam",
+   "t": "Lulla left Central DuPage Foot & Ankle",
+   "s": "Now at Duly Lockport and Plainfield, outside your territory.",
+   "src": "https://www.dulyhealthandcare.com/providers/sanya-lulla-dpm"
+  },
+  {
+   "d": "2026-08-25",
+   "k": "opp",
+   "p": 3,
+   "h": "Good Sam",
+   "t": "IBJI Downers Grove podiatrist lists wound care",
+   "s": "Igor Dukarevich DPM (1034 Warren Ave) is the only IBJI provider in Downers Grove or Westmont whose profile lists wound and diabetic foot care. On your list as New.",
+   "src": "https://www.ibji.com/doctors/igor-dukarevich-dpm"
+  },
+  {
+   "d": "2026-08-04",
+   "k": "warn",
+   "p": 3,
+   "h": "Good Sam",
+   "t": "U.S. News: Good Sam #19 in Illinois",
+   "s": "Still DuPage County's only Level I trauma center.",
+   "src": "https://patch.com/illinois/downersgrove/advocate-good-samaritan-hospital-lands-among-top-20-hospitals-state-u-s-news"
+  }
+ ]
+}

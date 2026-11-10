@@ -16,6 +16,8 @@ GTDB      Graft Tracker app db download (or the build's OUT folder plus GTDB/tod
             inline ArtifactData list of the same collections.
 --targets   Chi_West_Surgeon_Targets.xlsx from the repo
 --outreach  Targets app `outreach` collection download (one json per target)
+--intel     Targets app `intel/latest` doc (the Monday web refresh). Default: intel/latest.json next to the --outreach
+            folder (export TGT `intel` into the same TGTDB). Feeds `data/events` (Grow > Targets > Recent events).
 --cw        Chi West db download (data/*.json with their versions, actions/*, uploads/*); optional
 OUT       writes OUT/data/<doc>.json and prints the ArtifactData batch(es) for the changed docs
 
@@ -23,7 +25,7 @@ Chi West (https://claude.ai/artifact/HzjrjSVDB4oF6oAfWUuwDN) only reads `data/*`
 `actions` and `uploads`, which the refresh applies to the tracker / Patients app / Targets app, then marks
 "applied" / "filed" (see chiwest/HOWTO.md).
 """
-import argparse, datetime as dt, glob, json, os, re, sys
+import argparse, datetime as dt, glob, hashlib, json, os, re, sys
 import openpyxl
 
 SHORT = {
@@ -509,12 +511,78 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
     return {'targets': out, 'plans': plans}
 
 
+# ---------------------------------------------------------------- recent events
+EV_KINDS = ('opp', 'chg', 'warn', 'new', 'upd')
+
+
+def build_events(repo_file, intel_file, prev, targets):
+    """Chi West Grow > Targets > Recent events (AJ 11/9): what changed in the territory, newest first.
+
+    Three sources: the Targets app's `intel/latest` doc from the Monday web refresh (news, people who moved or need
+    confirming, new people, one line per check for the ones confirmed), tools/territory_events.json `news` (the 10/12
+    baseline) and its `log` (updates Claude makes by hand: a merge, a new target, a rule change; append one there).
+    Research briefs are not listed here: the app adds them from data/research. Without the intel file, the web items
+    of the last data/events are kept."""
+    base = load(repo_file) if repo_file and os.path.isfile(repo_file) else {}
+    intel = load(intel_file) if intel_file and os.path.isfile(intel_file) else None
+    byid = {t['id']: t for t in targets}
+    items = []
+
+    def add(d, k, h, t, s='', src='', p=3, target='', o='log'):
+        if isinstance(src, (list, tuple)):
+            src = src[0] if src else ''
+        if not t:
+            return
+        items.append({'d': str(d or '')[:10], 'k': k if k in EV_KINDS else 'upd', 'h': h or '', 't': cut(t, 110), 's': cut(s, 420) or '',
+                      'src': src if re.match(r'https?://', str(src or '')) else '', 'p': p if p in (1, 2, 3) else 3,
+                      'target': target if target in byid else '', 'o': o})
+
+    checked = ''
+    if intel:
+        checked = str(intel.get('updated') or '')[:10]
+        for n in intel.get('news') or []:
+            add(n.get('d'), n.get('k'), n.get('h'), n.get('t'), n.get('s'), n.get('src'), n.get('p'), o='web')
+        conf = {}
+        for tid, v in (intel.get('people') or {}).items():
+            t = byid.get(tid) or {}
+            nm = t.get('name') or tid.replace('-', ' ').title()
+            if v.get('s') == 'moved':
+                add(v.get('d'), 'chg', t.get('hosp'), f'{nm} moved', v.get('n'), v.get('src'), 2, tid, 'web')
+            elif v.get('s') == 'unclear':
+                add(v.get('d'), 'warn', t.get('hosp'), f'Confirm {nm} is still there', v.get('n'), v.get('src'), 2, tid, 'web')
+            elif v.get('s') == 'confirmed':
+                conf.setdefault(str(v.get('d') or '')[:10], []).append(nm)
+        for d, L in conf.items():
+            add(d, 'upd', '', f'{len(L)} target{"" if len(L) == 1 else "s"} checked online, no change', ', '.join(sorted(L)), o='web')
+        for n in intel.get('add') or []:
+            add(n.get('d'), 'new', n.get('hosp'), f"New: {n.get('name')}{', ' + n['cred'] if n.get('cred') else ''}",
+                ' · '.join(x for x in (n.get('spec'), n.get('practice'), n.get('why')) if x), n.get('src'), 2, o='web')
+    else:
+        items += [e for e in (prev or {}).get('items') or [] if e.get('o') == 'web']
+        checked = (prev or {}).get('checked') or ''
+    for n in base.get('log') or []:
+        add(n.get('d'), n.get('k') or 'upd', n.get('h'), n.get('t'), n.get('s'), n.get('src'), n.get('p') or 3, n.get('target'), 'log')
+    for n in base.get('news') or []:
+        add(n.get('d'), n.get('k'), n.get('h'), n.get('t'), n.get('s'), n.get('src'), n.get('p'), o='base')
+    seen, out = set(), []
+    for e in items:
+        key = e['src'] + '|' + e['t'].lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        e['id'] = 'e' + hashlib.md5(key.encode()).hexdigest()[:8]
+        out.append(e)
+    out.sort(key=lambda e: e['d'], reverse=True)
+    return {'items': out[:120], 'checked': checked}
+
+
 # ---------------------------------------------------------------- writes
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--gt', required=True); ap.add_argument('--patients', required=True)
     ap.add_argument('--targets', required=True); ap.add_argument('--outreach'); ap.add_argument('--plans'); ap.add_argument('--cw')
     ap.add_argument('--pdb'); ap.add_argument('--overlay')
+    ap.add_argument('--intel')
     ap.add_argument('out')
     a = ap.parse_args()
     core, cases, fc, stock = build_tracker(a.gt)
@@ -522,6 +590,10 @@ def main():
     docs = {'core': core, 'cases': cases, 'forecast': fc, 'stock': stock,
             'patients': build_patients(a.patients, today, *load_extra(a.pdb, a.overlay)), 'targets': build_targets(a.targets, a.outreach, a.plans)}
     docs['stock'] = stock_users(docs['stock'], docs['patients'], today)
+    intel = a.intel or (os.path.join(os.path.dirname(os.path.abspath(a.outreach)), 'intel', 'latest.json') if a.outreach else '')
+    prev_ev = load(os.path.join(a.cw, 'data', 'events.json')) if a.cw and os.path.isfile(os.path.join(a.cw, 'data', 'events.json')) else None
+    docs['events'] = build_events(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'territory_events.json'), intel, prev_ev,
+                                  docs['targets']['targets'])
     if not docs['patients']['names']:
         print('NOTE: no --pdb or --overlay, so patients carry no names, coverage or events', file=sys.stderr)
     stamp = dt.datetime.now(dt.timezone(dt.timedelta(hours=-6))).isoformat(timespec='seconds')
