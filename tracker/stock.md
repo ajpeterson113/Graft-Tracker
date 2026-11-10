@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 10:55 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:10 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -414,18 +414,17 @@ Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit 
 
 ## Elmhurst OR
 
-**Consigned + bought on PO** · counted 10/11/26 · 3 grafts
+**Consigned + bought on PO** · counted 10/11/26 · 2 grafts
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **3x6**<br>Stravix | **2** | — | +1 incoming · next exp 4/15/27 |
-| **2x4**<br>Stravix | **1** | — | next exp 6/9/27 |
+| **2x4**<br>Stravix | **0** | — |   |
 
-<details><summary><b>Units on the shelf</b> · 3</summary>
+<details><summary><b>Units on the shelf</b> · 2</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Stravix | 2x4 | LYU-251109\_24001 | 6/9/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-250920\_36004 | 4/15/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-250920\_36006 | 4/15/27 |   | On shelf |   |
 
@@ -439,10 +438,11 @@ Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit 
 
 </details>
 
-<details><summary><b>Used since the count</b> · 1</summary>
+<details><summary><b>Used since the count</b> · 2</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
+| LYU-251109\_24001 | Stravix 2x4 | Used 11/10 (Dr. Farhan) |
 | LYU-250920\_36005 | Stravix 3x6 | Used 10/26 (P.C., Dr. McGann) |
 
 </details>

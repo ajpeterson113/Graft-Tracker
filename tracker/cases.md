@@ -2,7 +2,7 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 10:55 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:10 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -13,10 +13,11 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**32 entries · \$36,687** · 🟢 3 Ready · 🟡 9 Needs PO · 🔵 12 Submitted · ⚪ 8 In SFDC
+**33 entries · \$36,687** · 🟢 3 Ready · 🟡 9 Needs PO · 🔵 12 Submitted · 🟤 1 Clinic stock · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/10** | **Stravix 2x4** · Elmhurst · Farhan<br>no PO yet · LYU-251109\_24001<details><summary><sub>Notes</sub></summary>OR case Tue 11/10 (morning) at Elmhurst (Dr. Farhan): Stravix PL 2x4 LYU-251109\_24001 (exp 6/9/27), from Elmhurst's own OR shelf (187019), so no transfer. Logged from AJ's sticker photo 11/10; patient initials and the bill-only PO to come (AJ is getting the information). Price not filled: no Stravix 2x4 has been billed at Elmhurst yet (the 3x6 rate there is \$3,115.50), so it stays blank until the PO or AJ gives the 2x4 rate. Case sheet: case-sheets/farhan-1110.</details> | No&nbsp;sale | 🟤&nbsp;Clinic&nbsp;stock |
 | **11/9** | [**C.P.**](../case-sheets/cp-1109.md) 📄 · Alexian WCC · Joshi<br>Grafix 1.5x2 · no PO yet · LYA-250668\_15009<details><summary><sub>Notes</sub></summary>App #3, Mon 11/9 1:15 PM, Dr. Joshi: 1.5x2 LYA-250668\_15009 (exp 6/18/27) from the Alexian WCC shelf, \$600 (Alexian 1.5x2 rate). AJ's case sheet photo from Chi West 11/9 (with the Grafted tap). Bill-only PO to come (Alexian ID 0002759724, same as A1 and A2).</details> | \$600 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**C.B.**](../case-sheets/cb-1109.md) 📄 · Alexian WCC · Goldkind<br>Grafix 2x3 · no PO yet · LYA-250558\_23005<details><summary><sub>Notes</sub></summary>App #1, Mon 11/9 2:15 PM, Dr. Goldkind: 2x3 LYA-250558\_23005 (exp 6/9/27) from the Alexian WCC shelf, \$925.35 (Alexian 2x3 rate). New patient (approved, added in Chi West 11/5); first graft, AJ's Grafted tap set him to Grafting. AJ's case sheet photo from Chi West 11/9 (with the Grafted tap). Bill-only PO to come (Alexian ID 0003103740).</details> | \$925.35 | 🟡&nbsp;Needs&nbsp;PO |
 |   | **OASIS Ultra 3x3.5 · 1 box of 5** · NW Suburban F&A<br>PO Oasis11/9<details><summary><sub>Notes</sub></summary>Ordered Mon 11/9 (AJ) on PO Oasis11/9: S+N direct order #11472925 (req. delivery Tue 11/10 to Hoffman Estates): OASIS Ultra 3x3.5 fenestrated (8213-0000-16), 1 box of 5, \$771.75 (NWSFA box price, same as Oasis11/2), for C.C., G.K. and R.E. (weekly). Ship order: posts to SFDC on its own, so it is Submitted (pending SFDC), nothing to submit. This is the Ultra 3x3.5 box the P11 projection had as NWSFA's next reorder.</details> | \$771.75 | 🔵&nbsp;Submitted |
