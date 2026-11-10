@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 123 patients · updated Tue 11/10, 11:34 AM CT
+**BIOT Chicago West** · 123 patients · updated Tue 11/10, 11:37 AM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -207,7 +207,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Farhan**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Tue&nbsp;11/10 · OR&nbsp;today** |   | OR case Tue 11/10 (morning) at Elmhurst (Dr. Farhan): Stravix PL 2x4 LYU-251109\_24001 (exp 6/9/27) from the Elmhurst OR shelf. Logged from AJ's sticker photo 11/10. Patient initials, the 2x4 price at Elmhurst and the bill-only PO to come. |
+| **T.P.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Tue&nbsp;11/10 · OR&nbsp;today** |   | OR case Tue 11/10 (morning) at Elmhurst (Dr. Farhan): Stravix PL 2x4 LYU-251109\_24001 (exp 6/9/27) from the Elmhurst OR shelf. Patient T.P. (initials from AJ 11/10, with the peel-off sticker photo; case sheet tp-1110). Needs the bill-only PO; the tracker carries an estimated until the PO shows Elmhurst's 2x4 rate. |
 | **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;9/28 · 6&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   | Stravix 3x6 OR case 9/28 (round 1). PO P2325870 received 10/6 (in SFDC). Stravix follow-up Wed 10/14 11:20 AM at Dr. McGann's Lombard office (Romano Orthopedics). Round 2: separate STRAVIX 3x6 OR case Mon 10/26 at Elmhurst (Dr. McGann), filed 10/27. |
 
 </details>

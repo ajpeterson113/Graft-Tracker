@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:34 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:37 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -442,7 +442,7 @@ Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit 
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
-| LYU-251109\_24001 | Stravix 2x4 | Used 11/10 (Dr. Farhan) |
+| LYU-251109\_24001 | Stravix 2x4 | Used 11/10 (T.P., Dr. Farhan) |
 | LYU-250920\_36005 | Stravix 3x6 | Used 10/26 (P.C., Dr. McGann) |
 
 </details>

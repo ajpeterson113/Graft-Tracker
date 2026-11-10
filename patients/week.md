@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 123 patients · updated Tue 11/10, 11:34 AM CT
+**BIOT Chicago West** · 123 patients · updated Tue 11/10, 11:37 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -55,7 +55,7 @@
 | **9:40&nbsp;AM** | **J.L.** | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Caroline&nbsp;covering |
 | **12:55&nbsp;PM** | **O.O.** | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham · MA&nbsp;Maria |   |
 | **1:00&nbsp;PM** | **M.L.** | **A7** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
-| — | **Upcoming · Dr. Farhan** | **OR** · STRAVIX 2x4 | Elmhurst<br>Dr.&nbsp;Farhan | ✅ Grafted · OR case at Elmhurst (Dr. Farhan): Stravix PL 2x4 LYU-251109\_24001, from the Elmhurst OR shelf. |
+| — | **T.P.** | **OR** · STRAVIX 2x4 | Elmhurst<br>Dr.&nbsp;Farhan | ✅ Grafted · OR case at Elmhurst (Dr. Farhan): Stravix PL 2x4 LYU-251109\_24001, from the Elmhurst OR shelf. |
 
 
 <a name="wed"></a>
