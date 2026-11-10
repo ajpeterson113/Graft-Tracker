@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 123 patients · updated Tue 11/10, 12:55 PM CT
+**BIOT Chicago West** · 123 patients · updated Tue 11/10, 2:16 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;16](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;18](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 37](../patients/grafting.md) · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 38](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -17,7 +17,7 @@
 
 <a name="verify"></a>
 
-## 🟠 Verify · 11
+## 🟠 Verify · 13
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
@@ -26,9 +26,11 @@
 | **B.P.** | Alexian WCC · Joshi | OASIS Burn Oasis burn 3x7 | Not confirmed with the office yet: Mon 11/16 12:50 PM |
 | **C.P.** | Alexian WCC · Joshi | GRAFIX 1.5x2 | Not confirmed with the office yet: Mon 11/16 1:15 PM |
 | **D.S.** | Alexian WCC · Joshi | GRAFIX 3x4 | Not confirmed with the office yet: Tue 11/17 9:15 AM |
+| **M.L.** | Alexian WCC · Joshi | GRAFIX 16mm | Not confirmed with the office yet: Tue 11/17 1:00 PM |
 | **D.G.** | Alexian WCC · Lucas | GRAFIX 16mm | Not confirmed with the office yet: Tue 11/17 9:00 AM |
 | **G.H.** | Alexian WCC · Lucas | GRAFIX | Not confirmed with the office yet: Fri 11/13 12:40 PM |
 | **J.L.** | Alexian WCC · Lucas | GRAFIX 16mm | Not confirmed with the office yet: Tue 11/17 9:40 AM |
+| **O.O.** | Alexian WCC · Vedantham | GRAFIX 16mm | Not confirmed with the office yet: Tue 11/17 12:55 PM |
 | **E.P.** | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | App # doesn't match: AJ's calendar has A6 on Wed 11/4, the app has 4 logged (next A5) — confirm the count |
 | **MZ (L)** | NW Suburban F&A · Goldkind | OASIS Ultra 3x7 | App # doesn't match: AJ's calendar has A9 on Wed 11/4, the app has 6 logged (next A7) — confirm the count |
 | **D.N.** | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | App # doesn't match: AJ's calendar has A5 on Fri 11/6, the app has 3 logged (next A4) — confirm the count |
