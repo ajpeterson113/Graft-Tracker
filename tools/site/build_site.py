@@ -298,6 +298,8 @@ def load_dir(d):
 def write(repo, rel, text):
     p = Path(repo) / rel
     p.parent.mkdir(parents=True, exist_ok=True)
+    for rx, rep in SCRUB:
+        text = rx.sub(rep, text)
     p.write_text(text.rstrip() + '\n')
     return rel
 
@@ -943,11 +945,38 @@ def prod_of(p):
     return grafix_label(' '.join(x for x in [p.get('product'), p.get('size')] if x))
 
 
-def safe_name(n):
-    """Names stay click-to-reveal; drop anything like an insurance or birth date tacked onto the name."""
+# Patient names go on the pages only when tools/site/NAMES_OK exists. The repo is public (checked 11/9), so that file
+# is absent and every page carries initials only. Add the file once AJ has made the repo private; never add it before.
+NAMES_OK = os.path.isfile(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'NAMES_OK'))
+
+
+def _clean_name(n):
     n = re.sub(r'\s*\((?=[^)]*(?:dob|\d))[^)]*\)', '', str(n or ''))
     n = re.sub(r',?\s*dob\b.*$', '', n, flags=re.I)
     return n.strip().strip(',').strip()
+
+
+def safe_name(n):
+    """Names stay click-to-reveal; drop anything like an insurance or birth date tacked onto the name.
+    Returns '' (initials only) unless NAMES_OK: no patient name is ever written to a public repo."""
+    return _clean_name(n) if NAMES_OK else ''
+
+
+SCRUB = []
+
+
+def set_scrub(pts):
+    """While the repo is public, a patient's full name typed into a note is replaced by the initials on every page."""
+    SCRUB.clear()
+    if NAMES_OK:
+        return
+    for p in pts:
+        n = _clean_name(p.get('name'))
+        if len(n) < 5 or ' ' not in n:
+            continue
+        rep = dots(p.get('initials')) or 'the patient'
+        for form in {n, html.escape(n)}:
+            SCRUB.append((re.compile(r'(?<![A-Za-z])' + r'\s+'.join(re.escape(w) for w in form.split()) + r'(?![A-Za-z])', re.I), rep))
 
 
 def who(p):
@@ -2072,6 +2101,7 @@ def main():
     repo = a.repo
     tr = Tracker(a.app, repo, a.xlsx or os.path.join(repo, TRACKER_XLSX))
     pt = Patients(a.patients, repo)
+    set_scrub(pt.pts)
     if not tr.snap or not tr.months:
         raise SystemExit('No tracker data in --app (run graft_app.py build first).')
     if not pt.pts:

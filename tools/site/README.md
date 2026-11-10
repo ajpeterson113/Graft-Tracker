@@ -31,5 +31,6 @@ Then commit everything it wrote along with the tracker and the patient list Exce
 ## Rules
 
 - Don't hand-edit the generated pages: the next update overwrites them. Change the script.
-- Patient pages carry no sales numbers (same rule as the Patients app), and full names stay behind a click.
+- Patient pages carry no sales numbers (same rule as the Patients app).
+- **No patient names while the repo is public (11/9).** The script writes initials only unless the file `tools/site/NAMES_OK` exists. Add that file only after AJ has made the repo private (GitHub › Settings › Danger Zone › Change visibility); then full names come back behind a click, as before. Never add it while the repo is public, and never work around it.
 - Needs Python 3.9+, Pillow and openpyxl. The fonts in fonts/ (Barlow Semi Condensed, Source Sans 3) are under the SIL Open Font License.
