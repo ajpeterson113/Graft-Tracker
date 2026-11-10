@@ -190,8 +190,18 @@ def build_tracker(gt):
     if not snap or not months:
         sys.exit('STOP: --gt needs meta/snap.json and months/*.json')
     core = {k: snap.get(k) for k in ('updated', 'today', 'period', 'sales', 'forecast', 'accounts', 'year', 'months', 'periods', 'tabs', 'weekly')}
-    core['todos'] = [dict(id=k, **{f: v.get(f) for f in ('text', 'detail', 'acct', 'ini', 'caseId', 'due', 'src', 'ref', 'created', 'status')})
-                     for k, v in sorted(todos.items()) if v.get('status') != 'done']
+    # open to-dos, plus the ones done in the last 7 days so AJ can see and reopen them in Chi West (AJ 11/9: undo)
+    done_lim = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=7)).isoformat()
+
+    def _recent_done(v):
+        when = str(v.get('doneAt') or '')
+        try:
+            when = dt.datetime.fromisoformat(when.replace("Z", "+00:00")).astimezone(dt.timezone.utc).isoformat()
+        except ValueError:
+            return False
+        return when >= done_lim
+    core['todos'] = [dict(id=k, **{f: v.get(f) for f in ('text', 'detail', 'acct', 'ini', 'caseId', 'due', 'src', 'ref', 'created', 'status', 'doneAt')})
+                     for k, v in sorted(todos.items()) if v.get('status') != 'done' or _recent_done(v)]
     keep = ('id', 'date', 'ini', 'alx', 'acct', 'short', 'surgeon', 'prod', 'product', 'size', 'sz', 'qty', 'lots', 'price',
             'po', 'poDate', 'match', 'submitted', 'status', 'flags', 'outstanding', 'gh')
     cases = []
