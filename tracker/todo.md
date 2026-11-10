@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:10 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:24 AM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 3 · \$1,235
+## 🟢 Submit to SFDC · 6 · \$3,120
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -18,9 +18,12 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 9/29 | [Y.L.](../case-sheets/yl-0929.md) | Suburban F&A · Grinberg | Grafix 16mm | YL092926 · 🔁 transfer log on the sheet | \$190 |
 | 10/7 | [M.W.](../case-sheets/mw-1007.md) | Romano Lombard · Rojas | Grafix 16mm | MW100726 · 🔁 transfer log on the sheet | \$190 |
 | 11/4 | [S.G.](../case-sheets/sg-1104.md) | Romano Lombard · Rojas | Grafix 3x3 | SG110426 · 🔁 transfer log on the sheet | \$855 |
+| 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000287280 | \$360 |
+| 11/9 | [C.P.](../case-sheets/cp-1109.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 660040000287281 | \$600 |
+| 11/9 | [C.B.](../case-sheets/cb-1109.md) | Alexian WCC · Goldkind | Grafix 2x3 | 660040000287282 | \$925.35 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 9 · \$11,712
+## 🟡 Waiting on a PO · 6 · \$9,827
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -28,11 +31,8 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 32 days |   | \$1,020 |
 | 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 27 days |   | \$190 |
 | 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | Stravix 2x4 + 3x6 + VERSAJET ×2 | 🟠 4 days |   | \$4,717.10 |
-| 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 4 days | 0003095154 | \$360 |
 | 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 4 days |   | \$1,650 |
 | 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 4 days |   | \$1,650 |
-| 11/9 | [C.P.](../case-sheets/cp-1109.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 🟠 1 day | 0002759724 | \$600 |
-| 11/9 | [C.B.](../case-sheets/cb-1109.md) | Alexian WCC · Goldkind | Grafix 2x3 | 🟠 1 day | 0003103740 | \$925.35 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 12 · \$14,446

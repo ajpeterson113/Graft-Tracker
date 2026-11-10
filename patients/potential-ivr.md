@@ -2,7 +2,7 @@
 
 # Potential IVR
 
-**BIOT Chicago West** · 123 patients · updated Tue 11/10, 11:10 AM CT
+**BIOT Chicago West** · 123 patients · updated Tue 11/10, 11:24 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
