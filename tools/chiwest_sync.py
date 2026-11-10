@@ -425,7 +425,8 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
                     'email': c.get('Email (published)') or '', 'emailFmt': cut(c.get('Email format (system)'), 80),
                     'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400),
                     'obj': cut(o.get('objection') or o.get('objections'), 200), 'hist': hist,
-                    'lunch': o.get('lunch') or None, 'using': o.get('using') or []})
+                    'lunch': o.get('lunch') or None, 'using': o.get('using') or [],
+                    'fav': bool(o.get('fav')), 'assoc': bool(o.get('assoc'))})  # AJ 11/9: Set Target / Assign to Associates
         out[-1]['vj'] = versajet(r, hosp)
         if (o.get('edits') or {}).get('office'):  # office corrected in the Targets app
             out[-1]['office'] = cut(o['edits']['office'], 160)
@@ -433,8 +434,23 @@ def build_targets(xlsx, outreach_dir, plans_dir=None):
         if tid in seen:
             continue
         e = o.get('edits') or {}
+        a = o.get('add') or {}  # a target added from a Chi West `newtarget` tap (AJ 11/9); the same fields are in TGT custom/<id>
+        if a:
+            out.append({'id': tid, 'name': a.get('name') or tid, 'cred': a.get('cred') or '', 'tier': str(a.get('tier') or '2'),
+                        'hosp': a.get('hosp') or '', 'hospFull': a.get('hosp') or '', 'acct': HOSP_ACCT.get(a.get('hosp') or '', ''),
+                        'grp': a.get('group') or 'Other', 'spec': a.get('spec') or '', 'practice': cut(a.get('practice'), 120),
+                        'office': cut(e.get('office') or a.get('office'), 160), 'phone': a.get('phone') or '', 'email': a.get('email') or '',
+                        'angle': cut(a.get('why'), 320), 'notes': cut(a.get('notes'), 200), 'npi': a.get('npi') or '',
+                        'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400),
+                        'obj': cut(o.get('objection') or o.get('objections'), 200), 'lunch': o.get('lunch') or None, 'using': o.get('using') or [],
+                        'fav': bool(o.get('fav')), 'assoc': bool(o.get('assoc')),
+                        'vj': versajet({'Specialty group': a.get('group'), 'Hospital affiliation (source)': a.get('affil'), 'Office(s)': a.get('office'),
+                                        'Practice': a.get('practice'), 'Hospital': a.get('hosp')}, a.get('hosp') or ''),
+                        'hist': [{'d': (h.get('d') or '')[:10], 'a': h.get('a'), 'n': cut(h.get('n'), 200), 'who': h.get('who') or ''} for h in (o.get('history') or [])][-6:]})
+            continue
         out.append({'id': tid, 'name': e.get('name') or tid.replace('cwl-', '').replace('-', ' ').title(), 'cred': '', 'tier': '',
                     'hosp': e.get('hospital') or 'NM CDH / Delnor expansion' if 'cdh' in tid or tid.startswith('cwl-') else '', 'acct': '',
+                    'fav': bool(o.get('fav')), 'assoc': bool(o.get('assoc')),
                     'grp': 'Office / scheduling contact', 'spec': e.get('role') or '', 'office': cut(e.get('officeContact'), 160),
                     'status': o.get('status') or 'none', 'followUp': o.get('followUp') or '', 'onote': cut(o.get('note'), 400), 'obj': '',
                     'hist': [{'d': (h.get('d') or '')[:10], 'a': h.get('a'), 'n': cut(h.get('n'), 200), 'who': h.get('who') or ''} for h in (o.get('history') or [])][-6:]})
