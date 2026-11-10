@@ -42,7 +42,7 @@ button:focus-visible{outline:2px solid var(--or);outline-offset:2px}
 .seg button{border:0;background:transparent;height:36px;padding:0 14px;font-weight:600;font-size:.92rem;color:var(--mu);white-space:nowrap}
 .seg button+button{border-left:1.5px solid var(--rule)}
 .seg button[aria-pressed="true"]{background:var(--bl);color:#fff}
-.main{display:grid;grid-template-columns:1fr 1fr;width:100%}
+.main{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;width:100%}.main button[hidden]{display:none}.main button{padding:0 6px}
 .main button{height:40px;font:700 1rem var(--f-disp);letter-spacing:.3px}
 
 /* week + filters */
@@ -108,6 +108,23 @@ button:focus-visible{outline:2px solid var(--or);outline-offset:2px}
 #hist h3{font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;color:var(--mu);margin:14px 0 6px}
 #hist .hr{display:grid;grid-template-columns:86px 46px 1fr auto;gap:8px;align-items:center;padding:8px 0;border-top:1px solid var(--rule,#eee);font-size:.92rem}
 #hist .hr:first-of-type{border-top:0}#hist .none{color:var(--mu);font-size:.9rem}
+/* targets (AJ 11/10) */
+.tsearch{display:block;width:100%;height:44px;padding:0 14px;border-radius:12px;border:1.5px solid var(--rule);background:var(--surface);color:var(--ink);font:inherit;margin-bottom:10px}
+.tsel{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:10px 0}
+.tsel select{width:100%;height:42px;padding:0 10px;border-radius:12px;border:1.5px solid var(--rule);background:var(--surface);color:var(--ink);font:inherit;min-width:0}
+.chip .n{font-weight:600;opacity:.65;margin-left:4px;font-variant-numeric:tabular-nums}
+.trow{display:block;width:100%;text-align:left;background:none;border:0;border-top:1px solid var(--rule);padding:12px 14px}
+.card>.trow:first-child{border-top:0}.trow:hover{background:var(--sunk)}
+.trow .l1{align-items:center;gap:5px 7px}.trow .nm{font:700 1.08rem/1.25 var(--f-disp)}
+.star{color:var(--or)}
+.pill.t1{background:var(--or-soft);color:var(--or-ink);box-shadow:none}
+.pill.st{background:var(--bl-soft);color:var(--bl-ink);box-shadow:none}
+.pill.due{background:var(--bad-soft);color:var(--bad);box-shadow:none}
+.pill.as,.pill.mt{background:var(--good-soft);color:var(--good);box-shadow:none}
+#hist .tk{display:grid;grid-template-columns:92px 1fr;gap:8px;padding:7px 0;border-top:1px solid var(--rule);font-size:.92rem}
+#hist .tk:first-of-type{border-top:0}#hist .tk span:first-child{color:var(--mu)}
+#hist ul{margin:0;padding-left:18px;font-size:.92rem;line-height:1.45}#hist li{margin:5px 0}
+#hist a{color:var(--bl-ink)}
 @keyframes swl{from{transform:translateX(30px);opacity:.4}to{transform:none;opacity:1}}
 @keyframes swr{from{transform:translateX(-30px);opacity:.4}to{transform:none;opacity:1}}
 .swl{animation:swl .18s ease-out}.swr{animation:swr .18s ease-out}
@@ -121,6 +138,7 @@ button:focus-visible{outline:2px solid var(--or);outline-offset:2px}
     <div class="seg main" role="tablist" aria-label="View">
       <button id="t-sched" data-tab="sched" aria-pressed="true">Schedule</button>
       <button id="t-pts" data-tab="pts" aria-pressed="false">Patients</button>
+      <button id="t-tg" data-tab="tg" aria-pressed="false" hidden>Targets</button>
     </div>
   </header>
   <main id="app"></main>
@@ -146,7 +164,8 @@ const weekStart=s=>{const d=D(s),w=d.getDay();d.setDate(d.getDate()+(w===0?1:w==
 const ampm=t=>{const m=/^(\d{1,2}):(\d{2})/.exec(t||'');if(!m)return '';let h=+m[1];const mi=m[2],pm=h>=12;h=h%12||12;return h+(mi!=='00'?':'+mi:'')+(pm?'pm':'am');};
 const ls={get:(k,d)=>{try{const v=localStorage.getItem('cws_'+k);return v==null?d:JSON.parse(v);}catch(e){return d;}},set:(k,v)=>{try{localStorage.setItem('cws_'+k,JSON.stringify(v));}catch(e){}}};
 
-const S={tab:ls.get('tab','sched'),day:'',who:ls.get('who','all'),by:ls.get('by','time'),pf:ls.get('pf','current')};
+const S={tab:ls.get('tab','sched'),day:'',who:ls.get('who','all'),by:ls.get('by','time'),pf:ls.get('pf','current'),tg:ls.get('tg','all'),th:'',ts:'',tq:'',tn:40};
+const T=(DATA&&DATA.targets)||null;if(!T&&S.tab==='tg')S.tab='sched';
 if(location.hash==='#patients')S.tab='pts';
 {const t=today(),ws=weekStart(t),dow=D(t).getDay();S.day=dow>=1&&dow<=5?t:ws;}
 
@@ -193,8 +212,37 @@ function vPts(){const cur=['active','approved','or','pending','potential','hold'
         <div class="pn">${nx}${cov}${p.flag&&p.next?` <span class="flag">${p.flag}</span>`:''}</div></div>`;}).join('')}</div>`;}).join('');
   return h+`</div>`;}
 
-function render(dir){$('t-sched').setAttribute('aria-pressed',S.tab==='sched');$('t-pts').setAttribute('aria-pressed',S.tab==='pts');
-  $('app').innerHTML=S.tab==='sched'?vSched():vPts();
+/* ---- Targets: Chi West's Grow > Targets list, view only (no dollar figures on this shared page) ---- */
+const TST={none:'',called:'Called',emailed:'Emailed',texted:'Texted',visited:'Dropped by',lunch:'Lunch booked',meeting:'Meeting booked',met:'Met',case:'First case',using:'Using',dead:'Not a fit'};
+const TG=[['all','All',()=>true],['mine','\u2605 Mine',t=>t.fav],['assoc','Associates',t=>t.assoc],['vj','VERSAJET',t=>!!t.vj],['due','Due',t=>t.due&&t.due<=today()],['mtg','Meetings',t=>t.mtg&&t.mtg.d>=today()]];
+const affTxt=t=>(t.aff||[]).map(a=>a[0]+(a[1]==='y'?'':'?')).join(', ');
+function tFiltered(){const f=(TG.find(x=>x[0]===S.tg)||TG[0])[2],q=S.tq.trim().toLowerCase();
+  return T.filter(t=>f(t)&&(!S.th||(t.aff||[]).some(a=>a[0]===S.th))&&(!S.ts||t.grp===S.ts)&&(!q||[t.n,t.grp,t.spec,t.prac,affTxt(t),t.office].join(' ').toLowerCase().includes(q)));}
+function tRow(t){const td=today(),st=TST[t.st]||'';
+  return `<button class="trow" data-t="${esc(t.id)}"><div class="l1">${t.fav?'<span class="star" aria-label="AJ\u2019s target">\u2605</span>':''}<span class="nm">${esc(t.n)}</span>${t.tier==='1'?'<span class="pill t1">TIER 1</span>':''}${st?`<span class="pill st">${esc(st)}</span>`:''}${t.assoc?'<span class="pill as">associates</span>':''}${t.mtg&&t.mtg.d>=td?`<span class="pill mt">Lunch ${md(t.mtg.d)}${t.mtg.t?' '+ampm(t.mtg.t):''}</span>`:''}${t.due?`<span class="pill ${t.due<=td?'due':''}">due ${MN[D(t.due).getMonth()]} ${D(t.due).getDate()}</span>`:''}</div>
+    <div class="l2">${esc([t.grp,affTxt(t),t.last?'last touch '+MN[D(t.last).getMonth()]+' '+D(t.last).getDate():''].filter(Boolean).join(' \u00b7 '))}</div></button>`;}
+function tList(){const L=tFiltered();return `<div class="mu tnum" style="font-size:.86rem;margin:2px 2px 8px">${L.length} shown</div><div class="card">${L.slice(0,S.tn).map(tRow).join('')||'<div class="empty">No targets match.</div>'}</div>${L.length>S.tn?`<button class="chip" data-tmore="1" style="margin:12px auto 0;display:block">Show ${Math.min(40,L.length-S.tn)} more of ${L.length}</button>`:''}`;}
+function vTargets(){const hs=[...new Set(T.flatMap(t=>(t.aff||[]).map(a=>a[0])))].sort(),sp=[...new Set(T.map(t=>t.grp).filter(Boolean))].sort();
+  return `<input class="tsearch" id="tq" type="search" placeholder="Surgeon, hospital, specialty" value="${esc(S.tq)}" autocomplete="off" aria-label="Search targets">
+  <div class="chips" role="group" aria-label="Which targets">${TG.map(([k,l,f])=>{const n=T.filter(f).length;return n||k==='all'?`<button class="chip" data-tg="${k}" aria-pressed="${S.tg===k}">${l}<span class="n">${n}</span></button>`:'';}).join('')}</div>
+  <div class="tsel"><select id="th" aria-label="Hospital"><option value="">Any hospital</option>${hs.map(h=>`<option${S.th===h?' selected':''}>${esc(h)}</option>`).join('')}</select><select id="ts" aria-label="Specialty"><option value="">Any specialty</option>${sp.map(h=>`<option${S.ts===h?' selected':''}>${esc(h)}</option>`).join('')}</select></div>
+  <div id="tlist">${tList()}</div>`;}
+function tSheet(id){const t=T.find(x=>x.id===id);if(!t)return;const row=(k,v)=>v?`<div class="tk"><span>${k}</span><span>${v}</span></div>`:'';
+  const tel=String(t.phone||'').match(/\d{3}[-.\s]\d{3}[-.\s]\d{4}/);
+  const o=document.createElement('div');o.id='hist';
+  o.innerHTML=`<div class="sh" role="dialog" aria-modal="true" aria-label="${esc(t.n)}"><div class="hh"><div><h2>${t.fav?'<span class="star">\u2605</span> ':''}${esc(t.n)}</h2></div><button class="x" data-close="1">Close</button></div>
+    <div class="meta">${esc([t.cred,t.spec||t.grp].filter(Boolean).join(' \u00b7 '))}<br>${[t.tier==='1'?'<span class="pill t1">TIER 1</span>':t.tier?'<span class="pill">Tier '+esc(t.tier)+'</span>':'',TST[t.st]?`<span class="pill st">${esc(TST[t.st])}</span>`:'<span class="pill">Not contacted</span>',t.assoc?'<span class="pill as">associates</span>':'',t.vj?'<span class="pill">VERSAJET</span>':''].filter(Boolean).join(' ')}</div>
+    ${row('Hospitals',esc(affTxt(t)))}${row('Practice',esc(t.prac))}${row('Office',esc(t.office))}${row('Phone',tel?`<a href="tel:${tel[0].replace(/\D/g,'')}">${esc(t.phone)}</a>`:esc(t.phone))}${row('Clinic / OR',esc(t.where))}
+    ${row('Follow-up',t.due?esc(DN[D(t.due).getDay()]+' '+md(t.due)):'')}${row('Last touch',t.last?esc(DN[D(t.last).getDay()]+' '+md(t.last)):'')}${row('Meeting',t.mtg&&t.mtg.d>=today()?esc('Lunch '+DN[D(t.mtg.d).getDay()]+' '+md(t.mtg.d)+(t.mtg.t?' '+ampm(t.mtg.t):'')):'')}${row('Objection',esc(t.obj))}
+    ${t.why||t.fit?`<h3>Why a target</h3><div style="font-size:.92rem;line-height:1.45">${esc(t.why||t.fit)}</div>`:''}
+    <h3>Research${t.rd?' \u00b7 '+esc(md(t.rd)):''}</h3>${t.res&&t.res.length?'<ul>'+t.res.map(x=>`<li>${esc(x)}</li>`).join('')+'</ul>':'<div class="none">No research brief yet</div>'}</div>`;
+  const close=()=>{o.remove();document.removeEventListener('keydown',k);};const k=e=>{if(e.key==='Escape')close();};
+  o.addEventListener('click',e=>{if(e.target===o||e.target.closest('[data-close]'))close();});document.addEventListener('keydown',k);document.body.appendChild(o);}
+document.addEventListener('input',e=>{if(e.target.id==='tq'){S.tq=e.target.value;S.tn=40;const l=$('tlist');if(l)l.innerHTML=tList();}});
+document.addEventListener('change',e=>{if(e.target.id==='th'||e.target.id==='ts'){S[e.target.id]=e.target.value;S.tn=40;const l=$('tlist');if(l)l.innerHTML=tList();}});
+
+function render(dir){$('t-sched').setAttribute('aria-pressed',S.tab==='sched');$('t-pts').setAttribute('aria-pressed',S.tab==='pts');$('t-tg').hidden=!T;$('t-tg').setAttribute('aria-pressed',S.tab==='tg');
+  $('app').innerHTML=S.tab==='tg'&&T?vTargets():S.tab==='sched'?vSched():vPts();
   if(dir){const l=$('list');if(l){l.classList.add(dir>0?'swl':'swr');}}}
 function stepDay(n){let d=addDays(S.day,n);while([0,6].includes(D(d).getDay()))d=addDays(d,n);S.day=d;render(n);}
 /* a patient's history: every visit in the last 9 weeks and what's booked next */
@@ -213,6 +261,9 @@ function hist(i){const p=P[i];if(!p)return;const t=today();
   o.addEventListener('click',e=>{if(e.target===o||e.target.closest('[data-close]'))close();});document.addEventListener('keydown',k);document.body.appendChild(o);}
 document.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.dataset&&e.target.dataset.p!=null){e.preventDefault();hist(+e.target.dataset.p);}});
 document.addEventListener('click',e=>{if(e.target.closest('#hist'))return;const r=e.target.closest('[data-p]');if(r&&!e.target.closest('button')){hist(+r.dataset.p);return;}const b=e.target.closest('button');if(!b)return;
+  if(b.dataset.t){tSheet(b.dataset.t);return;}
+  if(b.dataset.tg){S.tg=b.dataset.tg;S.tn=40;ls.set('tg',S.tg);render();return;}
+  if(b.dataset.tmore){S.tn+=40;const l=$('tlist');if(l)l.innerHTML=tList();return;}
   if(b.dataset.tab){S.tab=b.dataset.tab;ls.set('tab',S.tab);render();window.scrollTo({top:0});return;}
   if(b.dataset.wk!=null){const n=+b.dataset.wk;if(!n){const t=today(),dow=D(t).getDay();S.day=dow>=1&&dow<=5?t:weekStart(t);}else S.day=addDays(weekStart(S.day),n);render(n);return;}
   if(b.dataset.day){S.day=b.dataset.day;render();return;}

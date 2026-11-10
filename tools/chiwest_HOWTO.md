@@ -82,7 +82,7 @@ Chi West reads PO and case sheet photos itself when they are uploaded (same as t
 
 ## Chi West Schedule page (AJ 11/5)
 
-The view-only page AJ shares with Caroline and Pete, https://claude.ai/artifact/5V9C5K8zikma7b7AUjAoFz, must show exactly what Chi West shows after every sync. After `data` is written: `python3 -I tools/assoc_view.py OUT_CW/data/patients.json SCHED/chi-west-schedule.html`, then Artifact read + publish to that url. Do the same after any manual change to Chi West's `data/patients`. Initials only; never change its sharing.
+The view-only page AJ shares with Caroline and Pete, https://claude.ai/artifact/5V9C5K8zikma7b7AUjAoFz, must show exactly what Chi West shows after every sync. After `data` is written: `python3 -I tools/assoc_view.py CWNOW/data/patients.json SCHED/chi-west-schedule.html --targets CWNOW/data/targets.json --research CWNOW/data/research.json` (CWNOW = a fresh export of Chi West's `data` collection), then Artifact read + publish to that url. Do the same after any manual change to Chi West's `data/patients`, `data/targets` or `data/research`. The Targets tab (AJ 11/10) is the Grow › Targets list, view only; without `--targets` it disappears. The page is open to anyone with the link, so the script keeps dollar figures, email addresses and AJ's notes off it and stops if one would be published. Initials only; never change its sharing.
 
 ## Route plans (Grow · Plan, added 11/5 from the Chi West Targets app)
 
