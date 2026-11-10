@@ -262,7 +262,7 @@ function hist(i){const p=P[i];if(!p)return;const t=today();
 document.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.dataset&&e.target.dataset.p!=null){e.preventDefault();hist(+e.target.dataset.p);}});
 document.addEventListener('click',e=>{if(e.target.closest('#hist'))return;const r=e.target.closest('[data-p]');if(r&&!e.target.closest('button')){hist(+r.dataset.p);return;}const b=e.target.closest('button');if(!b)return;
   if(b.dataset.t){tSheet(b.dataset.t);return;}
-  if(b.dataset.tg){S.tg=b.dataset.tg;S.tn=40;ls.set('tg',S.tg);render();return;}
+  if(b.dataset.tg){S.tg=b.dataset.tg;S.tn=40;ls.set('tg',S.tg);/* update in place: a full redraw scrolls the chip row back to the start */document.querySelectorAll('[data-tg]').forEach(c=>c.setAttribute('aria-pressed',c.dataset.tg===S.tg));const l=$('tlist');if(l)l.innerHTML=tList();else render();return;}
   if(b.dataset.tmore){S.tn+=40;const l=$('tlist');if(l)l.innerHTML=tList();return;}
   if(b.dataset.tab){S.tab=b.dataset.tab;ls.set('tab',S.tab);render();window.scrollTo({top:0});return;}
   if(b.dataset.wk!=null){const n=+b.dataset.wk;if(!n){const t=today(),dow=D(t).getDay();S.day=dow>=1&&dow<=5?t:weekStart(t);}else S.day=addDays(weekStart(S.day),n);render(n);return;}
