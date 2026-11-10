@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:37 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 12:03 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -10,20 +10,20 @@
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$38,676 | \$38,676 |
+| Sold so far (November tab) | \$38,454 | \$38,454 |
 | \+ Projected Grafix, net of WCC stock | \$29,213 | \$19,987 |
 | \+ Upcoming Stravix | \$27,678 | \$18,017 |
 | \+ Potential new starts | \$4,633 | \$0 |
 | \+ OASIS reorders (estimated) | \$6,450 | \$4,244 |
-| **P11 forecast** | **\$106,649** | **\$80,924** |
+| **P11 forecast** | **\$106,427** | **\$80,702** |
 | P11 target | \$92,891 | \$92,891 |
 | % of target | 115% | 87% |
-| Gap to target | ✅ over by \$13,758 | \$11,967 |
-| **Projected commission** | **\$10,665** | **\$5,665** |
+| Gap to target | ✅ over by \$13,536 | \$12,189 |
+| **Projected commission** | **\$10,643** | **\$5,649** |
 
 
 > [!NOTE]
-> Hitting target pays 10% on everything. Closing the \$11,967 downside gap adds about **\$3,624** in commission.
+> Hitting target pays 10% on everything. Closing the \$12,189 downside gap adds about **\$3,640** in commission.
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/9.</sub>
@@ -39,15 +39,15 @@
 | [GlenOaks](#glenoaks) | — | \$14,814 | \$9,876 | **\$14,814** | **\$9,876** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$3,300 | \$3,515 | \$2,545 | **\$6,815** | **\$5,845** |
 | [Alexian Ambulatory](#x) | \$5,821 | \$0 | \$0 | **\$5,821** | **\$5,821** |
-| [Elmhurst](#elmhurst) | \$5,104 | \$0 | \$0 | **\$5,104** | **\$5,104** |
 | [St. Alexius](#st-alexius) | — | \$4,938 | \$3,106 | **\$4,938** | **\$3,106** |
+| [Elmhurst](#elmhurst) | \$4,883 | \$0 | \$0 | **\$4,883** | **\$4,883** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$3,964 | \$570 | \$570 | **\$4,534** | **\$4,534** |
 | [Romano Lombard](#romano-lombard) | \$1,235 | \$2,565 | \$2,565 | **\$3,800** | **\$3,800** |
 | [Sherman](#sherman) | — | \$2,656 | \$1,695 | **\$2,656** | **\$1,695** |
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$570 | \$190 | **\$1,780** | **\$1,400** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$38,676** | **\$67,973** | **\$42,248** | **\$106,649** | **\$80,924** |
+| **Total** | **\$38,454** | **\$67,973** | **\$42,248** | **\$106,427** | **\$80,702** |
 
 
 ## Account by account
@@ -206,13 +206,6 @@ Sold so far: **\$5,821** · 2 cases
 
 </details>
 
-<a name="elmhurst"></a>
-<details><summary><b>Elmhurst</b> · upside &#36;5,104 · downside &#36;5,104</summary>
-
-Sold so far: **\$5,104** · 2 cases
-
-</details>
-
 <a name="st-alexius"></a>
 <details><summary><b>St. Alexius</b> · upside &#36;4,938 · downside &#36;3,106</summary>
 
@@ -223,6 +216,13 @@ Sold so far: **\$5,104** · 2 cases
 | **Restock · OR stock** | Stravix 2x4 | — | — |   |
 | **Dr. Greg Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | Not on AJ's Outlook list of 11/5 (his list has only Dr. Adam Bryniczka at St. Alexius on 11/18) — confirm whether this case is still on \| OR case Wed 11/18 8:00 AM at St. Alexius (Dr. Greg Bryniczka), from AJ's Outlook … |
 | **Dr. Adam Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | Wed 11/18 10:30-11:30 AM (AJ's Outlook 11/5) \| OR case Wed 11/18 late morning at St. Alexius (Dr. Adam Bryniczka, Stravix), from AJ's Outlook calendar 11/2. |
+
+</details>
+
+<a name="elmhurst"></a>
+<details><summary><b>Elmhurst</b> · upside &#36;4,883 · downside &#36;4,883</summary>
+
+Sold so far: **\$4,883** · 2 cases
 
 </details>
 

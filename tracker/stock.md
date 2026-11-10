@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 11:37 AM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 12:03 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;13](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -449,6 +449,6 @@ Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit 
 
 <details><summary><b>About this shelf</b></summary>
 
-Stravix on the OR shelf at Elmhurst Memorial Hospital (acct 187019). Customer consignment per the BIOT Chicago district consignment report (10/11): Stravix 3x6 LYU-250920\_36004, \_36005, \_36006 (exp 4/15/27) and Stravix 2x4 LYU-251109\_24001 (exp 6/9/27). A consigned unit used in a case is billed on its own Elmhurst PO, so it counts as a sale when used. LYU-250920\_36005 was used 10/26 (P.C., Dr. McGann). Elmhurst also bought 1 Stravix 3x6 on PO P2350677 (standalone sales order 10/27, FedEx Priority): a sale when it ships (October), so a case that uses that unit adds no new sale.
+Stravix on the OR shelf at Elmhurst Memorial Hospital (acct 187019). Customer consignment per the BIOT Chicago district consignment report (10/11): Stravix 3x6 LYU-250920\_36004, \_36005, \_36006 (exp 4/15/27) and Stravix 2x4 LYU-251109\_24001 (exp 6/9/27). A consigned unit used in a case is billed on its own Elmhurst PO, so it counts as a sale when used. LYU-250920\_36005 was used 10/26 (P.C., Dr. McGann). LYU-251109\_24001 (the 2x4) was used 11/10 (T.P., Dr. Farhan), \$1,767 at the Elmhurst contract price. Elmhurst also bought 1 Stravix 3x6 on PO P2350677 (standalone sales order 10/27, FedEx Priority): a sale when it ships (October), so a case that uses that unit adds no new sale.
 
 </details>
