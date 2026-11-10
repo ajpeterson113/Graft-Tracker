@@ -4,6 +4,13 @@
   {
    "d": "2026-11-09",
    "k": "upd",
+   "h": "",
+   "t": "Dollar potential by product on every surgeon",
+   "s": "From the claims export you added to the Project. Each card shows STRAVIX, GRAFIX, OASIS and VERSAJET potential, the Targets list sorts by potential, and Insights › Territory has the account totals and the surgeons with volume who are not on your list."
+  },
+  {
+   "d": "2026-11-09",
+   "k": "upd",
    "h": "St. Alexius / Alexian",
    "t": "Emilie Robinson: two listings merged into one",
    "s": "The St. Alexius / Alexian and Elgin entries were the same vascular surgeon (NPI 1285048595). One card now, with her Elgin clinic at 1975 Lin Lor Ln Ste 155 on it. Elgin privileges are not confirmed.",
