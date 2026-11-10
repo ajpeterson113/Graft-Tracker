@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 3:52 PM CT
+**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 4:29 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 7 · \$4,247
+## 🟢 Submit to SFDC · 6 · \$3,120
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -21,7 +21,6 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000287280 | \$360 |
 | 11/9 | [C.P.](../case-sheets/cp-1109.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 660040000287281 | \$600 |
 | 11/9 | [C.B.](../case-sheets/cb-1109.md) | Alexian WCC · Goldkind | Grafix 2x3 | 660040000287282 | \$925.35 |
-| 11/10 | — | St. Joseph Elgin · Veronica Pappas | OASIS Wound 3x3.5 · 1 box of 10 | 712063518 | \$1,126.50 |
 
 <a name="needspo"></a>
 ## 🟡 Waiting on a PO · 11 · \$13,814
@@ -41,7 +40,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/10 | [M.L.](../case-sheets/ml-1110.md) | Alexian WCC · Joshi | Grafix 16mm | — | 0003052747 | \$360 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 12 · \$14,446
+## 🔵 Submitted, not in SFDC yet · 16 · \$18,188
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
@@ -59,15 +58,10 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 11/5 | [D.K.](../case-sheets/dk-1105.md) | Alexian WCC · Halihan | Grafix 16mm | …286996 | \$360 |
 | 11/7 | — | Alexian Main OR · Lucas | Stravix 3x6 | …287130 | \$2,469 |
 | 11/9 | — | NW Suburban F&A | OASIS Ultra 3x3.5 · 1 box of 5 | Oasis11/9 | \$771.75 |
-
-<a name="look"></a>
-## 🔴 Needs a look · 3
-
-| Date | Pt | Account | Graft | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 3x3 | Status unclear, open to check |
-| 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 1.5x2 | Status unclear, open to check |
-| 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 2x3 | Status unclear, open to check |
+| 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 3x3 | 712063519 | \$1,115.50 |
+| 11/10 | — | St. Joseph Elgin · Veronica Pappas | OASIS Wound 3x3.5 · 1 box of 10 | 712063518 | \$1,126.50 |
+| 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 1.5x2 | 712063518 | \$600 |
+| 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 2x3 | 712063518 | \$900 |
 
 <a name="sheets"></a>
 ## ⏳ Case sheets to come · 2
