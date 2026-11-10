@@ -2,13 +2,13 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 120 patients · updated Mon 11/9, 8:09 PM CT
+**BIOT Chicago West** · 120 patients · updated Tue 11/10, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;12](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;120](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;120](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 37](../patients/grafting.md) · **Potential New Start 1** · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 35](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
@@ -20,6 +20,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **D.R.** | GRAFIX · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;5:00&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 0 | PA APPROVED 11/3/26-2/15/27 (BCBS Illinois, PreD #U26306AULB, Q4133 x144 units). First graft Wed 11/11 5:00 PM at Hoffman Estates with Dr. Goldkind. DFU right heel/midfoot, wound 3.3 x 2.7 x 0.2 cm. New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS.<br>_11/9:_ PA approved (Chatter case 06570376, posted \~11/4): GRAFIX PRIME/PL Q4133 x144 units, CPT 15275 x12 and 15276 x36, PreD #U26306AULB, BCBS Illinois, approved 11/3/26-2/15/27. Dr. Goldkind, NWSFA. DFU right heel/midfoot (E11.621, L97.412), wo… |
+| **D.R.** | GRAFIX · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;5:00&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 – | PA APPROVED 11/3/26-2/15/27 (BCBS Illinois, PreD #U26306AULB, Q4133 x144 units). First graft Wed 11/11 5:00 PM at Hoffman Estates with Dr. Goldkind. DFU right heel/midfoot, wound 3.3 x 2.7 x 0.2 cm. New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS.<br>_11/9:_ PA approved (Chatter case 06570376, posted \~11/4): GRAFIX PRIME/PL Q4133 x144 units, CPT 15275 x12 and 15276 x36, PreD #U26306AULB, BCBS Illinois, approved 11/3/26-2/15/27. Dr. Goldkind, NWSFA. DFU right heel/midfoot (E11.621, L97.412), wound 3.3 x 2.7 x 0.2 cm. First graft Wed 11/11 5:00 PM Hoffman Estates (Pete covering). Graft size not set yet. |
 
 </details>
