@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 123 patients · updated Wed 11/11, 4:05 PM CT
+**BIOT Chicago West** · 123 patients · updated Wed 11/11, 4:28 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -103,7 +103,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **H.P.**<br>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Ramani<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;1:30&nbsp;PM** | 🟢 2 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:30 PM (held 11/5, possible infection)<br>A1 Thu 10/22 1:30 PM: OASIS Wound 3x3.5, lot LB1751182 (case sheet filed to the tracker 10/22, October row 76). Billed as the whole box of 10; PO to come. 9 sheets left in the box for this patient. Weekly; next Thu 10/29 1:30 PM. |
-| **M.C.**<br>Grafting | OASIS&nbsp;Wound&nbsp;(2x)&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;9:45&nbsp;AM · Pete&nbsp;covering** | 🟡 11 | Weekly OASIS Wound patient (A11 Fri 10/30: two OASIS Wound 3x3.5, the 3x7 wasn't delivered in time). OR case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas in place of his OASIS visit: Stravix PL 2x4 LYU-251827\_24004 + Stravix PL 3x6 LYU-251697\_36005 from the Alexian Ambulatory shelf + VERSAJET Exact assembly 45°, 14 mm; filed to the tracker 11/6 (November row 30), bill-only PO to come (FIN 3004469). One record for both (AJ 11/6). Next: Stravix follow up Fri 11/13 9:45 AM at Alexian Ambulatory (AJ 11/6).<br>_11/6:_ Merged the OR case entry (Stravix + VERSAJET 11/6) into this record (AJ 11/6: same patient). |
+| **M.C.**<br>Grafting | OASIS&nbsp;Wound&nbsp;(2x)&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;9:45&nbsp;AM · Pete&nbsp;covering** | 🟡 11 | Weekly OASIS Wound patient (A11 Fri 10/30: two OASIS Wound 3x3.5, the 3x7 wasn't delivered in time). OR case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas in place of his OASIS visit: Stravix PL 2x4 LYU-251827\_24004 + Stravix PL 3x6 LYU-251697\_36005 from the Alexian Ambulatory shelf + VERSAJET Exact assembly 45°, 14 mm; filed to the tracker 11/6 (November row 30), bill-only PO to come (FIN 3004469). One record for both (AJ 11/6). Next: Stravix follow up Fri 11/13 9:45 AM at Alexian Ambulatory (AJ 11/6).<br>_11/11:_ AJ 11/11: VERSAJET handpiece taken off the 11/6 Stravix case sheet/PO; it goes on its own case sheet. The 11/6 case is Stravix 2x4 + 3x6 only. |
 | **K.B.**<br>OR | STRAVIX&nbsp;3x6&nbsp;+&nbsp;GRAFIX&nbsp;5x5&nbsp;(x3) · Dr.&nbsp;Singh<br>**OR&nbsp;Wed&nbsp;10/21 · 3&nbsp;wks&nbsp;post-op** |   | OR case Wed 10/21 at Alexian Ambulatory (Dr. Singh): STRAVIX 3x6 (LYU-251697\_36002) + 3 x GRAFIX 5x5 (LYA-250895\_55007, \_55008, \_55009), from Alexian Ambulatory's own consignment. Case sheet photo 10/21 filed to the tracker 10/21; PO (bill only) to come. |
 
 </details>
