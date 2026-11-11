@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 3:58 PM CT
+**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 4:05 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -369,16 +369,16 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 
 ## GlenOaks OR
 
-**Consigned, Bill Only** · counted 11/6/26 · 14 grafts
+**Consigned, Bill Only** · counted 11/11/26 · 19 grafts
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **5** | — |   |
 | **7.5x15**<br>Grafix | **2** | — |   |
 | **2x4**<br>Stravix | **7** | — |   |
-| **3x6**<br>Stravix | **0** | — |   |
+| **3x6**<br>Stravix | **5** | — |   |
 
-<details><summary><b>Units on the shelf</b> · 14</summary>
+<details><summary><b>Units on the shelf</b> · 19</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -396,6 +396,11 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
+| Stravix | 3x6 | TBD | — |   | On shelf |   |
+| Stravix | 3x6 | TBD | — |   | On shelf |   |
+| Stravix | 3x6 | TBD | — |   | On shelf |   |
+| Stravix | 3x6 | TBD | — |   | On shelf |   |
+| Stravix | 3x6 | TBD | — |   | On shelf |   |
 
 </details>
 
@@ -413,7 +418,7 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 
 <details><summary><b>About this shelf</b></summary>
 
-Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit used is billed on a Bill Only PO, so it counts as a sale when used (no projection offset). Count from AJ 10/8 (after F.M.'s 10/7 case): 7 Stravix 2x4, 5 Stravix 3x6. Lot/SN to be added from a shelf photo. 11/6: 5 x Grafix 5x5 and 2 x Grafix PL XC 7.5x15 cm (new product, OR use only) consigned here, shipped on the 11/6 morning shipping report and delivered 11/6 (AJ); lot/SN TBD. 11/11: R.N.'s case (Dr. McKanna) used all 5 Stravix 3x6 (lot/SN from the implant record), so no 3x6 left on the shelf; the Thu 11/12 case went to Axofill (AJ, Chi West).
+Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit used is billed on a Bill Only PO, so it counts as a sale when used (no projection offset). Count from AJ 10/8 (after F.M.'s 10/7 case): 7 Stravix 2x4, 5 Stravix 3x6. Lot/SN to be added from a shelf photo. 11/6: 5 x Grafix 5x5 and 2 x Grafix PL XC 7.5x15 cm (new product, OR use only) consigned here, shipped on the 11/6 morning shipping report and delivered 11/6 (AJ); lot/SN TBD. 11/11: R.N.'s case (Dr. McKanna) used all 5 Stravix 3x6 (lot/SN from the implant record), so no 3x6 left on the shelf; the Thu 11/12 case went to Axofill (AJ, Chi West). 11/11: AJ shipped 5 more Stravix 3x6 to the GlenOaks OR, delivered 11/11 (on the shelf, lot/SN TBD).
 
 </details>
 
