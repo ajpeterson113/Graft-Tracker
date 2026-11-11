@@ -2,7 +2,7 @@
 
 # OR
 
-**BIOT Chicago West** · 123 patients · updated Wed 11/11, 3:57 PM CT
+**BIOT Chicago West** · 123 patients · updated Wed 11/11, 3:58 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -106,7 +106,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.N.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;11/11 · OR&nbsp;today** |   | New OR case Wed 11/11 1:00 PM at GlenOaks (Dr. McKanna, debridement), from Yvette's text (GlenOaks surgery) to AJ 11/10: about 105 sq cm of venous wounds, prefers STRAVIX. AJ confirmed there is enough on the shelf and he will be there. Projected (AJ 11/10): 6 Stravix 3x6 upside, 4 Stravix 3x6 downside. Patient initials to come; size used comes from the implant record. Second case Thu 11/12 7:30 AM (separate record). |
+| **R.N.** | STRAVIX&nbsp;3x6&nbsp;(x5) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;11/11 · OR&nbsp;today** |   | Used 5 Stravix 3x6 New OR case Wed 11/11 1:00 PM at GlenOaks (Dr. McKanna, debridement), from Yvette's text (GlenOaks surgery) to AJ 11/10: about 105 sq cm of venous wounds, prefers STRAVIX. AJ confirmed there is enough on the shelf and he will be there. Projected (AJ 11/10): 6 Stravix 3x6 upside, 4 Stravix 3x6 downside. Patient initials to come; size used comes from the implant record. Second case Thu 11/12 7:30 AM (separate record). |
 | **F.M.** | STRAVIX&nbsp;3x6&nbsp;(x3) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;10/7 · 5&nbsp;wks&nbsp;post-op** |   | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611\_36004, \_36005; LYU-251530\_36001). PO-1000931284 received 10/9; ready to submit |
 | **S.A.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Fri&nbsp;9/18 · 7&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
 | **Upcoming · Dr. Reed** | Stravix · Dr.&nbsp;Reed |   | Spoke to Dr. Reed 10/5 and he mentioned possible Stravix this week or next on calcaneus. |
