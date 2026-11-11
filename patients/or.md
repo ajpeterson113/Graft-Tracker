@@ -2,16 +2,16 @@
 
 # OR
 
-**BIOT Chicago West** · 123 patients · updated Wed 11/11, 12:55 PM CT
+**BIOT Chicago West** · 123 patients · updated Wed 11/11, 3:57 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;35](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · **OR 38** · [Done 24](../patients/done.md) · [Denied 5](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · **OR 37** · [Done 24](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -102,12 +102,11 @@
 </details>
 
 <a name="glenoaks"></a>
-<details open><summary><b>GlenOaks</b> · 5</summary>
+<details open><summary><b>GlenOaks</b> · 4</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;11/11 · OR&nbsp;today** |   | New OR case Wed 11/11 1:00 PM at GlenOaks (Dr. McKanna, debridement), from Yvette's text (GlenOaks surgery) to AJ 11/10: about 105 sq cm of venous wounds, prefers STRAVIX. AJ confirmed there is enough on the shelf and he will be there. Projected (AJ 11/10): 6 Stravix 3x6 upside, 4 Stravix 3x6 downside. Patient initials to come; size used comes from the implant record. Second case Thu 11/12 7:30 AM (separate record). |
-| **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna<br>**OR&nbsp;Thu&nbsp;11/12 · OR&nbsp;tomorrow** |   | New OR case Thu 11/12 7:30 AM at GlenOaks (Dr. McKanna), from Yvette's text (GlenOaks surgery) to AJ 11/10: STRAVIX for his debridement, the second case after Wed 11/11 1:00 PM. AJ replied he'll make sure there is enough on the shelf for Thursday and will be there. Patient initials and sizes to come. Not in projections until a size is given. |
+| **R.N.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;11/11 · OR&nbsp;today** |   | New OR case Wed 11/11 1:00 PM at GlenOaks (Dr. McKanna, debridement), from Yvette's text (GlenOaks surgery) to AJ 11/10: about 105 sq cm of venous wounds, prefers STRAVIX. AJ confirmed there is enough on the shelf and he will be there. Projected (AJ 11/10): 6 Stravix 3x6 upside, 4 Stravix 3x6 downside. Patient initials to come; size used comes from the implant record. Second case Thu 11/12 7:30 AM (separate record). |
 | **F.M.** | STRAVIX&nbsp;3x6&nbsp;(x3) · Dr.&nbsp;McKanna<br>**OR&nbsp;Wed&nbsp;10/7 · 5&nbsp;wks&nbsp;post-op** |   | OR case 10/7 at GlenOaks (Bill Only). 3 x STRAVIX 3x6 (LYU-250611\_36004, \_36005; LYU-251530\_36001). PO-1000931284 received 10/9; ready to submit |
 | **S.A.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;McKanna<br>**OR&nbsp;Fri&nbsp;9/18 · 7&nbsp;wks&nbsp;5&nbsp;d&nbsp;post-op** |   |   |
 | **Upcoming · Dr. Reed** | Stravix · Dr.&nbsp;Reed |   | Spoke to Dr. Reed 10/5 and he mentioned possible Stravix this week or next on calcaneus. |

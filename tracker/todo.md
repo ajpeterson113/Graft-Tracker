@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 12:55 PM CT
+**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 3:57 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -23,7 +23,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/9 | [C.B.](../case-sheets/cb-1109.md) | Alexian WCC · Goldkind | Grafix 2x3 | 660040000287282 | \$925.35 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 11 · \$13,814
+## 🟡 Waiting on a PO · 13 · \$27,014
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -38,6 +38,8 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/10 | [D.G.](../case-sheets/dg-1110.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 1 day | 0002861662 | \$360 |
 | 11/10 | [O.O.](../case-sheets/oo-1110.md) | Alexian WCC · Vedantham | Grafix 16mm | 🟠 1 day | 0003052679 | \$360 |
 | 11/10 | [M.L.](../case-sheets/ml-1110.md) | Alexian WCC · Joshi | Grafix 16mm | 🟠 1 day | 0003052747 | \$360 |
+| 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | — |   | \$12,345 |
+| 11/11 | [S.G.](../case-sheets/sg-1111.md) | Romano Lombard · Rojas | Grafix 3x3 | — |   | \$855 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 16 · \$18,188
@@ -83,6 +85,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 33
+## 👥 Patients · 35
 
-13 to verify · 17 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)
+13 to verify · 19 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)

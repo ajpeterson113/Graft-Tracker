@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 12:55 PM CT
+**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 3:57 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -16,9 +16,9 @@
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 11/3/26 · 45 grafts · 31 OASIS sheets
+**Consignment shelf** · counted 11/3/26 · 44 grafts · 31 OASIS sheets
 
-45 Grafix units on hand (\$50,726 consignment). 0 size(s) to reorder now. \$1,140 expiring before it can be used.
+44 Grafix units on hand (\$49,611 consignment). 0 size(s) to reorder now. \$1,140 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 1 expire 12/18/26** · 1 patient(s) on it · \$6,840 of consignment
@@ -28,7 +28,7 @@
 | **16mm**<br>Grafix | **6**<br>target&nbsp;5⁠–⁠15 | 🟢 OK | 6/wk · 1.0 wks left · out week of 11/16 · next exp 3/20/28 |
 | **1.5x2**<br>Grafix | **9**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 1/wk · 9.0 wks left · out week of 1/11 · next exp 8/12/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.5 wks left · out week of 11/30 · next exp 6/18/27 |
-| **3x3**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
+| **3x3**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
 | **3x4**<br>Grafix | **6**<br>target&nbsp;5⁠–⁠10 | 🔴 1 expire before use | 1/wk · 6.0 wks left · out week of 12/21 · next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
 | **5x5**<br>Grafix | **9**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 11/3/27 |
 | **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | 🟢 OK | 1/wk · 7.0 wks left · box of 10 · out week of 12/28 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
@@ -37,7 +37,7 @@
 | **3x7**<br>OASIS&nbsp;Burn | **5** sheets | 🟢 OK | 1/wk · 5.0 wks left · box of 5 · out week of 12/14 · next exp 8/18/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
-<details><summary><b>Units on the shelf</b> · 45</summary>
+<details><summary><b>Units on the shelf</b> · 44</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -63,7 +63,6 @@
 | Grafix | 2x3 | LYA-250866\_23007 | 11/3/27 | 11/28 | On shelf |   |
 | Grafix | 2x3 | LYA-250866\_23008 | 11/3/27 | 12/2 | On shelf |   |
 | Grafix | 2x3 | LYA-250866\_23002 | 11/3/27 | 12/5 | On shelf |   |
-| Grafix | 3x3 | LYA-250533\_33005 | 5/2/27 |   | On shelf |   |
 | Grafix | 3x3 | LYA-250533\_33004 | 5/2/27 |   | On shelf |   |
 | Grafix | 3x3 | LYA-250742\_33003 | 8/12/27 |   | On shelf |   |
 | Grafix | 3x3 | LYA-260073\_33009 | 11/25/27 |   | On shelf |   |
@@ -121,7 +120,7 @@
 | **G.C.** | Joshi | Grafix | Pending | — | New 10/22 (pending); product and size not set, no visit booked. (Row was X.S., denied 10/11) |
 | **J.T.** | Lucas | Grafix | Done | — | Done per the Patients app (needed notes for prior auth; not grafting) |
 | **D.S.** | Lucas | OASIS Wound 3x3.5 | Done | — | Done (AJ, Chi West 11/6: not grafted Fri 11/6, status Done). A8 10/9 was the last application |
-| **D.V.** | Hussain | OASIS Wound 3x7 | Active | 4 | A2 10/14: 4 sheets (A1 10/7: 3). 4 a visit, weekly |
+| **D.V.** | Hussain | OASIS Wound 3x7 | Active | 4 | A6 Wed 11/11 1:45 PM: 4 sheets OASIS Wound 3x7 from the WCC shelf (Grafted in Chi West; no PO, box lot not given). A2 10/14: 4 sheets (A1 10/7: 3). 4 a visit, weekly |
 | **J.B.** | Adelstein | OASIS Burn 3x7 | Done | — | Done for now (AJ 11/2). A3 10/8 from the shelf (Burn 3x7); no-show Thu 10/15 (Caroline covered); not grafted 10/22 or 10/29 |
 | **B.P.** | Joshi | OASIS Burn 3x7 | Active | 1 | A6 Mon 11/9 (Grafted in Chi West; Burn 3x7 from the shelf box, no PO). Moved down to Burn 3x7 at A3 10/19 (never back up); A1 10/5 and A2 10/12 were Burn 5x7 meshed from the shelf. The only Burn 3x7 patient now (J.B. done for now 11/2) |
 | **J.B.** | Adelstein | Grafix 2x3 | Active | 1 | A2 Thu 11/5 8:00 AM, 2x3 LYA-250516\_23004 (case sheet in Chi West 11/5). Started: A1 Thu 10/29 8:00 AM, 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the Patients app; PO 660040000286395). Weekly. Not the OASIS Burn J.B. |
@@ -147,7 +146,7 @@
 
 </details>
 
-<details><summary><b>Used since the count</b> · 43</summary>
+<details><summary><b>Used since the count</b> · 44</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
@@ -164,6 +163,7 @@
 | LYA-250516\_23004 | Grafix 2x3 | Used Nov |
 | LYA-250558\_23005 | Grafix 2x3 | Used Nov |
 | LYA-250742\_33004 | Grafix 3x3 | Used Nov |
+| LYA-250533\_33005 | Grafix 3x3 | Used Nov |
 | LYA-250533\_33002 | Grafix 3x3 | Transferred out |
 | LYA-250008\_34004 | Grafix 3x4 | Used Nov |
 | LYA-250008\_34006 | Grafix 3x4 | Used Oct |
@@ -369,16 +369,16 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 
 ## GlenOaks OR
 
-**Consigned, Bill Only** · counted 11/6/26 · 19 grafts
+**Consigned, Bill Only** · counted 11/6/26 · 14 grafts
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **5** | — |   |
 | **7.5x15**<br>Grafix | **2** | — |   |
 | **2x4**<br>Stravix | **7** | — |   |
-| **3x6**<br>Stravix | **5** | — |   |
+| **3x6**<br>Stravix | **0** | — |   |
 
-<details><summary><b>Units on the shelf</b> · 19</summary>
+<details><summary><b>Units on the shelf</b> · 14</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -396,17 +396,24 @@ Consigned on the OR shelf at Advocate Good Samaritan. Each unit used in a case i
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
 | Stravix | 2x4 | TBD | — |   | On shelf |   |
-| Stravix | 3x6 | TBD | — |   | On shelf |   |
-| Stravix | 3x6 | TBD | — |   | On shelf |   |
-| Stravix | 3x6 | TBD | — |   | On shelf |   |
-| Stravix | 3x6 | TBD | — |   | On shelf |   |
-| Stravix | 3x6 | TBD | — |   | On shelf |   |
+
+</details>
+
+<details><summary><b>Used since the count</b> · 5</summary>
+
+| Lot / SN | Graft | Status |
+| :-- | :-- | :-- |
+| LYU-260665\_36001 | Stravix 3x6 | Used 11/11 (R.N., Dr. McKanna) |
+| LYU-260695\_36001 | Stravix 3x6 | Used 11/11 (R.N., Dr. McKanna) |
+| LYU-260664\_36001 | Stravix 3x6 | Used 11/11 (R.N., Dr. McKanna) |
+| LYU-260665\_36002 | Stravix 3x6 | Used 11/11 (R.N., Dr. McKanna) |
+| LYU-260664\_36002 | Stravix 3x6 | Used 11/11 (R.N., Dr. McKanna) |
 
 </details>
 
 <details><summary><b>About this shelf</b></summary>
 
-Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit used is billed on a Bill Only PO, so it counts as a sale when used (no projection offset). Count from AJ 10/8 (after F.M.'s 10/7 case): 7 Stravix 2x4, 5 Stravix 3x6. Lot/SN to be added from a shelf photo. 11/6: 5 x Grafix 5x5 and 2 x Grafix PL XC 7.5x15 cm (new product, OR use only) consigned here, shipped on the 11/6 morning shipping report and delivered 11/6 (AJ); lot/SN TBD.
+Consigned on the OR shelf at UChicago Medicine AdventHealth GlenOaks. Each unit used is billed on a Bill Only PO, so it counts as a sale when used (no projection offset). Count from AJ 10/8 (after F.M.'s 10/7 case): 7 Stravix 2x4, 5 Stravix 3x6. Lot/SN to be added from a shelf photo. 11/6: 5 x Grafix 5x5 and 2 x Grafix PL XC 7.5x15 cm (new product, OR use only) consigned here, shipped on the 11/6 morning shipping report and delivered 11/6 (AJ); lot/SN TBD. 11/11: R.N.'s case (Dr. McKanna) used all 5 Stravix 3x6 (lot/SN from the implant record), so no 3x6 left on the shelf; the Thu 11/12 case went to Axofill (AJ, Chi West).
 
 </details>
 
