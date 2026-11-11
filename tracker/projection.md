@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 6 of 19 · updated Tue 11/10, 4:29 PM CT
+**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -264,7 +264,7 @@ Sold so far: **\$1,235** · 3 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **S.G. · Dr. Rojas** | 3x3 · Weekly · 3 visits · from 11/11 | \$2,565 | \$2,565 | P11: A1 Wed 11/4 (3x3 LYA-250742\_33004, PO SG110426) is in November sales; weekly 3x3 Wednesdays from 11/11 per the Patients app (next visit Wed 11/11 11:40). |
+| **S.G. · Dr. Rojas** | 3x3 · Weekly · 3 visits | \$2,565 | \$2,565 | P11: A1 Wed 11/4 (3x3 LYA-250742\_33004, PO SG110426) is in November sales; weekly 3x3 Wednesdays from 11/11 per the Patients app (next visit Wed 11/11 11:40). |
 | **M.W. · Dr. Rojas** | Healed Wed 10/21 (not grafted, per the Patients app), so nothing projected (upside or downside). | — | — |   |
 
 </details>

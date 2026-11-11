@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 123 patients · updated Tue 11/10, 4:29 PM CT
+**BIOT Chicago West** · 123 patients · updated Wed 11/11, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -18,7 +18,7 @@
 
 **This week · Nov 9–13** · 🟠 to verify · 🔴 no follow-up booked
 
-| [Mon 9](#mon) | [Tue 10 · today](#tue) | [Wed 11](#wed) | [Thu 12](#thu) | [Fri 13](#fri) |
+| [Mon 9](#mon) | [Tue 10](#tue) | [Wed 11 · today](#wed) | [Thu 12](#thu) | [Fri 13](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
 | **8** | **9** | **9** 🟠 | **11** 🟠 🔴 | **6** 🟠 |
 
@@ -41,7 +41,7 @@
 
 
 <a name="tue"></a>
-### Tuesday, Nov 10 · Today
+### Tuesday, Nov 10
 
 9 visits · 9 logged
 
@@ -59,7 +59,7 @@
 
 
 <a name="wed"></a>
-### Wednesday, Nov 11
+### Wednesday, Nov 11 · Today
 
 9 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Ultra 7x10 ×2 · OASIS Wound 3x3.5 ×2 · GRAFIX · GRAFIX 3x3 · Oasis Burn · STRAVIX · STRAVIX 3x6 · **Covering:** Pete 4
 
@@ -67,7 +67,7 @@
 | :-- | :-- | :-- | :-- | :-- |
 | **9:15&nbsp;AM** | **E.N.** | **A2** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe |   |
 | **10:45&nbsp;AM** | **L.J.** | **A4** · OASIS Ultra 7x10 (x2) | Good&nbsp;Sam<br>Dr.&nbsp;Bach |   |
-| **11:40&nbsp;AM** | **P.C.** | **OR** · STRAVIX 3x6 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;McGann | 2&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op |
+| **11:40&nbsp;AM** | **P.C.** | **OR** · STRAVIX 3x6 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;McGann | 2&nbsp;wks&nbsp;2&nbsp;d&nbsp;post-op |
 | **11:40&nbsp;AM** | **S.G.** | **A2** · GRAFIX 3x3 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas |   |
 | **1:00&nbsp;PM** | **Upcoming · Dr. McKanna** | **OR** · STRAVIX | GlenOaks<br>Dr.&nbsp;McKanna |   |
 | **1:45&nbsp;PM** | **D.V.** | **A6** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain · MA&nbsp;Denise | 👤&nbsp;Pete&nbsp;covering |
