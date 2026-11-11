@@ -2,7 +2,7 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 123 patients · updated Wed 11/11, 4:28 PM CT
+**BIOT Chicago West** · 123 patients · updated Wed 11/11, 4:36 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
