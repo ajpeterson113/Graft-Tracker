@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 6:59 AM CT
+**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 10:52 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;17](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -129,7 +129,7 @@
 | **D.S.** | Joshi | Grafix 3x4 | Active | 1 | A4 Tue 11/10 9:15 AM, 3x4 LYA-250008\_34004 (size changed to 3x4 by AJ in Chi West 11/10). A2 Tue 10/27 LYA-250866\_55013. A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 |
 | **C.P.** | Joshi | Grafix 1.5x2 | Active | 1 | A3 Mon 11/9 1:15 PM, 1.5x2 LYA-250668\_15009 from the WCC shelf (AJ's case sheet photo in Chi West 11/9). A2 Mon 11/2 1:15 PM, 1.5x2 LYA-260068\_15005 from the WCC shelf (case sheet in the app 11/2). A1 Mon 10/26 LYA-260068\_15002. Weekly |
 | **D.L.** | Joshi | OASIS Burn | Approved | — | Approved 10/20; not grafted Tue 10/20 (out-of-pocket too high, office checking); next Tue 10/27 10:15 AM (verify with the office). OASIS suggested |
-| **E.N.** | Turayhi | OASIS Wound 3x3.5 | Active | 1 | A1 Wed 11/4 9:15 AM: OASIS Wound 3x3.5 (Patients app). Weekly; next Wed 11/11 9:15 AM |
+| **E.N.** | Turayhi | OASIS Wound 3x3.5 | Active | 1 | A2 Wed 11/11 9:15 AM: OASIS Wound 3x3.5 lot LB1741499 (sticker in Chi West 11/11). Started: A1 Wed 11/4 9:15 AM (Patients app). Weekly; next Wed 11/18 9:15 AM (assumed weekly) |
 | **V.T.** | Halihan | Grafix | Pending | — | New 10/19 (pending); no visit booked |
 | **G.M.** | Goldkind | OASIS Wound 3x3.5 | Approved | — | PA approved 10/27/26–2/15/27 (BCBS Illinois): OASIS Wound 3x3.5, one a visit, weekly once booked; no visit booked yet. (New 10/20) |
 | **G.H.** | Lucas | Grafix 16mm | Active | 1 | A1 Fri 11/6 12:40 PM, 16mm LYA-260256\_16008 from the WCC shelf (case sheet in Chi West 11/6). Weekly 16mm |
