@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 125 patients · updated Thu 11/12, 12:29 PM CT
+**BIOT Chicago West** · 125 patients · updated Thu 11/12, 1:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
