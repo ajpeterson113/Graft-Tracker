@@ -2,7 +2,7 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 125 patients · updated Thu 11/12, 2:48 PM CT
+**BIOT Chicago West** · 125 patients · updated Thu 11/12, 3:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -42,8 +42,8 @@
 | **W.K.** | Good Sam · Ayesh | GRAFIX 16mm | Last appt 11/5 passed, nothing new booked · usually Thu |
 | **L.J.** | Good Sam · Bach | OASIS Ultra 7x10 (x2) | Last appt 11/11 passed, nothing new booked · usually Wed |
 | **D.F.** | Good Sam · Luetkehans | GRAFIX 5x5 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM · usually Thu |
-| **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:45 PM · usually Thu |
-| **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:00 PM, back from vacation · usually Thu |
+| **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/19 2:45 PM · usually Thu |
+| **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/19 2:00 PM · usually Thu |
 | **P.P.** | Good Sam · Patni | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Tue 11/17 9:00 AM · usually Tue |
 | **D.V.** | Alexian WCC · Hussain | OASIS Wound 3x7 (4 sheets) | Verify: Assumed weekly (AJ 11/6): Wed 11/18 1:45 PM · usually Wed |
 | **E.N.** | Alexian WCC · Turayhi | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/6): Wed 9:15 AM · usually Wed |

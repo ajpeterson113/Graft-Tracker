@@ -2,7 +2,7 @@
 
 # Grafting
 
-**BIOT Chicago West** · 125 patients · updated Thu 11/12, 2:48 PM CT
+**BIOT Chicago West** · 125 patients · updated Thu 11/12, 3:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,9 +20,9 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.J.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;(2)&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;2:00&nbsp;PM · Caroline&nbsp;covering** | 🟢 6 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:00 PM, back from vacation<br>Next assumed Thu 11/5 2:00 PM (same time as the Thu 10/22 visit; on this week's schedule per AJ 11/1) — verify with the office. The assumed Thu 10/29 visit wasn't logged. A4 Thu 10/22: (2) 16mm from the Good Sam shelf (down from 3 a visit); shelf now 3 x 16mm. A3 10/8: (3) 16mm. Weekly. PA required. |
-| **L.D.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;1.5x2 · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;2:45&nbsp;PM · Caroline&nbsp;covering** | 🔴 27 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:45 PM<br>Done 10/8 after A23 (1.5x2): no more grafting recommended. |
 | **P.P.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;11/17&nbsp;9:00&nbsp;AM** | 🟢 2 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 11/17 9:00 AM |
+| **P.J.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;(2)&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;2:00&nbsp;PM** | 🟢 7 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/19 2:00 PM<br>Next assumed Thu 11/5 2:00 PM (same time as the Thu 10/22 visit; on this week's schedule per AJ 11/1) — verify with the office. The assumed Thu 10/29 visit wasn't logged. A4 Thu 10/22: (2) 16mm from the Good Sam shelf (down from 3 a visit); shelf now 3 x 16mm. A3 10/8: (3) 16mm. Weekly. PA required. |
+| **L.D.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;1.5x2 · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;2:45&nbsp;PM** | 🔴 28 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/19 2:45 PM<br>Done 10/8 after A23 (1.5x2): no more grafting recommended. |
 | **W.K.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;8:30&nbsp;AM** | 🟢 7 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 9:45 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). |
 | **K.P.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5&nbsp;+&nbsp;3x4 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:15&nbsp;AM** | 🟢 8 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 9:15 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). |
 | **C.B.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;1.5x2 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:00&nbsp;AM** | 🟢 4 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 10:45 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). A4 Thu 10/15: GRAFIX 2x3 (AJ confirmed 10/11; the calendar entry said 3x4)<br>_11/5:_ A4 Thu 11/5 got a 3x4 from the Good Sam shelf (LYA-250625\_34014). Dr. Ayesh wants a 1.5x2 from the next visit (Thu 11/19); size set to 1.5x2 (AJ 11/5). |
