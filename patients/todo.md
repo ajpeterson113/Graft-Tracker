@@ -2,7 +2,7 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 125 patients · updated Thu 11/12, 4:18 PM CT
+**BIOT Chicago West** · 125 patients · updated Thu 11/12, 4:22 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -50,7 +50,7 @@
 | **C.C.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/9 passed, nothing new booked · usually Mon |
 | **G.K.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Verify: Assumed weekly (AJ 11/6): Mon 11/16 10:45 AM · usually Mon |
 | **P.M.** | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | Last appt 11/9 passed, nothing new booked · usually Mon |
-| **D.R.** | NW Suburban F&A · Goldkind | GRAFIX 3x4 | Verify: Assumed weekly (AJ 11/6): Wed 5:00 PM · usually Wed |
+| **D.R.** | NW Suburban F&A · Goldkind | GRAFIX 3x3 | Verify: Assumed weekly (AJ 11/6): Wed 5:00 PM · usually Wed |
 | **E.P.** | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | Last appt 11/11 passed, nothing new booked · usually Wed |
 | **M.A.** | NW Suburban F&A · Goldkind | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/19 9:45 AM · usually Thu |
 | **R.E.** | NW Suburban F&A · Hussain | OASIS Ultra 3x3.5 | Last appt 11/9 passed, nothing new booked · usually Mon |

@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 125 patients · updated Thu 11/12, 4:18 PM CT
+**BIOT Chicago West** · 125 patients · updated Thu 11/12, 4:22 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -187,7 +187,7 @@
 <a name="next-wed"></a>
 ### Wednesday, Nov 18
 
-6 visits · **Grafts:** OASIS Wound 3x7 ×4 · STRAVIX ×2 · GRAFIX 3x3 · GRAFIX 3x4 · OASIS Wound 3x3.5
+6 visits · **Grafts:** OASIS Wound 3x7 ×4 · GRAFIX 3x3 ×2 · STRAVIX ×2 · OASIS Wound 3x3.5
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
@@ -196,7 +196,7 @@
 | **10:30&nbsp;AM** | **Upcoming · Dr. Adam Bryniczka** | **OR** · STRAVIX | St.&nbsp;Alexius<br>Dr.&nbsp;Adam&nbsp;Bryniczka |   |
 | **11:40&nbsp;AM** | **S.G.** | **A3** · GRAFIX 3x3 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas |   |
 | **1:45&nbsp;PM** | **D.V.** | **A7** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain · MA&nbsp;Denise |   |
-| **5:00&nbsp;PM** | **D.R.** | **A2** · GRAFIX 3x4 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind |   |
+| **5:00&nbsp;PM** | **D.R.** | **A2** · GRAFIX 3x3 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind |   |
 
 
 🔴 **No follow-up · usually seen Wednesdays** · 2
