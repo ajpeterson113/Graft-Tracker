@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 123 patients · updated Wed 11/11, 7:53 PM CT
+**BIOT Chicago West** · 123 patients · updated Thu 11/12, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 37](../patients/or.md) · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -35,13 +35,14 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 20
+## 🔴 No Follow-Up · 22
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
 | **C.B.** | Good Sam · Ayesh | GRAFIX 1.5x2 | Last appt 11/5 passed, nothing new booked · usually Thu |
 | **K.P.** | Good Sam · Ayesh | GRAFIX 5x5 + 3x4 | Last appt 11/5 passed, nothing new booked · usually Thu |
 | **W.K.** | Good Sam · Ayesh | GRAFIX 16mm | Last appt 11/5 passed, nothing new booked · usually Thu |
+| **L.J.** | Good Sam · Bach | OASIS Ultra 7x10 (x2) | Last appt 11/11 passed, nothing new booked · usually Wed |
 | **D.F.** | Good Sam · Luetkehans | GRAFIX 5x5 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM · usually Thu |
 | **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:45 PM · usually Thu |
 | **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/12 2:00 PM, back from vacation · usually Thu |
@@ -53,6 +54,7 @@
 | **G.K.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Verify: Assumed weekly (AJ 11/6): Mon 11/16 10:45 AM · usually Mon |
 | **P.M.** | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | Last appt 11/9 passed, nothing new booked · usually Mon |
 | **D.R.** | NW Suburban F&A · Goldkind | GRAFIX 3x4 | Verify: Assumed weekly (AJ 11/6): Wed 5:00 PM · usually Wed |
+| **E.P.** | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | Last appt 11/11 passed, nothing new booked · usually Wed |
 | **R.E.** | NW Suburban F&A · Hussain | OASIS Ultra 3x3.5 | Last appt 11/9 passed, nothing new booked · usually Mon |
 | **D.N.** | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | Verify: Assumed weekly (AJ 11/8): Fri 1:00 PM · usually Fri |
 | **M.B.** | St. Joseph Elgin · Veronica Pappas | GRAFIX 2x3 | Verify: Assumed weekly (AJ 11/6): Tue 11/17 8:15 AM · usually Tue |
@@ -66,11 +68,11 @@
 
 | Patient | Clinic | IVR | Coverage / notes |
 | :-- | :-- | :-- | :-- |
-| **K.B.** | Good Sam · Ayesh | 🔴 Added 10/6 · 36 days ago · follow up | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
-| **R.S.** | Alexian WCC · Srivastava | 🔴 Added 11/2 · 9 days ago · follow up | New 11/2 |
-| **J.D.** | NW Suburban F&A | 🔴 Added 10/18 · 24 days ago · follow up | Pending predetermination · Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination… |
-| **J.D.** | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 63 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinic… |
-| **Z.G.** | Good Sam · Ayesh | Added 11/5 · 6 days ago | New patient added in Chi West 11/5: Dr. Ayesh, GRAFIX 16mm every 2 weeks, first visit Thu 11/19. |
+| **K.B.** | Good Sam · Ayesh | 🔴 Added 10/6 · 37 days ago · follow up | Denied for GRAFIX (Aetna); rerunning for OASIS · Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed … |
+| **R.S.** | Alexian WCC · Srivastava | 🔴 Added 11/2 · 10 days ago · follow up | New 11/2 |
+| **J.D.** | NW Suburban F&A | 🔴 Added 10/18 · 25 days ago · follow up | Pending predetermination · Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination… |
+| **J.D.** | St. Joseph Elgin · Bhagat | 🔴 IVR sent 9/9 · 64 days ago · follow up | Prior auth Grafix first, then Oasis if denied · Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinic… |
+| **Z.G.** | Good Sam · Ayesh | Added 11/5 · 7 days ago | New patient added in Chi West 11/5: Dr. Ayesh, GRAFIX 16mm every 2 weeks, first visit Thu 11/19. |
 
 <a name="hold"></a>
 

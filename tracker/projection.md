@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 7 of 19 · updated Wed 11/11, 7:53 PM CT
+**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -61,7 +61,7 @@ Sold so far: **\$12,202** · 16 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **J.B. · Dr. Adelstein** | 2x3 · Weekly · 3 visits · from 11/12 | \$2,776 | \$2,776 | P11: A2 Thu 11/5 (2x3 LYA-250516\_23004) is in November sales; weekly 2x3 Thursdays from 11/12 (A3); 2 applications to date \| P11: weekly 2x3 Thursdays from 11/5 (A2); 1 application to date \| New Grafix start (the second… |
+| **J.B. · Dr. Adelstein** | 2x3 · Weekly · 3 visits | \$2,776 | \$2,776 | P11: A2 Thu 11/5 (2x3 LYA-250516\_23004) is in November sales; weekly 2x3 Thursdays from 11/12 (A3); 2 applications to date \| P11: weekly 2x3 Thursdays from 11/5 (A2); 1 application to date \| New Grafix start (the second… |
 | **D.G. · Dr. Lucas** | 16mm · Weekly · 2 visits | \$720 | \$720 | P11: A4 Tue 11/10 16mm (November row 43); AJ: most likely last graft, almost healed; next assumed Tue 11/17 (weekly, not confirmed with the office) \| P11: next assumed Tue 11/3 (weekly), still not booked in the Patients… |
 | **J.L. · Dr. Lucas** | 16mm · Weekly · 3 visits → 16mm ×1 | \$1,080 | \$360 | P11: not grafted Tue 11/10 (insurance: rerunning for Grafix for the right wound); next assumed Tue 11/17 \| P11: weekly Tuesdays from 11/3; 5 applications to date, Alexian cap 8 = 3 left \| A5 Tue 10/27 filed (LYA-260221\_… |
 | **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | P11: A7 Tue 11/10 16mm (November row 46); next assumed Tue 11/17 (weekly, not confirmed with the office); Alexian cap 8 = 1 left \| P11: weekly Tuesdays from 11/3; 5 applications to date, Alexian cap 8 = 3 left \| A5 Tue … |
@@ -111,8 +111,8 @@ Sold so far: **\$5,401** · 2 cases
 | **K.P. · Dr. Ayesh** | P11: A8 Thu 11/5 (3x4 LYA-250625\_34020 with the 5x5); skipping the next application (Santyl, AJ 11/5) — earliest next visit Thu 12/3 (P12) \| P11: biweekly Thursdays 11/5… | — | — |   |
 | **C.B. · Dr. Ayesh** | 1.5x2 · Biweekly · 1 visit · from 11/19 | \$780 | \$780 | P11: A4 Thu 11/5 at 3x4 (LYA-250625\_34014 from the Good Sam shelf; AJ set the size to 3x4 on 11/5). |
 | **P.J. · Dr. Luetkehans** | 2× 16mm · Weekly · 3 visits → 16mm ×1 | \$2,553 | \$851 | P11: weekly from Thu 11/12 at 2 x 16mm, back from vacation (AJ 11/5: 10/29 was the last application, 6 in total). |
-| **D.F. · Dr. Luetkehans** | 5x5 · Weekly · 3 visits · from 11/12 → 3x4 | \$7,500 | \$3,632 | Back from hold: A6 Thu 11/5 1:00 PM, 5x5 from the Good Sam shelf (Grafted in Chi West 11/5); she was on hold only the week of 10/29 (AJ 10/29). |
-| **L.D. · Dr. Luetkehans** | 1.5x2 · Weekly · 3 visits · from 11/12 → 16mm | \$2,340 | \$1,277 | Weekly 1.5x2 at the Good Sam WCC (Dr. Luetkehans): A27 Thu 11/5 2:45 PM, 1.5x2 LYA-260165\_15003 from the shelf (Grafted in Chi West 11/5). |
+| **D.F. · Dr. Luetkehans** | 5x5 · Weekly · 3 visits → 3x4 | \$7,500 | \$3,632 | Back from hold: A6 Thu 11/5 1:00 PM, 5x5 from the Good Sam shelf (Grafted in Chi West 11/5); she was on hold only the week of 10/29 (AJ 10/29). |
+| **L.D. · Dr. Luetkehans** | 1.5x2 · Weekly · 3 visits → 16mm | \$2,340 | \$1,277 | Weekly 1.5x2 at the Good Sam WCC (Dr. Luetkehans): A27 Thu 11/5 2:45 PM, 1.5x2 LYA-260165\_15003 from the shelf (Grafted in Chi West 11/5). |
 
 **Less Good Sam WCC stock already sold**
 
