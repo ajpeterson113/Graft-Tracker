@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 4:33 PM CT
+**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 5:05 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -243,8 +243,8 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **5x5**<br>Grafix | **12**<br>target&nbsp;7 | — | next exp 6/18/27<br><sub>12 on the shelf (photo 11/12): 8 x LYA-260412\_55005-55012 (exp 5/20/28, the M.P. 10/29 replacements on PO 660080000213959) + 4 bill & replace units from receiv…</sub> |
-| **3x6**<br>Stravix | 🟠 **6**<br>target&nbsp;7 | — | next exp 6/16/27<br><sub>6 on the shelf (photo 11/12): LYU-251434\_36003 (exp 7/7/27, bill only per AJ 11/12), LYU-251323\_36002 (exp 6/16/27, bill & replace per AJ 11/12) + LYU-260766\_3…</sub> |
+| **5x5**<br>Grafix | **12**<br>target&nbsp;7 | — | next exp 6/18/27<br><sub>12 on the shelf (photo 11/12): 8 x LYA-260412\_55005-55012 (exp 5/20/28, the M.P. 10/29 replacements on PO 660080000213959) + 4 consignment units shipped by Jef…</sub> |
+| **3x6**<br>Stravix | 🟠 **6**<br>target&nbsp;7 | — | next exp 6/16/27<br><sub>6 on the shelf (photo 11/12): LYU-251434\_36003 (exp 7/7/27, bill only per AJ 11/12), LYU-251323\_36002 (exp 6/16/27, consignment shipped by Jeff per AJ 11/12: c…</sub> |
 | **2x4**<br>Stravix | 🟠 **3**<br>target&nbsp;7 | — | next exp 3/16/28<br><sub>3 on the shelf (photo 11/12): LYU-260718\_24001, LYU-260719\_24002 (exp 3/16/28) + LYU-260924\_24005 (exp 4/10/28, the M.P. 10/29 replacement on PO 66008000021395…</sub> |
 
 <details><summary><b>Units on the shelf</b> · 21</summary>
@@ -299,7 +299,7 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 <details><summary><b>About this shelf</b></summary>
 
-Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used in a case is billed on a St. Alexius PO and a replacement ships back to the shelf (SFDC shows the replacement serial), so it counts as a sale when used (no projection offset). Target: 7 of each size (AJ to the OR 10/7); restocks are not in the projection. Counted 11/12 from AJ's shelf photo: 12 Grafix 5x5, 6 Stravix 3x6, 3 Stravix 2x4. All 9 replacements for Dr. Singh's M.P. case 10/29 (PO 660080000213959) are in: 8 x Grafix 5x5 LYA-260412 and Stravix 2x4 LYU-260924\_24005. The 5 older units Derek Palka found in receiving 11/9 are on the shelf; they are bill & replace, not consignment (AJ 11/12, S+N packing lists from Feb-Mar 2026). Dr. Singh's T.B. case 11/6 used 3 consignment Stravix 3x6 (LYU-251434\_36001, \_36002, \_36004): bill only, no replacements due. Stravix 3x6 LYU-251434\_36003 is confirmed bill only (AJ 11/12). Column I says how each unit got here. Consignment (AJ 11/12): S+N direct order #10149227 / package #10335688 shipped 20 pieces to St. Alexius as consignment, bill only when used: Grafix 5x5 LYA-250782\_55001-55008 (exp 9/9/27), Stravix 2x4 LYU-242364\_24001-24004 (exp 10/7/26), Stravix 3x6 LYU-251430\_36001-36004 and LYU-251434\_36001-36004 (exp 7/7/27). Used: 242364\_24002 (N.W. 9/11), 242364\_24001 (G.G. 9/29), 251430\_36002 (T.F. 10/16), 251434\_36001/36002/36004 (T.B. 11/6). On the shelf: 251434\_36003. Not on the shelf 11/12 and no case on file: the 8 Grafix 5x5 LYA-250782, Stravix 2x4 242364\_24003 and \_24004 (SFDC billed \_24004 on N.W.'s PO), Stravix 3x6 251430\_36001, \_36003, \_36004.
+Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used in a case is billed on a St. Alexius PO and a replacement ships back to the shelf (SFDC shows the replacement serial), so it counts as a sale when used (no projection offset). Target: 7 of each size (AJ to the OR 10/7); restocks are not in the projection. Counted 11/12 from AJ's shelf photo: 12 Grafix 5x5, 6 Stravix 3x6, 3 Stravix 2x4. All 9 replacements for Dr. Singh's M.P. case 10/29 (PO 660080000213959) are in: 8 x Grafix 5x5 LYA-260412 and Stravix 2x4 LYU-260924\_24005. The 5 older units Derek Palka found in receiving 11/9 are on the shelf: consignment shipped by Jeff, the old rep (AJ 11/12, S+N packing lists from Feb-Mar 2026), so they can be taken from the shelf; they stay in the count until AJ says he has pulled them (Stravix 3x6 LYU-251323\_36002, Grafix 5x5 LYA-250639\_55004/55005 and LYA-250759\_55002/55003). Dr. Singh's T.B. case 11/6 used 3 consignment Stravix 3x6 (LYU-251434\_36001, \_36002, \_36004): bill only, no replacements due. Stravix 3x6 LYU-251434\_36003 is confirmed bill only (AJ 11/12). Column I says how each unit got here. Consignment (AJ 11/12): S+N direct order #10149227 / package #10335688 shipped 20 pieces to St. Alexius as consignment, bill only when used: Grafix 5x5 LYA-250782\_55001-55008 (exp 9/9/27), Stravix 2x4 LYU-242364\_24001-24004 (exp 10/7/26), Stravix 3x6 LYU-251430\_36001-36004 and LYU-251434\_36001-36004 (exp 7/7/27). Used: 242364\_24002 (N.W. 9/11), 242364\_24001 (G.G. 9/29), 251430\_36002 (T.F. 10/16), 251434\_36001/36002/36004 (T.B. 11/6). On the shelf: 251434\_36003. Not on the shelf 11/12 and no case on file: the 8 Grafix 5x5 LYA-250782, Stravix 2x4 242364\_24003 and \_24004 (SFDC billed \_24004 on N.W.'s PO), Stravix 3x6 251430\_36001, \_36003, \_36004.
 
 </details>
 
