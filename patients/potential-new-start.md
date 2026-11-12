@@ -2,24 +2,18 @@
 
 # Potential New Start
 
-**BIOT Chicago West** · 123 patients · updated Wed 11/11, 4:36 PM CT
+**BIOT Chicago West** · 123 patients · updated Wed 11/11, 7:53 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;35](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · **Potential New Start 1** · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 13](../patients/on-hold.md) · [OR 37](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · **Potential New Start 0** · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 37](../patients/or.md) · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
-<a name="nw-suburban-f-a"></a>
-<details open><summary><b>NW Suburban F&amp;A</b> · 1</summary>
 
-| Patient | Graft · next visit | Apps | Notes |
-| :-- | :-- | :-- | :-- |
-| **D.R.** | GRAFIX · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;5:00&nbsp;PM · Hoffman&nbsp;Estates · Pete&nbsp;covering** | 🟢 – | PA APPROVED 11/3/26-2/15/27 (BCBS Illinois, PreD #U26306AULB, Q4133 x144 units). First graft Wed 11/11 5:00 PM at Hoffman Estates with Dr. Goldkind. DFU right heel/midfoot, wound 3.3 x 2.7 x 0.2 cm. New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS.<br>_11/9:_ PA approved (Chatter case 06570376, posted \~11/4): GRAFIX PRIME/PL Q4133 x144 units, CPT 15275 x12 and 15276 x36, PreD #U26306AULB, BCBS Illinois, approved 11/3/26-2/15/27. Dr. Goldkind, NWSFA. DFU right heel/midfoot (E11.621, L97.412), wound 3.3 x 2.7 x 0.2 cm. First graft Wed 11/11 5:00 PM Hoffman Estates (Pete covering). Graft size not set yet. |
-
-</details>
+No patients in Potential New Start right now.

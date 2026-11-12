@@ -2,16 +2,16 @@
 
 # On hold
 
-**BIOT Chicago West** · 123 patients · updated Wed 11/11, 4:36 PM CT
+**BIOT Chicago West** · 123 patients · updated Wed 11/11, 7:53 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;35](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 1](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 13** · [OR 37](../patients/or.md) · [Done 24](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 37](../patients/or.md) · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -25,11 +25,10 @@
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 4</summary>
+<details open><summary><b>Alexian WCC</b> · 3</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **D.L.** | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Wed&nbsp;11/11&nbsp;3:30&nbsp;PM · Pete&nbsp;covering** | 🟢 – of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
 | **V.T.** | GRAFIX · Dr.&nbsp;Halihan<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:15&nbsp;PM** | 🟢 – of 8 |   |
 | **J.C.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi | 🟢 – of 8 | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
 | **G.C.** | GRAFIX · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/4&nbsp;3:10&nbsp;PM** | 🟢 – of 8 |   |
