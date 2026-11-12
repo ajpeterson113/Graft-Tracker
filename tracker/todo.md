@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 6:59 AM CT
+**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 10:54 AM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -28,7 +28,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/10 | [M.L.](../case-sheets/ml-1110.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000287459 | \$360 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 8 · \$20,077
+## 🟡 Waiting on a PO · 10 · \$27,674
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -37,9 +37,11 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 29 days |   | \$190 |
 | 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 6 days |   | \$1,650 |
 | 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 6 days |   | \$1,650 |
+| 11/6 | T.B. | St. Alexius · Singh | Stravix 3x6 ×3 | 🟠 6 days |   | \$7,407 |
 | 11/10 | [T.P.](../case-sheets/tp-1110.md) | Elmhurst · Farhan | Stravix 2x4 | 🟠 2 days |   | \$1,767 |
 | 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | 🟠 1 day |   | \$12,345 |
 | 11/11 | [S.G.](../case-sheets/sg-1111.md) | Romano Lombard · Rojas | Grafix 3x3 | 🟠 1 day |   | \$855 |
+| 11/12 | [M.A.](../case-sheets/ma-1112.md) | NW Suburban F&A · Goldkind | Grafix 16mm | — |   | \$190 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 16 · \$18,188
@@ -76,15 +78,16 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
 
 <a name="stock"></a>
-## 📦 Stock · 2
+## 📦 Stock · 3
 
 > [!CAUTION]
 > - **Grafix 3x4: 1 expire 12/18/26** · 1 patient(s) on it · \$6,840 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
+> - **Stravix 3x6: 6 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 36
+## 👥 Patients · 37
 
-11 to verify · 22 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)
+11 to verify · 23 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)

@@ -2,16 +2,16 @@
 
 # OR
 
-**BIOT Chicago West** · 123 patients · updated Thu 11/12, 6:59 AM CT
+**BIOT Chicago West** · 124 patients · updated Thu 11/12, 10:54 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;123](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;124](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;37](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 37** · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 38** · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -76,12 +76,13 @@
 </details>
 
 <a name="st-alexius"></a>
-<details open><summary><b>St. Alexius</b> · 8</summary>
+<details open><summary><b>St. Alexius</b> · 9</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **Upcoming · Dr. Greg Bryniczka** | STRAVIX · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Wed&nbsp;11/18 · OR&nbsp;in&nbsp;6&nbsp;days** |   | Upcoming OR case Wed 11/18 8:00 AM at Ascension Saint Alexius (Dr. Greg Bryniczka), from AJ's Outlook calendar 11/2. STRAVIX assumed (bill & replace from the OR shelf); patient and size not given. Projected 3x6 upside / 2x4 downside. |
 | **Upcoming · Dr. Adam Bryniczka** | STRAVIX · Dr.&nbsp;Adam&nbsp;Bryniczka<br>**OR&nbsp;Wed&nbsp;11/18 · OR&nbsp;in&nbsp;6&nbsp;days** |   | Upcoming OR case Wed 11/18 10:30-11:30 AM at Saint Alexius Medical Center (Dr. Adam Bryniczka, STRAVIX), confirmed on AJ's Outlook 11/5. Bill & replace from the OR shelf; patient and size not given. Projected 3x6 upside / 2x4 downside. |
+| **T.B.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Singh<br>**OR&nbsp;Fri&nbsp;11/6 · 6&nbsp;d&nbsp;post-op** |   | OR case Fri 11/6 at St. Alexius (left side), bill & replace: 3 x STRAVIX 3x6 LYU-251434\_36001, \_36002, \_36004 (exp 7/7/27) from the St. Alexius OR shelf. PO to come.<br>_11/12:_ Implant record uploaded in Chi West 11/12; AJ: Dr. Singh, 11/6/26. Filed to the tracker (November row 54). |
 | **M.P.** | GRAFIX/STRAVIX&nbsp;5x5&nbsp;(x8)&nbsp;+&nbsp;2x4&nbsp;(x1) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/29 · 2&nbsp;wks&nbsp;post-op** |   | OR case Thu 10/29 at St. Alexius (right foot), bill & replace: 8 x GRAFIX 5x5 (LYA-250878\_55008, LYA-260018\_55011, LYA-260018\_55010, LYA-260346\_55010, LYA-250863\_55006, LYA-250878\_55007, LYA-250878\_55013, LYA-250863\_55008) + 1 x STRAVIX 2x4 LYU-251818\_24004 from the St. Alexius OR shelf, all on one patient (AJ 10/29). Hospital label lists Patel MD as attending; surgeon is Dr. Singh (AJ). Two implant-record pages uploaded in the Graft Tracker app and filed to the tracker 10/29 (October row 94). Bill & replace PO 660080000213959 filed to the tracker 10/30 — Submitted, pending SFDC. |
 | **V.M.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/22 · 3&nbsp;wks&nbsp;post-op** |   | OR case Thu 10/22 at St. Alexius (left foot), bill & replace: 2 x STRAVIX 3x6 LYU-251691\_36001 and \_36002 from the St. Alexius OR shelf. Hospital label lists Kang MD as attending; surgeon is Dr. Singh (AJ 10/22). Implant record filed to the tracker 10/22 (October row 75). Bill & replace PO to come. |
 | **Upcoming · Dr. Liao** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Liao<br>**OR&nbsp;Fri&nbsp;10/16 · 3&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | Upcoming OR case Fri 10/16 1:00–2:00 PM (on AJ's calendar). Caroline covering. |

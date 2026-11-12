@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 6:59 AM CT
+**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 10:54 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -235,18 +235,19 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 ## St. Alexius OR
 
-**Bill & replace** · counted 11/9/26 · 22 grafts
+**Bill & replace** · counted 11/9/26 · 19 grafts
 
 > [!WARNING]
+> - **Stravix 3x6: 6 on the shelf (target 7)**
 > - **Stravix 2x4: 2 on the shelf (target 7)** · Restock not counted in the forecast
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **11**<br>target&nbsp;7 | — | +1 incoming · next exp 6/18/27<br><sub>7 on the shelf (AJ 11/6): the replacements for M.P. 10/29 (Dr. Singh) on bill & replace PO 660080000213959 are in, lot/SN to add from a shelf photo · 1 more 5x…</sub> |
-| **3x6**<br>Stravix | **9**<br>target&nbsp;7 | — | next exp 6/16/27<br><sub>8 on the shelf (count 10/29 after the M.P. case): LYU-251434\_36001-36004 (exp 7/7/27) + 4 new LYU-260766\_36002, LYU-260755\_36002, LYU-260755\_36004, LYU-260668\_…</sub> |
+| **3x6**<br>Stravix | 🟠 **6**<br>target&nbsp;7 | — | next exp 6/16/27<br><sub>5 on the shelf after Dr. Singh's T.B. case 11/6 (used LYU-251434\_36001, \_36002, \_36004; 3 replacements due on the St. Alexius PO to come): LYU-251434\_36003 (ex…</sub> |
 | **2x4**<br>Stravix | 🟠 **2**<br>target&nbsp;7 | — | +1 incoming · next exp 3/16/28<br><sub>2 on the shelf (count 10/29): LYU-260718\_24001, LYU-260719\_24002 (exp 3/16/28), new since 10/22 · LYU-251818\_24004 used on M.P. 10/29, its replacement due on P…</sub> |
 
-<details><summary><b>Units on the shelf</b> · 22</summary>
+<details><summary><b>Units on the shelf</b> · 19</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -264,10 +265,7 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 | Stravix | 2x4 | LYU-260718\_24001 | 3/16/28 |   | On shelf |   |
 | Stravix | 2x4 | LYU-260719\_24002 | 3/16/28 |   | On shelf |   |
 | Stravix | 3x6 | LYU-251323\_36002 | 6/16/27 |   | In receiving, not on the OR shelf (Derek Palka, Ops Supervisor, 11/9): consignment shipped before AJ took the territory, no customer PO is expected. Ask Derek to move it to the OR shelf · S+N sales order 224025005 |   |
-| Stravix | 3x6 | LYU-251434\_36001 | 7/7/27 |   | On shelf |   |
-| Stravix | 3x6 | LYU-251434\_36002 | 7/7/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-251434\_36003 | 7/7/27 |   | On shelf |   |
-| Stravix | 3x6 | LYU-251434\_36004 | 7/7/27 |   | On shelf |   |
 | Stravix | 3x6 | LYU-260766\_36002 | 3/16/28 |   | On shelf |   |
 | Stravix | 3x6 | LYU-260755\_36002 | 3/16/28 |   | On shelf |   |
 | Stravix | 3x6 | LYU-260755\_36004 | 3/16/28 |   | On shelf |   |
@@ -284,11 +282,14 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 </details>
 
-<details><summary><b>Used since the count</b> · 12</summary>
+<details><summary><b>Used since the count</b> · 15</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
 | LYU-251430\_36002 | Stravix 3x6 | Used 10/16 (Dr. Liao, likely; SFDC 10/22 on PO …3434) · not from the OR shelf (all shelf units still there 10/22), so from stock kept outside the shelf |
+| LYU-251434\_36001 | Stravix 3x6 | Used 11/6 (T.B., Dr. Singh) · bill & replace, replacement due |
+| LYU-251434\_36002 | Stravix 3x6 | Used 11/6 (T.B., Dr. Singh) · bill & replace, replacement due |
+| LYU-251434\_36004 | Stravix 3x6 | Used 11/6 (T.B., Dr. Singh) · bill & replace, replacement due |
 | LYU-251691\_36001 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) · not from the OR shelf (all shelf units still there 10/22), so from stock kept outside the shelf |
 | LYU-251691\_36002 | Stravix 3x6 | Used 10/22 (V.M., Dr. Singh) · not from the OR shelf (all shelf units still there 10/22), so from stock kept outside the shelf |
 | LYA-250863\_55006 | Grafix 5x5 | Used 10/29 (M.P., Dr. Singh) · bill & replace, replacement due |
