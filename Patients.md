@@ -2,26 +2,26 @@
 
 # Patients
 
-**BIOT Chicago West** · 124 patients · updated Thu 11/12, 12:15 PM CT
+**BIOT Chicago West** · 125 patients · updated Thu 11/12, 12:29 PM CT
 
-| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
+| [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;124**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;37](patients/todo.md) |
+| <ins>**👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125**</ins> | [📅&nbsp;This&nbsp;week](patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;37](patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](patients/grafting.md) · [Potential New Start 0](patients/potential-new-start.md) · [Pending 5](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 12](patients/on-hold.md) · [OR 38](patients/or.md) · [Done 25](patients/done.md) · [Denied 6](patients/denied.md)
+[Grafting 38](patients/grafting.md) · [Potential New Start 0](patients/potential-new-start.md) · [Pending 5](patients/pending.md) · [Potential IVR 0](patients/potential-ivr.md) · [On hold 12](patients/on-hold.md) · [OR 39](patients/or.md) · [Done 25](patients/done.md) · [Denied 6](patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
-**Accounts:** [Good Sam 29](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [Alexian Main OR 1](#alexian-main-or) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 10](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 9](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 2](#elmhurst) · [GlenOaks 5](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 3](#romano-lombard)
+**Accounts:** [Good Sam 30](#good-sam) · [Alexian WCC 32](#alexian-wcc) · [Alexian Ambulatory 3](#alexian-ambulatory) · [Alexian Main OR 1](#alexian-main-or) · [NW Suburban F&A 21](#nw-suburban-f-a) · [St. Joseph Elgin 10](#st-joseph-elgin) · [Sherman 4](#sherman) · [St. Alexius 9](#st-alexius) · [Central DuPage 2](#central-dupage) · [Elmhurst 2](#elmhurst) · [GlenOaks 5](#glenoaks) · [Suburban F&A 2](#suburban-f-a) · [Romano Lombard 3](#romano-lombard)
 
 Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Alexian WCC stops at 8: 🟡 7 · 🔴 8). Each clinic lists upcoming visits first, then pending, denied, on hold and done.
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 8 grafting · 29 total</summary>
+<details open><summary><b>Good Sam</b> · 8 grafting · 30 total</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
@@ -34,6 +34,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | **K.P.**<br>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5&nbsp;+&nbsp;3x4 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:15&nbsp;AM** | 🟢 8 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 9:15 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). |
 | **C.B.**<br>Grafting<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;1.5x2 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:00&nbsp;AM** | 🟢 4 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 10:45 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). A4 Thu 10/15: GRAFIX 2x3 (AJ confirmed 10/11; the calendar entry said 3x4)<br>_11/5:_ A4 Thu 11/5 got a 3x4 from the Good Sam shelf (LYA-250625\_34014). Dr. Ayesh wants a 1.5x2 from the next visit (Thu 11/19); size set to 1.5x2 (AJ 11/5). |
 | **L.J.**<br>Grafting<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(x2) · Dr.&nbsp;Bach<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/11&nbsp;10:45&nbsp;AM** | 🟢 3 | 🔴 Last appt 11/11 passed, nothing new booked<br>Getting two OASIS Ultra 7x10 a visit (AJ 11/2), so the 5-sheet box arriving 11/3 covers about two visits. Held Wed 10/28; grafting again next week, Wed 11/4 9:45 AM (AJ 10/28). Good Sam to order 1 box OASIS Ultra 7x10 meshed on Fri 10/30 (in the P10 projections). A3 Wed 10/21: last 7x10 Ultra sheet + 2 OASIS Wound 3x3.5. A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2.<br>[📄 IVR](ivr/gs-lj.md) |
+| **D.M.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;11/11 · 1&nbsp;d&nbsp;post-op** |   | OR case Wed 11/11 at Good Sam (left foot): 2 x STRAVIX 3x6 LYU-260325\_36002 (exp 1/12/28) and LYU-260453\_36008 (exp 2/16/28) from the OR shelf. Owens & Minor PO to come.<br>_11/12:_ AJ 11/12: OR case 11/11 with Dr. Luetkehans, initials D.M.; typed case sheet made (dm-1111) and filed to the tracker (November row 55). |
 | **T.A.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Mon&nbsp;11/2 · 1&nbsp;wk&nbsp;3&nbsp;d&nbsp;post-op** |   | OR case Mon 11/2 10:30 AM at Good Sam (Dr. Farhan): T.A.'s second Stravix (round 1 was 10/1, gs-ta-or). STRAVIX 2x4 LYU-260468\_24003 (exp 2/16/28) from the Good Sam OR shelf. Medical recall sheet uploaded 11/2 evening (patient read from the sticker) and filed to the tracker 11/2 (November row 16). PO006182432 approved 11/9; AJ attached it in Chi West 11/9, so the case is ready to submit. |
 | **R.C.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;10/28 · 2&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   | OR case Wed 10/28 at Good Sam (Dr. Luetkehans, foot reconstruction): 2 x STRAVIX 3x6 (LYU-260692\_36003, \_36004). PO006131804 (O&M HandOff requisition DHFO0150931, approved 10/29, both serials listed) matched 10/29 — ready to submit. Same initials as the Central DuPage R.C. (Dr. Luetkehans's office Grafix patient, admitted and grafting stopped 10/29) — likely the same person, not confirmed. |
 | **C.L.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;10/6 · 5&nbsp;wks&nbsp;2&nbsp;d&nbsp;post-op** |   | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453\_36006, \_36007). PO PO006010271 received 10/7 |

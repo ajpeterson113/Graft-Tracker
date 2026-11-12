@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 12:15 PM CT
+**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 12:29 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -307,15 +307,15 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 
 ## Good Sam OR
 
-**Consigned** · counted 10/8/26 · 7 grafts
+**Consigned** · counted 10/8/26 · 5 grafts
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **3** | — | +2 incoming · next exp 11/3/27 |
 | **2x4**<br>Stravix | **2** | — | +2 incoming · next exp 2/16/28 |
-| **3x6**<br>Stravix | **2** | — | +3 incoming · next exp 1/12/28 |
+| **3x6**<br>Stravix | **0** | — | +3 incoming |
 
-<details><summary><b>Units on the shelf</b> · 7</summary>
+<details><summary><b>Units on the shelf</b> · 5</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -324,8 +324,6 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 | Grafix | 5x5 | LYA-260275\_55008 | 3/20/28 |   | On shelf |   |
 | Stravix | 2x4 | LYU-260474\_24001 | 2/16/28 |   | On shelf |   |
 | Stravix | 2x4 | LYU-260474\_24002 | 2/16/28 |   | On shelf |   |
-| Stravix | 3x6 | LYU-260325\_36002 | 1/12/28 |   | On shelf |   |
-| Stravix | 3x6 | LYU-260453\_36008 | 2/16/28 |   | On shelf |   |
 
 </details>
 
@@ -343,11 +341,13 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 
 </details>
 
-<details><summary><b>Used since the count</b> · 3</summary>
+<details><summary><b>Used since the count</b> · 5</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
 | LYU-260468\_24003 | Stravix 2x4 | Used 11/2 (T.A., Dr. Farhan) |
+| LYU-260325\_36002 | Stravix 3x6 | Used 11/11 (D.M., Dr. Luetkehans) |
+| LYU-260453\_36008 | Stravix 3x6 | Used 11/11 (D.M., Dr. Luetkehans) |
 | LYU-260692\_36003 | Stravix 3x6 | Used 10/28 (R.C., Dr. Luetkehans) |
 | LYU-260692\_36004 | Stravix 3x6 | Used 10/28 (R.C., Dr. Luetkehans) |
 

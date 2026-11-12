@@ -2,25 +2,26 @@
 
 # OR
 
-**BIOT Chicago West** · 124 patients · updated Thu 11/12, 12:15 PM CT
+**BIOT Chicago West** · 125 patients · updated Thu 11/12, 12:29 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;124](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;37](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;37](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 38** · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 39** · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 12</summary>
+<details open><summary><b>Good Sam</b> · 13</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **S.W.** | STRAVIX · Dr.&nbsp;Ayesh<br>**OR&nbsp;Fri&nbsp;11/13 · OR&nbsp;tomorrow** |   | Stravix in the OR on Fri 11/13, 7:00-8:00 AM (Dr. Ayesh; time from AJ's Outlook 11/5). GRAFIX PA had been approved. Projected 3x6 upside / 2x4 downside. |
+| **D.M.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;11/11 · 1&nbsp;d&nbsp;post-op** |   | OR case Wed 11/11 at Good Sam (left foot): 2 x STRAVIX 3x6 LYU-260325\_36002 (exp 1/12/28) and LYU-260453\_36008 (exp 2/16/28) from the OR shelf. Owens & Minor PO to come.<br>_11/12:_ AJ 11/12: OR case 11/11 with Dr. Luetkehans, initials D.M.; typed case sheet made (dm-1111) and filed to the tracker (November row 55). |
 | **T.A.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Farhan<br>**OR&nbsp;Mon&nbsp;11/2 · 1&nbsp;wk&nbsp;3&nbsp;d&nbsp;post-op** |   | OR case Mon 11/2 10:30 AM at Good Sam (Dr. Farhan): T.A.'s second Stravix (round 1 was 10/1, gs-ta-or). STRAVIX 2x4 LYU-260468\_24003 (exp 2/16/28) from the Good Sam OR shelf. Medical recall sheet uploaded 11/2 evening (patient read from the sticker) and filed to the tracker 11/2 (November row 16). PO006182432 approved 11/9; AJ attached it in Chi West 11/9, so the case is ready to submit. |
 | **R.C.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;10/28 · 2&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   | OR case Wed 10/28 at Good Sam (Dr. Luetkehans, foot reconstruction): 2 x STRAVIX 3x6 (LYU-260692\_36003, \_36004). PO006131804 (O&M HandOff requisition DHFO0150931, approved 10/29, both serials listed) matched 10/29 — ready to submit. Same initials as the Central DuPage R.C. (Dr. Luetkehans's office Grafix patient, admitted and grafting stopped 10/29) — likely the same person, not confirmed. |
 | **C.L.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Tue&nbsp;10/6 · 5&nbsp;wks&nbsp;2&nbsp;d&nbsp;post-op** |   | OR case 10/6 at Good Sam (not a recurring graft patient). 2 x STRAVIX 3x6 (LYU-260453\_36006, \_36007). PO PO006010271 received 10/7 |

@@ -16,6 +16,9 @@ SPEC.json:
    "rep": "AJ Peterson", "surgeon": "Dr. Joshi", "patient": "M.L.",   # initials only
    "dos": "10-13-26", "price": "$360.00",
    "stickers": [{"image": "sticker.png", "crop": [x0, y0, x1, y1]}],  # crop optional
+   "items": [{"item": "Stravix PL\n3 x 6 cm", "lot": "LYU-260325\nSN 36002\nExp 1/12/28", "ref": "PS61036", "price": "$2,655.50"}],
+                                                       # typed rows, only when AJ asks for a typed sheet (max 3)
+   "total": "Total:\n$5,311.00",                       # with items: written in the row under them
    "sig_date": "10-13-26", "email": "ajoseph.peterson@smith-nephew.com"}
 
 Writes OUT_BASENAME.jpg (1200 px wide, for the case-sheets page) and OUT_BASENAME.pdf
@@ -155,6 +158,19 @@ def build(spec, out):
             h = int(im.height * w / im.width)
             page.paste(im.resize((w, h), Image.LANCZOS), (x, r0 + 14))
             x += w + 20
+    # typed line items (AJ asked for a typed sheet: no sticker photo), one per table row
+    items = (spec.get('items') or [])[:3]
+    fs = font(SANS, 44)
+    for i, it in enumerate(items):
+        y0, y1 = top + ROWS[i], top + ROWS[i + 1]
+        centred(d, (COLS[1], y0, COLS[2], y1), it.get('item', ''), fs)
+        centred(d, (COLS[2], y0, COLS[3], y1), it.get('lot', ''), fs)
+        centred(d, (COLS[3], y0, COLS[4], y1), it.get('ref', ''), fs)
+        if it.get('price'):
+            centred(d, (COLS[4], y0, COLS[5], y1), it['price'], f)
+    if items and spec.get('total') and len(items) < 3:
+        y0, y1 = top + ROWS[len(items)], top + ROWS[len(items) + 1]
+        centred(d, (COLS[4], y0, COLS[5], y1), spec['total'], f)
     text_on_line(d, PRINT_NAME[0], top + PRINT_NAME[1], spec.get('rep', ''), f)
     text_on_line(d, SIGN[0], top + SIGN[1], spec.get('rep', ''), f)
     text_on_line(d, SIGN_DATE_X, top + SIGN[1], spec.get('sig_date', spec.get('dos', '')), f)
