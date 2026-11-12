@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 124 patients · updated Thu 11/12, 12:04 PM CT
+**BIOT Chicago West** · 124 patients · updated Thu 11/12, 12:15 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -186,7 +186,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | **T.B.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Singh<br>**OR&nbsp;Fri&nbsp;11/6 · 6&nbsp;d&nbsp;post-op** |   | OR case Fri 11/6 at St. Alexius (left side), bill & replace: 3 x STRAVIX 3x6 LYU-251434\_36001, \_36002, \_36004 (exp 7/7/27) from the St. Alexius OR shelf. PO to come.<br>_11/12:_ Implant record uploaded in Chi West 11/12; AJ: Dr. Singh, 11/6/26. Filed to the tracker (November row 54). |
 | **M.P.**<br>OR | GRAFIX/STRAVIX&nbsp;5x5&nbsp;(x8)&nbsp;+&nbsp;2x4&nbsp;(x1) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/29 · 2&nbsp;wks&nbsp;post-op** |   | OR case Thu 10/29 at St. Alexius (right foot), bill & replace: 8 x GRAFIX 5x5 (LYA-250878\_55008, LYA-260018\_55011, LYA-260018\_55010, LYA-260346\_55010, LYA-250863\_55006, LYA-250878\_55007, LYA-250878\_55013, LYA-250863\_55008) + 1 x STRAVIX 2x4 LYU-251818\_24004 from the St. Alexius OR shelf, all on one patient (AJ 10/29). Hospital label lists Patel MD as attending; surgeon is Dr. Singh (AJ). Two implant-record pages uploaded in the Graft Tracker app and filed to the tracker 10/29 (October row 94). Bill & replace PO 660080000213959 filed to the tracker 10/30 — Submitted, pending SFDC. |
 | **V.M.**<br>OR | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Singh<br>**OR&nbsp;Thu&nbsp;10/22 · 3&nbsp;wks&nbsp;post-op** |   | OR case Thu 10/22 at St. Alexius (left foot), bill & replace: 2 x STRAVIX 3x6 LYU-251691\_36001 and \_36002 from the St. Alexius OR shelf. Hospital label lists Kang MD as attending; surgeon is Dr. Singh (AJ 10/22). Implant record filed to the tracker 10/22 (October row 75). Bill & replace PO to come. |
-| **Upcoming · Dr. Liao**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Liao<br>**OR&nbsp;Fri&nbsp;10/16 · 3&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | Upcoming OR case Fri 10/16 1:00–2:00 PM (on AJ's calendar). Caroline covering. |
+| **T.F.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Liao<br>**OR&nbsp;Fri&nbsp;10/16 · 3&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | OR case Fri 10/16 at St. Alexius (sacral), bill & replace: STRAVIX 3x6 LYU-251430\_36002 (exp 7/7/27). PO 660080000213434, in SFDC 10/22. Caroline covered.<br>_11/12:_ Implant record from AJ 11/12 (dated 10-16-26, sacral, bill and replace): filed to the tracker, October row 73. |
 | **A.B.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;Guske<br>**OR&nbsp;Wed&nbsp;10/7 · 5&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   | OR case 10/7 at St. Alexius (sacral). STRAVIX 3x6 LYU-251604\_36001 from St. Alexius stock (bill & replace). Bill & replace PO 660080000212502 received 10/8 |
 | **G.G.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Goldkind<br>**OR&nbsp;Tue&nbsp;9/29 · 6&nbsp;wks&nbsp;2&nbsp;d&nbsp;post-op** |   | OR case 9/29 at St. Alexius (bill & replace). Billed on PO 660080000212141; in SFDC. Same patient as NWSFA pending IVR for office grafting. |
 | **N.W.**<br>OR | STRAVIX&nbsp;2x4 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;9/11 · 8&nbsp;wks&nbsp;6&nbsp;d&nbsp;post-op** |   | Bill & replace |

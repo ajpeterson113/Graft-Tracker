@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 12:04 PM CT
+**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 12:15 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -279,7 +279,7 @@ Wound care center shelf. Bought on Good Sam POs, so it counts as a sale when it 
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
-| LYU-251430\_36002 | Stravix 3x6 | Used 10/16 (Dr. Liao, likely; SFDC 10/22 on PO …3434) · not from the OR shelf (all shelf units still there 10/22), so from stock kept outside the shelf |
+| LYU-251430\_36002 | Stravix 3x6 | Used 10/16 (T.F., Dr. Liao) · bill & replace, PO …3434, replaced |
 | LYU-251434\_36001 | Stravix 3x6 | Used 11/6 (T.B., Dr. Singh) · bill & replace, replacement due |
 | LYU-251434\_36002 | Stravix 3x6 | Used 11/6 (T.B., Dr. Singh) · bill & replace, replacement due |
 | LYU-251434\_36004 | Stravix 3x6 | Used 11/6 (T.B., Dr. Singh) · bill & replace, replacement due |
