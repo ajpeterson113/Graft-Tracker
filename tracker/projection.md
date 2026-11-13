@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 9 of 19 · updated Fri 11/13, 10:34 AM CT
+**BIOT Chicago West** · P11 · day 9 of 19 · updated Fri 11/13, 12:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -11,15 +11,15 @@
 |  | Upside | Downside |
 | :-- | --: | --: |
 | Sold so far (November tab) | \$74,593 | \$74,593 |
-| \+ Projected Grafix, net of WCC stock | \$18,148 | \$12,807 |
+| \+ Projected Grafix, net of WCC stock | \$17,578 | \$12,617 |
 | \+ Upcoming Stravix | \$10,209 | \$6,446 |
 | \+ Potential new starts | \$7,702 | \$0 |
 | \+ OASIS reorders (estimated) | \$6,450 | \$4,244 |
-| **P11 forecast** | **\$117,102** | **\$98,090** |
+| **P11 forecast** | **\$116,532** | **\$97,900** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 126% | 106% |
-| Gap to target | ✅ over by \$24,211 | ✅ over by \$5,199 |
-| **Projected commission** | **\$11,710** | **\$9,809** |
+| % of target | 125% | 105% |
+| Gap to target | ✅ over by \$23,641 | ✅ over by \$5,009 |
+| **Projected commission** | **\$11,653** | **\$9,790** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/9.</sub>
@@ -41,9 +41,9 @@
 | [Romano Lombard](#romano-lombard) | \$2,090 | \$1,710 | \$1,710 | **\$3,800** | **\$3,800** |
 | [Sherman](#sherman) | — | \$2,656 | \$1,695 | **\$2,656** | **\$1,695** |
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
-| [Central DuPage](#central-dupage) | \$1,210 | \$570 | \$190 | **\$1,780** | **\$1,400** |
+| [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$74,593** | **\$42,509** | **\$23,497** | **\$117,102** | **\$98,090** |
+| **Total** | **\$74,593** | **\$41,939** | **\$23,307** | **\$116,532** | **\$97,900** |
 
 
 ## Account by account
@@ -282,7 +282,7 @@ Sold so far: **\$2,469** · 1 case
 </details>
 
 <a name="central-dupage"></a>
-<details><summary><b>Central DuPage</b> · upside &#36;1,780 · downside &#36;1,400</summary>
+<details><summary><b>Central DuPage</b> · upside &#36;1,210 · downside &#36;1,210</summary>
 
 Sold so far: **\$1,210** · 2 cases
 
@@ -291,7 +291,7 @@ Sold so far: **\$1,210** · 2 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **R.C. · Dr. Luetkehans** | STOPPED (AJ 10/29): patient admitted, grafting stopped — no more 5x5 orders; nothing projected (units/visit set to 0 at period close 10/30). | — | — |   |
-| **A.S. · Dr. Luetkehans** | 16mm · Weekly · 3 visits → 16mm ×1 | \$570 | \$190 | P11: A5 Fri 11/6 is in November sales (Grafted in Chi West 11/6; AJ: "Send one more in might not need it"); next assumed Fri 11/13 12:00 PM (weekly, AJ 11/6). |
+| **A.S. · Dr. Luetkehans** | DONE (AJ 11/13, Chi West): not grafted Fri 11/13, healed, total applications 5, so nothing projected (units/visit set to 0). | — | — |   |
 
 </details>
 
@@ -313,7 +313,7 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 28 | \$24,661 | \$17,089 |
+| Weekly and biweekly patients | 28 | \$24,091 | \$16,899 |
 | Less Good Sam WCC stock already sold | 8 | -\$6,513 | -\$4,282 |
 | Upcoming Stravix | 6 | \$10,209 | \$6,446 |
 | Potential new starts | 15 | \$7,702 | \$0 |
@@ -336,7 +336,7 @@ Sold so far: **\$190** · 1 case
 | **P.M.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A8 | A8 Mon 10/19 11:45 AM (HE). |
 | **C.T.** | NW Suburban F&A | Adelstein | OASIS Wound 3x3.5 | Grafting | A3 | A3 Thu 10/15 (AJ confirmed 10/18). |
 | **E.P.** | NW Suburban F&A | Goldkind | OASIS Wound 3x3.5 | Grafting | A3 | A3 10/14 (Pete covered, Hoffman Estates). |
-| **MZ (L)** | NW Suburban F&A | Goldkind | OASIS Ultra 3x7 | Grafting | A6 | A6 Fri 10/16: moved down to OASIS Ultra 3x7 (AJ 10/18; never back up). |
+| **MZ (L)** | NW Suburban F&A | Goldkind | OASIS Ultra 3x7 | Grafting | A7 | A6 Fri 10/16: moved down to OASIS Ultra 3x7 (AJ 10/18; never back up). |
 | **R.D.** | NW Suburban F&A | Hussain | OASIS Ultra 3x3.5 | On hold | A10 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12) |
 | **J.C.** | NW Suburban F&A | Hussain | OASIS Ultra 7x20 | On hold | A12 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). |
 | **S.B.** | NW Suburban F&A | Home Visit | OASIS Ultra 3x3.5 | On hold | A11 | Verify status with Chris (not on NWSFA schedule wk of 10/5 or 10/12). |

@@ -2,16 +2,16 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 125 patients · updated Fri 11/13, 10:34 AM CT
+**BIOT Chicago West** · 125 patients · updated Fri 11/13, 12:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;39**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 26](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -34,7 +34,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 25
+## 🔴 No Follow-Up · 24
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -61,7 +61,6 @@
 | **J.C.** | St. Joseph Elgin · Bhagat | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/6): Thu 11/19 1:30 PM · usually Thu |
 | **M.B.** | St. Joseph Elgin · Veronica Pappas | GRAFIX 2x3 | Verify: Assumed weekly (AJ 11/6): Tue 11/17 8:15 AM · usually Tue |
 | **P.H.** | St. Joseph Elgin · Veronica Pappas | GRAFIX 3x3 | Verify: Assumed weekly (AJ 11/6): Tue 11/17 9:15 AM · usually Tue |
-| **A.S.** | Central DuPage · Luetkehans | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Fri 11/13 12:00 PM · usually Fri |
 | **S.G.** | Romano Lombard · Rojas | GRAFIX 3x3 | Verify: Assumed weekly (AJ 11/6): Wed 11:40 AM · usually Wed |
 
 <a name="pending"></a>

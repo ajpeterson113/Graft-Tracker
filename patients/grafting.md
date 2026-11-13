@@ -2,16 +2,16 @@
 
 # Grafting
 
-**BIOT Chicago West** · 125 patients · updated Fri 11/13, 10:34 AM CT
+**BIOT Chicago West** · 125 patients · updated Fri 11/13, 12:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;39](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-**Grafting 38** · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
+**Grafting 37** · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 26](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -67,7 +67,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **MZ (L)** | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;11:30&nbsp;AM · Hoffman&nbsp;Estates · Caroline&nbsp;covering** | 🟢 6 | NWSFA schedule wk of 11/2: Wed 11/4 10:45 AM Dr. Goldkind (HE). NWSFA schedule wk of 10/26: Thu 10/29 8:00 AM Dr. Goldkind (HE). A6 Fri 10/16: moved down to OASIS Ultra 3x7 (AJ confirmed 10/18). A5 10/9. Left ankle approved for grafting. Only grafting left foot. OASIS Ultra 5x7 (1 box) ordered 10/12 on PO MZ101626 for the Fri 10/16 visit, delivery 10/13 to HE. |
+| **MZ (L)** | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;11:30&nbsp;AM · Hoffman&nbsp;Estates · Caroline&nbsp;covering** | 🟢 7 | NWSFA schedule wk of 11/2: Wed 11/4 10:45 AM Dr. Goldkind (HE). NWSFA schedule wk of 10/26: Thu 10/29 8:00 AM Dr. Goldkind (HE). A6 Fri 10/16: moved down to OASIS Ultra 3x7 (AJ confirmed 10/18). A5 10/9. Left ankle approved for grafting. Only grafting left foot. OASIS Ultra 5x7 (1 box) ordered 10/12 on PO MZ101626 for the Fri 10/16 visit, delivery 10/13 to HE. |
 | **G.K.**<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Ultra&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Mon&nbsp;11/16&nbsp;10:45&nbsp;AM · Hoffman&nbsp;Estates** | 🟢 6 | 🔴 Verify: Assumed weekly (AJ 11/6): Mon 11/16 10:45 AM<br>NWSFA schedule wk of 11/2: Mon 11/2 10:45 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Mon 10/26 11:15 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Mon 10/19 9:30 AM Dr. Adelstein (HE). A1 10/5 1:30 PM: OASIS Ultra 3x3.5, lot LB1709196 (case sheet in the app). A2 10/12 (HE). Next Mon 10/19 11:45 AM. |
 | **D.R.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;3x3 · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/18&nbsp;5:00&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 1 | 🔴 Verify: Assumed weekly (AJ 11/6): Wed 5:00 PM<br>PA APPROVED 11/3/26-2/15/27 (BCBS Illinois, PreD #U26306AULB, Q4133 x144 units). First graft Wed 11/11 5:00 PM at Hoffman Estates with Dr. Goldkind. DFU right heel/midfoot, wound 3.3 x 2.7 x 0.2 cm. New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS.<br>_11/12:_ AJ 11/12: moving to a Grafix 3x3 (ordered for the visit, a sale order), not the 3x4 shelf stock. |
 | **M.A.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;9:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 3 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/19 9:45 AM<br>NWSFA schedule wk of 11/2: Thu 11/5 1:30 PM Dr. Goldkind (EG) — A2; 16mm to order on PO MA110526, ship to Elk Grove. A1 Fri 10/30 8:45 AM grafted (logged by AJ). New start Fri 10/30 8:45 AM with Dr. Goldkind (AJ 10/27): GRAFIX 16mm ordered 10/27 on PO MA103026. Office (HE/EG) not given yet. Same patient as the separate 10/30 new-start entry, consolidated into this record 10/27. Earlier: NWSFA list wk of 10/26 waiting on PA; wk of 10/19 waiting on ABIs; wk of 10/12 pending auth. IVR #06346857 (Humana): needed ABIs, albumin/pre-albumin, smoking status before submission. R foot DFU. (Listed as M.P. until 10/4.)<br>[📄 IVR](../ivr/nw-mp.md) |
@@ -88,15 +88,6 @@
 | **M.B.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;2x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;11/17&nbsp;8:15&nbsp;AM** | 🟢 3 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 11/17 8:15 AM<br>Approved (AJ 10/20). A1 Mon 10/20 8:00 AM, one Grafix 3x3; one 3x3 a week (AJ 10/14), next Mon 10/27. IVR submitted 10/13. |
 | **P.H.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;3x3 · Weekly · Veronica&nbsp;Pappas<br>**Next&nbsp;Tue&nbsp;11/17&nbsp;9:15&nbsp;AM · Elgin** | 🟢 5 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 11/17 9:15 AM<br>Approved 100% (10/8). A1 10/13: one Grafix 3x3 from the clinic's own stock (bought on an earlier PO, no new sale); 1 x 3x3 left on their shelf, which covers 10/20. One Grafix 3x3 a week going forward (AJ 10/14); the clinic orders on PO. IVR ran 10/5. |
 | **J.C.**<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Bhagat<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;1:30&nbsp;PM** | 🔴 12 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/19 1:30 PM<br>Confirmed Thu 11/5 1:30 PM (St. Joe's text, AJ 11/4). A11 Thu 10/29 1:30 PM. A9 (10/1) was an eval OASIS Wound 3x3.5<br>_11/6:_ Peter asked Eva to order another oasis wound 3x3.5. Add to do: Remind Eva to order Oasis Wound 3x3.5 for JC |
-
-</details>
-
-<a name="central-dupage"></a>
-<details open><summary><b>Central DuPage</b> · 1</summary>
-
-| Patient | Graft · next visit | Apps | Notes |
-| :-- | :-- | :-- | :-- |
-| **A.S.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;12:00&nbsp;PM · CDFA** | 🟢 5 | 🔴 Verify: Assumed weekly (AJ 11/6): Fri 11/13 12:00 PM<br>A4 Fri 10/30 12:00 PM: 16mm LYA-260256\_16016 (AS103026) — app count corrected from 2 to 4 on 10/31 (A1 10/9 AS100926, A2 10/16 AS101626, A3 10/23 AS102326 are all on the tracker; AJ to confirm). Next Fri 11/6 12:00 PM — verify with the office. Weekly 16mm. |
 
 </details>
 

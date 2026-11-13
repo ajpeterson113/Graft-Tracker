@@ -2,16 +2,16 @@
 
 # Done
 
-**BIOT Chicago West** · 125 patients · updated Fri 11/13, 10:34 AM CT
+**BIOT Chicago West** · 125 patients · updated Fri 11/13, 12:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;39](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · **Done 25** · [Denied 6](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · **Done 26** · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -63,10 +63,11 @@
 </details>
 
 <a name="central-dupage"></a>
-<details open><summary><b>Central DuPage</b> · 1</summary>
+<details open><summary><b>Central DuPage</b> · 2</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| **A.S.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Fri&nbsp;11/13&nbsp;12:00&nbsp;PM · CDFA** | 🟢 5 | A4 Fri 10/30 12:00 PM: 16mm LYA-260256\_16016 (AS103026) — app count corrected from 2 to 4 on 10/31 (A1 10/9 AS100926, A2 10/16 AS101626, A3 10/23 AS102326 are all on the tracker; AJ to confirm). Next Fri 11/6 12:00 PM — verify with the office. Weekly 16mm. |
 | **R.C.** | GRAFIX&nbsp;2x&nbsp;5x5&nbsp;+&nbsp;3x4 · Weekly · Dr.&nbsp;Luetkehans<br>**Last&nbsp;graft&nbsp;10/9** | 🟢 2 | STOPPED (AJ 10/29): patient admitted, grafting stopped — no more 5x5 orders. Still owed by the office: the PO for the WFNU 5x5 used 10/16 and the PO for the 10/9 3x4. A2 10/9: 2 x 5x5 (LYA-260337\_55005, LYA-260335\_55004, billed on RC100926) + 1 x 3x4 (LYA-250008\_34006, PO to come). 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on RC101626. 10/23: 2 x 5x5 on RC102326. Case sheets on file. |
 
 </details>
