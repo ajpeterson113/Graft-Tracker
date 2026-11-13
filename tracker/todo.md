@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 9 of 19 · updated Fri 11/13, 12:50 PM CT
+**BIOT Chicago West** · P11 · day 9 of 19 · updated Fri 11/13, 3:53 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -28,7 +28,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/10 | [M.L.](../case-sheets/ml-1110.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000287459 | \$360 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 14 · \$37,749
+## 🟡 Waiting on a PO · 15 · \$38,109
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -46,6 +46,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | 🟠 1 day | 0003099658 | \$600 |
 | 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | — |   | \$2,469 |
 | 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | — |   | \$1,695 |
+| 11/13 | [G.H.](../case-sheets/gh-1113.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003095154 | \$360 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 16 · \$18,188
@@ -92,6 +93,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 3 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 39
+## 👥 Patients · 30
 
-10 to verify · 24 with no follow-up booked · 5 IVRs to follow up → [Patient to-do](../patients/todo.md)
+3 to verify · 22 with no follow-up booked · 5 IVRs to follow up → [Patient to-do](../patients/todo.md)
