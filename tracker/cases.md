@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 8 of 19 · updated Thu 11/12, 7:50 PM CT
+**BIOT Chicago West** · P11 · day 9 of 19 · updated Fri 11/13, 10:34 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,10 +13,12 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**48 entries · \$70,429** · 🟢 11 Ready · 🟡 12 Needs PO · 🔵 16 Submitted · 🟤 1 Clinic stock · ⚪ 8 In SFDC
+**50 entries · \$74,593** · 🟢 11 Ready · 🟡 14 Needs PO · 🔵 16 Submitted · 🟤 1 Clinic stock · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/13** | [**M.C.**](../case-sheets/mc-1113.md) 📄 · Alexian Ambulatory · Lucas<br>Stravix 3x6 · no PO yet · LYU-251697\_36006<details><summary><sub>Notes</sub></summary>Stravix follow up Fri 11/13 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C. A12: Stravix PL 3x6 LYU-251697\_36006 (exp 8/11/27) from the Alexian Ambulatory shelf, \$2,469.00 (Ascension rate, on AJ's case sheet). Grafted in Chi West 11/13 with AJ's case sheet photo (patient label covered on the copy). AJ switched M.C. from OASIS Wound to Stravix 3x6 in Chi West 11/13 and cleared the A# in that edit; the Grafted tap a few seconds later said A12, so it's filed as A12 until AJ says otherwise. Bill-only PO to come.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**S.W.**](../case-sheets/sw-1113.md) 📄 · Good Sam · Ayesh<br>Stravix 2x4 · no PO yet · LYU-260753\_24001<details><summary><sub>Notes</sub></summary>OR case Fri 11/13 at Good Sam (Dr. Ayesh), S.W.: Stravix PL 2x4 LYU-260753\_24001 (exp 3/16/28) from the Good Sam OR shelf (one of the two incoming 2x4 restock units), \$1,695 (Good Sam 2x4 rate). Grafted in Chi West 11/13 with the sticker and hospital label photo; case sheet made from the sticker (label left off). PO to come.</details> | \$1,695 | 🟡&nbsp;Needs&nbsp;PO |
 | **11/12** | [**M.A.**](../case-sheets/ma-1112.md) 📄 · NW Suburban F&A · Goldkind<br>Grafix 16mm · no PO yet · LYA-260256\_16017<details><summary><sub>Notes</sub></summary>App #3, Thu 11/12 9:45 AM (Elk Grove), Dr. Goldkind (Grafted tap in Chi West 11/12): Grafix 16mm LYA-260256\_16017 (exp 3/20/28) per the sticker on AJ's application sheet photo, \$190 (NWSFA 16mm rate). PO to come: no sale-order PO for this visit is on file yet (A1 and A2 were sale orders MA103026 and MA110526); confirm the PO. Case sheet made from the sticker (case-sheets/ma-1112).</details> | \$190 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**V.T.**](../case-sheets/vt-1112.md) 📄 · Alexian WCC · Halihan<br>Grafix 1.5x2 · no PO yet · LYA-260108\_15004<details><summary><sub>Notes</sub></summary>App #1 (new start), Thu 11/12 1:50 PM, Dr. Halihan: Grafix 1.5x2 LYA-260108\_15004 (exp 1/13/28) from the Alexian WCC shelf, \$600 (Alexian 1.5x2 rate; case sheet \$600). AJ's case sheet and application log photos from Chi West 11/12, with the Grafted tap (the tap said 16mm; the case sheet and log show 1.5x2, 3 cm2 used, 0 wasted, and AJ set her size to 1.5x2). Alexian ID 0003099658 (from the patient label). Bill-only PO by patient ID to come. Case sheet page: case-sheets/vt-1112.</details> | \$600 | 🟡&nbsp;Needs&nbsp;PO |
 | **11/11** | [**R.N.**](../case-sheets/rn-1111.md) 📄 · GlenOaks · McKanna<br>Stravix 3x6 ×5 · no PO yet · LYU-260665\_36001, LYU-260695\_36001, LYU-260664\_36001, LYU-260665\_36002, LYU-260664\_36002<details><summary><sub>Notes</sub></summary>OR case Wed 11/11 1:00 PM at GlenOaks (Dr. McKanna), Bill Only. 5 x Stravix PL 3x6 (5 x \$2,469.00 = \$12,345.00 per the AdventHealth Implant Post Case Form): LYU-260665\_36001, LYU-260695\_36001, LYU-260664\_36001, LYU-260665\_36002, LYU-260664\_36002 (exp 3/16/28), from the GlenOaks OR shelf. AJ's implant record photo from Chi West 11/11 (patient label covered on the copy: case-sheets/rn-1111). Bill-only PO to come. (AJ's Grafted tap in Chi West said 2x4 x1; the implant record shows 5 x 3x6, filed from the record.)</details> | \$12,345 | 🟡&nbsp;Needs&nbsp;PO |

@@ -2,13 +2,13 @@
 
 # Denied
 
-**BIOT Chicago West** · 125 patients · updated Thu 11/12, 7:50 PM CT
+**BIOT Chicago West** · 125 patients · updated Fri 11/13, 10:34 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;38](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 25](../patients/done.md) · **Denied 6**
@@ -49,6 +49,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;7:30&nbsp;AM** |   | New OR case Thu 11/12 7:30 AM at GlenOaks (Dr. McKanna), from Yvette's text (GlenOaks surgery) to AJ 11/10: STRAVIX for his debridement, the second case after Wed 11/11 1:00 PM. AJ replied he'll make sure there is enough on the shelf for Thursday and will be there. Patient initials and sizes to come. Not in projections until a size is given. |
+| **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/12&nbsp;7:30&nbsp;AM** |   | New OR case Thu 11/12 7:30 AM at GlenOaks (Dr. McKanna), from Yvette's text (GlenOaks surgery) to AJ 11/10: STRAVIX for his debridement, the second case after Wed 11/11 1:00 PM. AJ replied he'll make sure there is enough on the shelf for Thursday and will be there. Patient initials and sizes to come. Not in projections until a size is given. |
 
 </details>

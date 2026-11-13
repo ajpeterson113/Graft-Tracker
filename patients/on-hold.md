@@ -2,13 +2,13 @@
 
 # On hold
 
-**BIOT Chicago West** · 125 patients · updated Thu 11/12, 7:50 PM CT
+**BIOT Chicago West** · 125 patients · updated Fri 11/13, 10:34 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;38](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 39](../patients/or.md) · [Done 25](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -20,8 +20,8 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **D.F.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;11/12&nbsp;1:00&nbsp;PM · Caroline&nbsp;covering** | 🟢 6 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM<br>Back on AJ's calendar Thu 11/5 2:00 PM (A7, GRAFIX 5x5 or 3x4; checked 11/2) — verify with the office. Was on hold 10/29. A4 Thu 10/22: 5x5 from the Good Sam shelf (stayed on 5x5, did not move down to 3x4). A3 10/8: 5x5 (Good Sam ordered it on PO006001505). Stravix on 9/10. |
 | **C.H.** | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Bach | 🟢 0 | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |
+| **D.F.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Luetkehans<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/12&nbsp;1:00&nbsp;PM** | 🟢 6 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM<br>Back on AJ's calendar Thu 11/5 2:00 PM (A7, GRAFIX 5x5 or 3x4; checked 11/2) — verify with the office. Was on hold 10/29. A4 Thu 10/22: 5x5 from the Good Sam shelf (stayed on 5x5, did not move down to 3x4). A3 10/8: 5x5 (Good Sam ordered it on PO006001505). Stravix on 9/10. |
 
 </details>
 
