@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 9 of 19 · updated Fri 11/13, 3:53 PM CT
+**BIOT Chicago West** · P11 · day 10 of 19 · updated Sat 11/14, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -32,21 +32,21 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 58 days | 0003068368 | \$600 |
-| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 35 days |   | \$1,020 |
-| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 30 days |   | \$190 |
-| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 7 days |   | \$1,650 |
-| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 7 days |   | \$1,650 |
-| 11/6 | [T.B.](../case-sheets/tb-1106.md) | St. Alexius · Singh | Stravix 3x6 ×3 | 🟠 7 days |   | \$7,407 |
-| 11/10 | [T.P.](../case-sheets/tp-1110.md) | Elmhurst · Farhan | Stravix 2x4 | 🟠 3 days |   | \$1,767 |
-| 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | 🟠 2 days |   | \$12,345 |
-| 11/11 | [S.G.](../case-sheets/sg-1111.md) | Romano Lombard · Rojas | Grafix 3x3 | 🟠 2 days |   | \$855 |
-| 11/11 | [D.M.](../case-sheets/dm-1111.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | 🟠 2 days |   | \$5,311 |
-| 11/12 | [M.A.](../case-sheets/ma-1112.md) | NW Suburban F&A · Goldkind | Grafix 16mm | 🟠 1 day |   | \$190 |
-| 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | 🟠 1 day | 0003099658 | \$600 |
-| 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | — |   | \$2,469 |
-| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | — |   | \$1,695 |
-| 11/13 | [G.H.](../case-sheets/gh-1113.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003095154 | \$360 |
+| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 59 days | 0003068368 | \$600 |
+| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 36 days |   | \$1,020 |
+| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 31 days |   | \$190 |
+| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 8 days |   | \$1,650 |
+| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 8 days |   | \$1,650 |
+| 11/6 | [T.B.](../case-sheets/tb-1106.md) | St. Alexius · Singh | Stravix 3x6 ×3 | 🟠 8 days |   | \$7,407 |
+| 11/10 | [T.P.](../case-sheets/tp-1110.md) | Elmhurst · Farhan | Stravix 2x4 | 🟠 4 days |   | \$1,767 |
+| 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | 🟠 3 days |   | \$12,345 |
+| 11/11 | [S.G.](../case-sheets/sg-1111.md) | Romano Lombard · Rojas | Grafix 3x3 | 🟠 3 days |   | \$855 |
+| 11/11 | [D.M.](../case-sheets/dm-1111.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | 🟠 3 days |   | \$5,311 |
+| 11/12 | [M.A.](../case-sheets/ma-1112.md) | NW Suburban F&A · Goldkind | Grafix 16mm | 🟠 2 days |   | \$190 |
+| 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | 🟠 2 days | 0003099658 | \$600 |
+| 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | 🟠 1 day |   | \$2,469 |
+| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | 🟠 1 day |   | \$1,695 |
+| 11/13 | [G.H.](../case-sheets/gh-1113.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 1 day | 0003095154 | \$360 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 16 · \$18,188
@@ -86,13 +86,13 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 ## 📦 Stock · 3
 
 > [!CAUTION]
-> - **Grafix 3x4: 1 expire 12/18/26** · 1 patient(s) on it · \$6,840 of consignment · [Alexian WCC](stock.md#alexian)
+> - **Grafix 3x4: 2 expire 12/18/26** · 1 patient(s) on it · \$6,840 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
 > - **Stravix 3x6: 6 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 3 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 30
+## 👥 Patients · 32
 
-3 to verify · 22 with no follow-up booked · 5 IVRs to follow up → [Patient to-do](../patients/todo.md)
+3 to verify · 24 with no follow-up booked · 5 IVRs to follow up → [Patient to-do](../patients/todo.md)
