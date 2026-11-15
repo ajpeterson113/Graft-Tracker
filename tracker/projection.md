@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 10 of 19 · updated Sun 11/15, 6:58 AM CT
+**BIOT Chicago West** · P11 · day 10 of 19 · updated Sun 11/15, 5:56 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -14,12 +14,12 @@
 | \+ Projected Grafix, net of WCC stock | \$17,578 | \$12,617 |
 | \+ Upcoming Stravix | \$10,209 | \$6,446 |
 | \+ Potential new starts | \$7,702 | \$0 |
-| \+ OASIS reorders (estimated) | \$6,450 | \$4,244 |
-| **P11 forecast** | **\$116,892** | **\$98,260** |
+| \+ OASIS reorders (estimated) | \$7,222 | \$5,016 |
+| **P11 forecast** | **\$117,663** | **\$99,032** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 126% | 106% |
-| Gap to target | ✅ over by \$24,001 | ✅ over by \$5,369 |
-| **Projected commission** | **\$11,689** | **\$9,826** |
+| % of target | 127% | 107% |
+| Gap to target | ✅ over by \$24,772 | ✅ over by \$6,141 |
+| **Projected commission** | **\$11,766** | **\$9,903** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/9.</sub>
@@ -35,15 +35,15 @@
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [St. Alexius](#st-alexius) | \$7,407 | \$4,938 | \$3,106 | **\$12,345** | **\$10,513** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$7,042 | \$4,631 | \$2,545 | **\$11,673** | **\$9,587** |
+| [NW Suburban F&A](#nw-suburban-f-a) | \$4,154 | \$3,447 | \$1,152 | **\$7,601** | **\$5,306** |
 | [Alexian Ambulatory](#x) | \$7,595 | \$0 | \$0 | **\$7,595** | **\$7,595** |
-| [NW Suburban F&A](#nw-suburban-f-a) | \$4,154 | \$2,675 | \$380 | **\$6,829** | **\$4,534** |
 | [Elmhurst](#elmhurst) | \$4,883 | \$0 | \$0 | **\$4,883** | **\$4,883** |
 | [Romano Lombard](#romano-lombard) | \$2,090 | \$1,710 | \$1,710 | **\$3,800** | **\$3,800** |
 | [Sherman](#sherman) | — | \$2,656 | \$1,695 | **\$2,656** | **\$1,695** |
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$74,953** | **\$41,939** | **\$23,307** | **\$116,892** | **\$98,260** |
+| **Total** | **\$74,953** | **\$42,710** | **\$24,079** | **\$117,663** | **\$99,032** |
 
 
 ## Account by account
@@ -199,21 +199,8 @@ Sold so far: **\$7,042** · 6 cases
 
 </details>
 
-<a name="x"></a>
-<details><summary><b>Alexian Ambulatory</b> · upside &#36;7,595 · downside &#36;7,595</summary>
-
-Sold so far: **\$7,595** · 3 cases
-
-**Potential new starts**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **H.P. · Dr. Ramani** | Started: A1 Thu 10/22 1:30 PM (case sheet in the Patients app, lot LB1751182). | — | — |   |
-
-</details>
-
 <a name="nw-suburban-f-a"></a>
-<details><summary><b>NW Suburban F&amp;A</b> · upside &#36;6,829 · downside &#36;4,534</summary>
+<details><summary><b>NW Suburban F&amp;A</b> · upside &#36;7,601 · downside &#36;5,306</summary>
 
 Sold so far: **\$4,154** · 6 cases
 
@@ -236,9 +223,22 @@ Sold so far: **\$4,154** · 6 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **Dr. Adelstein / Dr. Hussain** | OASIS Ultra 3x3.5 · 0 up / 0 down boxes · C.C., G.K., R.E. (R.D., S.B. on hold) | — | — |   |
-| **Dr. Adelstein / Dr. Goldkind** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · J.M., P.M., C.T., E.P. (+ L.W. from wk of 10/12) | — | — |   |
-| **Dr. Goldkind** | OASIS Ultra 5x7 · 0 up / 0 down boxes · M.Z. (L) | — | — |   |
+| **Dr. Adelstein / Dr. Hussain** | OASIS Ultra 3x3.5 · 1 up / 1 down box · C.C., G.K., R.E. (R.D., S.B. on hold) | \$772 | \$772 | NWSFA shelf count 11/15 (AJ's NWSFA schedule photo): 5 OASIS Ultra (tri-layer) 3x3.5 on hand. |
+| **Dr. Adelstein / Dr. Goldkind** | OASIS Wound 3x3.5 · 0 up / 0 down boxes · P.M., E.P., L.W. (J.M. on hold, booked Wed 11/18; C.T. done) | — | — |   |
+| **Dr. Goldkind** | OASIS Ultra 3x7 · 0 up / 0 down boxes · M.Z. (L) | — | — |   |
+
+</details>
+
+<a name="x"></a>
+<details><summary><b>Alexian Ambulatory</b> · upside &#36;7,595 · downside &#36;7,595</summary>
+
+Sold so far: **\$7,595** · 3 cases
+
+**Potential new starts**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **H.P. · Dr. Ramani** | Started: A1 Thu 10/22 1:30 PM (case sheet in the Patients app, lot LB1751182). | — | — |   |
 
 </details>
 
@@ -317,7 +317,7 @@ Sold so far: **\$190** · 1 case
 | Less Good Sam WCC stock already sold | 8 | -\$6,513 | -\$4,282 |
 | Upcoming Stravix | 6 | \$10,209 | \$6,446 |
 | Potential new starts | 15 | \$7,702 | \$0 |
-| OASIS reorders (estimated) | 9 | \$6,450 | \$4,244 |
+| OASIS reorders (estimated) | 9 | \$7,222 | \$5,016 |
 
 
 <details><summary><b>OASIS patients</b> · 20 · reorders come from the OASIS lines above</summary>
@@ -350,4 +350,4 @@ Sold so far: **\$190** · 1 case
 
 <sub>Good Sam WCC stock on hand (3 x 16mm, 3 x 3x4, 0 x 5x5, 1 x 2x3, 0 x 1.5x2 after the 11/5 visits, from the 11/5 shelf photo) and Elgin clinic stock (3 x 3x3, 2 x 2x3, 1 x 5x5), already sold in P10: covers projected P11 visits, so not counted twice. Elgin PO 712063518 (11/10) adds 1 x 2x3 and 1 x 1.5x2 (and one OASIS Wound 3x3.5 box) to the Elgin shelf</sub>
 
-<sub>OASIS reorders (estimated, by the box): NWSFA from the 10/30 shelf count; Alexian WCC comes from the Stock tab; Good Sam from the shelf as of 10/29 (on hand vs weekly use, from this week through period end). Other accounts still wait for stock levels</sub>
+<sub>OASIS reorders (estimated, by the box): NWSFA from the 11/15 shelf count; Alexian WCC comes from the Stock tab; Good Sam from the shelf as of 10/29 (on hand vs weekly use, from this week through period end). Other accounts still wait for stock levels</sub>

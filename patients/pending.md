@@ -2,13 +2,13 @@
 
 # Pending
 
-**BIOT Chicago West** · 125 patients · updated Sun 11/15, 6:58 AM CT
+**BIOT Chicago West** · 125 patients · updated Sun 11/15, 5:56 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · **Pending 5** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 26](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -39,7 +39,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.D.** | GRAFIX<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/29&nbsp;2:45&nbsp;PM** |   | Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
+| **J.D.** | GRAFIX · Dr.&nbsp;Hussain<br>**Next&nbsp;Mon&nbsp;11/16&nbsp;11:00&nbsp;AM · Hoffman&nbsp;Estates** |   | NWSFA schedule wk of 11/16 (AJ 11/15): Mon 11/16 11:00 AM Dr. Hussain (HE). Still pending pre-determination per the NWSFA office note 10/30. NWSFA schedule wk of 10/26: Wed 10/29 2:45 PM, pending pre-determination (provider crossed out on the list). Pending predetermination for Grafix (NWSFA schedule wk of 10/19). Provider not given. |
 
 </details>
 
