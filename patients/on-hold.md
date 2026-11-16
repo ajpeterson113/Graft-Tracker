@@ -2,16 +2,16 @@
 
 # On hold
 
-**BIOT Chicago West** · 125 patients · updated Sun 11/15, 5:56 PM CT
+**BIOT Chicago West** · 125 patients · updated Sun 11/15, 7:52 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 5](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 39](../patients/or.md) · [Done 26](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 4](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 39](../patients/or.md) · [Done 26](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -40,7 +40,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.M.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;11/18&nbsp;12:00&nbsp;PM · Elk&nbsp;Grove** | 🟢 3 | NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 12:00 PM Dr. Adelstein (EG). Still on hold in the app; status not changed. On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris. NWSFA schedule wk of 10/26: Wed 10/28 12:45 PM Dr. Adelstein (EG). NWSFA schedule wk of 10/19: Wed 10/21 12:30 PM Dr. Adelstein (HE). A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
+| **J.M.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;11/18&nbsp;12:00&nbsp;PM · Elk&nbsp;Grove · Not&nbsp;covered&nbsp;covering** | 🟢 3 | NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 12:00 PM Dr. Adelstein (EG). Still on hold in the app; status not changed. On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris. NWSFA schedule wk of 10/26: Wed 10/28 12:45 PM Dr. Adelstein (EG). NWSFA schedule wk of 10/19: Wed 10/21 12:30 PM Dr. Adelstein (HE). A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
 | **F.A.** | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/13** | 🔴 12 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris; office was running a new IVR 10/16. NWSFA schedule wk of 10/26: Tue 10/27 11:30 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Tue 10/20 11:30 AM Dr. Adelstein (HE) — office running IVR 10/16. A11 10/6 (A10 the week of 9/28, exact date not recorded) |
 | **J.R.** | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
 | **R.D.** | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🟡 10 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
