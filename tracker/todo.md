@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 10 of 19 · updated Sun 11/15, 7:52 PM CT
+**BIOT Chicago West** · P11 · day 10 of 19 · updated Mon 11/16, 7:01 AM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -32,21 +32,21 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
-| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 60 days | 0003068368 | \$600 |
-| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 37 days |   | \$1,020 |
-| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 32 days |   | \$190 |
-| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 9 days |   | \$1,650 |
-| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 9 days |   | \$1,650 |
-| 11/6 | [T.B.](../case-sheets/tb-1106.md) | St. Alexius · Singh | Stravix 3x6 ×3 | 🟠 9 days |   | \$7,407 |
-| 11/10 | [T.P.](../case-sheets/tp-1110.md) | Elmhurst · Farhan | Stravix 2x4 | 🟠 5 days |   | \$1,767 |
-| 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | 🟠 4 days |   | \$12,345 |
-| 11/11 | [S.G.](../case-sheets/sg-1111.md) | Romano Lombard · Rojas | Grafix 3x3 | 🟠 4 days |   | \$855 |
-| 11/11 | [D.M.](../case-sheets/dm-1111.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | 🟠 4 days |   | \$5,311 |
-| 11/12 | [M.A.](../case-sheets/ma-1112.md) | NW Suburban F&A · Goldkind | Grafix 16mm | 🟠 3 days |   | \$190 |
-| 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | 🟠 3 days | 0003099658 | \$600 |
-| 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | 🟠 2 days |   | \$2,469 |
-| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | 🟠 2 days |   | \$1,695 |
-| 11/13 | [G.H.](../case-sheets/gh-1113.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 2 days | 0003095154 | \$360 |
+| 9/16 | [A.P.](../case-sheets/ap-0916.md) | Alexian WCC · Hussain | Grafix 1.5x2 | 🔴 61 days | 0003068368 | \$600 |
+| 10/9 | [R.C.](../case-sheets/rc-1009-3x4.md) | Central DuPage · Luetkehans | Grafix 3x4 | 🔴 38 days |   | \$1,020 |
+| 10/14 | [M.W.](../case-sheets/mw-1014.md) | Romano Lombard · Rojas | Grafix 16mm | 🔴 33 days |   | \$190 |
+| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 10 days |   | \$1,650 |
+| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 10 days |   | \$1,650 |
+| 11/6 | [T.B.](../case-sheets/tb-1106.md) | St. Alexius · Singh | Stravix 3x6 ×3 | 🟠 10 days |   | \$7,407 |
+| 11/10 | [T.P.](../case-sheets/tp-1110.md) | Elmhurst · Farhan | Stravix 2x4 | 🟠 6 days |   | \$1,767 |
+| 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | 🟠 5 days |   | \$12,345 |
+| 11/11 | [S.G.](../case-sheets/sg-1111.md) | Romano Lombard · Rojas | Grafix 3x3 | 🟠 5 days |   | \$855 |
+| 11/11 | [D.M.](../case-sheets/dm-1111.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | 🟠 5 days |   | \$5,311 |
+| 11/12 | [M.A.](../case-sheets/ma-1112.md) | NW Suburban F&A · Goldkind | Grafix 16mm | 🟠 4 days |   | \$190 |
+| 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | 🟠 4 days | 0003099658 | \$600 |
+| 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | 🟠 3 days |   | \$2,469 |
+| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | 🟠 3 days |   | \$1,695 |
+| 11/13 | [G.H.](../case-sheets/gh-1113.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 3 days | 0003095154 | \$360 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 16 · \$18,188

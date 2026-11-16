@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 125 patients · updated Sun 11/15, 7:52 PM CT
+**BIOT Chicago West** · 125 patients · updated Mon 11/16, 7:01 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,15 +16,15 @@
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 
-**Next week · Nov 16–20** · 🟠 to verify · 🔴 no follow-up booked
+**This week · Nov 16–20** · 🟠 to verify · 🔴 no follow-up booked
 
-| [Mon 16](#mon) | [Tue 17](#tue) | [Wed 18](#wed) | [Thu 19](#thu) | [Fri 20](#fri) |
+| [Mon 16 · today](#mon) | [Tue 17](#tue) | [Wed 18](#wed) | [Thu 19](#thu) | [Fri 20](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
 | **8** | **9** | **8** 🔴 | **10** 🟠 🔴 | **7** 🟠 |
 
 
 <a name="mon"></a>
-### Monday, Nov 16
+### Monday, Nov 16 · Today
 
 8 visits · **Grafts:** OASIS Ultra 3x3.5 ×3 · GRAFIX 3x4 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7 · OASIS Wound 3x3.5 · **Covering:** Not covered 8
 

@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 10 of 19 · updated Sun 11/15, 7:52 PM CT
+**BIOT Chicago West** · P11 · day 10 of 19 · updated Mon 11/16, 7:01 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -79,7 +79,7 @@ Sold so far: **\$13,162** · 18 cases
 | **V.T. · Dr. Halihan** | 1.5x2 · Weekly · 2 visits · from 11/19 | \$1,200 | \$0 | Approved in the Patients app, no size or start date yet, so nothing projected. |
 | **G.M. · Dr. Goldkind** | PA approved 10/27/26–2/15/27 (BCBS Illinois; OASIS Wound up to 130 sq cm / 12 applications, Dr. Goldkind). | — | — |   |
 | **D.L. · Dr. Joshi** | Approved (OASIS Burn, Dr. Joshi). | — | — |   |
-| **C.B. · Dr. Goldkind** | 2x3 · Weekly · 2 visits · from 11/16 | \$1,851 | \$0 | Started Mon 11/9: A1 Grafix 2x3 LYA-250558\_23005 at 2:15 PM (Grafted in Chi West 11/9; November row 40, in current sales, PO to come; Alexian ID 0003103740). |
+| **C.B. · Dr. Goldkind** | 2x3 · Weekly · 2 visits | \$1,851 | \$0 | Started Mon 11/9: A1 Grafix 2x3 LYA-250558\_23005 at 2:15 PM (Grafted in Chi West 11/9; November row 40, in current sales, PO to come; Alexian ID 0003103740). |
 
 **OASIS reorders (estimated)**
 

@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 10 of 19 · updated Sun 11/15, 7:52 PM CT
+**BIOT Chicago West** · P11 · day 10 of 19 · updated Mon 11/16, 7:01 AM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -29,9 +29,9 @@
 </table>
 
 
-### Next week · Nov 16–20
+### This week · Nov 16–20
 
-| [Mon 11/16](patients/week.md#mon) | [Tue 11/17](patients/week.md#tue) | [Wed 11/18](patients/week.md#wed) | [Thu 11/19](patients/week.md#thu) | [Fri 11/20](patients/week.md#fri) |
+| [Mon 11/16 · today](patients/week.md#mon) | [Tue 11/17](patients/week.md#tue) | [Wed 11/18](patients/week.md#wed) | [Thu 11/19](patients/week.md#thu) | [Fri 11/20](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
 | **8** visits | **9** visits | **8** visits 🔴 | **10** visits 🟠 🔴 | **7** visits 🟠 |
 
@@ -102,7 +102,7 @@ Scheduled visits this week count until they're filed; once a visit is in Novembe
 
 |  | File | Updated |
 | :-: | :-- | :-- |
-| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-15.xlsx · Sun 11/15, 7:52 PM CT |
+| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-16.xlsx · Mon 11/16, 7:00 AM CT |
 | ⬇ | [Patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) | from the Chi West Patients app |
 | ⬇ | [Target workbook (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx) | surgeon targets |
 
