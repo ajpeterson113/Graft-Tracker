@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 10 of 19 · updated Mon 11/16, 7:01 AM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -67,7 +67,7 @@ Sold so far: **\$13,162** · 18 cases
 | **C.P. · Dr. Joshi** | 1.5x2 · Weekly · 2 visits | \$1,200 | \$1,200 | A3 Mon 11/9 (1.5x2 LYA-250668\_15009, November row 37, waiting on the PO) is in current sales; 3 applications to date \| P11: weekly 1.5x2 Mondays from 11/2 (A2) \| Started Mon 10/26 (A1, 1.5x2 LYA-260068\_15002, case sheet… |
 | **O.O. · Dr. Vedantham** | 16mm · Weekly · 2 visits → 16mm ×1 | \$720 | \$360 | P11: A5 Tue 11/10 16mm (November row 45); next assumed Tue 11/17 (weekly, not confirmed with the office) \| P11: weekly 16mm Tuesdays from 11/3 (A4); 3 applications to date \| A3 Tue 10/27 filed (LYA-260221\_16002). |
 | **D.S. · Dr. Joshi** | 3x4 · Weekly · 2 visits | \$2,280 | \$2,280 | P11: A4 Tue 11/10 at 3x4 (AJ changed the size to 3x4 in Chi West 11/10; November row 42, \$1,140 per the case sheet); weekly 3x4 Tuesdays from 11/17; 4 applications to date \| P11: weekly 5x5 Tuesdays from 11/3 (A3); 2 ap… |
-| **D.K. · Dr. Lucas** | 16mm · Weekly · 2 visits · from 11/17 | \$720 | \$720 | P11: weekly 16mm Thursdays from 11/5 (A3); 2 applications to date \| A2 Thu 10/29 1:15 PM (LYA-260220\_16005, case sheet in the Patients app) is in October sales; A1 Thu 10/22 (LYA-260221\_16012). |
+| **D.K. · Dr. Lucas** | 16mm · Weekly · 2 visits | \$720 | \$720 | P11: weekly 16mm Thursdays from 11/5 (A3); 2 applications to date \| A2 Thu 10/29 1:15 PM (LYA-260220\_16005, case sheet in the Patients app) is in October sales; A1 Thu 10/22 (LYA-260221\_16012). |
 
 **Potential new starts**
 
@@ -125,7 +125,7 @@ Sold so far: **\$12,407** · 4 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **R.T. · Dr. Bach** | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit). | — | — |   |
-| **P.P. · Dr. Patni** | 16mm (assumed) · Weekly · 2 visits · from 11/17 | \$851 | \$0 | A1 Tue 11/3 and A2 Tue 11/10 16mm from the Good Sam WCC shelf (no PO, no new sale); weekly from Tue 11/17 \| Approved; first visit Tue 11/10 per the Patients app (the 10/27 start was never logged). |
+| **P.P. · Dr. Patni** | 16mm (assumed) · Weekly · 2 visits | \$851 | \$0 | A1 Tue 11/3 and A2 Tue 11/10 16mm from the Good Sam WCC shelf (no PO, no new sale); weekly from Tue 11/17 \| Approved; first visit Tue 11/10 per the Patients app (the 10/27 start was never logged). |
 | **Z.G. · Dr. Ayesh** | 16mm · Biweekly · 1 visit · from 11/19 | \$426 | \$0 | Pending (new patient AJ added in Chi West 11/5): GRAFIX 16mm every 2 weeks with Dr. Ayesh, first visit Thu 11/19 (time TBD). |
 
 **OASIS reorders (estimated)**

@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 125 patients · updated Mon 11/16, 7:01 AM CT
+**BIOT Chicago West** · 125 patients · updated Tue 11/17, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 4](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 26](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -18,13 +18,13 @@
 
 **This week · Nov 16–20** · 🟠 to verify · 🔴 no follow-up booked
 
-| [Mon 16 · today](#mon) | [Tue 17](#tue) | [Wed 18](#wed) | [Thu 19](#thu) | [Fri 20](#fri) |
+| [Mon 16](#mon) | [Tue 17 · today](#tue) | [Wed 18](#wed) | [Thu 19](#thu) | [Fri 20](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
 | **8** | **9** | **8** 🔴 | **10** 🟠 🔴 | **7** 🟠 |
 
 
 <a name="mon"></a>
-### Monday, Nov 16 · Today
+### Monday, Nov 16
 
 8 visits · **Grafts:** OASIS Ultra 3x3.5 ×3 · GRAFIX 3x4 ×2 · GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7 · OASIS Wound 3x3.5 · **Covering:** Not covered 8
 
@@ -41,7 +41,7 @@
 
 
 <a name="tue"></a>
-### Tuesday, Nov 17
+### Tuesday, Nov 17 · Today
 
 9 visits · **Grafts:** GRAFIX 16mm ×6 · GRAFIX 2x3 · GRAFIX 3x3 · GRAFIX 3x4 · **Covering:** Not covered 9
 
