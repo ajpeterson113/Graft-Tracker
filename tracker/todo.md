@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:14 AM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 10:53 AM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -28,7 +28,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/10 | [M.L.](../case-sheets/ml-1110.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000287459 | \$360 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 15 · \$38,109
+## 🟡 Waiting on a PO · 17 · \$39,609
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -47,6 +47,8 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | 🟠 4 days |   | \$2,469 |
 | 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | 🟠 4 days |   | \$1,695 |
 | 11/13 | [G.H.](../case-sheets/gh-1113.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 4 days | 0003095154 | \$360 |
+| 11/17 | [D.S.](../case-sheets/ds-1117.md) | Alexian WCC · Joshi | Grafix 3x4 | — | 0003081837 | \$1,140 |
+| 11/17 | [J.L.](../case-sheets/jl-1117.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003074927 | \$360 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 16 · \$18,188
@@ -83,16 +85,17 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
 
 <a name="stock"></a>
-## 📦 Stock · 3
+## 📦 Stock · 4
 
 > [!CAUTION]
-> - **Grafix 3x4: 2 expire 12/18/26** · 1 patient(s) on it · \$6,840 of consignment · [Alexian WCC](stock.md#alexian)
+> - **Grafix 3x4: 1 expire 12/18/26** · 1 patient(s) on it · \$5,700 of consignment · [Alexian WCC](stock.md#alexian)
 
 > [!WARNING]
+> - **Grafix 16mm: 4 on hand (target 5–15)** · Order 11 now · runs out week of 11/16 · [Alexian WCC](stock.md#alexian)
 > - **Stravix 3x6: 6 on the shelf (target 7)** · [St. Alexius OR](stock.md#stalexius)
 > - **Stravix 2x4: 3 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 29
+## 👥 Patients · 31
 
-3 to verify · 22 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)
+8 to verify · 19 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)

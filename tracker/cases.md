@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:14 AM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 10:53 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,10 +13,12 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**51 entries · \$74,953** · 🟢 11 Ready · 🟡 15 Needs PO · 🔵 16 Submitted · 🟤 1 Clinic stock · ⚪ 8 In SFDC
+**53 entries · \$76,453** · 🟢 11 Ready · 🟡 17 Needs PO · 🔵 16 Submitted · 🟤 1 Clinic stock · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/17** | [**D.S.**](../case-sheets/ds-1117.md) 📄 · Alexian WCC · Joshi<br>Grafix 3x4 · no PO yet · LYA-250008\_34005<details><summary><sub>Notes</sub></summary>App #5, Tue 11/17 9:15 AM, Dr. Joshi: Grafix 3x4 LYA-250008\_34005 (exp 12/18/26) from the Alexian WCC shelf, \$1,140 (case sheet \$1,140). AJ's case sheet photo from Chi West 11/17, with the Grafted tap. Bill-only PO to come (Alexian ID 0003081837). Case sheet page: case-sheets/ds-1117.</details> | \$1,140 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**J.L.**](../case-sheets/jl-1117.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260294\_16020<details><summary><sub>Notes</sub></summary>App #1 on the right foot (AJ: "A#1 on right side"; left foot had A1-A5 through 10/27 and healed 11/3), Tue 11/17 9:40 AM, Dr. Lucas: Grafix 16mm LYA-260294\_16020 (exp 3/20/28) from the Alexian WCC shelf (11/9 restock), \$360 (case sheet \$360). AJ's case sheet photo from Chi West 11/17, with the Grafted tap. Bill-only PO to come (Alexian ID 0003074927). Case sheet page: case-sheets/jl-1117.</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 | **11/13** | [**M.C.**](../case-sheets/mc-1113.md) 📄 · Alexian Ambulatory · Lucas<br>Stravix 3x6 · no PO yet · LYU-251697\_36006<details><summary><sub>Notes</sub></summary>Stravix follow up Fri 11/13 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C. A12: Stravix PL 3x6 LYU-251697\_36006 (exp 8/11/27) from the Alexian Ambulatory shelf, \$2,469.00 (Ascension rate, on AJ's case sheet). Grafted in Chi West 11/13 with AJ's case sheet photo (patient label covered on the copy). AJ switched M.C. from OASIS Wound to Stravix 3x6 in Chi West 11/13 and cleared the A# in that edit; the Grafted tap a few seconds later said A12, so it's filed as A12 until AJ says otherwise. Bill-only PO to come.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**S.W.**](../case-sheets/sw-1113.md) 📄 · Good Sam · Ayesh<br>Stravix 2x4 · no PO yet · LYU-260753\_24001<details><summary><sub>Notes</sub></summary>OR case Fri 11/13 at Good Sam (Dr. Ayesh), S.W.: Stravix PL 2x4 LYU-260753\_24001 (exp 3/16/28) from the Good Sam OR shelf (one of the two incoming 2x4 restock units), \$1,695 (Good Sam 2x4 rate). Grafted in Chi West 11/13 with the sticker and hospital label photo; case sheet made from the sticker (label left off). PO to come.</details> | \$1,695 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**G.H.**](../case-sheets/gh-1113.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260294\_16021<details><summary><sub>Notes</sub></summary>App #2, Fri 11/13 12:40 PM, Dr. Lucas: Grafix 16mm LYA-260294\_16021 (exp 3/20/28) from the Alexian WCC shelf (11/9 restock), \$360 (Alexian 16mm rate; case sheet \$360). AJ's case sheet photo from Chi West 11/13, with the Grafted tap. Bill-only PO to come (Alexian ID 0003095154).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |

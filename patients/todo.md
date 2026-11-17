@@ -2,32 +2,37 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 125 patients · updated Tue 11/17, 9:14 AM CT
+**BIOT Chicago West** · 125 patients · updated Tue 11/17, 10:53 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;125](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;31**</ins> |
 |:-:|:-:|:-:|
 
-[Grafting 38](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 4](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 26](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 4](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 39](../patients/or.md) · [Done 27](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="verify"></a>
 
-## 🟠 Verify · 3
+## 🟠 Verify · 8
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
 | **J.B.** | Alexian WCC · Adelstein | GRAFIX 2x3 | Not confirmed with the office yet: Thu 11/19 8:00 AM |
+| **C.B.** | Alexian WCC · Goldkind | GRAFIX 2x3 | Not confirmed with the office yet: Mon 11/23 2:30 PM |
 | **V.T.** | Alexian WCC · Halihan | GRAFIX 1.5x2 | Not confirmed with the office yet: Thu 11/19 2:15 PM |
+| **B.P.** | Alexian WCC · Joshi | OASIS Burn Oasis burn 3x7 | Not confirmed with the office yet: Mon 11/23 12:50 PM |
+| **C.P.** | Alexian WCC · Joshi | GRAFIX 1.5x2 | Not confirmed with the office yet: Mon 11/23 1:15 PM |
+| **D.S.** | Alexian WCC · Joshi | GRAFIX 3x4 | Not confirmed with the office yet: Tue 11/24 9:15 AM |
 | **G.H.** | Alexian WCC · Lucas | GRAFIX | Not confirmed with the office yet: Fri 11/20 12:40 PM |
+| **J.L.** | Alexian WCC · Lucas | GRAFIX 16mm | Not confirmed with the office yet: Tue 11/24 9:40 AM |
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 22
+## 🔴 No Follow-Up · 19
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -39,9 +44,6 @@
 | **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/19 2:45 PM · usually Thu |
 | **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/19 2:00 PM · usually Thu |
 | **P.P.** | Good Sam · Patni | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Tue 11/17 9:00 AM · usually Tue |
-| **C.B.** | Alexian WCC · Goldkind | GRAFIX 2x3 | Last appt 11/16 passed, nothing new booked · usually Mon |
-| **B.P.** | Alexian WCC · Joshi | OASIS Burn Oasis burn 3x7 | Last appt 11/16 passed, nothing new booked · usually Mon |
-| **C.P.** | Alexian WCC · Joshi | GRAFIX 1.5x2 | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **M.C.** | Alexian Ambulatory · Lucas | STRAVIX 3x6 | Verify: Assumed weekly (AJ 11/6): Fri 9:45 AM · usually Fri |
 | **H.P.** | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/6): Thu 11/19 1:30 PM · usually Thu |
 | **C.C.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
