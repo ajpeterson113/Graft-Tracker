@@ -2,16 +2,16 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 10:53 AM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 12:52 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;28](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$76,453 | \$76,453 |
-| \+ Projected Grafix, net of WCC stock | \$10,426 | \$8,482 |
+| Sold so far (November tab) | \$77,173 | \$77,173 |
+| \+ Projected Grafix, net of WCC stock | \$9,706 | \$7,762 |
 | \+ Upcoming Stravix | \$10,209 | \$6,446 |
 | \+ Potential new starts | \$6,577 | \$0 |
 | \+ OASIS reorders (estimated) | \$7,222 | \$5,016 |
@@ -30,7 +30,7 @@
 
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
-| [Alexian WCC](#alexian-wcc) | \$14,662 | \$12,327 | \$5,966 | **\$26,989** | **\$20,628** |
+| [Alexian WCC](#alexian-wcc) | \$15,382 | \$11,607 | \$5,246 | **\$26,989** | **\$20,628** |
 | [Good Sam](#good-sam) | \$12,407 | \$7,506 | \$4,669 | **\$19,912** | **\$17,076** |
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [St. Alexius](#st-alexius) | \$7,407 | \$4,938 | \$3,106 | **\$12,345** | **\$10,513** |
@@ -43,7 +43,7 @@
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$76,453** | **\$34,433** | **\$19,943** | **\$110,887** | **\$96,397** |
+| **Total** | **\$77,173** | **\$33,713** | **\$19,223** | **\$110,887** | **\$96,397** |
 
 
 ## Account by account
@@ -51,7 +51,7 @@
 <a name="alexian-wcc"></a>
 <details><summary><b>Alexian WCC</b> · upside &#36;26,989 · downside &#36;20,628</summary>
 
-Sold so far: **\$14,662** · 20 cases
+Sold so far: **\$15,382** · 22 cases
 
 **Weekly and biweekly patients**
 
@@ -60,14 +60,14 @@ Sold so far: **\$14,662** · 20 cases
 | **J.B. · Dr. Adelstein** | 2x3 · Weekly · 2 visits | \$1,851 | \$1,851 | P11: A2 Thu 11/5 (2x3 LYA-250516\_23004) is in November sales; weekly 2x3 Thursdays from 11/12 (A3); 2 applications to date \| P11: weekly 2x3 Thursdays from 11/5 (A2); 1 application to date \| New Grafix start (the second… |
 | **D.G. · Dr. Lucas** | DONE 11/17 (AJ, Chi West: healed, not grafted Tue 11/17); no more visits projected. | — | — |   |
 | **J.L. · Dr. Lucas** | 16mm · Weekly · 1 visit | \$360 | \$360 | P11: A1 on the right foot Tue 11/17 (November row 61; AJ set A#1, left foot A1-A5 healed 11/3); weekly 16mm Tuesdays, Alexian cap 8 \| P11: not grafted Tue 11/10 (insurance: rerunning for Grafix for the right wound); nex… |
-| **M.L. · Dr. Joshi** | 16mm · Weekly · 1 visit | \$360 | \$360 | P11: A7 Tue 11/10 16mm (November row 46); next assumed Tue 11/17 (weekly, not confirmed with the office); Alexian cap 8 = 1 left \| P11: weekly Tuesdays from 11/3; 5 applications to date, Alexian cap 8 = 3 left \| A5 Tue … |
+| **M.L. · Dr. Joshi** | DONE 11/17 (AJ, Chi West): A8 Tue 11/17 16mm (November row 62), the Alexian cap of 8; no more visits projected. | — | — |   |
 | **A.N. · Dr. Joshi** | Done: healed Tue 10/27 (marked Done in the Patients app 11/3), no follow-up booked; nothing projected (upside or downside). | — | — |   |
 | **D.C. · Dr. Adelstein** | P11: marked done for now (AJ 11/2) and off the Thu 11/5 schedule, so nothing projected (units/visit 0, upside and downside). | — | — |   |
 | **A.P. · Dr. Hussain** | Done: A8 Thu 11/5 (16mm LYA-260221\_16005) is in November sales — the last one under the Alexian cap of 8; marked Done in Chi West 11/5, nothing more projected \| P11: A7 … | — | — |   |
 | **C.P. · Dr. Joshi** | 1.5x2 · Weekly · 2 visits | \$1,200 | \$1,200 | A3 Mon 11/9 (1.5x2 LYA-250668\_15009, November row 37, waiting on the PO) is in current sales; 3 applications to date \| P11: weekly 1.5x2 Mondays from 11/2 (A2) \| Started Mon 10/26 (A1, 1.5x2 LYA-260068\_15002, case sheet… |
 | **O.O. · Dr. Vedantham** | 16mm · Weekly · 2 visits → 16mm ×1 | \$720 | \$360 | P11: A5 Tue 11/10 16mm (November row 45); next assumed Tue 11/17 (weekly, not confirmed with the office) \| P11: weekly 16mm Tuesdays from 11/3 (A4); 3 applications to date \| A3 Tue 10/27 filed (LYA-260221\_16002). |
 | **D.S. · Dr. Joshi** | 3x4 · Weekly · 1 visit → 3x3 | \$1,140 | \$1,116 | P11: A5 Tue 11/17 3x4 (November row 60); weekly 3x4 Tuesdays \| P11: A4 Tue 11/10 at 3x4 (AJ changed the size to 3x4 in Chi West 11/10; November row 42, \$1,140 per the case sheet); weekly 3x4 Tuesdays from 11/17; 4 appli… |
-| **D.K. · Dr. Lucas** | 16mm · Weekly · 2 visits | \$720 | \$720 | P11: weekly 16mm Thursdays from 11/5 (A3); 2 applications to date \| A2 Thu 10/29 1:15 PM (LYA-260220\_16005, case sheet in the Patients app) is in October sales; A1 Thu 10/22 (LYA-260221\_16012). |
+| **D.K. · Dr. Lucas** | 16mm · Weekly · 1 visit | \$360 | \$360 | P11: A4 Tue 11/17 16mm with Dr. Lucas (November row 63); weekly 16mm Tuesdays from here (assumed, not confirmed with the office), Alexian cap 8 = 4 left \| P11: weekly 16mm Thursdays from 11/5 (A3); 2 applications to dat… |
 
 **Potential new starts**
 
@@ -314,7 +314,7 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 28 | \$16,939 | \$12,764 |
+| Weekly and biweekly patients | 28 | \$16,219 | \$12,044 |
 | Less Good Sam WCC stock already sold | 8 | -\$6,513 | -\$4,282 |
 | Upcoming Stravix | 6 | \$10,209 | \$6,446 |
 | Potential new starts | 16 | \$6,577 | \$0 |
