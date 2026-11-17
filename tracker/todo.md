@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 6:59 AM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:11 AM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -93,6 +93,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 3 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 30
+## 👥 Patients · 29
 
-3 to verify · 23 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)
+3 to verify · 22 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)
