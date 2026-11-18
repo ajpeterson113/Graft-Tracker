@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:16 PM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:22 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -77,15 +77,16 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 2x3 | 712063518 | \$900 |
 
 <a name="look"></a>
-## 🔴 Needs a look · 2
+## 🔴 Needs a look · 3
 
 | Date | Pt | Account | Graft | Why |
 | :-- | :-- | :-- | :-- | :-- |
 | 11/16 | C.P. | Alexian WCC · Joshi | Grafix 1.5x2 | PO received, no graft matched yet |
 | 11/16 | C.W. | Good Sam · Malik | Stravix 2x4 | PO received, no graft matched yet |
+| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | VERSAJET II Exact handpiece 45° 14 mm | Status unclear, open to check |
 
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 3
+## ⏳ Case sheets to come · 4
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -94,6 +95,7 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | …286994 | Seen Thu 10/22 |
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
 | 11/16 | C.P. | Alexian WCC · Joshi | Grafix 1.5x2 | …287797 | Seen Mon 11/16 |
+| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | VERSAJET II Exact handpiece 45° 14 mm | …287570 | Seen Fri 11/6 |
 
 <a name="stock"></a>
 ## 📦 Stock · 4
