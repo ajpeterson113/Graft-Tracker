@@ -2,9 +2,9 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 3:49 PM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:16 PM CT
 
-| <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
+| <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -12,18 +12,18 @@
   <source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="view/home-narrow-dark.png">
   <source media="(max-width: 700px)" srcset="view/home-narrow.png">
   <source media="(prefers-color-scheme: dark)" srcset="view/home-dark.png">
-  <img alt="P11: &#36;27,482 in SFDC + submitted, 30% of the &#36;92,891 target (&#36;77,173 booked). Forecast &#36;96,397 downside to &#36;110,887 upside. Shipping day 11 of 19." src="view/home.png" width="880">
+  <img alt="P11: &#36;27,482 in SFDC + submitted, 30% of the &#36;92,891 target (&#36;79,468 booked). Forecast &#36;98,092 downside to &#36;112,156 upside. Shipping day 11 of 19." src="view/home.png" width="880">
 </picture>
 
 ### To do
 
 <table>
 <tr>
-<td width="50%"><a href="tracker/todo.md#ready"><b>🟢 Ready to submit</b></a><br><b>11</b> · &#36;9,362 to SFDC</td>
-<td width="50%"><a href="tracker/todo.md#needspo"><b>🟡 Waiting on a PO</b></a><br><b>19</b> · &#36;40,329 outstanding</td>
+<td width="50%"><a href="tracker/todo.md#ready"><b>🟢 Ready to submit</b></a><br><b>15</b> · &#36;29,313 to SFDC</td>
+<td width="50%"><a href="tracker/todo.md#needspo"><b>🟡 Waiting on a PO</b></a><br><b>15</b> · &#36;20,378 outstanding</td>
 </tr>
 <tr>
-<td width="50%"><a href="tracker/todo.md"><b>🔵 Not in SFDC yet</b></a><br><b>&#36;67,879</b> · 46 November entries</td>
+<td width="50%"><a href="tracker/todo.md"><b>🔵 Not in SFDC yet</b></a><br><b>&#36;70,174</b> · 48 November entries</td>
 <td width="50%"><a href="tracker/stock.md"><b>🟠 Stock alerts</b></a><br><b>4</b> · Alexian WCC, St. Alexius OR</td>
 </tr>
 </table>
@@ -33,7 +33,7 @@
 
 | [Mon 11/16](patients/week.md#mon) | [Tue 11/17 · today](patients/week.md#tue) | [Wed 11/18](patients/week.md#wed) | [Thu 11/19](patients/week.md#thu) | [Fri 11/20](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **5** visits | **9** visits | **8** visits 🔴 | **10** visits 🟠 🔴 | **7** visits 🟠 |
+| **7** visits | **9** visits | **8** visits 🔴 | **10** visits 🟠 🔴 | **7** visits 🟠 |
 
 
 Covering: Caroline 3 · Pete 15 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
@@ -43,8 +43,8 @@ Covering: Caroline 3 · Pete 15 · 🟠 to verify · 🔴 no follow-up booked ·
 
 | Account | Sold | Upside | Downside |
 | :-- | --: | --: | --: |
-| Alexian WCC | \$15,382 | **\$26,989** | \$20,628 |
-| Good Sam | \$12,407 | **\$19,912** | \$17,076 |
+| Alexian WCC | \$15,982 | **\$26,989** | \$20,628 |
+| Good Sam | \$14,102 | **\$21,182** | \$18,771 |
 | GlenOaks | \$12,345 | **\$12,345** | \$12,345 |
 | St. Alexius | \$7,407 | **\$12,345** | \$10,513 |
 | St. Joseph Elgin | \$7,042 | **\$9,657** | \$8,687 |
@@ -56,7 +56,7 @@ Covering: Caroline 3 · Pete 15 · 🟠 to verify · 🔴 no follow-up booked ·
 | Alexian Main OR | \$2,469 | **\$2,469** | \$2,469 |
 | Central DuPage | \$1,210 | **\$1,210** | \$1,210 |
 | Suburban F&A | \$190 | **\$190** | \$190 |
-| **Total** | **\$77,173** | **\$110,887** | **\$96,397** |
+| **Total** | **\$79,468** | **\$112,156** | **\$98,092** |
 
 
 Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. [Full projection →](tracker/projection.md)
@@ -64,7 +64,7 @@ Scheduled visits this week count until they're filed; once a visit is in Novembe
 
 ### 2026 full year
 
-**80%** of \$1,237,893 · \$244,278 to go — \$925,736 in SFDC (10/16) + \$67,879 in this tracker, not in SFDC yet. Through P11: \$1.03M upside / \$1.01M downside (83% / 82%).
+**80%** of \$1,237,893 · \$241,983 to go — \$925,736 in SFDC (10/16) + \$70,174 in this tracker, not in SFDC yet. Through P11: \$1.03M upside / \$1.01M downside (83% / 82%).
 
 
 <details><summary><b>By month (SFDC)</b></summary>
@@ -102,7 +102,7 @@ Scheduled visits this week count until they're filed; once a visit is in Novembe
 
 |  | File | Updated |
 | :-: | :-- | :-- |
-| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-17.xlsx · Tue 11/17, 12:51 PM CT |
+| ⬇ | [Graft tracker (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Graft_Tracker_BIOT_Chicago_West.xlsx) | Graft\_Tracker\_BIOT\_Chicago\_West\_2026-11-17.xlsx · Tue 11/17, 9:12 PM CT |
 | ⬇ | [Patient list (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Patient_List.xlsx) | from the Chi West Patients app |
 | ⬇ | [Target workbook (Excel)](https://github.com/ajpeterson113/Graft-Tracker/raw/main/Chi_West_Surgeon_Targets.xlsx) | surgeon targets |
 

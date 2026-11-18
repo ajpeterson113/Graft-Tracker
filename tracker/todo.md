@@ -2,14 +2,14 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 3:49 PM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:16 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 11 · \$9,362
+## 🟢 Submit to SFDC · 15 · \$29,313
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
@@ -26,9 +26,13 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/10 | [D.G.](../case-sheets/dg-1110.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000287456 | \$360 |
 | 11/10 | [O.O.](../case-sheets/oo-1110.md) | Alexian WCC · Vedantham | Grafix 16mm | 660040000287458 | \$360 |
 | 11/10 | [M.L.](../case-sheets/ml-1110.md) | Alexian WCC · Joshi | Grafix 16mm | 660040000287459 | \$360 |
+| 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | PO-1001102396 | \$12,345 |
+| 11/11 | [D.M.](../case-sheets/dm-1111.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | PO006220374 | \$5,311 |
+| 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | 660040000287571 | \$600 |
+| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | PO006237157 | \$1,695 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 19 · \$40,329
+## 🟡 Waiting on a PO · 15 · \$20,378
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -39,13 +43,9 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 🟠 11 days |   | \$1,650 |
 | 11/6 | [T.B.](../case-sheets/tb-1106.md) | St. Alexius · Singh | Stravix 3x6 ×3 | 🟠 11 days |   | \$7,407 |
 | 11/10 | [T.P.](../case-sheets/tp-1110.md) | Elmhurst · Farhan | Stravix 2x4 | 🟠 7 days |   | \$1,767 |
-| 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | 🟠 6 days |   | \$12,345 |
 | 11/11 | [S.G.](../case-sheets/sg-1111.md) | Romano Lombard · Rojas | Grafix 3x3 | 🟠 6 days |   | \$855 |
-| 11/11 | [D.M.](../case-sheets/dm-1111.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | 🟠 6 days |   | \$5,311 |
 | 11/12 | [M.A.](../case-sheets/ma-1112.md) | NW Suburban F&A · Goldkind | Grafix 16mm | 🟠 5 days |   | \$190 |
-| 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | 🟠 5 days | 0003099658 | \$600 |
 | 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | 🟠 4 days |   | \$2,469 |
-| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | 🟠 4 days |   | \$1,695 |
 | 11/13 | [G.H.](../case-sheets/gh-1113.md) | Alexian WCC · Lucas | Grafix 16mm | 🟠 4 days | 0003095154 | \$360 |
 | 11/17 | [D.S.](../case-sheets/ds-1117.md) | Alexian WCC · Joshi | Grafix 3x4 | — | 0003081837 | \$1,140 |
 | 11/17 | [J.L.](../case-sheets/jl-1117.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003074927 | \$360 |
@@ -76,8 +76,16 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 1.5x2 | 712063518 | \$600 |
 | 11/10 | — | St. Joseph Elgin · Veronica Pappas | Grafix 2x3 | 712063518 | \$900 |
 
+<a name="look"></a>
+## 🔴 Needs a look · 2
+
+| Date | Pt | Account | Graft | Why |
+| :-- | :-- | :-- | :-- | :-- |
+| 11/16 | C.P. | Alexian WCC · Joshi | Grafix 1.5x2 | PO received, no graft matched yet |
+| 11/16 | C.W. | Good Sam · Malik | Stravix 2x4 | PO received, no graft matched yet |
+
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 2
+## ⏳ Case sheets to come · 3
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -85,6 +93,7 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | …286994 | Seen Thu 10/22 |
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
+| 11/16 | C.P. | Alexian WCC · Joshi | Grafix 1.5x2 | …287797 | Seen Mon 11/16 |
 
 <a name="stock"></a>
 ## 📦 Stock · 4

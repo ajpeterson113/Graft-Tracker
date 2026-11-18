@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 3:49 PM CT
+**BIOT Chicago West** · P11 · day 11 of 19 · updated Tue 11/17, 9:16 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;30](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;32](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -123,7 +123,7 @@
 | **J.B.** | Adelstein | Grafix 2x3 | Active | 1 | A2 Thu 11/5 8:00 AM, 2x3 LYA-250516\_23004 (case sheet in Chi West 11/5). Started: A1 Thu 10/29 8:00 AM, 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the Patients app; PO 660040000286395). Weekly. Not the OASIS Burn J.B. |
 | **D.K.** | Lucas | Grafix 16mm | Active | 1 | A4 Tue 11/17 11:40 AM with Dr. Lucas, 16mm LYA-260294\_16018 (case sheet dk-1117). A3 Thu 11/5, 16mm LYA-260221\_16004. Not grafted Thu 11/12 (holding; switching to Dr. Lucas, AJ 11/12). Next Tue 11/17 11:40 AM. A2 Thu 10/29 1:15 PM, 16mm LYA-260220\_16005 from the WCC shelf (case sheet in the Patients app; PO to come). A1 Thu 10/22 1:15 PM, 16mm LYA-260221\_16012. Weekly |
 | **D.S.** | Joshi | Grafix 3x4 | Active | 1 | A5 Tue 11/17 9:15 AM, 3x4 LYA-250008\_34005 (case sheet ds-1117). A4 Tue 11/10 9:15 AM, 3x4 LYA-250008\_34004 (size changed to 3x4 by AJ in Chi West 11/10). A2 Tue 10/27 LYA-250866\_55013. A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 |
-| **C.P.** | Joshi | Grafix 1.5x2 | Active | 1 | A3 Mon 11/9 1:15 PM, 1.5x2 LYA-250668\_15009 from the WCC shelf (AJ's case sheet photo in Chi West 11/9). A2 Mon 11/2 1:15 PM, 1.5x2 LYA-260068\_15005 from the WCC shelf (case sheet in the app 11/2). A1 Mon 10/26 LYA-260068\_15002. Weekly |
+| **C.P.** | Joshi | Grafix 1.5x2 | Active | 1 | A4 Mon 11/16 1.5x2 per PO 660040000287797 (Caroline covered; lot/SN to come with the case sheet, so one 1.5x2 is still counted on the shelf list). A3 Mon 11/9 1:15 PM, 1.5x2 LYA-250668\_15009 from the WCC shelf (AJ's case sheet photo in Chi West 11/9). A2 Mon 11/2 1:15 PM, 1.5x2 LYA-260068\_15005 from the WCC shelf (case sheet in the app 11/2). A1 Mon 10/26 LYA-260068\_15002. Weekly |
 | **D.L.** | Joshi | OASIS Burn | Approved | — | Approved 10/20; not grafted Tue 10/20 (out-of-pocket too high, office checking); next Tue 10/27 10:15 AM (verify with the office). OASIS suggested |
 | **E.N.** | Turayhi | OASIS Wound 3x3.5 | Active | 1 | A2 Wed 11/11 9:15 AM: OASIS Wound 3x3.5 lot LB1741499 (sticker in Chi West 11/11). Started: A1 Wed 11/4 9:15 AM (Patients app). Weekly; next Wed 11/18 9:15 AM (assumed weekly) |
 | **V.T.** | Halihan | Grafix 1.5x2 | Active | 1 | A1 Thu 11/12 1:50 PM, 1.5x2 LYA-260108\_15004 from the shelf (new start; AJ set Active and size 1.5x2 in Chi West 11/12). Weekly; next assumed Thu 11/19 (not confirmed with the office yet). |
@@ -320,22 +320,21 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 
 ## Good Sam OR
 
-**Consigned** · counted 10/8/26 · 5 grafts
+**Consigned** · counted 10/8/26 · 4 grafts
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **3** | — | +2 incoming · next exp 11/3/27 |
-| **2x4**<br>Stravix | **2** | — | +1 incoming · next exp 2/16/28 |
+| **2x4**<br>Stravix | **1** | — | +1 incoming · next exp 2/16/28 |
 | **3x6**<br>Stravix | **0** | — | +3 incoming |
 
-<details><summary><b>Units on the shelf</b> · 5</summary>
+<details><summary><b>Units on the shelf</b> · 4</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Grafix | 5x5 | LYA-250872\_55013 | 11/3/27 |   | On shelf |   |
 | Grafix | 5x5 | LYA-250872\_55010 | 11/3/27 |   | On shelf |   |
 | Grafix | 5x5 | LYA-260275\_55008 | 3/20/28 |   | On shelf |   |
-| Stravix | 2x4 | LYU-260474\_24001 | 2/16/28 |   | On shelf |   |
 | Stravix | 2x4 | LYU-260474\_24002 | 2/16/28 |   | On shelf |   |
 
 </details>
@@ -353,11 +352,12 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 
 </details>
 
-<details><summary><b>Used since the count</b> · 6</summary>
+<details><summary><b>Used since the count</b> · 7</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
 | LYU-260468\_24003 | Stravix 2x4 | Used 11/2 (T.A., Dr. Farhan) |
+| LYU-260474\_24001 | Stravix 2x4 | Used 11/16 (C.W., Dr. Malik) |
 | LYU-260325\_36002 | Stravix 3x6 | Used 11/11 (D.M., Dr. Luetkehans) |
 | LYU-260453\_36008 | Stravix 3x6 | Used 11/11 (D.M., Dr. Luetkehans) |
 | LYU-260753\_24001 | Stravix 2x4 | Used 11/13 (S.W., Dr. Ayesh) |
