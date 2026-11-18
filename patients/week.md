@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 126 patients · updated Wed 11/18, 6:59 AM CT
+**BIOT Chicago West** · 126 patients · updated Wed 11/18, 10:49 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;126](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;126](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 4](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 40](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -60,12 +60,12 @@
 <a name="wed"></a>
 ### Wednesday, Nov 18 · Today
 
-8 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Wound 3x3.5 ×3 · GRAFIX 3x3 ×2 · STRAVIX ×2 · **Covering:** Caroline 2 · Pete 2
+8 visits · 1 logged · **Grafts:** OASIS Wound 3x7 ×4 · GRAFIX 3x3 ×2 · OASIS Wound 3x3.5 ×2 · STRAVIX ×2 · **Covering:** Caroline 2 · Pete 2
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:00&nbsp;AM** | **Upcoming · Dr. Greg Bryniczka** | **OR** · STRAVIX | St.&nbsp;Alexius<br>Dr.&nbsp;Greg&nbsp;Bryniczka | 👤&nbsp;Pete&nbsp;covering |
-| **9:15&nbsp;AM** | **E.N.** | **A3** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe |   |
+| **9:15&nbsp;AM** | **E.N.** | **A3** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi | ✅&nbsp;Grafted&nbsp;A3 |
 | **10:30&nbsp;AM** | **Upcoming · Dr. Adam Bryniczka** | **OR** · STRAVIX | St.&nbsp;Alexius<br>Dr.&nbsp;Adam&nbsp;Bryniczka | 👤&nbsp;Pete&nbsp;covering |
 | **11:10&nbsp;AM** | **S.G.** | **A3** · GRAFIX 3x3 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas |   |
 | **12:00&nbsp;PM** | **J.M.** | **A4 · On hold** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Adelstein | 👤&nbsp;Caroline&nbsp;covering |
@@ -147,7 +147,7 @@
 **Covering this week:** Caroline 3 · Pete 15
 
 
-<details><summary><b>Next week</b> · 10 visits booked so far</summary>
+<details><summary><b>Next week</b> · 11 visits booked so far</summary>
 
 <a name="next-mon"></a>
 ### Monday, Nov 23
@@ -186,5 +186,22 @@
 | **9:40&nbsp;AM** | **J.L.** | **A2** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 🟠 Verify: Not confirmed with the office yet: Tue 11/24 9:40 AM |
 | **11:40&nbsp;AM** | **D.K.** | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 🟠 Verify: Not confirmed with the office yet: Tue 11/24 11:40 AM |
 | **12:50&nbsp;PM** | **O.O.** | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham · MA&nbsp;Maria | 🟠 Verify: Not confirmed with the office yet: Tue 11/24 12:50 PM |
+
+<a name="next-wed"></a>
+### Wednesday, Nov 25
+
+1 visit · **Grafts:** OASIS Wound 3x3.5
+
+| Time | Patient | Visit | Clinic | Status |
+| :-- | :-- | :-- | :-- | :-- |
+| **9:15&nbsp;AM** | **E.N.** | **A4** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe |   |
+
+
+🔴 **No follow-up · usually seen Wednesdays** · 1
+
+
+| Patient | Clinic | Graft | Surgeon | Why |
+| :-- | :-- | :-- | :-- | :-- |
+| **L.J.** | Good Sam | OASIS Ultra 7x10 (x2) | Bach | Last appt 11/11 passed, nothing new booked |
 
 </details>
