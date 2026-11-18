@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 126 patients · updated Tue 11/17, 9:22 PM CT
+**BIOT Chicago West** · 126 patients · updated Wed 11/18, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -18,7 +18,7 @@
 
 **This week · Nov 16–20** · 🟠 to verify · 🔴 no follow-up booked
 
-| [Mon 16](#mon) | [Tue 17 · today](#tue) | [Wed 18](#wed) | [Thu 19](#thu) | [Fri 20](#fri) |
+| [Mon 16](#mon) | [Tue 17](#tue) | [Wed 18 · today](#wed) | [Thu 19](#thu) | [Fri 20](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
 | **7** | **9** | **8** 🔴 | **10** 🟠 🔴 | **7** 🟠 |
 
@@ -40,7 +40,7 @@
 
 
 <a name="tue"></a>
-### Tuesday, Nov 17 · Today
+### Tuesday, Nov 17
 
 9 visits · 9 logged
 
@@ -58,7 +58,7 @@
 
 
 <a name="wed"></a>
-### Wednesday, Nov 18
+### Wednesday, Nov 18 · Today
 
 8 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Wound 3x3.5 ×3 · GRAFIX 3x3 ×2 · STRAVIX ×2 · **Covering:** Caroline 2 · Pete 2
 
