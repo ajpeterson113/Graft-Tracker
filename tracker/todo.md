@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 13 of 19 · updated Thu 11/19, 12:49 PM CT
+**BIOT Chicago West** · P11 · day 13 of 19 · updated Thu 11/19, 3:49 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -114,4 +114,4 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 <a name="patients"></a>
 ## 👥 Patients · 32
 
-8 to verify · 20 with no follow-up booked · 4 IVRs to follow up → [Patient to-do](../patients/todo.md)
+8 to verify · 21 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)
