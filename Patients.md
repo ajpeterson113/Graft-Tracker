@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 126 patients · updated Thu 11/19, 8:02 AM CT
+**BIOT Chicago West** · 126 patients · updated Thu 11/19, 12:49 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -65,7 +65,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **J.B.**<br>Grafting | GRAFIX&nbsp;2x3 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;8:00&nbsp;AM · Pete&nbsp;covering** | 🟢 2 of 8 | Started: A1 Thu 10/29 8:00 AM, Dr. Adelstein: Grafix 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the app; filed in the tracker 10/29, October row 101). PO 660040000286395 (10/29, bill only, patient ID 0002601103) — ready to submit. Weekly; next assumed Thu 11/5 8:00 AM — verify with the office. PA UM108247795 approved for Q4133 × 60 units, 15275 × 12 units and 15276 × 36 units, 10/26/2026–1/25/2027 (approval letter attached). Alexian WCC stops at 8. |
-| **V.T.**<br>Grafting | GRAFIX&nbsp;1.5x2 · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;2:15&nbsp;PM · Pete&nbsp;covering** | 🟢 1 of 8 | _11/17:_ PO 660040000287571 (11/12) from AJ 11/17: matched to A1 11/12 by patient ID, ready to submit. |
+| **V.T.**<br>Grafting | GRAFIX&nbsp;1.5x2 · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;1:00&nbsp;PM · Pete&nbsp;covering** | 🟢 1 of 8 | _11/17:_ PO 660040000287571 (11/12) from AJ 11/17: matched to A1 11/12 by patient ID, ready to submit. |
 | **G.H.**<br>Grafting<br>🟠&nbsp;Verify | GRAFIX · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/20&nbsp;12:40&nbsp;PM** | 🟢 2 of 8 | 🟠 **Verify:** Not confirmed with the office yet: Fri 11/20 12:40 PM |
 | **B.P.**<br>Grafting<br>🟠&nbsp;Verify | OASIS&nbsp;Burn&nbsp;Oasis&nbsp;burn&nbsp;3x7 · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Mon&nbsp;11/23&nbsp;12:50&nbsp;PM** | 🟢 6 of 8 | 🟠 **Verify:** Not confirmed with the office yet: Mon 11/23 12:50 PM<br>Next assumed Mon 10/26 1:20 PM (same time as the Mon 10/19 visit; AJ 10/25) — verify with the office. A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
 | **C.P.**<br>Grafting<br>🟠&nbsp;Verify | GRAFIX&nbsp;1.5x2 · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Mon&nbsp;11/23&nbsp;1:15&nbsp;PM** | 🟢 4 of 8 | 🟠 **Verify:** Not confirmed with the office yet: Mon 11/23 1:15 PM<br>A4 Mon 11/16, Dr. Joshi (Caroline covered): GRAFIX 1.5x2, from PO 660040000287797 (November row 64); case sheet / lot to come. A3 Mon 11/9 1:15 PM, Dr. Joshi: GRAFIX 1.5x2 LYA-250668\_15009 from the WCC shelf (AJ's case sheet photo in Chi West 11/9; November row 37; bill-only PO to come). A2 Mon 11/2 1:15 PM, Dr. Joshi: GRAFIX 1.5x2 LYA-260068\_15005 from the WCC shelf (case sheet uploaded 11/2; filed in the tracker 11/2, November row 17; bill-only PO to come). A1 Mon 10/26: 1.5x2 LYA-260068\_15002 (PO 660040000286148, in SFDC). Weekly; next Mon 11/9 1:15 PM. Alexian WCC stops at 8. |
