@@ -2,24 +2,24 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 12 of 19 · updated Wed 11/18, 3:49 PM CT
+**BIOT Chicago West** · P11 · day 12 of 19 · updated Wed 11/18, 7:56 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$80,018 | \$80,018 |
-| \+ Projected Grafix, net of WCC stock | \$9,106 | \$7,162 |
-| \+ Upcoming Stravix | \$10,209 | \$6,446 |
+| Sold so far (November tab) | \$85,526 | \$85,526 |
+| \+ Projected Grafix, net of WCC stock | \$8,251 | \$6,307 |
+| \+ Upcoming Stravix | \$5,271 | \$3,340 |
 | \+ Potential new starts | \$6,152 | \$0 |
 | \+ OASIS reorders (estimated) | \$7,222 | \$5,016 |
-| **P11 forecast** | **\$112,706** | **\$98,642** |
+| **P11 forecast** | **\$112,421** | **\$100,188** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 121% | 106% |
-| Gap to target | ✅ over by \$19,815 | ✅ over by \$5,751 |
-| **Projected commission** | **\$11,271** | **\$9,864** |
+| % of target | 121% | 108% |
+| Gap to target | ✅ over by \$19,530 | ✅ over by \$7,297 |
+| **Projected commission** | **\$11,242** | **\$10,019** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/16.</sub>
@@ -32,18 +32,18 @@
 | :-- | --: | --: | --: | --: | --: |
 | [Alexian WCC](#alexian-wcc) | \$15,982 | \$11,007 | \$4,646 | **\$26,989** | **\$20,628** |
 | [Good Sam](#good-sam) | \$14,102 | \$7,080 | \$4,669 | **\$21,182** | **\$18,771** |
+| [St. Alexius](#st-alexius) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
-| [St. Alexius](#st-alexius) | \$7,407 | \$4,938 | \$3,106 | **\$12,345** | **\$10,513** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$7,042 | \$2,615 | \$1,645 | **\$9,657** | **\$8,687** |
 | [Alexian Ambulatory](#x) | \$8,145 | \$0 | \$0 | **\$8,145** | **\$8,145** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$4,154 | \$2,682 | \$1,152 | **\$6,836** | **\$5,306** |
 | [Elmhurst](#elmhurst) | \$4,883 | \$0 | \$0 | **\$4,883** | **\$4,883** |
-| [Romano Lombard](#romano-lombard) | \$2,090 | \$1,710 | \$1,710 | **\$3,800** | **\$3,800** |
+| [Romano Lombard](#romano-lombard) | \$2,660 | \$855 | \$855 | **\$3,515** | **\$3,515** |
 | [Sherman](#sherman) | — | \$2,656 | \$1,695 | **\$2,656** | **\$1,695** |
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$80,018** | **\$32,688** | **\$18,623** | **\$112,706** | **\$98,642** |
+| **Total** | **\$85,526** | **\$26,895** | **\$14,662** | **\$112,421** | **\$100,188** |
 
 
 ## Account by account
@@ -137,6 +137,19 @@ Sold so far: **\$14,102** · 5 cases
 
 </details>
 
+<a name="st-alexius"></a>
+<details><summary><b>St. Alexius</b> · upside &#36;12,345 · downside &#36;12,345</summary>
+
+Sold so far: **\$12,345** · 3 cases
+
+**Upcoming Stravix**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **Restock · OR stock** | Stravix 2x4 | — | — |   |
+
+</details>
+
 <a name="glenoaks"></a>
 <details><summary><b>GlenOaks</b> · upside &#36;12,345 · downside &#36;12,345</summary>
 
@@ -147,21 +160,6 @@ Sold so far: **\$12,345** · 1 case
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **Dr. Reed** | Stravix TBD | — | — |   |
-
-</details>
-
-<a name="st-alexius"></a>
-<details><summary><b>St. Alexius</b> · upside &#36;12,345 · downside &#36;10,513</summary>
-
-Sold so far: **\$7,407** · 1 case
-
-**Upcoming Stravix**
-
-| Who | Plan | Upside | Downside | Note |
-| :-- | :-- | --: | --: | :-- |
-| **Restock · OR stock** | Stravix 2x4 | — | — |   |
-| **Dr. Greg Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | Not on AJ's Outlook list of 11/5 (his list has only Dr. Adam Bryniczka at St. Alexius on 11/18) — confirm whether this case is still on \| OR case Wed 11/18 8:00 AM at St. Alexius (Dr. Greg Bryniczka), from AJ's Outlook … |
-| **Dr. Adam Bryniczka** | Stravix 3x6 (assumed) · Wed 11/18 | \$2,469 | \$1,553 | Wed 11/18 10:30-11:30 AM (AJ's Outlook 11/5) \| OR case Wed 11/18 late morning at St. Alexius (Dr. Adam Bryniczka, Stravix), from AJ's Outlook calendar 11/2. |
 
 </details>
 
@@ -251,15 +249,15 @@ Sold so far: **\$4,883** · 2 cases
 </details>
 
 <a name="romano-lombard"></a>
-<details><summary><b>Romano Lombard</b> · upside &#36;3,800 · downside &#36;3,800</summary>
+<details><summary><b>Romano Lombard</b> · upside &#36;3,515 · downside &#36;3,515</summary>
 
-Sold so far: **\$2,090** · 4 cases
+Sold so far: **\$2,660** · 5 cases
 
 **Weekly and biweekly patients**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **S.G. · Dr. Rojas** | 3x3 · Weekly · 2 visits | \$1,710 | \$1,710 | P11: A1 Wed 11/4 (3x3 LYA-250742\_33004, PO SG110426) and A2 Wed 11/11 (3x3 LYA-250533\_33005, transfer from the Alexian WCC shelf, PO to come) are in November sales; weekly 3x3 Wednesdays, next Wed 11/18 11:40 (assumed w… |
+| **S.G. · Dr. Rojas** | 3x3 · Weekly · 1 visit | \$855 | \$855 | A3 Wed 11/18 (Chi West tap said 3x3; the sticker was a Grafix 2x3 LYA-250625\_23005, \$570, November row 69 — AJ to confirm). |
 | **M.W. · Dr. Rojas** | Healed Wed 10/21 (not grafted, per the Patients app), so nothing projected (upside or downside). | — | — |   |
 
 </details>
@@ -314,9 +312,9 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 28 | \$15,619 | \$11,444 |
+| Weekly and biweekly patients | 28 | \$14,764 | \$10,589 |
 | Less Good Sam WCC stock already sold | 8 | -\$6,513 | -\$4,282 |
-| Upcoming Stravix | 6 | \$10,209 | \$6,446 |
+| Upcoming Stravix | 4 | \$5,271 | \$3,340 |
 | Potential new starts | 16 | \$6,152 | \$0 |
 | OASIS reorders (estimated) | 9 | \$7,222 | \$5,016 |
 

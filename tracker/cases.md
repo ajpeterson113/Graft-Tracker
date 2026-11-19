@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 12 of 19 · updated Wed 11/18, 3:49 PM CT
+**BIOT Chicago West** · P11 · day 12 of 19 · updated Wed 11/18, 7:56 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,10 +13,13 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**58 entries · \$80,018** · 🟢 15 Ready · 🟡 15 Needs PO · 🔵 16 Submitted · 🔴 3 Check · 🟤 1 Clinic stock · ⚪ 8 In SFDC
+**61 entries · \$85,526** · 🟢 15 Ready · 🟡 18 Needs PO · 🔵 16 Submitted · 🔴 3 Check · 🟤 1 Clinic stock · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/18** | [**G.D.**](../case-sheets/gd-1118.md) 📄 · St. Alexius · Adam Bryniczka<br>Stravix 3x6 · no PO yet · LYU-260755\_36004<details><summary><sub>Notes</sub></summary>OR case Wed 11/18 10:30 AM at St. Alexius (Dr. Adam Bryniczka), left foot/ankle, G.D.: Stravix PL 3x6 LYU-260755\_36004 (exp 3/16/28) from the St. Alexius OR shelf, \$2,469 (St. Alexius 3x6 rate). Implant record (Ascension Saint Alexius intraoperative implant and charge record, dated 11/18/26) uploaded in Chi West 11/18; initials read from the patient label. Bill & replace (St. Alexius OR shelf): the hospital's PO is the replacement order and a Stravix 3x6 replacement ships to the shelf. PO from St. Alexius to come. Case sheet page: case-sheets/gd-1118.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**T.A.**](../case-sheets/ta-1118.md) 📄 · St. Alexius · Greg Bryniczka<br>Stravix 3x6 · no PO yet · LYU-260668\_36006<details><summary><sub>Notes</sub></summary>OR case Wed 11/18 8:00 AM at St. Alexius (Dr. Greg Bryniczka), left foot, T.A.: Stravix PL 3x6 LYU-260668\_36006 (exp 3/16/28) from the St. Alexius OR shelf, \$2,469 (St. Alexius 3x6 rate). Implant record dated 11-18-26 uploaded in Chi West 11/18 (Stock checked, "Bill and replace" written on it); initials read from the patient label (the in-app read said A.G.; the label lists the surname first). Bill & replace: a Stravix 3x6 replacement ships to the shelf on the St. Alexius PO. PO to come. Case sheet page: case-sheets/ta-1118.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**S.G.**](../case-sheets/sg-1118.md) 📄 · Romano Lombard · Rojas<br>Grafix 2x3 · no PO yet · LYA-250625\_23005<details><summary><sub>Notes</sub></summary>App #3 Wed 11/18, Dr. Rojas: Grafix PL Prime 2x3 LYA-250625\_23005 (exp 6/18/27), \$570 (Romano \$95/cm2 x 6 cm2). Grafted in Chi West 11/18; the tap said Grafix 3x3 (\$855), but the sticker strip AJ uploaded with it is a 2x3, so the row follows the sticker: AJ, confirm the size. The unit is on the Alexian WCC shelf list (TRANSFER to Romano, Transfers tab, as on 11/4 and 11/11). Case sheet made from the sticker photo (case-sheets/sg-1118). Waiting on the sale-order PO.</details> | \$570 | 🟡&nbsp;Needs&nbsp;PO<br>🔁&nbsp;Transfer |
 | **11/17** | [**D.S.**](../case-sheets/ds-1117.md) 📄 · Alexian WCC · Joshi<br>Grafix 3x4 · no PO yet · LYA-250008\_34005<details><summary><sub>Notes</sub></summary>App #5, Tue 11/17 9:15 AM, Dr. Joshi: Grafix 3x4 LYA-250008\_34005 (exp 12/18/26) from the Alexian WCC shelf, \$1,140 (case sheet \$1,140). AJ's case sheet photo from Chi West 11/17, with the Grafted tap. Bill-only PO to come (Alexian ID 0003081837). Case sheet page: case-sheets/ds-1117.</details> | \$1,140 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**J.L.**](../case-sheets/jl-1117.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260294\_16020<details><summary><sub>Notes</sub></summary>App #1 on the right foot (AJ: "A#1 on right side"; left foot had A1-A5 through 10/27 and healed 11/3), Tue 11/17 9:40 AM, Dr. Lucas: Grafix 16mm LYA-260294\_16020 (exp 3/20/28) from the Alexian WCC shelf (11/9 restock), \$360 (case sheet \$360). AJ's case sheet photo from Chi West 11/17, with the Grafted tap. Bill-only PO to come (Alexian ID 0003074927). Case sheet page: case-sheets/jl-1117.</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**M.L.**](../case-sheets/ml-1117.md) 📄 · Alexian WCC · Joshi<br>Grafix 16mm · no PO yet · LYA-260294\_16019<details><summary><sub>Notes</sub></summary>App #8 (last under the Alexian cap of 8; AJ set Done), Tue 11/17 1:00 PM, Dr. Joshi: Grafix 16mm LYA-260294\_16019 (exp 3/20/28) from the Alexian WCC shelf (11/9 restock), \$360 (case sheet \$360). AJ's case sheet photo from Chi West 11/17, with the Grafted tap. Alexian ID 0003052747 (same as A1-A7). Bill-only PO to come. Case sheet page: case-sheets/ml-1117.</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
@@ -227,6 +230,7 @@ Grafts used at one account while consigned to another. Each has a typed transpor
 
 | Used | Pt | Graft | Lot / SN | From (consignment) | To | Surgeon |  |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 11/18 | S.G. | Grafix PL Prime 2x3 | LYA-250625\_23005 | Alexian Brothers Wound Center (WCC shelf) (253985) | Romano Orthopaedics - Lombard | Dr. Rojas | [case sheet](../case-sheets/sg-1118.md) |
 | 11/11 | S.G. | Grafix PL Prime 3x3 | LYA-250533\_33005 | Alexian Brothers Wound Center (WCC shelf) (253985) | Romano Orthopaedics - Lombard | Dr. Rojas | [log](../case-sheets/sg-1111-transport-log.jpg) · [case sheet](../case-sheets/sg-1111.md) |
 | 11/4 | S.G. | Grafix PL Prime 3x3 | LYA-250742\_33004 | Alexian Brothers Wound Center (WCC shelf) (253985) | Romano Orthopaedics - Lombard | Dr. Rojas | [log](../case-sheets/sg-1104-transport-log.jpg) · [case sheet](../case-sheets/sg-1104.md) |
 | 10/26 |   | Grafix PL Prime 3x3 | LYA-250533\_33002 | Alexian Brothers Wound Center (WCC shelf) (253985) | Dr. George's account (another rep, different territory) | Dr. George | transfer out · waiting on the other rep's log |

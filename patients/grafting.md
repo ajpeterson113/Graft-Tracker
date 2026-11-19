@@ -2,13 +2,13 @@
 
 # Grafting
 
-**BIOT Chicago West** · 126 patients · updated Wed 11/18, 3:49 PM CT
+**BIOT Chicago West** · 126 patients · updated Wed 11/18, 7:56 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;33](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;126](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;35](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;126](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 **Grafting 36** · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 4](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 40](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -65,7 +65,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **E.P.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/18&nbsp;2:45&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 7 | NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 2:45 PM Dr. Goldkind (HE). NWSFA schedule wk of 11/2: Wed 11/4 3:45 PM Dr. Goldkind (HE). NWSFA schedule wk of 10/26: Wed 10/28 3:45 PM Dr. Goldkind (HE). NWSFA schedule wk of 10/19: Wed 10/21 3:45 PM Dr. Goldkind (HE). A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |
+| **E.P.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/18&nbsp;2:45&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 8 | NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 2:45 PM Dr. Goldkind (HE). NWSFA schedule wk of 11/2: Wed 11/4 3:45 PM Dr. Goldkind (HE). NWSFA schedule wk of 10/26: Wed 10/28 3:45 PM Dr. Goldkind (HE). NWSFA schedule wk of 10/19: Wed 10/21 3:45 PM Dr. Goldkind (HE). A2 10/7 (1st 9/30, OASIS Wound 3x3.5). Applied to left foot amp site. IVR submitted 9/10; was in global from 7/1 surgery, clinicals requested 9/14. |
 | **D.R.** | GRAFIX&nbsp;3x3 · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Wed&nbsp;11/18&nbsp;5:15&nbsp;PM · Hoffman&nbsp;Estates · Caroline&nbsp;covering** | 🟢 1 | NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 5:15 PM Dr. Goldkind (HE). PA APPROVED 11/3/26-2/15/27 (BCBS Illinois, PreD #U26306AULB, Q4133 x144 units). First graft Wed 11/11 5:00 PM at Hoffman Estates with Dr. Goldkind. DFU right heel/midfoot, wound 3.3 x 2.7 x 0.2 cm. New 10/30 (NWSFA office note from Chris): IVR sent 10/30, diabetic foot ulcer, BCBS.<br>_11/12:_ AJ 11/12: moving to a Grafix 3x3 (ordered for the visit, a sale order), not the 3x4 shelf stock. |
 | **M.A.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;9:30&nbsp;AM · Elk&nbsp;Grove** | 🟢 3 | NWSFA schedule wk of 11/16 (AJ 11/15): Thu 11/19 9:30 AM Dr. Goldkind (EG). NWSFA schedule wk of 11/2: Thu 11/5 1:30 PM Dr. Goldkind (EG) — A2; 16mm to order on PO MA110526, ship to Elk Grove. A1 Fri 10/30 8:45 AM grafted (logged by AJ). New start Fri 10/30 8:45 AM with Dr. Goldkind (AJ 10/27): GRAFIX 16mm ordered 10/27 on PO MA103026. Office (HE/EG) not given yet. Same patient as the separate 10/30 new-start entry, consolidated into this record 10/27. Earlier: NWSFA list wk of 10/26 waiting on PA; wk of 10/19 waiting on ABIs; wk of 10/12 pending auth. IVR #06346857 (Humana): needed ABIs, albumin/pre-albumin, smoking status before submission. R foot DFU. (Listed as M.P. until 10/4.)<br>[📄 IVR](../ivr/nw-mp.md) |
 | **L.W.** | OASIS&nbsp;Ultra&nbsp;3x3.5 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Thu&nbsp;11/19&nbsp;2:15&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 5 | NWSFA schedule wk of 11/16 (AJ 11/15): Thu 11/19 2:15 PM Dr. Adelstein (HE). NWSFA schedule wk of 11/2: Thu 11/5 1:45 PM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Thu 10/29 3:15 PM Dr. Adelstein (HE). A2 Thu 10/15 (3x3.5; AJ confirmed 10/18). A1 10/8: OASIS Wound 3x7 (AJ's 10/12 note; AJ confirmed 10/11, it had been logged as held). A2 Thu 10/15 2:45 PM (HE) goes back to 3x3.5. IVR #06347152, Medicare (NGS) + BCBS IL. L foot ulcer 7.6 x 1.3 x 0.1 cm.<br>[📄 IVR](../ivr/nw-lw.md) |
@@ -95,6 +95,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **S.G.** | GRAFIX&nbsp;3x3 · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;11/18&nbsp;11:10&nbsp;AM · Lombard** | 🟢 2 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside. |
+| **S.G.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;3x3 · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;11:10&nbsp;AM · Lombard** | 🟢 3 | 🔴 Verify: Assumed weekly (AJ 11/6): Wed 11/25 11:10 AM<br>A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside. |
 
 </details>
