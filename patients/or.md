@@ -2,24 +2,26 @@
 
 # OR
 
-**BIOT Chicago West** · 126 patients · updated Fri 11/20, 6:59 AM CT
+**BIOT Chicago West** · 128 patients · updated Fri 11/20, 10:36 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;126](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;38](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 40** · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 42** · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 14</summary>
+<details open><summary><b>Good Sam</b> · 16</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| **D.F.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;11/19 · 1&nbsp;d&nbsp;post-op** |   | OR case Thu 11/19 at Good Sam (Dr. Luetkehans): STRAVIX 3x6 LYU-260834\_36003 (exp 4/10/28) from the OR shelf. November row 72; Owens & Minor PO to come. Same patient as the wound center record (D.F., on hold for Grafix).<br>_11/20:_ AJ 11/20: Medical Recall Sheet for the 11/19 OR case; filed to the tracker (November row 72), case sheet df-1119 (label covered). |
+| **Upcoming · Dr. Luetkehans** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;11/18 · 2&nbsp;d&nbsp;post-op** |   | OR case Wed 11/18 at Good Sam (Dr. Luetkehans), right foot: STRAVIX 3x6 LYU-260692\_36005 (exp 3/16/28) from the OR shelf. November row 73; Owens & Minor PO to come. Patient initials not given yet.<br>_11/20:_ AJ 11/20: photo of the hospital implant screen for a Stravix Dr. Luetkehans used Wed 11/18; filed to the tracker (November row 73). Initials still needed. |
 | **C.W.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Malik<br>**OR&nbsp;Mon&nbsp;11/16 · 4&nbsp;d&nbsp;post-op** |   | OR case Mon 11/16 at Good Sam (Dr. Malik): STRAVIX 2x4 LYU-260474\_24001 (exp 2/16/28) from the OR shelf. PO006237839 in 11/17; case sheet to come.<br>_11/17:_ AJ 11/17: PO006237839 for Dr. Malik's OR case Mon 11/16, initials C.W. (the PO lists Dr. Luetkehans because Dr. Malik wasn't in the drop-down). Filed to the tracker from the PO (November row 65); case sheet or sticker still needed. |
 | **S.W.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Ayesh<br>**OR&nbsp;Fri&nbsp;11/13 · 1&nbsp;wk&nbsp;post-op** |   | Stravix in the OR on Fri 11/13, 7:00-8:00 AM (Dr. Ayesh; time from AJ's Outlook 11/5). GRAFIX PA had been approved. Projected 3x6 upside / 2x4 downside.<br>_11/17:_ PO006237157 from AJ 11/17: matched to the 11/13 OR case (Stravix 2x4 LYU-260753\_24001), ready to submit. |
 | **D.M.** | STRAVIX&nbsp;3x6&nbsp;(x2) · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;11/11 · 1&nbsp;wk&nbsp;2&nbsp;d&nbsp;post-op** |   | OR case Wed 11/11 at Good Sam (left foot): 2 x STRAVIX 3x6 LYU-260325\_36002 (exp 1/12/28) and LYU-260453\_36008 (exp 2/16/28) from the OR shelf. PO006220374 in 11/17 (approved 11/13): ready to submit.<br>_11/17:_ PO006220374 from AJ 11/17: matched to this case (2 x Stravix 3x6), ready to submit. |
@@ -60,7 +62,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. Greg Bryniczka** | STRAVIX · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/20 · OR&nbsp;today** |   | Upcoming OR case Fri 11/20 7:30-8:30 AM at Saint Joseph Hospital - Elgin (Dr. Greg Bryniczka, STRAVIX), confirmed on AJ's Outlook 11/5. Patient and size not given. Projected 3x6 upside / 2x4 downside at the Elgin rate. Same time as Dr. Adam Bryniczka's Sherman case. |
+| **J.B.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/20 · OR&nbsp;today** |   | Done Fri 11/20 7:30 AM (J.B.): STRAVIX 2x4 LYU-260239\_24004 (exp 1/12/28), Bill Only Request from AJ 11/20; November row 71, bill-only PO to come. Upcoming OR case Fri 11/20 7:30-8:30 AM at Saint Joseph Hospital - Elgin (Dr. Greg Bryniczka, STRAVIX), confirmed on AJ's Outlook 11/5. Patient and size not given. Projected 3x6 upside / 2x4 downside at the Elgin rate. Same time as Dr. Adam Bryniczka's Sherman case. |
 | **M.C.** | STRAVIX · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/20 · OR&nbsp;today** |   | New OR case Fri 11/20 9:00 AM at St. Joseph Hospital Elgin (Dr. Greg Bryniczka): equipment request from Barb, Northwest Podiatry Center-Streamwood (630-830-2155), 11/9. Need: STRAVIX PL, size not given. Procedures (left foot): bunionectomy with osteotomy, excision of retained hardware, tailor's bunionectomy, arthroplasty 2nd digit, excision of neuroma 2nd interspace, steroid injection sinus tarsi. Barb asked for an email confirmation. Not in projections until a size is given. Dr. Greg Bryniczka also has the 7:30 AM hold at Elgin that morning (AJ's Outlook 11/5), and Dr. Adam Bryniczka is at Sherman at 7:30. |
 | **E.D.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/6 · 2&nbsp;wks&nbsp;post-op** |   | Upcoming OR case Fri 11/6 7:30–8:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka), on AJ's calendar (11/1). STRAVIX, size not given yet. Pete and Caroline are on the invite. |
 | **K.C.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Greg&nbsp;Bryniczka<br>**OR&nbsp;Fri&nbsp;11/6 · 2&nbsp;wks&nbsp;post-op** |   | Add-on OR case Fri 11/6 at St. Joseph Elgin (Dr. Greg Bryniczka): STRAVIX 2x4, bill-only PO to come. New OR patient (AJ's case sheet upload in Chi West 11/6). |

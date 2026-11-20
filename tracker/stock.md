@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 6:59 AM CT
+**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 10:36 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -328,7 +328,7 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 | :-- | --: | :-- | :-- |
 | **5x5**<br>Grafix | **3** | — | +2 incoming · next exp 11/3/27 |
 | **2x4**<br>Stravix | **1** | — | +1 incoming · next exp 2/16/28 |
-| **3x6**<br>Stravix | **0** | — | +3 incoming |
+| **3x6**<br>Stravix | **0** | — | +1 incoming |
 
 <details><summary><b>Units on the shelf</b> · 4</summary>
 
@@ -341,7 +341,7 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 
 </details>
 
-<details><summary><b>Incoming</b> · 6</summary>
+<details><summary><b>Incoming</b> · 4</summary>
 
 | Product | Size |  |
 | :-- | :-- | :-- |
@@ -349,12 +349,10 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 | Grafix | 5x5 | lot/SN when it arrives |
 | Stravix | 2x4 | lot/SN when it arrives |
 | Stravix | 3x6 | lot/SN when it arrives |
-| Stravix | 3x6 | lot/SN when it arrives |
-| Stravix | 3x6 | lot/SN when it arrives |
 
 </details>
 
-<details><summary><b>Used since the count</b> · 7</summary>
+<details><summary><b>Used since the count</b> · 9</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
@@ -365,6 +363,8 @@ Bill & replace stock on the OR shelf at Ascension Saint Alexius. Each unit used 
 | LYU-260753\_24001 | Stravix 2x4 | Used 11/13 (S.W., Dr. Ayesh) |
 | LYU-260692\_36003 | Stravix 3x6 | Used 10/28 (R.C., Dr. Luetkehans) |
 | LYU-260692\_36004 | Stravix 3x6 | Used 10/28 (R.C., Dr. Luetkehans) |
+| LYU-260692\_36005 | Stravix 3x6 | Used 11/18 (Dr. Luetkehans) |
+| LYU-260834\_36003 | Stravix 3x6 | Used 11/19 (D.F., Dr. Luetkehans) |
 
 </details>
 

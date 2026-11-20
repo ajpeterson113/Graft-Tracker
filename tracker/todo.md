@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 6:59 AM CT
+**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 10:36 AM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -32,7 +32,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | PO006237157 | \$1,695 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 18 · \$25,886
+## 🟡 Waiting on a PO · 22 · \$35,316
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -54,6 +54,10 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/18 | [G.D.](../case-sheets/gd-1118.md) | St. Alexius · Adam Bryniczka | Stravix 3x6 | 🟠 2 days |   | \$2,469 |
 | 11/18 | [T.A.](../case-sheets/ta-1118.md) | St. Alexius · Greg Bryniczka | Stravix 3x6 | 🟠 2 days |   | \$2,469 |
 | 11/18 | [S.G.](../case-sheets/sg-1118.md) | Romano Lombard · Rojas | Grafix 2x3 | 🟠 2 days |   | \$570 |
+| 11/18 | [—](../case-sheets/luetkehans-1118.md) | Good Sam · Luetkehans | Stravix 3x6 | 🟠 2 days |   | \$2,655.50 |
+| 11/19 | [D.F.](../case-sheets/df-1119.md) | Good Sam · Luetkehans | Stravix 3x6 | 🟠 1 day |   | \$2,655.50 |
+| 11/20 | [M.C.](../case-sheets/mc-1120.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | — |   | \$2,469 |
+| 11/20 | [J.B.](../case-sheets/jb-1120.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
 
 <a name="submitted"></a>
 ## 🔵 Submitted, not in SFDC yet · 16 · \$18,188
@@ -112,6 +116,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 > - **Stravix 2x4: 3 on the shelf (target 7)** · Restock not counted in the forecast · [St. Alexius OR](stock.md#stalexius)
 
 <a name="patients"></a>
-## 👥 Patients · 40
+## 👥 Patients · 38
 
-10 to verify · 27 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)
+9 to verify · 26 with no follow-up booked · 3 IVRs to follow up → [Patient to-do](../patients/todo.md)

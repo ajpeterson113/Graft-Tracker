@@ -2,16 +2,16 @@
 
 # On hold
 
-**BIOT Chicago West** · 126 patients · updated Fri 11/20, 6:59 AM CT
+**BIOT Chicago West** · 128 patients · updated Fri 11/20, 10:36 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;126](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;38](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 40](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · **On hold 12** · [OR 42](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -21,7 +21,7 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **C.H.** | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Bach | 🟢 0 | ON HOLD 10/6: not on Dr. Bach's 10/7 schedule and no follow-up booked. 100% approved for GRAFIX (was set to start 5x5 on 10/7). |
-| **D.F.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Luetkehans<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/12&nbsp;1:00&nbsp;PM** | 🟢 6 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM<br>Back on AJ's calendar Thu 11/5 2:00 PM (A7, GRAFIX 5x5 or 3x4; checked 11/2) — verify with the office. Was on hold 10/29. A4 Thu 10/22: 5x5 from the Good Sam shelf (stayed on 5x5, did not move down to 3x4). A3 10/8: 5x5 (Good Sam ordered it on PO006001505). Stravix on 9/10. |
+| **D.F.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5 · Weekly · Dr.&nbsp;Luetkehans<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/12&nbsp;1:00&nbsp;PM** | 🟢 6 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM<br>Back on AJ's calendar Thu 11/5 2:00 PM (A7, GRAFIX 5x5 or 3x4; checked 11/2) — verify with the office. Was on hold 10/29. A4 Thu 10/22: 5x5 from the Good Sam shelf (stayed on 5x5, did not move down to 3x4). A3 10/8: 5x5 (Good Sam ordered it on PO006001505). Stravix on 9/10.<br>_11/20:_ OR case Thu 11/19 with Dr. Luetkehans: Stravix 3x6 LYU-260834\_36003 (Good Sam OR shelf), from the Medical Recall Sheet AJ sent 11/20; filed to the tracker (November row 72). Still on hold for Grafix. |
 
 </details>
 
