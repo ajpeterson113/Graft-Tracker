@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 128 patients · updated Fri 11/20, 10:36 AM CT
+**BIOT Chicago West** · 128 patients · updated Fri 11/20, 12:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -115,14 +115,14 @@
 <a name="fri"></a>
 ### Friday, Nov 20 · Today
 
-7 visits · 2 logged · **Grafts:** STRAVIX ×2 · GRAFIX · OASIS Ultra 3x7 · OASIS Wound Matrix 3x3.5 · **Covering:** Caroline 1 · Pete 2
+7 visits · 4 logged · **Grafts:** GRAFIX · OASIS Ultra 3x7 · OASIS Wound Matrix 3x3.5 · **Covering:** Caroline 1 · Pete 1
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **7:30&nbsp;AM** | **J.B.** | **OR** · STRAVIX 2x4 | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Greg&nbsp;Bryniczka | ✅ Grafted · OR case: Stravix PL 2x4 LYU-260239\_24004 (AJ's Bill Only Request, Prime Healthcare). Filed to the tracker 11/20 (November row 71); bill-only PO to come |
-| **7:30&nbsp;AM** | **Upcoming · Dr. Adam Bryniczka** | **OR** · STRAVIX | Sherman<br>Dr.&nbsp;Adam&nbsp;Bryniczka |   |
+| **7:30&nbsp;AM** | **Upcoming · Dr. Adam Bryniczka** | **OR** · STRAVIX | Sherman<br>Dr.&nbsp;Adam&nbsp;Bryniczka | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Canceled&nbsp;(AJ&nbsp;11/20) |
 | **8:45&nbsp;AM** | **MZ (L)** | **A8** · OASIS Ultra 3x7 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | 👤&nbsp;Caroline&nbsp;covering |
-| **9:00&nbsp;AM** | **M.C.** | **OR** · STRAVIX | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Greg&nbsp;Bryniczka | 👤&nbsp;Pete&nbsp;covering |
+| **9:00&nbsp;AM** | **M.C.** | **OR** · STRAVIX | St.&nbsp;Joseph&nbsp;Elgin<br>Dr.&nbsp;Greg&nbsp;Bryniczka | ➖&nbsp;Not&nbsp;grafted&nbsp;·&nbsp;Canceled&nbsp;(AJ&nbsp;11/20) |
 | **9:45&nbsp;AM** | **M.C.** | **A13** · STRAVIX 3x6 | Alexian&nbsp;Ambulatory<br>Dr.&nbsp;Lucas | ✅ Grafted A13 · Stravix 3x6 LYU-251697\_36003 from the Alexian Ambulatory shelf. Case sheet from AJ 11/20, filed to the tracker (November row 70); bill-only PO to come |
 | **12:40&nbsp;PM** | **G.H.** | **A3** · GRAFIX | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Mallory |   |
 | **1:00&nbsp;PM** | **D.N.** | **A6** · OASIS Wound Matrix 3x3.5 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas | 👤&nbsp;Pete&nbsp;covering |
@@ -137,14 +137,14 @@
 | **Alexian WCC** | 1 | 6 | 2 | – | 1 | 10 | GRAFIX 16mm ×3 · GRAFIX ×1 · GRAFIX 1.5x2 ×1 · GRAFIX 3x4 ×1 · OASIS Wound 3x3.5 ×1 |
 | **Alexian Ambulatory** | – | – | – | 1 | 1 | 2 | OASIS Wound 3x3.5 ×1 · STRAVIX 3x6 ×1 |
 | **NW Suburban F&A** | 5 | – | 3 | 2 | 1 | 11 | OASIS Ultra 3x3.5 ×4 · OASIS Wound 3x3.5 ×3 · GRAFIX 3x4 ×2 · GRAFIX 16mm ×1 · GRAFIX 3x3 ×1 · OASIS Ultra 3x7 ×1 |
-| **St. Joseph Elgin** | – | 2 | – | 2 | 3 | 7 | GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · GRAFIX/OASIS ×1 · OASIS Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · STRAVIX ×1 · STRAVIX 2x4 ×1 |
-| **Sherman** | – | – | – | – | 1 | 1 | STRAVIX ×1 |
+| **St. Joseph Elgin** | – | 2 | – | 2 | 3 | 7 | GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 · GRAFIX/OASIS ×1 · OASIS Wound 3x3.5 ×1 · OASIS Wound Matrix 3x3.5 ×1 · STRAVIX 2x4 ×1 |
+| **Sherman** | – | – | – | – | 1 | 1 |   |
 | **St. Alexius** | – | – | 2 | – | – | 2 | STRAVIX 3x6 ×2 |
 | **Romano Lombard** | – | – | 1 | – | – | 1 | GRAFIX 2x3 ×1 |
-| **All clinics** | **7** | **9** | **9** | **9** | **7** | **41** | GRAFIX 16mm ×8 · OASIS Wound 3x3.5 ×6 · STRAVIX 3x6 ×5 · OASIS Ultra 3x3.5 ×4 · GRAFIX 3x4 ×3 · GRAFIX 1.5x2 ×2 · GRAFIX 2x3 ×2 · GRAFIX 3x3 ×2 · STRAVIX ×2 · STRAVIX 2x4 ×2 · GRAFIX ×1 · GRAFIX/OASIS ×1 · OASIS Ultra 3x7 ×1 · OASIS Wound Matrix 3x3.5 ×1 |
+| **All clinics** | **7** | **9** | **9** | **9** | **7** | **41** | GRAFIX 16mm ×8 · OASIS Wound 3x3.5 ×6 · STRAVIX 3x6 ×5 · OASIS Ultra 3x3.5 ×4 · GRAFIX 3x4 ×3 · GRAFIX 1.5x2 ×2 · GRAFIX 2x3 ×2 · GRAFIX 3x3 ×2 · STRAVIX 2x4 ×2 · GRAFIX ×1 · GRAFIX/OASIS ×1 · OASIS Ultra 3x7 ×1 · OASIS Wound Matrix 3x3.5 ×1 |
 
 
-**Covering this week:** Caroline 3 · Not covered 1 · Pete 9
+**Covering this week:** Caroline 3 · Not covered 1 · Pete 8
 
 
 <details><summary><b>Next week</b> · 16 visits booked so far</summary>
