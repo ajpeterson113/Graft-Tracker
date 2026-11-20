@@ -2,16 +2,16 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 12:16 PM CT
+**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 12:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$94,956 | \$94,956 |
-| \+ Projected Grafix, net of WCC stock | \$8,251 | \$6,307 |
+| Sold so far (November tab) | \$95,146 | \$95,146 |
+| \+ Projected Grafix, net of WCC stock | \$8,061 | \$6,117 |
 | \+ Upcoming Stravix | \$0 | \$0 |
 | \+ Potential new starts | \$6,152 | \$0 |
 | \+ OASIS reorders (estimated) | \$7,222 | \$5,016 |
@@ -36,14 +36,14 @@
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [Alexian Ambulatory](#x) | \$10,614 | \$0 | \$0 | **\$10,614** | **\$10,614** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$8,692 | \$0 | \$0 | **\$8,692** | **\$8,692** |
-| [NW Suburban F&A](#nw-suburban-f-a) | \$4,154 | \$2,682 | \$1,152 | **\$6,836** | **\$5,306** |
+| [NW Suburban F&A](#nw-suburban-f-a) | \$4,344 | \$2,492 | \$962 | **\$6,836** | **\$5,306** |
 | [Elmhurst](#elmhurst) | \$4,883 | \$0 | \$0 | **\$4,883** | **\$4,883** |
 | [Romano Lombard](#romano-lombard) | \$2,660 | \$855 | \$855 | **\$3,515** | **\$3,515** |
 | [Alexian Main OR](#alexian-main-or) | \$2,469 | \$0 | \$0 | **\$2,469** | **\$2,469** |
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$94,956** | **\$21,624** | **\$11,322** | **\$116,581** | **\$106,278** |
+| **Total** | **\$95,146** | **\$21,434** | **\$11,132** | **\$116,581** | **\$106,278** |
 
 
 ## Account by account
@@ -207,13 +207,13 @@ Sold so far: **\$8,692** · 7 cases
 <a name="nw-suburban-f-a"></a>
 <details><summary><b>NW Suburban F&amp;A</b> · upside &#36;6,836 · downside &#36;5,306</summary>
 
-Sold so far: **\$4,154** · 6 cases
+Sold so far: **\$4,344** · 7 cases
 
 **Weekly and biweekly patients**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **M.A. · Dr. Goldkind** | 16mm · Weekly · 2 visits | \$380 | \$380 | P11: A1 Fri 10/30 grafted (16mm on PO MA103026, P10 sale); A2 Thu 11/5 1:30 PM Elk Grove, 16mm to order on PO MA110526 (P11), weekly after that \| New start Fri 10/30 8:45 AM (AJ 10/27): the 16mm on PO MA103026 is alread… |
+| **M.A. · Dr. Goldkind** | 16mm · Weekly · 1 visit | \$190 | \$190 | P11: A1 Fri 10/30 grafted (16mm on PO MA103026, P10 sale); A2 Thu 11/5 1:30 PM Elk Grove, 16mm to order on PO MA110526 (P11), weekly after that \| New start Fri 10/30 8:45 AM (AJ 10/27): the 16mm on PO MA103026 is alread… |
 | **P.S. · Dr. Goldkind** | DONE (AJ 11/9, Chi West): healed Mon 11/9, total applications 4, so nothing projected (units/visit set to 0). | — | — |   |
 
 **Potential new starts**
@@ -306,7 +306,7 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 28 | \$14,764 | \$10,589 |
+| Weekly and biweekly patients | 28 | \$14,574 | \$10,399 |
 | Less Good Sam WCC stock already sold | 8 | -\$6,513 | -\$4,282 |
 | Upcoming Stravix | 3 | \$0 | \$0 |
 | Potential new starts | 16 | \$6,152 | \$0 |

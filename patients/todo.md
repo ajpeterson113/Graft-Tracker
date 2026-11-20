@@ -2,9 +2,9 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 128 patients · updated Fri 11/20, 12:16 PM CT
+**BIOT Chicago West** · 128 patients · updated Fri 11/20, 12:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -43,20 +43,20 @@
 | **Z.G.** | Good Sam · Ayesh | GRAFIX 16mm | Last appt 11/19 passed, nothing new booked · usually Thu |
 | **L.J.** | Good Sam · Bach | OASIS Ultra 7x10 (x2) | Last appt 11/11 passed, nothing new booked · usually Wed |
 | **D.F.** | Good Sam · Luetkehans | GRAFIX 5x5 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM · usually Thu |
-| **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Last appt 11/19 passed, nothing new booked · usually Thu |
-| **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Last appt 11/19 passed, nothing new booked · usually Thu |
+| **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:45 PM · usually Thu |
+| **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:00 PM · usually Thu |
 | **P.P.** | Good Sam · Patni | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Tue 11/24 9:00 AM · usually Tue |
 | **D.V.** | Alexian WCC · Hussain | OASIS Wound 3x7 (4 sheets) | Verify: Assumed weekly (AJ 11/6): Wed 1:45 PM · usually Wed |
 | **E.N.** | Alexian WCC · Turayhi | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/6): Wed 9:15 AM · usually Wed |
 | **M.C.** | Alexian Ambulatory · Lucas | STRAVIX 3x6 | Verify: Assumed weekly (AJ 11/6): Fri 11/27 9:45 AM · usually Fri |
-| **H.P.** | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 | Last appt 11/19 passed, nothing new booked · usually Thu |
+| **H.P.** | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/6): Thu 11/26 1:30 PM · usually Thu |
 | **C.C.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **G.K.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **L.W.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/19 passed, nothing new booked · usually Thu |
 | **P.M.** | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **D.R.** | NW Suburban F&A · Goldkind | GRAFIX 3x3 | Last appt 11/18 passed, nothing new booked · usually Wed |
 | **E.P.** | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | Last appt 11/18 passed, nothing new booked · usually Wed |
-| **M.A.** | NW Suburban F&A · Goldkind | GRAFIX 16mm | Last appt 11/19 passed, nothing new booked · usually Thu |
+| **M.A.** | NW Suburban F&A · Goldkind | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/26 9:30 AM · usually Thu |
 | **J.D.** | NW Suburban F&A · Hussain | GRAFIX 3x4 (x2) | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **R.E.** | NW Suburban F&A · Hussain | OASIS Ultra 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **J.C.** | St. Joseph Elgin · Bhagat | OASIS Wound 3x3.5 | Last appt 11/19 passed, nothing new booked · usually Thu |

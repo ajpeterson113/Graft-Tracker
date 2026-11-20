@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 12:16 PM CT
+**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 12:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,13 +13,14 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**65 entries · \$94,956** · 🟢 15 Ready · 🟡 22 Needs PO · 🔵 16 Submitted · 🔴 3 Check · 🟤 1 Clinic stock · ⚪ 8 In SFDC
+**66 entries · \$95,146** · 🟢 15 Ready · 🟡 23 Needs PO · 🔵 16 Submitted · 🔴 3 Check · 🟤 1 Clinic stock · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
 | **11/20** | [**M.C.**](../case-sheets/mc-1120.md) 📄 · Alexian Ambulatory · Lucas<br>Stravix 3x6 · no PO yet · LYU-251697\_36003<details><summary><sub>Notes</sub></summary>Stravix follow up Fri 11/20 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C. A13 (AJ confirmed A13 in Chi West 11/20): Stravix PL 3x6 LYU-251697\_36003 (exp 8/11/27) from the Alexian Ambulatory shelf, \$2,469.00 (Ascension rate, on AJ's case sheet). Case sheet photo from AJ 11/20 (patient label covered on the copy). Bill-only PO to come. Case sheet page: case-sheets/mc-1120.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**J.B.**](../case-sheets/jb-1120.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · no PO yet · LYU-260239\_24004<details><summary><sub>Notes</sub></summary>OR case Fri 11/20 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka), J.B.: Stravix PL 2x4 LYU-260239\_24004 (exp 1/12/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Bill Only Request photo from AJ 11/20. Bill-only PO to come (Prime Healthcare vendor acct 296620). Case sheet: case-sheets/jb-1120 (patient label and hospital account number covered).</details> | \$1,650 | 🟡&nbsp;Needs&nbsp;PO |
 | **11/19** | [**D.F.**](../case-sheets/df-1119.md) 📄 · Good Sam · Luetkehans<br>Stravix 3x6 · no PO yet · LYU-260834\_36003<details><summary><sub>Notes</sub></summary>OR case Thu 11/19 at Good Sam (Dr. Luetkehans), D.F. (the Good Sam wound center patient, on hold for Grafix since 11/12): Stravix PL 3x6 LYU-260834\_36003 (exp 4/10/28) from the Good Sam OR shelf, \$2,655.50 (Good Sam 3x6 rate). Good Sam Medical Recall Sheet photo from AJ 11/20 (implant marked Implanted; patient label covered on the copy). Owens & Minor PO to come. Case sheet page: case-sheets/df-1119.</details> | \$2,655.50 | 🟡&nbsp;Needs&nbsp;PO |
+|   | **M.A.** · NW Suburban F&A · Goldkind<br>Grafix 16mm · no PO yet<details><summary><sub>Notes</sub></summary>App #4, Thu 11/19 9:30 AM (Elk Grove), Dr. Goldkind (Grafted tap in Chi West 11/20): 1 x Grafix 16mm, \$190 (NWSFA 16mm rate). Lot/SN to come (no sticker photo yet). PO to come: no sale-order PO for this visit is on file yet; confirm the PO.</details> | \$190 | 🟡&nbsp;Needs&nbsp;PO<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 | **11/18** | [**G.D.**](../case-sheets/gd-1118.md) 📄 · St. Alexius · Adam Bryniczka<br>Stravix 3x6 · no PO yet · LYU-260755\_36004<details><summary><sub>Notes</sub></summary>OR case Wed 11/18 10:30 AM at St. Alexius (Dr. Adam Bryniczka), left foot/ankle, G.D.: Stravix PL 3x6 LYU-260755\_36004 (exp 3/16/28) from the St. Alexius OR shelf, \$2,469 (St. Alexius 3x6 rate). Implant record (Ascension Saint Alexius intraoperative implant and charge record, dated 11/18/26) uploaded in Chi West 11/18; initials read from the patient label. Bill & replace (St. Alexius OR shelf): the hospital's PO is the replacement order and a Stravix 3x6 replacement ships to the shelf. PO from St. Alexius to come. Case sheet page: case-sheets/gd-1118.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**T.A.**](../case-sheets/ta-1118.md) 📄 · St. Alexius · Greg Bryniczka<br>Stravix 3x6 · no PO yet · LYU-260668\_36006<details><summary><sub>Notes</sub></summary>OR case Wed 11/18 8:00 AM at St. Alexius (Dr. Greg Bryniczka), left foot, T.A.: Stravix PL 3x6 LYU-260668\_36006 (exp 3/16/28) from the St. Alexius OR shelf, \$2,469 (St. Alexius 3x6 rate). Implant record dated 11-18-26 uploaded in Chi West 11/18 (Stock checked, "Bill and replace" written on it); initials read from the patient label (the in-app read said A.G.; the label lists the surname first). Bill & replace: a Stravix 3x6 replacement ships to the shelf on the St. Alexius PO. PO to come. Case sheet page: case-sheets/ta-1118.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**S.G.**](../case-sheets/sg-1118.md) 📄 · Romano Lombard · Rojas<br>Grafix 2x3 · no PO yet · LYA-250625\_23005<details><summary><sub>Notes</sub></summary>App #3 Wed 11/18, Dr. Rojas: Grafix PL Prime 2x3 LYA-250625\_23005 (exp 6/18/27), \$570 (Romano \$95/cm2 x 6 cm2). Grafted in Chi West 11/18; the tap said Grafix 3x3 (\$855), but the sticker strip AJ uploaded with it is a 2x3, so the row follows the sticker: AJ, confirm the size. The unit is on the Alexian WCC shelf list (TRANSFER to Romano, Transfers tab, as on 11/4 and 11/11). Case sheet made from the sticker photo (case-sheets/sg-1118). Waiting on the sale-order PO.</details> | \$570 | 🟡&nbsp;Needs&nbsp;PO<br>🔁&nbsp;Transfer |

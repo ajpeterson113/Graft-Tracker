@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 12:16 PM CT
+**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 12:51 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;40**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -32,7 +32,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | PO006237157 | \$1,695 |
 
 <a name="needspo"></a>
-## 🟡 Waiting on a PO · 22 · \$35,316
+## 🟡 Waiting on a PO · 23 · \$35,506
 
 | Date | Pt | Account | Graft | Since the case | Alexian ID | Amount |
 | :-- | :-- | :-- | :-- | :-- | :-- | --: |
@@ -56,6 +56,7 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/18 | [S.G.](../case-sheets/sg-1118.md) | Romano Lombard · Rojas | Grafix 2x3 | 🟠 2 days |   | \$570 |
 | 11/18 | [—](../case-sheets/luetkehans-1118.md) | Good Sam · Luetkehans | Stravix 3x6 | 🟠 2 days |   | \$2,655.50 |
 | 11/19 | [D.F.](../case-sheets/df-1119.md) | Good Sam · Luetkehans | Stravix 3x6 | 🟠 1 day |   | \$2,655.50 |
+| 11/19 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | 🟠 1 day |   | \$190 |
 | 11/20 | [M.C.](../case-sheets/mc-1120.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | — |   | \$2,469 |
 | 11/20 | [J.B.](../case-sheets/jb-1120.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | — |   | \$1,650 |
 
@@ -93,7 +94,7 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | VERSAJET II Exact handpiece 45° 14 mm | Status unclear, open to check |
 
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 4
+## ⏳ Case sheets to come · 5
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -103,6 +104,7 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
 | 11/16 | C.P. | Alexian WCC · Joshi | Grafix 1.5x2 | …287797 | Seen Mon 11/16 |
 | 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | VERSAJET II Exact handpiece 45° 14 mm | …287570 | Seen Fri 11/6 |
+| 11/19 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm |   | Seen Thu 11/19 |
 
 <a name="stock"></a>
 ## 📦 Stock · 4
