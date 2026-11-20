@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 13 of 19 · updated Thu 11/19, 3:49 PM CT
+**BIOT Chicago West** · P11 · day 14 of 19 · updated Fri 11/20, 6:50 AM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -12,7 +12,7 @@
   <source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="view/home-narrow-dark.png">
   <source media="(max-width: 700px)" srcset="view/home-narrow.png">
   <source media="(prefers-color-scheme: dark)" srcset="view/home-dark.png">
-  <img alt="P11: &#36;27,482 in SFDC + submitted, 30% of the &#36;92,891 target (&#36;85,526 booked). Forecast &#36;100,188 downside to &#36;112,421 upside. Shipping day 13 of 19." src="view/home.png" width="880">
+  <img alt="P11: &#36;27,482 in SFDC + submitted, 30% of the &#36;92,891 target (&#36;85,526 booked). Forecast &#36;100,188 downside to &#36;112,421 upside. Shipping day 14 of 19." src="view/home.png" width="880">
 </picture>
 
 ### To do
@@ -31,12 +31,12 @@
 
 ### This week · Nov 16–20
 
-| [Mon 11/16](patients/week.md#mon) | [Tue 11/17](patients/week.md#tue) | [Wed 11/18](patients/week.md#wed) | [Thu 11/19 · today](patients/week.md#thu) | [Fri 11/20](patients/week.md#fri) |
+| [Mon 11/16](patients/week.md#mon) | [Tue 11/17](patients/week.md#tue) | [Wed 11/18](patients/week.md#wed) | [Thu 11/19](patients/week.md#thu) | [Fri 11/20 · today](patients/week.md#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **7** visits | **9** visits | **8** visits 🔴 | **10** visits 🔴 | **7** visits 🟠 |
+| **7** visits | **9** visits | **8** visits 🔴 | **8** visits 🔴 | **7** visits 🟠 |
 
 
-Covering: Caroline 3 · Not covered 1 · Pete 12 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
+Covering: Caroline 3 · Not covered 1 · Pete 10 · 🟠 to verify · 🔴 no follow-up booked · [Open the schedule →](patients/week.md)
 
 
 ### P11 forecast
