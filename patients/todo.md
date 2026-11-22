@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 128 patients · updated Sun 11/22, 6:58 AM CT
+**BIOT Chicago West** · 128 patients · updated Sun 11/22, 5:57 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;31**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -25,7 +25,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 27
+## 🔴 No Follow-Up · 18
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -41,15 +41,6 @@
 | **V.T.** | Alexian WCC · Halihan | GRAFIX 1.5x2 | Next 12/3, nothing booked next week · usually Thu |
 | **M.C.** | Alexian Ambulatory · Lucas | STRAVIX 3x6 | Verify: Assumed weekly (AJ 11/6): Fri 11/27 9:45 AM · usually Fri |
 | **H.P.** | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 | Verify: Assumed weekly (AJ 11/6): Thu 11/26 1:30 PM · usually Thu |
-| **C.C.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
-| **G.K.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
-| **L.W.** | NW Suburban F&A · Adelstein | OASIS Ultra 3x3.5 | Last appt 11/19 passed, nothing new booked · usually Thu |
-| **P.M.** | NW Suburban F&A · Adelstein | OASIS Wound 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
-| **D.R.** | NW Suburban F&A · Goldkind | GRAFIX 3x3 | Last appt 11/18 passed, nothing new booked · usually Wed |
-| **E.P.** | NW Suburban F&A · Goldkind | OASIS Wound 3x3.5 | Last appt 11/18 passed, nothing new booked · usually Wed |
-| **M.A.** | NW Suburban F&A · Goldkind | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/26 9:30 AM · usually Thu |
-| **MZ (L)** | NW Suburban F&A · Goldkind | OASIS Ultra 3x7 | Last appt 11/20 passed, nothing new booked · usually Fri |
-| **J.D.** | NW Suburban F&A · Hussain | GRAFIX 3x4 (x2) | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **R.E.** | NW Suburban F&A · Hussain | OASIS Ultra 3x3.5 | Last appt 11/16 passed, nothing new booked · usually Mon |
 | **J.C.** | St. Joseph Elgin · Bhagat | OASIS Wound 3x3.5 | Last appt 11/19 passed, nothing new booked · usually Thu |
 | **D.N.** | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | Last appt 11/20 passed, nothing new booked · usually Fri |
@@ -78,7 +69,7 @@
 | **G.C.** | Alexian WCC · Joshi |   |
 | **J.C.** | Alexian WCC · Joshi | On hold (moved in the app 10/11). Had positive margins on skin cancer lesion. Going to get Mohs surgery. Waiting on return. |
 | **F.A.** | NW Suburban F&A · Adelstein | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris; office was running a new IVR 10/16. NWSFA schedule wk … |
-| **J.M.** | NW Suburban F&A · Adelstein | NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 12:00 PM Dr. Adelstein (EG). Still on hold in the app; status not changed. On hold per t… |
+| **J.M.** | NW Suburban F&A · Adelstein | NWSFA schedule wk of 11/23 (AJ 11/22): Wed 11/25 10:30 AM Dr. H (EG). NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 12:00 PM Dr. Adels… |
 | **J.R.** | NW Suburban F&A · Goldkind | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
 | **J.C.** | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Last 7/27/26 |
 | **J.S.** | NW Suburban F&A · Hussain | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
