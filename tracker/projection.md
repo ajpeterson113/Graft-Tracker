@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 15 of 19 · updated Mon 11/23, 10:04 AM CT
+**BIOT Chicago West** · P11 · day 15 of 19 · updated Mon 11/23, 10:52 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -223,7 +223,7 @@ Sold so far: **\$4,344** · 7 cases
 | **L.W. · Dr. Adelstein** | A2 Thu 10/15 (3x3.5, AJ confirmed 10/18); A1 10/8 (3x7). | — | — |   |
 | **R.E. · Dr. Hussain** | Approved in the Patients app 11/2: IVRs received 11/2 (GRAFIX case 06579363, OASIS Wound case 06579505; Wellpoint Federal / BCBS Illinois), determinations pending; next … | — | — |   |
 | **D.R. · Dr. Goldkind** | 3x3 · Weekly · 1 visit | \$765 | \$0 | AJ 11/12: D.R. is moving to a 3x3 (not the 3x4 shelf stock), so the visits from Wed 11/18 are sale orders again: 3x3 at \$765, assumed at the CDFA rate (\$85/cm2) since NWSFA has no 3x3 price on file. |
-| **J.D. · Dr. Hussain** | AJ 11/15 (Chi West Edit): size Grafix 3x4 (x2), set Active; first visit Mon 11/16 11:00 AM Dr. Hussain (Hoffman Estates). | — | — |   |
+| **J.D. · Dr. Hussain** | AJ 11/15 (Chi West Edit): size Grafix 3x4 (x2), set Active; AJ 11/23 (Chi West Edit): size 3x4, one piece per visit; first visit Mon 11/16 11:00 AM Dr. Hussain (Hoffman … | — | — |   |
 
 **OASIS reorders (estimated)**
 

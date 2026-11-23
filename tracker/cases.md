@@ -2,7 +2,7 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 15 of 19 · updated Mon 11/23, 10:04 AM CT
+**BIOT Chicago West** · P11 · day 15 of 19 · updated Mon 11/23, 10:52 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -13,10 +13,11 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**67 entries · \$95,506** · 🟢 16 Ready · 🟡 22 Needs PO · 🔵 17 Submitted · 🔴 3 Check · 🟤 1 Clinic stock · ⚪ 8 In SFDC
+**68 entries · \$95,506** · 🟢 16 Ready · 🟡 22 Needs PO · 🔵 17 Submitted · 🔴 3 Check · 🟤 2 Clinic stock · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
+| **11/23** | **J.D.** · NW Suburban F&A · Hussain<br>Grafix 3x4 · no PO yet<details><summary><sub>Notes</sub></summary>App #3, Mon 11/23 10:30 AM (Hoffman Estates), Dr. Hussain (Grafted tap in Chi West 11/23): 1 x Grafix 3x4. NWSFA clinic stock, no sale (AJ 11/12): from the 25 Grafix 3x4 on NWSFA's shelf, so no price, no PO, nothing to submit. Lot/SN to come (no sticker photo yet). AJ set the patient's size to 3x4 (single piece) in Chi West 11/23.</details> | No&nbsp;sale | 🟤&nbsp;Clinic&nbsp;stock |
 | **11/20** | [**G.H.**](../case-sheets/gh-1120.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · PO 660040000288174 · LYA-260256\_16012<details><summary><sub>Notes</sub></summary>App #3, Fri 11/20 12:40 PM, Dr. Lucas: Grafix 16mm LYA-260256\_16012 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate; case sheet \$360). AJ's case sheet photo from Chi West 11/20, with the Grafted tap. PO 660040000288174 (Ascension bill only, dated 11/20; patient ID 0003095154, DOS 11/20, Dr. Lucas, PS13016 16mm \$360.00): matched by patient ID and date of service. PO screenshot from AJ 11/23 — ready to submit</details> | \$360 | 🟢&nbsp;Ready |
 |   | [**M.C.**](../case-sheets/mc-1120.md) 📄 · Alexian Ambulatory · Lucas<br>Stravix 3x6 · no PO yet · LYU-251697\_36003<details><summary><sub>Notes</sub></summary>Stravix follow up Fri 11/20 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C. A13 (AJ confirmed A13 in Chi West 11/20): Stravix PL 3x6 LYU-251697\_36003 (exp 8/11/27) from the Alexian Ambulatory shelf, \$2,469.00 (Ascension rate, on AJ's case sheet). Case sheet photo from AJ 11/20 (patient label covered on the copy). Bill-only PO to come. Case sheet page: case-sheets/mc-1120.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
 |   | [**J.B.**](../case-sheets/jb-1120.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · no PO yet · LYU-260239\_24004<details><summary><sub>Notes</sub></summary>OR case Fri 11/20 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka), J.B.: Stravix PL 2x4 LYU-260239\_24004 (exp 1/12/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Bill Only Request photo from AJ 11/20. Bill-only PO to come (Prime Healthcare vendor acct 296620). Case sheet: case-sheets/jb-1120 (patient label and hospital account number covered).</details> | \$1,650 | 🟡&nbsp;Needs&nbsp;PO |
