@@ -2,13 +2,13 @@
 
 # Grafting
 
-**BIOT Chicago West** · 128 patients · updated Sun 11/22, 7:50 PM CT
+**BIOT Chicago West** · 128 patients · updated Mon 11/23, 6:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;20](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 **Grafting 37** · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -47,7 +47,7 @@
 | **D.V.** | OASIS&nbsp;Wound&nbsp;3x7&nbsp;(4&nbsp;sheets) · Weekly · Dr.&nbsp;Hussain<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;1:45&nbsp;PM** | 🟢 6 of 8 | Next assumed Wed 10/28 1:45 PM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
 | **J.B.** | GRAFIX&nbsp;2x3 · Weekly · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;2:20&nbsp;PM** | 🟢 2 of 8 | Started: A1 Thu 10/29 8:00 AM, Dr. Adelstein: Grafix 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the app; filed in the tracker 10/29, October row 101). PO 660040000286395 (10/29, bill only, patient ID 0002601103) — ready to submit. Weekly; next assumed Thu 11/5 8:00 AM — verify with the office. PA UM108247795 approved for Q4133 × 60 units, 15275 × 12 units and 15276 × 36 units, 10/26/2026–1/25/2027 (approval letter attached). Alexian WCC stops at 8. |
 | **G.H.**<br>🟠&nbsp;Verify | GRAFIX · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/27&nbsp;12:40&nbsp;PM** | 🟢 3 of 8 | 🟠 **Verify:** Not confirmed with the office yet: Fri 11/27 12:40 PM |
-| **V.T.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;1.5x2 · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;12/3&nbsp;1:00&nbsp;PM** | 🟢 1 of 8 | 🔴 Next 12/3, nothing booked next week<br>_11/17:_ PO 660040000287571 (11/12) from AJ 11/17: matched to A1 11/12 by patient ID, ready to submit. |
+| **V.T.** | GRAFIX&nbsp;1.5x2 · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;12/3&nbsp;1:00&nbsp;PM** | 🟢 1 of 8 | _11/17:_ PO 660040000287571 (11/12) from AJ 11/17: matched to A1 11/12 by patient ID, ready to submit. |
 
 </details>
 
