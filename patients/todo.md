@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 128 patients · updated Sun 11/22, 5:57 PM CT
+**BIOT Chicago West** · 128 patients · updated Sun 11/22, 7:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -25,7 +25,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 18
+## 🔴 No Follow-Up · 17
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -33,7 +33,6 @@
 | **K.P.** | Good Sam · Ayesh | GRAFIX 5x5 + 3x4 | Last appt 11/5 passed, nothing new booked · usually Thu |
 | **W.K.** | Good Sam · Ayesh | GRAFIX 16mm | Last appt 11/5 passed, nothing new booked · usually Thu |
 | **Z.G.** | Good Sam · Ayesh | GRAFIX 16mm | Last appt 11/19 passed, nothing new booked · usually Thu |
-| **L.J.** | Good Sam · Bach | OASIS Ultra 7x10 (x2) | Last appt 11/11 passed, nothing new booked · usually Wed |
 | **D.F.** | Good Sam · Luetkehans | GRAFIX 5x5 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM · usually Thu |
 | **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:45 PM · usually Thu |
 | **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:00 PM · usually Thu |
