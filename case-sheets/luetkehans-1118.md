@@ -10,7 +10,7 @@ LYU-260692_36005
 ```
 **PO**
 ```
-pending
+PO006262218
 ```
 
 | Field | Value |
@@ -25,7 +25,7 @@ pending
 | SN | 36005 |
 | Price | $2,655.50 |
 | Expiry | 3/16/28 |
-| Status | Waiting on the Owens & Minor PO |
+| Status | PO006262218 approved Fri 11/20 (Owens & Minor requisition, OR, Dr. Luetkehans, DOS 11/18): Stravix PL 3x6 LYU-260692_36005, $2,655.50, matches. Ready to submit |
 | Note | Typed case sheet from AJ's photo of the hospital implant screen (right foot, 1 implanted), sent 11/20. There are no initials for this case, so the Patient line is left blank (AJ 11/20). The screen photo is below the case sheet |
 
 ![Case sheet: Dr. Luetkehans 11/18/26](./luetkehans-1118.jpg)
