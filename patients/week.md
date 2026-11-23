@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 128 patients · updated Mon 11/23, 10:52 AM CT
+**BIOT Chicago West** · 128 patients · updated Mon 11/23, 12:50 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;23](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 28](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -20,31 +20,24 @@
 
 | [Mon 23 · today](#mon) | [Tue 24](#tue) | [Wed 25](#wed) | [Thu 26](#thu) | [Fri 27](#fri) |
 | :-: | :-: | :-: | :-: | :-: |
-| **7** 🔴 | **7** | **8** | **3** 🔴 | **5** 🟠 🔴 |
+| **8** | **7** | **8** | **3** 🔴 | **5** 🟠 🔴 |
 
 
 <a name="mon"></a>
 ### Monday, Nov 23 · Today
 
-7 visits · 3 logged · **Grafts:** GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7 · OASIS Ultra 3x3.5
+8 visits · 5 logged · **Grafts:** GRAFIX 1.5x2 · GRAFIX 2x3 · OASIS Burn Oasis burn 3x7
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **9:30&nbsp;AM** | **G.K.** | **A8** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅ Grafted A8 · NWSFA application log: applied 9:40 AM, OASIS Ultra (Tri-Layer Matrix) 3x3.5, lot LB1709202 |
 | **10:20&nbsp;AM** | **P.M.** | **A12** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅ Grafted A12 · NWSFA application log: Graft #12, OASIS Wound Matrix 3x3.5 lot LB1741455, 10:20 AM (from the clinic's box: no PO, no new sale) |
 | **10:30&nbsp;AM** | **J.D.** | **A3** · GRAFIX 3x4 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain | ✅&nbsp;Grafted&nbsp;A3 |
-| **10:45&nbsp;AM** | **C.C.** | **A17** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
+| **10:30&nbsp;AM** | **R.E.** | OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain | ➖&nbsp;Not&nbsp;grafted |
+| **10:45&nbsp;AM** | **C.C.** | **A17** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A17 |
 | **1:00&nbsp;PM** | **B.P.** | **A7** · OASIS Burn Oasis burn 3x7 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **1:15&nbsp;PM** | **C.P.** | **A5** · GRAFIX 1.5x2 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Donna |   |
 | **2:00&nbsp;PM** | **C.B.** | **A2** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Goldkind · MA&nbsp;Denise |   |
-
-
-🔴 **No follow-up · usually seen Mondays** · 1
-
-
-| Patient | Clinic | Graft | Surgeon | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| **R.E.** | NW Suburban F&A | OASIS Ultra 3x3.5 | Hussain | Last appt 11/16 passed, nothing new booked |
 
 
 <a name="tue"></a>
@@ -135,32 +128,26 @@
 | **Good Sam** | – | 1 | 1 | 2 | – | 4 | GRAFIX 16mm ×3 · OASIS Ultra 7x10 ×2 · GRAFIX 1.5x2 ×1 |
 | **Alexian WCC** | 3 | 4 | 3 | – | 1 | 11 | OASIS Wound 3x7 ×4 · GRAFIX 16mm ×3 · GRAFIX 2x3 ×2 · GRAFIX ×1 · GRAFIX 1.5x2 ×1 · GRAFIX 3x4 ×1 · OASIS Burn Oasis burn 3x7 ×1 · OASIS Wound 3x3.5 ×1 |
 | **Alexian Ambulatory** | – | – | – | 1 | 1 | 2 | OASIS Wound 3x3.5 ×1 · STRAVIX 3x6 ×1 |
-| **NW Suburban F&A** | 4 | – | 3 | – | 3 | 10 | OASIS Ultra 3x3.5 ×3 · OASIS Wound 3x3.5 ×3 · GRAFIX 16mm ×1 · GRAFIX 3x3 ×1 · GRAFIX 3x4 ×1 · OASIS Ultra 3x7 ×1 |
+| **NW Suburban F&A** | 5 | – | 3 | – | 3 | 11 | OASIS Ultra 3x3.5 ×3 · OASIS Wound 3x3.5 ×3 · GRAFIX 16mm ×1 · GRAFIX 3x3 ×1 · GRAFIX 3x4 ×1 · OASIS Ultra 3x7 ×1 |
 | **St. Joseph Elgin** | – | 2 | – | – | – | 2 | GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 |
 | **Romano Lombard** | – | – | 1 | – | – | 1 | GRAFIX 3x3 ×1 |
-| **All clinics** | **7** | **7** | **8** | **3** | **5** | **30** | GRAFIX 16mm ×7 · OASIS Wound 3x3.5 ×5 · OASIS Wound 3x7 ×4 · GRAFIX 2x3 ×3 · GRAFIX 3x3 ×3 · OASIS Ultra 3x3.5 ×3 · GRAFIX 1.5x2 ×2 · GRAFIX 3x4 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX ×1 · OASIS Burn Oasis burn 3x7 ×1 · OASIS Ultra 3x7 ×1 · STRAVIX 3x6 ×1 |
+| **All clinics** | **8** | **7** | **8** | **3** | **5** | **31** | GRAFIX 16mm ×7 · OASIS Wound 3x3.5 ×5 · OASIS Wound 3x7 ×4 · GRAFIX 2x3 ×3 · GRAFIX 3x3 ×3 · OASIS Ultra 3x3.5 ×3 · GRAFIX 1.5x2 ×2 · GRAFIX 3x4 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX ×1 · OASIS Burn Oasis burn 3x7 ×1 · OASIS Ultra 3x7 ×1 · STRAVIX 3x6 ×1 |
 
 
-<details><summary><b>Next week</b> · 4 visits booked so far</summary>
+<details><summary><b>Next week</b> · 6 visits booked so far</summary>
 
 <a name="next-mon"></a>
 ### Monday, Nov 30
 
-3 visits · **Grafts:** GRAFIX 3x4 · OASIS Ultra 3x3.5 · OASIS Wound 3x3.5
+5 visits · **Grafts:** OASIS Ultra 3x3.5 ×3 · GRAFIX 3x4 · OASIS Wound 3x3.5
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **9:30&nbsp;AM** | **G.K.** | **A9** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 | **10:15&nbsp;AM** | **P.M.** | **A13** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 | **10:30&nbsp;AM** | **J.D.** | **A4** · GRAFIX 3x4 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain |   |
-
-
-🔴 **No follow-up · usually seen Mondays** · 1
-
-
-| Patient | Clinic | Graft | Surgeon | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| **R.E.** | NW Suburban F&A | OASIS Ultra 3x3.5 | Hussain | Last appt 11/16 passed, nothing new booked |
+| **10:30&nbsp;AM** | **R.E.** | **A3** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain |   |
+| **10:45&nbsp;AM** | **C.C.** | **A18** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 
 <a name="next-thu"></a>
 ### Thursday, Dec 3
