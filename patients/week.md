@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 128 patients · updated Mon 11/23, 9:54 AM CT
+**BIOT Chicago West** · 128 patients · updated Mon 11/23, 9:58 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -30,7 +30,7 @@
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
-| **9:30&nbsp;AM** | **G.K.** | **A8** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅&nbsp;Grafted&nbsp;A8 |
+| **9:30&nbsp;AM** | **G.K.** | **A8** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein | ✅ Grafted A8 · NWSFA application log: applied 9:40 AM, OASIS Ultra (Tri-Layer Matrix) 3x3.5, lot LB1709202 |
 | **10:15&nbsp;AM** | **P.M.** | **A12** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
 | **10:30&nbsp;AM** | **J.D.** | **A1** · GRAFIX 3x4 (x2) | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Hussain |   |
 | **10:45&nbsp;AM** | **C.C.** | **A16** · OASIS Ultra 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Adelstein |   |
