@@ -2,13 +2,13 @@
 
 # Denied
 
-**BIOT Chicago West** · 128 patients · updated Mon 11/23, 9:58 AM CT
+**BIOT Chicago West** · 128 patients · updated Mon 11/23, 10:04 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;21](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;19](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 37](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 28](../patients/done.md) · **Denied 6**
@@ -20,7 +20,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.T.** | Dr.&nbsp;Raigaga |   | Mentioned taking this patient to the operating room |
+| **R.T.** | Dr.&nbsp;Raigaga | 🟢 0 | Mentioned taking this patient to the operating room |
 
 </details>
 
@@ -29,7 +29,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **X.S.** | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** |   | Denied (moved in the app 10/11) |
+| **X.S.** | GRAFIX · Weekly · Dr.&nbsp;Robinson<br>**Was&nbsp;due&nbsp;Thu&nbsp;10/8&nbsp;9:10&nbsp;AM** | 🟢 0 of 8 | Denied (moved in the app 10/11) |
 
 </details>
 
@@ -38,9 +38,9 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.F.** | Dr.&nbsp;Perez |   |   |
-| **R.B.** | Dr.&nbsp;Perez |   |   |
-| **D.M.** | OASIS&nbsp;Wound · Elizabeth&nbsp;Francis |   |   |
+| **R.F.** | Dr.&nbsp;Perez | 🟢 0 |   |
+| **R.B.** | Dr.&nbsp;Perez | 🟢 0 |   |
+| **D.M.** | OASIS&nbsp;Wound · Elizabeth&nbsp;Francis | 🟢 0 |   |
 
 </details>
 
@@ -49,6 +49,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/12&nbsp;7:30&nbsp;AM** |   | New OR case Thu 11/12 7:30 AM at GlenOaks (Dr. McKanna), from Yvette's text (GlenOaks surgery) to AJ 11/10: STRAVIX for his debridement, the second case after Wed 11/11 1:00 PM. AJ replied he'll make sure there is enough on the shelf for Thursday and will be there. Patient initials and sizes to come. Not in projections until a size is given. |
+| **Upcoming · Dr. McKanna** | STRAVIX · Dr.&nbsp;McKanna<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/12&nbsp;7:30&nbsp;AM** | 🟢 0 | New OR case Thu 11/12 7:30 AM at GlenOaks (Dr. McKanna), from Yvette's text (GlenOaks surgery) to AJ 11/10: STRAVIX for his debridement, the second case after Wed 11/11 1:00 PM. AJ replied he'll make sure there is enough on the shelf for Thursday and will be there. Patient initials and sizes to come. Not in projections until a size is given. |
 
 </details>
