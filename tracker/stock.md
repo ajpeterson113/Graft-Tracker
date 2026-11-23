@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 15 of 19 · updated Mon 11/23, 12:50 PM CT
+**BIOT Chicago West** · P11 · day 15 of 19 · updated Mon 11/23, 3:53 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;41](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -37,7 +37,7 @@
 | **3x3.5**<br>OASIS&nbsp;Wound | **7** sheets | 🟢 OK | 1/wk · 7.0 wks left · box of 10 · out week of 1/11 · next exp 1/31/28<br><sub>Box price from the 8/31 Alexian Ambulatory order</sub> |
 | **3x7**<br>OASIS&nbsp;Wound | **15** sheets | 🟢 OK | 4/wk · 3.8 wks left · box of 10 · out week of 12/14 · next exp 8/1/28<br><sub>Box of 10 on the shelf per AJ 10/5; lot and expiry to come with the photos</sub> |
 | **3x3.5**<br>OASIS&nbsp;Burn | **3** sheets | No patients on it | box of 5 · next exp 4/3/28 |
-| **3x7**<br>OASIS&nbsp;Burn | **5** sheets | 🟢 OK | 1/wk · 5.0 wks left · box of 5 · out week of 12/28 · next exp 8/18/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
+| **3x7**<br>OASIS&nbsp;Burn | **5** sheets | No patients on it | box of 5 · next exp 8/18/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
 <details><summary><b>Units on the shelf</b> · 36</summary>
@@ -98,7 +98,7 @@
 
 </details>
 
-<details><summary><b>Patients using this shelf</b> · 18 active</summary>
+<details><summary><b>Patients using this shelf</b> · 17 active</summary>
 
 | Pt | Surgeon | Graft | Status | Use / wk | Note |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -117,7 +117,7 @@
 | **D.S.** | Lucas | OASIS Wound 3x3.5 | Done | — | Done (AJ, Chi West 11/6: not grafted Fri 11/6, status Done). A8 10/9 was the last application |
 | **D.V.** | Hussain | OASIS Wound 3x7 | Active | 4 | A6 Wed 11/11 1:45 PM: 4 sheets OASIS Wound 3x7 from the WCC shelf (Grafted in Chi West; no PO, box lot not given). A2 10/14: 4 sheets (A1 10/7: 3). 4 a visit, weekly |
 | **J.B.** | Adelstein | OASIS Burn 3x7 | Done | — | Done for now (AJ 11/2). A3 10/8 from the shelf (Burn 3x7); no-show Thu 10/15 (Caroline covered); not grafted 10/22 or 10/29 |
-| **B.P.** | Joshi | OASIS Burn 3x7 | Active | 1 | A6 Mon 11/9 (Grafted in Chi West; Burn 3x7 from the shelf box, no PO). Moved down to Burn 3x7 at A3 10/19 (never back up); A1 10/5 and A2 10/12 were Burn 5x7 meshed from the shelf. The only Burn 3x7 patient now (J.B. done for now 11/2) |
+| **B.P.** | Joshi | OASIS Burn 3x7 | Done | — | Done (AJ, Chi West 11/23): A8 Mon 11/23 OASIS Burn 3x7 from the shelf box, no PO. A6 Mon 11/9 (Grafted in Chi West; Burn 3x7 from the shelf box, no PO). Moved down to Burn 3x7 at A3 10/19 (never back up); A1 10/5 and A2 10/12 were Burn 5x7 meshed from the shelf. The only Burn 3x7 patient now (J.B. done for now 11/2) |
 | **J.B.** | Adelstein | Grafix 2x3 | Active | 1 | A2 Thu 11/5 8:00 AM, 2x3 LYA-250516\_23004 (case sheet in Chi West 11/5). Started: A1 Thu 10/29 8:00 AM, 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the Patients app; PO 660040000286395). Weekly. Not the OASIS Burn J.B. |
 | **D.K.** | Lucas | Grafix 16mm | Active | 1 | A4 Tue 11/17 11:40 AM with Dr. Lucas, 16mm LYA-260294\_16018 (case sheet dk-1117). A3 Thu 11/5, 16mm LYA-260221\_16004. Not grafted Thu 11/12 (holding; switching to Dr. Lucas, AJ 11/12). Next Tue 11/17 11:40 AM. A2 Thu 10/29 1:15 PM, 16mm LYA-260220\_16005 from the WCC shelf (case sheet in the Patients app; PO to come). A1 Thu 10/22 1:15 PM, 16mm LYA-260221\_16012. Weekly |
 | **D.S.** | Joshi | Grafix 3x4 | Active | 1 | A5 Tue 11/17 9:15 AM, 3x4 LYA-250008\_34005 (case sheet ds-1117). A4 Tue 11/10 9:15 AM, 3x4 LYA-250008\_34004 (size changed to 3x4 by AJ in Chi West 11/10). A2 Tue 10/27 LYA-250866\_55013. A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 |
@@ -127,7 +127,7 @@
 | **V.T.** | Halihan | Grafix 1.5x2 | Active | 1 | A1 Thu 11/12 1:50 PM, 1.5x2 LYA-260108\_15004 from the shelf (new start; AJ set Active and size 1.5x2 in Chi West 11/12). Weekly; next assumed Thu 11/19 (not confirmed with the office yet). |
 | **G.M.** | Goldkind | OASIS Wound 3x3.5 | Approved | — | PA approved 10/27/26–2/15/27 (BCBS Illinois): OASIS Wound 3x3.5, one a visit, weekly once booked; no visit booked yet. (New 10/20) |
 | **G.H.** | Lucas | Grafix 16mm | Active | 1 | A3 Fri 11/20 12:40 PM, 16mm LYA-260256\_16012 from the WCC shelf (case sheet gh-1120). A2 Fri 11/13 12:40 PM, 16mm LYA-260294\_16021 from the WCC shelf (case sheet gh-1113). A1 Fri 11/6 12:40 PM, 16mm LYA-260256\_16008 from the WCC shelf (case sheet in Chi West 11/6). Weekly 16mm |
-| **C.B.** | Goldkind | Grafix 2x3 | Active | 1 | A1 Mon 11/9 2:15 PM, 2x3 LYA-250558\_23005 from the WCC shelf (case sheet in Chi West 11/9). Weekly 2x3; next Mon 11/16 (not confirmed with the office yet) |
+| **C.B.** | Goldkind | Grafix 2x3 | Active | 1 | A3 Mon 11/23 2:00 PM, 16mm LYA-260306\_16030 (case sheet cb-1123; patient size still 2x3 in the Patients app). A1 Mon 11/9 2:15 PM, 2x3 LYA-250558\_23005 from the WCC shelf (case sheet in Chi West 11/9). Weekly 2x3; next Mon 11/16 (not confirmed with the office yet) |
 | **** |   | OASIS Boxes |   | — |   |
 | **Lot** | REF | Product Size | Sheets left | — | Flag |
 | **LB1741499** | 8213-1000-33 | OASIS Wound 3x3.5 | 7 | 434 |   |
