@@ -2,7 +2,7 @@
 
 # This week
 
-**BIOT Chicago West** · 128 patients · updated Tue 11/24, 7:00 AM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 7:48 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -43,34 +43,34 @@
 <a name="tue"></a>
 ### Tuesday, Nov 24 · Today
 
-7 visits · **Grafts:** GRAFIX 16mm ×4 · GRAFIX 2x3 · GRAFIX 3x3 · GRAFIX 3x4
+7 visits · **Grafts:** GRAFIX 16mm ×4 · GRAFIX 2x3 · GRAFIX 3x3 · GRAFIX 3x4 · **Covering:** Caroline 1 · Pete 4
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:15&nbsp;AM** | **M.B.** | **A5** · GRAFIX 2x3 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas |   |
-| **9:00&nbsp;AM** | **P.P.** | **A4** · GRAFIX 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Patni |   |
-| **9:15&nbsp;AM** | **D.S.** | **A6** · GRAFIX 3x4 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Mallory |   |
+| **9:00&nbsp;AM** | **P.P.** | **A4** · GRAFIX 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Patni | 👤&nbsp;Caroline&nbsp;covering |
+| **9:15&nbsp;AM** | **D.S.** | **A6** · GRAFIX 3x4 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Mallory | 👤&nbsp;Pete&nbsp;covering |
 | **9:15&nbsp;AM** | **P.H.** | **A7** · GRAFIX 3x3 | St.&nbsp;Joseph&nbsp;Elgin · Elgin<br>Veronica&nbsp;Pappas |   |
-| **9:40&nbsp;AM** | **J.L.** | **A2** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria |   |
-| **11:40&nbsp;AM** | **D.K.** | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria |   |
-| **12:50&nbsp;PM** | **O.O.** | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham · MA&nbsp;Maria |   |
+| **9:40&nbsp;AM** | **J.L.** | **A2** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Pete&nbsp;covering |
+| **11:40&nbsp;AM** | **D.K.** | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Pete&nbsp;covering |
+| **12:50&nbsp;PM** | **O.O.** | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham · MA&nbsp;Maria | 👤&nbsp;Pete&nbsp;covering |
 
 
 <a name="wed"></a>
 ### Wednesday, Nov 25
 
-8 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Wound 3x3.5 ×3 · GRAFIX 3x3 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX 2x3
+8 visits · **Grafts:** OASIS Wound 3x7 ×4 · OASIS Wound 3x3.5 ×3 · GRAFIX 3x3 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX 2x3 · **Covering:** Caroline 8
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
-| **9:15&nbsp;AM** | **E.N.** | **A4** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe |   |
-| **9:30&nbsp;AM** | **L.J.** | **A4** · OASIS Ultra 7x10 (x2) | Good&nbsp;Sam<br>Dr.&nbsp;Bach |   |
-| **10:30&nbsp;AM** | **J.M.** | **A4 · On hold** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Adelstein |   |
-| **11:10&nbsp;AM** | **S.G.** | **A4** · GRAFIX 3x3 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas |   |
-| **1:45&nbsp;PM** | **D.V.** | **A7** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain · MA&nbsp;Denise |   |
-| **2:20&nbsp;PM** | **J.B.** | **A3** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein |   |
-| **2:45&nbsp;PM** | **D.R.** | **A2** · GRAFIX 3x3 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind |   |
-| **3:45&nbsp;PM** | **E.P.** | **A9** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind |   |
+| **9:15&nbsp;AM** | **E.N.** | **A4** · OASIS Wound 3x3.5 | Alexian&nbsp;WCC<br>Dr.&nbsp;Turayhi · MA&nbsp;Joe | 👤&nbsp;Caroline&nbsp;covering |
+| **9:30&nbsp;AM** | **L.J.** | **A4** · OASIS Ultra 7x10 (x2) | Good&nbsp;Sam<br>Dr.&nbsp;Bach | 👤&nbsp;Caroline&nbsp;covering |
+| **10:30&nbsp;AM** | **J.M.** | **A4 · On hold** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · EG<br>Dr.&nbsp;Adelstein | 👤&nbsp;Caroline&nbsp;covering |
+| **11:10&nbsp;AM** | **S.G.** | **A4** · GRAFIX 3x3 | Romano&nbsp;Lombard · Lombard<br>Dr.&nbsp;Rojas | 👤&nbsp;Caroline&nbsp;covering |
+| **1:45&nbsp;PM** | **D.V.** | **A7** · OASIS Wound 3x7 (4 sheets) | Alexian&nbsp;WCC<br>Dr.&nbsp;Hussain · MA&nbsp;Denise | 👤&nbsp;Caroline&nbsp;covering |
+| **2:20&nbsp;PM** | **J.B.** | **A3** · GRAFIX 2x3 | Alexian&nbsp;WCC<br>Dr.&nbsp;Adelstein | 👤&nbsp;Caroline&nbsp;covering |
+| **2:45&nbsp;PM** | **D.R.** | **A2** · GRAFIX 3x3 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | 👤&nbsp;Caroline&nbsp;covering |
+| **3:45&nbsp;PM** | **E.P.** | **A9** · OASIS Wound 3x3.5 | NW&nbsp;Suburban&nbsp;F&A · HE<br>Dr.&nbsp;Goldkind | 👤&nbsp;Caroline&nbsp;covering |
 
 
 <a name="thu"></a>
@@ -132,6 +132,9 @@
 | **St. Joseph Elgin** | – | 2 | – | – | – | 2 | GRAFIX 2x3 ×1 · GRAFIX 3x3 ×1 |
 | **Romano Lombard** | – | – | 1 | – | – | 1 | GRAFIX 3x3 ×1 |
 | **All clinics** | **8** | **7** | **8** | **3** | **5** | **31** | GRAFIX 16mm ×8 · OASIS Wound 3x3.5 ×5 · OASIS Ultra 3x3.5 ×4 · OASIS Wound 3x7 ×4 · GRAFIX 3x3 ×3 · GRAFIX 2x3 ×2 · GRAFIX 3x4 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX ×1 · GRAFIX 1.5x2 ×1 · OASIS Burn 3x7 ×1 · OASIS Ultra 3x7 ×1 · STRAVIX 3x6 ×1 |
+
+
+**Covering this week:** Caroline 9 · Pete 4
 
 
 <details><summary><b>Next week</b> · 8 visits booked so far</summary>

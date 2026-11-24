@@ -2,7 +2,7 @@
 
 # On hold
 
-**BIOT Chicago West** · 128 patients · updated Tue 11/24, 7:00 AM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 7:48 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -40,7 +40,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.M.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;10:30&nbsp;AM · Elk&nbsp;Grove** | 🟢 3 | NWSFA schedule wk of 11/23 (AJ 11/22): Wed 11/25 10:30 AM Dr. H (EG). NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 12:00 PM Dr. Adelstein (EG). Still on hold in the app; status not changed. On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris. NWSFA schedule wk of 10/26: Wed 10/28 12:45 PM Dr. Adelstein (EG). NWSFA schedule wk of 10/19: Wed 10/21 12:30 PM Dr. Adelstein (HE). A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
+| **J.M.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;10:30&nbsp;AM · Elk&nbsp;Grove · Caroline&nbsp;covering** | 🟢 3 | NWSFA schedule wk of 11/23 (AJ 11/22): Wed 11/25 10:30 AM Dr. H (EG). NWSFA schedule wk of 11/16 (AJ 11/15): Wed 11/18 12:00 PM Dr. Adelstein (EG). Still on hold in the app; status not changed. On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris. NWSFA schedule wk of 10/26: Wed 10/28 12:45 PM Dr. Adelstein (EG). NWSFA schedule wk of 10/19: Wed 10/21 12:30 PM Dr. Adelstein (HE). A2 10/7 (1st 9/30). IVR submitted 9/10, DFU, Medicare/Mutual of Omaha |
 | **F.A.** | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/13** | 🔴 12 | On hold per the NWSFA schedule wk of 11/2 (10/30 note) — verify status with Chris; office was running a new IVR 10/16. NWSFA schedule wk of 10/26: Tue 10/27 11:30 AM Dr. Adelstein (HE). NWSFA schedule wk of 10/19: Tue 10/20 11:30 AM Dr. Adelstein (HE) — office running IVR 10/16. A11 10/6 (A10 the week of 9/28, exact date not recorded) |
 | **J.R.** | GRAFIX&nbsp;16mm · Dr.&nbsp;Goldkind | 🟢 6 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
 | **R.D.** | OASIS&nbsp;Ultra&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🟡 10 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19) |
