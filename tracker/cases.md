@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 9:44 AM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 10:50 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,11 +13,12 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**70 entries · \$97,006** · 🟢 18 Ready · 🟡 22 Needs PO · 🔵 17 Submitted · 🔴 3 Check · 🟤 2 Clinic stock · ⚪ 8 In SFDC
+**71 entries · \$97,366** · 🟢 18 Ready · 🟡 23 Needs PO · 🔵 17 Submitted · 🔴 3 Check · 🟤 2 Clinic stock · ⚪ 8 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
 | **11/24** | **D.S.** · Alexian WCC · Joshi<br>Grafix 3x4 · no PO yet<details><summary><sub>Notes</sub></summary>App #6, Tue 11/24 9:15 AM, Dr. Joshi (Grafted tap in Chi West 11/24; Pete covered): 1 x Grafix 3x4 from the Alexian WCC shelf, \$1,140 (Alexian 3x4 rate). Lot/SN to come (no sticker or case sheet photo yet). Bill-only PO to come (Alexian ID 0003081837).</details> | \$1,140 | 🟡&nbsp;Needs&nbsp;PO<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
+|   | [**J.L.**](../case-sheets/jl-1124.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260309\_16009<details><summary><sub>Notes</sub></summary>App #2 on the right foot, Tue 11/24 9:40 AM, Dr. Lucas: Grafix 16mm LYA-260309\_16009 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate; case sheet \$360). AJ's Grafted tap and case sheet photo from Chi West 11/24. Unit LYA-260309\_16009 isn't on the Stock tab's shelf list yet (from a newer restock). Bill-only PO to come (Alexian ID 0003074927). Case sheet page: case-sheets/jl-1124.</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 | **11/23** | [**C.B.**](../case-sheets/cb-1123.md) 📄 · Alexian WCC · Goldkind<br>Grafix 16mm · no PO yet · LYA-260306\_16030<details><summary><sub>Notes</sub></summary>App #3, Mon 11/23 2:00 PM, Dr. Goldkind: Grafix 16mm LYA-260306\_16030 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate; case sheet \$360). AJ's Grafted tap and case sheet photo from Chi West 11/23 (AJ set this visit to A3). Unit LYA-260306\_16030 isn't on the Stock tab's shelf list yet (from a newer restock). Bill-only PO to come (Alexian ID 0003103740).</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
 |   | **J.D.** · NW Suburban F&A · Hussain<br>Grafix 3x4 · no PO yet<details><summary><sub>Notes</sub></summary>App #3, Mon 11/23 10:30 AM (Hoffman Estates), Dr. Hussain (Grafted tap in Chi West 11/23): 1 x Grafix 3x4. NWSFA clinic stock, no sale (AJ 11/12): from the 25 Grafix 3x4 on NWSFA's shelf, so no price, no PO, nothing to submit. Lot/SN to come (no sticker photo yet). AJ set the patient's size to 3x4 (single piece) in Chi West 11/23.</details> | No&nbsp;sale | 🟤&nbsp;Clinic&nbsp;stock |
 | **11/20** | [**G.H.**](../case-sheets/gh-1120.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · PO 660040000288174 · LYA-260256\_16012<details><summary><sub>Notes</sub></summary>App #3, Fri 11/20 12:40 PM, Dr. Lucas: Grafix 16mm LYA-260256\_16012 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate; case sheet \$360). AJ's case sheet photo from Chi West 11/20, with the Grafted tap. PO 660040000288174 (Ascension bill only, dated 11/20; patient ID 0003095154, DOS 11/20, Dr. Lucas, PS13016 16mm \$360.00): matched by patient ID and date of service. PO screenshot from AJ 11/23 — ready to submit</details> | \$360 | 🟢&nbsp;Ready |

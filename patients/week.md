@@ -2,13 +2,13 @@
 
 # This week
 
-**BIOT Chicago West** · 128 patients · updated Tue 11/24, 9:44 AM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 10:50 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;22](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -43,14 +43,14 @@
 <a name="tue"></a>
 ### Tuesday, Nov 24 · Today
 
-7 visits · 2 logged · **Grafts:** GRAFIX 16mm ×4 · GRAFIX 3x3 · **Covering:** Caroline 1 · Pete 3
+7 visits · 4 logged · **Grafts:** GRAFIX 16mm ×3 · **Covering:** Caroline 1 · Pete 2
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:15&nbsp;AM** | **M.B.** | **A4** · GRAFIX 2x3 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas | ✅ Grafted A4 · Logged in Chi West 11/24 (AJ set this visit to A4). Application log: Graft #4, Grafix PL Prime 2x3 LYA-260108\_23004 (exp 1/13/28), applied 9:00 AM. St. Joe Elgin shelf stock: no PO, no new sale |
 | **9:15&nbsp;AM** | **D.S.** | **A6** · GRAFIX 3x4 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi | ✅&nbsp;Grafted&nbsp;A6&nbsp;·&nbsp;Logged&nbsp;in&nbsp;Chi&nbsp;West&nbsp;11/24 |
-| **9:15&nbsp;AM** | **P.H.** | **A7** · GRAFIX 3x3 | St.&nbsp;Joseph&nbsp;Elgin · Elgin<br>Veronica&nbsp;Pappas |   |
-| **9:40&nbsp;AM** | **J.L.** | **A2** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Pete&nbsp;covering |
+| **9:15&nbsp;AM** | **P.H.** | **A7** · GRAFIX 3x3 | St.&nbsp;Joseph&nbsp;Elgin · Elgin<br>Veronica&nbsp;Pappas | ✅ Grafted A7 · Grafix 3x3 from shelf stock (no new sale) |
+| **9:40&nbsp;AM** | **J.L.** | **A2** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas | ✅ Grafted A2 · Sticker photo sent 11/24; PO to come |
 | **11:00&nbsp;AM** | **P.P.** | **A4** · GRAFIX 16mm | Good&nbsp;Sam<br>Dr.&nbsp;Patni | 👤&nbsp;Caroline&nbsp;covering |
 | **11:40&nbsp;AM** | **D.K.** | **A5** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria | 👤&nbsp;Pete&nbsp;covering |
 | **12:50&nbsp;PM** | **O.O.** | **A6** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Vedantham · MA&nbsp;Maria | 👤&nbsp;Pete&nbsp;covering |
@@ -134,10 +134,10 @@
 | **All clinics** | **8** | **7** | **8** | **3** | **5** | **31** | GRAFIX 16mm ×8 · OASIS Wound 3x3.5 ×5 · OASIS Ultra 3x3.5 ×4 · OASIS Wound 3x7 ×4 · GRAFIX 3x3 ×3 · GRAFIX 2x3 ×2 · GRAFIX 3x4 ×2 · OASIS Ultra 7x10 ×2 · GRAFIX ×1 · GRAFIX 1.5x2 ×1 · OASIS Burn 3x7 ×1 · OASIS Ultra 3x7 ×1 · STRAVIX 3x6 ×1 |
 
 
-**Covering this week:** Caroline 9 · Pete 3
+**Covering this week:** Caroline 9 · Pete 2
 
 
-<details><summary><b>Next week</b> · 10 visits booked so far</summary>
+<details><summary><b>Next week</b> · 12 visits booked so far</summary>
 
 <a name="next-mon"></a>
 ### Monday, Nov 30
@@ -157,12 +157,14 @@
 <a name="next-tue"></a>
 ### Tuesday, Dec 1
 
-2 visits · **Grafts:** GRAFIX 2x3 · GRAFIX 3x4
+4 visits · **Grafts:** GRAFIX 16mm · GRAFIX 2x3 · GRAFIX 3x3 · GRAFIX 3x4
 
 | Time | Patient | Visit | Clinic | Status |
 | :-- | :-- | :-- | :-- | :-- |
 | **8:15&nbsp;AM** | **M.B.** | **A5** · GRAFIX 2x3 | St.&nbsp;Joseph&nbsp;Elgin<br>Veronica&nbsp;Pappas |   |
 | **9:15&nbsp;AM** | **D.S.** | **A7** · GRAFIX 3x4 | Alexian&nbsp;WCC<br>Dr.&nbsp;Joshi · MA&nbsp;Mallory | 🟠 Verify: Not confirmed with the office yet: Tue 12/1 9:15 AM |
+| **9:15&nbsp;AM** | **P.H.** | **A8** · GRAFIX 3x3 | St.&nbsp;Joseph&nbsp;Elgin · Elgin<br>Veronica&nbsp;Pappas |   |
+| **9:40&nbsp;AM** | **J.L.** | **A3** · GRAFIX 16mm | Alexian&nbsp;WCC<br>Dr.&nbsp;Lucas · MA&nbsp;Maria |   |
 
 <a name="next-thu"></a>
 ### Thursday, Dec 3

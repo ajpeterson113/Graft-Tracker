@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 9:44 AM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 10:50 AM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -104,7 +104,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | **T.T.** | Lucas | Grafix 16mm | Done | — | Healed Tue 10/27 (not grafted): done after 7 applications (A7 10/6) |
 | **D.G.** | Lucas | Grafix 16mm | Done | — | Done (AJ, Chi West 11/17: healed, not grafted Tue 11/17). A4 Tue 11/10 9:00 AM, 16mm LYA-260256\_16009 (AJ: most likely last graft, almost healed). Held 10/13-11/3; still on 16mm weekly |
-| **J.L.** | Lucas | Grafix 16mm | Active | 1 | A1 on the right foot Tue 11/17 9:40 AM, 16mm LYA-260294\_16020 (case sheet jl-1117; AJ set A#1). Left foot: Not grafted Tue 11/10 (insurance: rerunning for Grafix for the right wound). A5 Tue 10/27 LYA-260221\_16003. A4 Tue 10/20 LYA-260146\_16007 (case sheet 10/27). A3 10/13 LYA-260174\_16008 |
+| **J.L.** | Lucas | Grafix 16mm | Active | 1 | A2 on the right foot Tue 11/24 9:40 AM, 16mm LYA-260309\_16009 (case sheet jl-1124). A1 on the right foot Tue 11/17 9:40 AM, 16mm LYA-260294\_16020 (case sheet jl-1117; AJ set A#1). Left foot: Not grafted Tue 11/10 (insurance: rerunning for Grafix for the right wound). A5 Tue 10/27 LYA-260221\_16003. A4 Tue 10/20 LYA-260146\_16007 (case sheet 10/27). A3 10/13 LYA-260174\_16008 |
 | **A.N.** | Joshi | Grafix 16mm | Done | — | Held 10/13 (wound very small) and 10/20 (not grafted): done after 4 applications |
 | **M.L.** | Joshi | Grafix 16mm | Done | — | Done (AJ, Chi West 11/17): A8 Tue 11/17 1:00 PM, 16mm LYA-260294\_16019 (case sheet ml-1117), the last under the Alexian cap of 8. A7 Tue 11/10 1:00 PM, 16mm LYA-260256\_16010 (case sheet ml-1110). A6 Tue 11/3 LYA-260221\_16006 (case sheet in the Patients app 11/3, filed 11/4). A5 Tue 10/27 LYA-260221\_16001 (case sheet 10/27). A4 Tue 10/20 LYA-260146\_16005 (case sheet 10/27). A3 10/13 LYA-260174\_16007 (filed 10/14) |
 | **A.P.** | Hussain | Grafix 16mm | Done | — | Done: A8 Thu 11/5 LYA-260221\_16005 (the last one under the cap of 8; marked Done in Chi West 11/5). A7 Wed 10/28 LYA-260221\_16015 (case sheet in the Patients app 10/28; Dr. Joshi on the sheet). A6 Wed 10/21 LYA-260159\_16003. A5 10/14 LYA-260146\_16008 (filed 10/14) |
