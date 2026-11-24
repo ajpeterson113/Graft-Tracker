@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 3:48 PM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 5:28 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -220,11 +220,11 @@ OASIS is counted in sheets and bought by the box, so update Sheets left when you
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **5x5**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23) + PO006130658 (10/29) + PO006180799 (11/6)<br><sub>11/6: PO006180799 shipped 1 x 5x5 (for D.F. Thu 11/12) = 1 on the shelf, already sold.</sub> |
-| **16mm**<br>Grafix | **4** | — | 2 projected use through 11/28 · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658 + PO006180799 (11/6)<br><sub>11/6: PO006180799 shipped 1 x 16mm = 4 on the shelf, already sold.</sub> |
-| **3x4**<br>Grafix | **3** | — | 0 projected use through 11/28 · PO005986967 + earlier + PO006102148 (10/23)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
+| **5x5**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23) + PO006130658 (10/29) + PO006180799 (11/6) + PO006220787 (11/16)<br><sub>SFDC 11/24: PO006220787 shipped 11/16 with 1 x 5x5, in November sales (already sold).</sub> |
+| **16mm**<br>Grafix | **4** | — | 2 projected use through 11/28 · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658 + PO006180799 (11/6) + PO006220787 (11/16) + PO006257655 (11/20)<br><sub>SFDC 11/24: PO006220787 shipped 11/16 with 3 x 16mm, then 1 x 16mm on PO006257655 (11/20), in November sales (already sold).</sub> |
+| **3x4**<br>Grafix | **3** | — | 0 projected use through 11/28 · PO005986967 + earlier + PO006102148 (10/23) + PO006220787 (11/16)<br><sub>SFDC 11/24: PO006220787 shipped 11/16 with 2 x 3x4, in November sales (already sold).</sub> |
 | **2x3**<br>Grafix | **1** | — | 0 projected use through 11/28 · PO006130658 (10/29)<br><sub>11/5 shelf photo before today's grafts: 2 x 5x5, 5 x 3x4, 3 x 16mm (W.K.'s LYA-260268\_16013 wasn't in it), 1 x 2x3, 1 x 1.5x2.</sub> |
-| **1.5x2**<br>Grafix | **1** | — | 1 projected use through 11/28 · PO006130658 (10/29) + PO006180799 (11/6)<br><sub>11/6: PO006180799 shipped 1 x 1.5x2 (for L.D. Thu 11/12) = 1 on the shelf, already sold.</sub> |
+| **1.5x2**<br>Grafix | **1** | — | 1 projected use through 11/28 · PO006130658 (10/29) + PO006180799 (11/6) + PO006220787 (11/16)<br><sub>SFDC 11/24: PO006220787 shipped 11/16 with 1 x 1.5x2, in November sales (already sold).</sub> |
 | **3x3.5**<br>OASIS&nbsp;Wound | **1** sheet | — | box of 10<br><sub>P11: no OASIS Wound 3x3.5 box projected.</sub> |
 | **7x10 meshed**<br>OASIS&nbsp;Ultra | **5** sheets | Order 1 box (upside) | 2/wk · box of 5<br><sub>11/5 shelf photo: the OASIS Ultra 7x10 meshed box (LB1709169, exp 2/8/28) is full, 5 sheets (AJ 11/5; Ultra and Burn come 5 to a box, Wound 10).</sub> |
 
