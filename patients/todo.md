@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 128 patients · updated Tue 11/24, 10:50 AM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 12:51 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -25,7 +25,7 @@
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 20
+## 🔴 No Follow-Up · 21
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -35,7 +35,8 @@
 | **Z.G.** | Good Sam · Ayesh | GRAFIX 16mm | Last appt 11/19 passed, nothing new booked · usually Thu |
 | **D.F.** | Good Sam · Luetkehans | GRAFIX 5x5 | Verify: Assumed weekly (AJ 11/6): Thu 11/12 1:00 PM · usually Thu |
 | **L.D.** | Good Sam · Luetkehans | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:45 PM · usually Thu |
-| **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:00 PM · usually Thu |
+| **P.J.** | Good Sam · Luetkehans | GRAFIX (2) 16mm | Verify: Assumed weekly (AJ 11/6): Tue 12/1 11:00 AM · usually Thu |
+| **P.P.** | Good Sam · Patni | GRAFIX 16mm | Next 12/8, nothing booked next week · usually Tue |
 | **C.B.** | Alexian WCC · Goldkind | GRAFIX 2x3 | Verify: Assumed weekly (AJ 11/6): Mon 11/30 2:00 PM · usually Mon |
 | **C.P.** | Alexian WCC · Joshi | GRAFIX 1.5x2 | Verify: Assumed weekly (AJ 11/6): Mon 11/30 1:15 PM · usually Mon |
 | **J.L.** | Alexian WCC · Lucas | GRAFIX 16mm | Verify: Assumed weekly (AJ 11/6): Tue 9:40 AM · usually Tue |

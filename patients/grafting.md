@@ -2,13 +2,13 @@
 
 # Grafting
 
-**BIOT Chicago West** · 128 patients · updated Tue 11/24, 10:50 AM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 12:51 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 **Grafting 36** · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -20,10 +20,10 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **P.P.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;11/24&nbsp;11:00&nbsp;AM · Caroline&nbsp;covering** | 🟢 3 |   |
-| **L.J.** | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(x2) · Dr.&nbsp;Bach<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;9:30&nbsp;AM · Caroline&nbsp;covering** | 🟢 3 | Getting two OASIS Ultra 7x10 a visit (AJ 11/2), so the 5-sheet box arriving 11/3 covers about two visits. Held Wed 10/28; grafting again next week, Wed 11/4 9:45 AM (AJ 10/28). Good Sam to order 1 box OASIS Ultra 7x10 meshed on Fri 10/30 (in the P10 projections). A3 Wed 10/21: last 7x10 Ultra sheet + 2 OASIS Wound 3x3.5. A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2.<br>[📄 IVR](../ivr/gs-lj.md) |
-| **P.J.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;(2)&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;11/26&nbsp;2:00&nbsp;PM** | 🟢 8 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:00 PM<br>Next assumed Thu 11/5 2:00 PM (same time as the Thu 10/22 visit; on this week's schedule per AJ 11/1) — verify with the office. The assumed Thu 10/29 visit wasn't logged. A4 Thu 10/22: (2) 16mm from the Good Sam shelf (down from 3 a visit); shelf now 3 x 16mm. A3 10/8: (3) 16mm. Weekly. PA required. |
+| **L.J.** | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(x2) · Dr.&nbsp;Bach<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;9:00&nbsp;AM · Caroline&nbsp;covering** | 🟢 3 | Getting two OASIS Ultra 7x10 a visit (AJ 11/2), so the 5-sheet box arriving 11/3 covers about two visits. Held Wed 10/28; grafting again next week, Wed 11/4 9:45 AM (AJ 10/28). Good Sam to order 1 box OASIS Ultra 7x10 meshed on Fri 10/30 (in the P10 projections). A3 Wed 10/21: last 7x10 Ultra sheet + 2 OASIS Wound 3x3.5. A1 10/7: 2 sheets OASIS Ultra 7x10 from the box of 5 bought 10/2.<br>[📄 IVR](../ivr/gs-lj.md) |
 | **L.D.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;1.5x2 · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Thu&nbsp;11/26&nbsp;2:45&nbsp;PM** | 🔴 29 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/26 2:45 PM<br>Done 10/8 after A23 (1.5x2): no more grafting recommended. |
+| **P.J.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;(2)&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Next&nbsp;Tue&nbsp;12/1&nbsp;11:00&nbsp;AM** | 🟢 9 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 12/1 11:00 AM<br>Next assumed Thu 11/5 2:00 PM (same time as the Thu 10/22 visit; on this week's schedule per AJ 11/1) — verify with the office. The assumed Thu 10/29 visit wasn't logged. A4 Thu 10/22: (2) 16mm from the Good Sam shelf (down from 3 a visit); shelf now 3 x 16mm. A3 10/8: (3) 16mm. Weekly. PA required. |
+| **P.P.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Patni<br>**Next&nbsp;Tue&nbsp;12/8&nbsp;10:15&nbsp;AM** | 🟢 3 | 🔴 Next 12/8, nothing booked next week |
 | **W.K.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;8:30&nbsp;AM** | 🟢 7 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 9:45 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). |
 | **K.P.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;5x5&nbsp;+&nbsp;3x4 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:15&nbsp;AM** | 🟢 8 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 9:15 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). |
 | **C.B.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;1.5x2 · Every&nbsp;2&nbsp;weeks · Dr.&nbsp;Ayesh<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:00&nbsp;AM** | 🟢 4 | 🔴 Last appt 11/5 passed, nothing new booked<br>Next Thu 11/5 10:45 AM per AJ 10/18 (Dr. Ayesh moved to 11/5). A4 Thu 10/15: GRAFIX 2x3 (AJ confirmed 10/11; the calendar entry said 3x4) |

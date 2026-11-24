@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 10:50 AM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 12:51 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -13,13 +13,13 @@
 | Sold so far (November tab) | \$97,366 | \$97,366 |
 | \+ Projected Grafix, net of WCC stock | \$3,290 | \$2,390 |
 | \+ Upcoming Stravix | \$0 | \$0 |
-| \+ Potential new starts | \$2,476 | \$0 |
+| \+ Potential new starts | \$2,050 | \$0 |
 | \+ OASIS reorders (estimated) | \$5,016 | \$5,016 |
-| **P11 forecast** | **\$108,148** | **\$104,772** |
+| **P11 forecast** | **\$107,722** | **\$104,772** |
 | P11 target | \$92,891 | \$92,891 |
 | % of target | 116% | 113% |
-| Gap to target | ✅ over by \$15,257 | ✅ over by \$11,881 |
-| **Projected commission** | **\$10,815** | **\$10,477** |
+| Gap to target | ✅ over by \$14,831 | ✅ over by \$11,881 |
+| **Projected commission** | **\$10,772** | **\$10,477** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/23.</sub>
@@ -30,7 +30,7 @@
 
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
-| [Good Sam](#good-sam) | \$19,413 | \$4,669 | \$4,244 | **\$24,082** | **\$23,656** |
+| [Good Sam](#good-sam) | \$19,413 | \$4,244 | \$4,244 | **\$23,656** | **\$23,656** |
 | [Alexian WCC](#alexian-wcc) | \$18,202 | \$3,531 | \$2,245 | **\$21,733** | **\$20,447** |
 | [St. Alexius](#st-alexius) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
@@ -43,13 +43,13 @@
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
 | Sherman | — | — | — | — | — |
-| **Total** | **\$97,366** | **\$10,782** | **\$7,406** | **\$108,148** | **\$104,772** |
+| **Total** | **\$97,366** | **\$10,356** | **\$7,406** | **\$107,722** | **\$104,772** |
 
 
 ## Account by account
 
 <a name="good-sam"></a>
-<details><summary><b>Good Sam</b> · upside &#36;24,082 · downside &#36;23,656</summary>
+<details><summary><b>Good Sam</b> · upside &#36;23,656 · downside &#36;23,656</summary>
 
 Sold so far: **\$19,413** · 7 cases
 
@@ -62,7 +62,7 @@ Sold so far: **\$19,413** · 7 cases
 | **K.P. · Dr. Ayesh** | P11: A8 Thu 11/5 (5x5 LYA-260414\_55003 + 3x4 LYA-250625\_34020 from the Good Sam shelf). | — | — |   |
 | **K.P. · Dr. Ayesh** | P11: A8 Thu 11/5 (3x4 LYA-250625\_34020 with the 5x5); skipping the next application (Santyl, AJ 11/5) — earliest next visit Thu 12/3 (P12) \| P11: biweekly Thursdays 11/5… | — | — |   |
 | **C.B. · Dr. Ayesh** | P11: A4 Thu 11/5 at 3x4 (LYA-250625\_34014 from the Good Sam shelf; AJ set the size to 3x4 on 11/5). | — | — |   |
-| **P.J. · Dr. Luetkehans** | 2× 16mm · Weekly · 1 visit | \$851 | \$851 | P11: weekly from Thu 11/12 at 2 x 16mm, back from vacation (AJ 11/5: 10/29 was the last application, 6 in total). |
+| **P.J. · Dr. Luetkehans** | 2× 16mm · Weekly · 1 visit | \$851 | \$851 | P11: A9 Tue 11/24 11:00 AM, (2) 16mm from the Good Sam WCC shelf (no PO, no new sale, AJ's Chi West tap; moved up from Thu 11/26); next Tue 12/1 11:00 AM (assumed weekly) \| P11: weekly from Thu 11/12 at 2 x 16mm, back f… |
 | **D.F. · Dr. Luetkehans** | ON HOLD 11/12 (AJ, Chi West): not grafted Thu 11/12 and set On hold, so nothing projected (upside or downside) until she's back on the schedule. | — | — |   |
 | **L.D. · Dr. Luetkehans** | 1.5x2 · Weekly · 1 visit → 16mm | \$780 | \$426 | Weekly 1.5x2 at the Good Sam WCC (Dr. Luetkehans): A27 Thu 11/5 2:45 PM, 1.5x2 LYA-260165\_15003 from the shelf (Grafted in Chi West 11/5). |
 
@@ -81,7 +81,7 @@ Sold so far: **\$19,413** · 7 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **R.T. · Dr. Bach** | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit). | — | — |   |
-| **P.P. · Dr. Patni** | 16mm (assumed) · Weekly · 1 visit | \$426 | \$0 | A3 Tue 11/17 16mm from the Good Sam WCC shelf (no PO, no new sale, AJ's Chi West tap); weekly from Tue 11/24 \| A1 Tue 11/3 and A2 Tue 11/10 16mm from the Good Sam WCC shelf (no PO, no new sale); weekly from Tue 11/17 \| … |
+| **P.P. · Dr. Patni** | Next visit moved to Tue 12/8 10:15 AM (AJ's Chi West tap 11/24); no 11/24 or 12/1 visit \| A3 Tue 11/17 16mm from the Good Sam WCC shelf (no PO, no new sale, AJ's Chi Wes… | — | — |   |
 | **Z.G. · Dr. Ayesh** | Pending (new patient AJ added in Chi West 11/5): GRAFIX 16mm every 2 weeks with Dr. Ayesh, first visit Thu 11/19 (time TBD). | — | — |   |
 
 **OASIS reorders (estimated)**
@@ -309,7 +309,7 @@ Sold so far: **\$190** · 1 case
 | Weekly and biweekly patients | 28 | \$6,937 | \$5,467 |
 | Less Good Sam WCC stock already sold | 8 | -\$3,647 | -\$3,077 |
 | Upcoming Stravix | 3 | \$0 | \$0 |
-| Potential new starts | 16 | \$2,476 | \$0 |
+| Potential new starts | 16 | \$2,050 | \$0 |
 | OASIS reorders (estimated) | 9 | \$5,016 | \$5,016 |
 
 
