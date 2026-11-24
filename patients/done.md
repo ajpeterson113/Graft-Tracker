@@ -2,13 +2,13 @@
 
 # Done
 
-**BIOT Chicago West** · 128 patients · updated Mon 11/23, 5:51 PM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · **Done 29** · [Denied 6](../patients/denied.md)
@@ -20,11 +20,11 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **Zahora** | Dr.&nbsp;Ayesh | 🟢 0 | Waiting on revascularization before running IVR |
-| **R.T.** | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets&nbsp;per&nbsp;visit) · Dr.&nbsp;Bach | 🟢 0 | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |
-| **B.W.** | Dr.&nbsp;Bach | 🟢 0 | Hand ulcer, monitoring progress. Coming in 9/16 9:45 am |
+| **Zahora** | Dr.&nbsp;Ayesh |   | Waiting on revascularization before running IVR |
+| **R.T.** | OASIS&nbsp;Ultra&nbsp;7x10&nbsp;(2&nbsp;sheets&nbsp;per&nbsp;visit) · Dr.&nbsp;Bach |   | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit, A1). OASIS approved 80%; GRAFIX still pending. No new start date yet. |
+| **B.W.** | Dr.&nbsp;Bach |   | Hand ulcer, monitoring progress. Coming in 9/16 9:45 am |
 | **I.S.** | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x3.5 · Weekly · Dr.&nbsp;Patni<br>**Last&nbsp;graft&nbsp;10/6** | 🟢 6 | Healed 10/13 (Pete covered, not grafted): done after 6 applications. A6 10/6, OASIS Wound 3x3.5 from the Good Sam shelf (3 sheets left in the box). |
-| **J.B.** | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x7&nbsp;and&nbsp;3x3.5 · Dr.&nbsp;Raigaga | 🟢 0 |   |
+| **J.B.** | OASIS&nbsp;Wound&nbsp;Matrix&nbsp;3x7&nbsp;and&nbsp;3x3.5 · Dr.&nbsp;Raigaga |   |   |
 
 </details>
 
@@ -33,23 +33,23 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **B.P.** | OASIS&nbsp;Burn&nbsp;Oasis&nbsp;burn&nbsp;3x7 · Weekly · Dr.&nbsp;Joshi<br>**Next&nbsp;Mon&nbsp;11/23&nbsp;1:00&nbsp;PM** | 🔴 8 of 8 | Next assumed Mon 10/26 1:20 PM (same time as the Mon 10/19 visit; AJ 10/25) — verify with the office. A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
 | **J.B.** | OASIS&nbsp;Burn&nbsp;3x7 · Weekly · Dr.&nbsp;Adelstein<br>**Last&nbsp;graft&nbsp;10/8** | 🟢 3 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. Last graft A3 10/8 (OASIS Burn 3x7 from the WCC shelf); not grafted 10/15 (no-show), 10/22 or 10/29. |
 | **D.C.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Adelstein | 🟢 5 of 8 | Marked done for now (AJ 11/2), so he's off the Thu 11/5 schedule. 5 GRAFIX applications (AJ confirmed 10/12): 2x3 9/3, 1.5x2 9/10 and 9/17, 16mm from 9/24. Held 10/8, 10/15 (wound got larger, vascular consult) and 10/29. |
-| **G.M.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Goldkind | 🟢 0 of 8 | Patient is Medicaid, won’t graft PA approved (BCBS Illinois, case 06524833): OASIS Wound Matrix (Q4102) x130 sq cm, 15275 x12 and 15276 x36, 10/27/26–2/15/27, Dr. Goldkind. DFU right heel/midfoot 3.8 x 2.5 x 0.3 cm, so one OASIS Wound 3x3.5 a visit. Not started yet; weekly once booked (Alexian). Payer noted earlier as Blue Cross Community. |
+| **G.M.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Goldkind |   | Patient is Medicaid, won’t graft PA approved (BCBS Illinois, case 06524833): OASIS Wound Matrix (Q4102) x130 sq cm, 15275 x12 and 15276 x36, 10/27/26–2/15/27, Dr. Goldkind. DFU right heel/midfoot 3.8 x 2.5 x 0.3 cm, so one OASIS Wound 3x3.5 a visit. Not started yet; weekly once booked (Alexian). Payer noted earlier as Blue Cross Community. |
 | **A.P.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Hussain<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;10:30&nbsp;AM** | 🔴 8 of 8 | A7 Wed 10/28 2:00 PM: 16mm LYA-260221\_16015 (case sheet filed to the tracker 10/28; Dr. Joshi on the sheet). Alexian WCC stops at 8, so 1 application left. A6 Wed 10/21: 16mm LYA-260159\_16003 (case sheet photo 10/27, PO …285709). A5 Wed 10/14 2:00 PM: 16mm LYA-260146\_16008 (PO …285130, case sheet ap-1014). A4 10/7 (PO …284690). Case sheet on file (LYA-260174\_16009). |
 | **M.D.** | GRAFIX&nbsp;16mm · Dr.&nbsp;Hussain<br>**Last&nbsp;graft&nbsp;9/16** | 🟢 6 of 8 | Patient complaining about bills, no longer grafting |
 | **M.O.** | OASIS&nbsp;Burn&nbsp;3x3.5 · Dr.&nbsp;Hussain | 🔴 8 of 8 | Healed |
-| **D.L.** | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/11&nbsp;3:30&nbsp;PM** | 🟢 0 of 8 | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
-| **M.L.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;11/17&nbsp;1:00&nbsp;PM** | 🔴 8 of 8 | A6 Tue 11/3 2:15 PM, Dr. Joshi: 16mm LYA-260221\_16006 (case sheet uploaded in the app 11/3; filed in the tracker 11/4, November row 20; bill-only PO to come). A5 Tue 10/27: 16mm LYA-260221\_16001 (case sheet photo 10/27, PO …286199). A4 Tue 10/20: 16mm LYA-260146\_16005 (case sheet photo 10/27, PO …285612). A3 Tue 10/13: 16mm LYA-260174\_16007 (PO …285020). A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). W… |
+| **B.P.** | OASIS&nbsp;Burn&nbsp;Oasis&nbsp;burn&nbsp;3x7 · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Mon&nbsp;11/23&nbsp;1:00&nbsp;PM** | 🔴 8 of 8 | Next assumed Mon 10/26 1:20 PM (same time as the Mon 10/19 visit; AJ 10/25) — verify with the office. A1 10/5: OASIS Burn 5x7 meshed from the WCC shelf. |
+| **M.L.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Tue&nbsp;11/17&nbsp;1:00&nbsp;PM** | 🔴 8 of 8 | A6 Tue 11/3 2:15 PM, Dr. Joshi: 16mm LYA-260221\_16006 (case sheet uploaded in the app 11/3; filed in the tracker 11/4, November row 20; bill-only PO to come). A5 Tue 10/27: 16mm LYA-260221\_16001 (case sheet photo 10/27, PO …286199). A4 Tue 10/20: 16mm LYA-260146\_16005 (case sheet photo 10/27, PO …285612). A3 Tue 10/13: 16mm LYA-260174\_16007 (PO …285020). A2 10/7 (PO …284689). Case sheet on file (LYA-260174\_16010). Weekly; next Tue 11/10 2:15 PM. Alexian WCC stops at 8, so 2 applications left. |
 | **A.N.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Joshi<br>**Last&nbsp;graft&nbsp;10/6** | 🟢 4 of 8 | Next assumed Tue 10/27 12:50 PM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. A4 10/6 (LYA-260159\_16026, PO …284482). |
+| **D.L.** | Oasis&nbsp;Burn · Weekly · Dr.&nbsp;Joshi<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/11&nbsp;3:30&nbsp;PM** |   | Next assumed Tue 10/27 10:15 AM (same time as the Tue 10/20 visit; AJ 10/25) — verify with the office. Suggest oasis |
+| **T.T.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Last&nbsp;graft&nbsp;10/6** | 🟡 7 of 8 | Healed Tue 10/27 (not grafted): done after 7 applications. A7 10/6 (LYA-260159\_16028). |
 | **D.S.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Fri&nbsp;11/6&nbsp;12:35&nbsp;PM** | 🔴 8 of 8 | Next assumed Fri 10/30 12:35 PM (same time as the Fri 10/23 visit; AJ 10/25) — verify with the office. A8 10/9 (logged in the app 10/11). Next visit Fri 10/16 12:35 PM. |
 | **D.G.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Was&nbsp;due&nbsp;Tue&nbsp;11/17&nbsp;9:00&nbsp;AM** | 🟢 4 of 8 | Next assumed Tue 11/3 9:00 AM (same time as the Tue 10/27 visit; on this week's schedule per AJ 11/1) — verify with the office. Not grafted Tue 10/27 9:00 AM (also held 10/13 and 10/20). A3 10/6 (LYA-260017\_16014, PO …284776 received 10/9). |
-| **T.T.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Last&nbsp;graft&nbsp;10/6** | 🟡 7 of 8 | Healed Tue 10/27 (not grafted): done after 7 applications. A7 10/6 (LYA-260159\_16028). |
-| **J.T.** | GRAFIX · Weekly · Dr.&nbsp;Lucas | 🟢 0 of 8 | Need additional notes for prior auth |
+| **J.T.** | GRAFIX · Weekly · Dr.&nbsp;Lucas |   | Need additional notes for prior auth |
 | **V.D.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Ramani<br>**Was&nbsp;due&nbsp;Fri&nbsp;10/9&nbsp;8:00&nbsp;AM** | 🟢 6 of 8 | Down to 16mm as of 10/2 (was 1.5x2) |
 | **M.I.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Russo<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/7&nbsp;10:15&nbsp;AM** | 🟢 2 of 8 | Done (moved in the app 10/11). Had been paused |
-| **L.S.** | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM** | 🟢 0 of 8 | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
+| **L.S.** | STRAVIX&nbsp;2x4 · Weekly · Dr.&nbsp;Russo<br>**Was&nbsp;due&nbsp;Wed&nbsp;10/14&nbsp;9:30&nbsp;AM** |   | Stravix follow up. Stravix 2x4 in the OR at Alexian Ambulatory 9/23 (Dr. Russo). Office IVR submitted 9/11 and denied for office grafting. |
 
 </details>
 
@@ -59,9 +59,9 @@
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
 | **C.T.** | OASIS&nbsp;Wound&nbsp;3x3.5 · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/5&nbsp;2:00&nbsp;PM · Hoffman&nbsp;Estates** | 🟢 5 | NWSFA schedule wk of 11/2: Thu 11/5 2:00 PM Dr. Adelstein (HE). NWSFA schedule wk of 10/26: Thu 10/29 2:30 PM Dr. Adelstein (HE). A3 Thu 10/15 (AJ confirmed 10/18). A2 10/8 (1st 10/1) |
-| **P.S.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Was&nbsp;due&nbsp;Mon&nbsp;11/9&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 4 | NWSFA schedule wk of 11/2: Mon 11/2 8:45 AM Dr. Goldkind (EG) — graft (PO PS110226) sent to Elk Grove. NWSFA schedule wk of 10/26: Mon 10/26 8:30 AM Dr. Goldkind (EG). NWSFA schedule wk of 10/19: Mon 10/19 10:45 AM Dr. Goldkind (EG) — graft is in EG. A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926…<br>[📄 IVR](../ivr/nw-ps.md) |
 | **MZ (R)** | OASIS&nbsp;Ultra&nbsp;3x7 · Dr.&nbsp;Goldkind | 🔴 21 |   |
-| **G.G.** | Dr.&nbsp;Goldkind | 🟢 0 | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
+| **G.G.** | Dr.&nbsp;Goldkind |   | Verify status with Chris (not on NWSFA schedule wk of 10/5, 10/12 or 10/19). Submitted 9/14. Had Stravix in the OR at St. Alexius 9/29 (Dr. Goldkind) — IVR is for office grafting after. |
+| **P.S.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Goldkind<br>**Was&nbsp;due&nbsp;Mon&nbsp;11/9&nbsp;8:45&nbsp;AM · Elk&nbsp;Grove** | 🟢 4 | NWSFA schedule wk of 11/2: Mon 11/2 8:45 AM Dr. Goldkind (EG) — graft (PO PS110226) sent to Elk Grove. NWSFA schedule wk of 10/26: Mon 10/26 8:30 AM Dr. Goldkind (EG). NWSFA schedule wk of 10/19: Mon 10/19 10:45 AM Dr. Goldkind (EG) — graft is in EG. A1 10/5 (LYA-250894\_16005) from the 16mm the clinic bought 8/22/26 (PO PS100626). A2 10/12 (LYA-260185\_16011) on PO PS101226. A3 10/19 16mm ordered 10/12 on PO PS101926; weekly 16mm orders. Cigna PA approved via Evicore (IVR #06294702), through 3/29/27. L foot DFU, wound 0.5 x 1.5 x 0.2 cm.<br>[📄 IVR](../ivr/nw-ps.md) |
 
 </details>
 
@@ -70,8 +70,8 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **A.S.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Was&nbsp;due&nbsp;Fri&nbsp;11/13&nbsp;12:00&nbsp;PM · CDFA** | 🟢 5 | A4 Fri 10/30 12:00 PM: 16mm LYA-260256\_16016 (AS103026) — app count corrected from 2 to 4 on 10/31 (A1 10/9 AS100926, A2 10/16 AS101626, A3 10/23 AS102326 are all on the tracker; AJ to confirm). Next Fri 11/6 12:00 PM — verify with the office. Weekly 16mm. |
 | **R.C.** | GRAFIX&nbsp;2x&nbsp;5x5&nbsp;+&nbsp;3x4 · Weekly · Dr.&nbsp;Luetkehans<br>**Last&nbsp;graft&nbsp;10/9** | 🟢 2 | STOPPED (AJ 10/29): patient admitted, grafting stopped — no more 5x5 orders. Still owed by the office: the PO for the WFNU 5x5 used 10/16 and the PO for the 10/9 3x4. A2 10/9: 2 x 5x5 (LYA-260337\_55005, LYA-260335\_55004, billed on RC100926) + 1 x 3x4 (LYA-250008\_34006, PO to come). 10/16: the 3rd 5x5 from RC100926 + the WFNU 5x5 (bill on a new PO) + a 3x4 on RC101626. 10/23: 2 x 5x5 on RC102326. Case sheets on file. |
+| **A.S.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Luetkehans<br>**Was&nbsp;due&nbsp;Fri&nbsp;11/13&nbsp;12:00&nbsp;PM · CDFA** | 🟢 5 | A4 Fri 10/30 12:00 PM: 16mm LYA-260256\_16016 (AS103026) — app count corrected from 2 to 4 on 10/31 (A1 10/9 AS100926, A2 10/16 AS101626, A3 10/23 AS102326 are all on the tracker; AJ to confirm). Next Fri 11/6 12:00 PM — verify with the office. Weekly 16mm. |
 
 </details>
 

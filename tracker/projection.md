@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 15 of 19 · updated Mon 11/23, 5:51 PM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -81,7 +81,7 @@ Sold so far: **\$19,413** · 7 cases
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **R.T. · Dr. Bach** | Not grafted 10/7 (was set to start OASIS Ultra 7x10, 2 sheets per visit). | — | — |   |
-| **P.P. · Dr. Patni** | 16mm (assumed) · Weekly · 1 visit · from 11/24 | \$426 | \$0 | A3 Tue 11/17 16mm from the Good Sam WCC shelf (no PO, no new sale, AJ's Chi West tap); weekly from Tue 11/24 \| A1 Tue 11/3 and A2 Tue 11/10 16mm from the Good Sam WCC shelf (no PO, no new sale); weekly from Tue 11/17 \| … |
+| **P.P. · Dr. Patni** | 16mm (assumed) · Weekly · 1 visit | \$426 | \$0 | A3 Tue 11/17 16mm from the Good Sam WCC shelf (no PO, no new sale, AJ's Chi West tap); weekly from Tue 11/24 \| A1 Tue 11/3 and A2 Tue 11/10 16mm from the Good Sam WCC shelf (no PO, no new sale); weekly from Tue 11/17 \| … |
 | **Z.G. · Dr. Ayesh** | Pending (new patient AJ added in Chi West 11/5): GRAFIX 16mm every 2 weeks with Dr. Ayesh, first visit Thu 11/19 (time TBD). | — | — |   |
 
 **OASIS reorders (estimated)**

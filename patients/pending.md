@@ -2,13 +2,13 @@
 
 # Pending
 
-**BIOT Chicago West** · 128 patients · updated Mon 11/23, 5:51 PM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;26](../patients/todo.md) |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · **Pending 3** · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -20,7 +20,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **K.B.** | OASIS · Dr.&nbsp;Ayesh | 🟢 0 | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6. |
+| **K.B.** | OASIS · Dr.&nbsp;Ayesh |   | Denied for GRAFIX with Aetna at the Wellness Center. Dr. Ayesh is having K.B. come to the WCC to get coverage for OASIS (rerun). Emailed Karen 10/6. |
 
 </details>
 
@@ -29,7 +29,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **R.S.** | Oasis · Dr.&nbsp;Srivastava | 🟢 0 of 8 |   |
+| **R.S.** | Oasis · Dr.&nbsp;Srivastava |   | New 11/2 |
 
 </details>
 
@@ -38,6 +38,6 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **J.D.** | GRAFIX/OASIS · Dr.&nbsp;Bhagat<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/19&nbsp;2:30&nbsp;PM** | 🟢 0 | Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinicals, needs referral |
+| **J.D.** | GRAFIX/OASIS · Dr.&nbsp;Bhagat<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/19&nbsp;2:30&nbsp;PM** |   | Confirmed Thu 11/5 2:30 PM (moved from 3:00; St. Joe's text, AJ 11/4): Humana IVR with Dr. Bhagat. Ran on 9/9/26, needs additional clinicals, needs referral |
 
 </details>
