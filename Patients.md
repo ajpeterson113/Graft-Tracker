@@ -2,7 +2,7 @@
 
 # Patients
 
-**BIOT Chicago West** · 128 patients · updated Tue 11/24, 12:51 PM CT
+**BIOT Chicago West** · 128 patients · updated Tue 11/24, 3:48 PM CT
 
 | [🏠&nbsp;Home](README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;44](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -245,7 +245,7 @@ Click initials to show a name. Apps: 🟢 0–9 · 🟡 10–11 · 🔴 12+ (Ale
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **S.G.**<br>Grafting | GRAFIX&nbsp;3x3 · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;11:10&nbsp;AM · Lombard · Caroline&nbsp;covering** | 🟢 3 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside. |
+| **S.G.**<br>Grafting | GRAFIX&nbsp;3x3 · Weekly · Dr.&nbsp;Rojas<br>**Next&nbsp;Wed&nbsp;11/25&nbsp;10:00&nbsp;AM · Lombard · Caroline&nbsp;covering** | 🟢 3 | A1 Wed 10/14 10:30 AM, Grafix 3x4 or 5x5 (AJ's calendar); initials TBD. Potential new start next week (week of 10/12); initials not known yet. Projected weekly: 5x5 upside, 3x4 downside. |
 | **P.C.**<br>OR | STRAVIX&nbsp;3x6 · Dr.&nbsp;McGann<br>**OR&nbsp;Mon&nbsp;10/26 · 4&nbsp;wks&nbsp;1&nbsp;d&nbsp;post-op** |   | Follow-ups are at Dr. McGann's Romano Orthopaedics office in Lombard (account moved from Elmhurst Hospital, AJ 11/9; the OR cases themselves were at Elmhurst Hospital and stay there on the tracker). OR case Mon 10/26 7:30 AM at Elmhurst Hospital (Dr. McGann): P.C.'s second round of STRAVIX (separate case; round 1 was 9/28). STRAVIX 3x6 LYU-250920\_36005 (exp 4/15/27). Case sheet made 10/27 from the sticker photo and filed to the tracker 10/27; PO P2353811 received. |
 | **M.W.**<br>Done | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Rojas<br>**Last&nbsp;graft&nbsp;10/14** | 🟢 2 | Healing check Wed 10/28 9:50 AM at Lombard (AJ 10/27): follow-up to make sure the wound is still healed, not a graft visit. Healed 10/21 (not grafted): done after 2 applications. New start 10/7 (A1, LYA-260007\_16005, PO MW100726); A2 10/14 (LYA-260146\_16009, transfer from the Alexian WCC shelf). Weekly 16mm; future orders go on sale-order POs. |
 
