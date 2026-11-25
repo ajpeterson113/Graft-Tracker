@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 17 of 18 · updated Wed 11/25, 8:12 AM CT
+**BIOT Chicago West** · P11 · day 17 of 18 · updated Wed 11/25, 11:57 AM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|

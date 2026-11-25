@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 17 of 18 · updated Wed 11/25, 8:12 AM CT
+**BIOT Chicago West** · P11 · day 17 of 18 · updated Wed 11/25, 11:57 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -75,6 +75,12 @@ Sold so far: **\$26,816** · 9 cases
 | **WCC stock** | Grafix 3x4 · 3 on the shelf cover 0 projected · PO005986967 + earlier + PO006102148 (10/23) + PO006220787 (11/16) | — | — |   |
 | **WCC stock** | Grafix 2x3 · 1 on the shelf cover 0 projected · PO006130658 (10/29) | — | — |   |
 | **WCC stock** | Grafix 1.5x2 · 1 on the shelf cover 0 projected · PO006130658 (10/29) + PO006180799 (11/6) + PO006220787 (11/16) | — | — |   |
+
+**Upcoming Stravix**
+
+| Who | Plan | Upside | Downside | Note |
+| :-- | :-- | --: | --: | :-- |
+| **Dr. Luetkehans** | Stravix 3x6 (assumed) · Fri 12/4 | — | — |   |
 
 **Potential new starts**
 
@@ -310,7 +316,7 @@ Sold so far: **\$190** · 1 case
 | :-- | --: | --: | --: |
 | Weekly and biweekly patients | 28 | \$5,247 | \$4,131 |
 | Less Good Sam WCC stock already sold | 8 | -\$2,867 | -\$2,651 |
-| Upcoming Stravix | 3 | \$0 | \$0 |
+| Upcoming Stravix | 4 | \$0 | \$0 |
 | Potential new starts | 16 | \$925 | \$0 |
 | OASIS reorders (estimated) | 9 | \$4,244 | \$4,244 |
 

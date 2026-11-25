@@ -2,24 +2,25 @@
 
 # OR
 
-**BIOT Chicago West** · 128 patients · updated Wed 11/25, 8:12 AM CT
+**BIOT Chicago West** · 129 patients · updated Wed 11/25, 11:57 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;129](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 42** · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · **OR 43** · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
 <a name="good-sam"></a>
-<details open><summary><b>Good Sam</b> · 16</summary>
+<details open><summary><b>Good Sam</b> · 17</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
+| **Upcoming · Dr. Luetkehans** | STRAVIX · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Fri&nbsp;12/4 · OR&nbsp;in&nbsp;9&nbsp;days** |   | Upcoming OR case Fri 12/4 12:00 PM at Good Sam OR (Dr. Luetkehans, STRAVIX), from the OR schedule AJ sent 11/25 (OR 05, day surgery): right foot ulcer debridement with amniotic graft application; the schedule's comment asks for the Smith+Nephew STRAVIX graft. Patient name and size not given. Projected 3x6 upside / 2x4 downside at Good Sam's rates (P12). |
 | **D.F.** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Thu&nbsp;11/19 · 6&nbsp;d&nbsp;post-op** |   | OR case Thu 11/19 at Good Sam (Dr. Luetkehans): STRAVIX 3x6 LYU-260834\_36003 (exp 4/10/28) from the OR shelf. November row 72; Owens & Minor PO to come. Same patient as the wound center record (D.F., on hold for Grafix).<br>_11/20:_ AJ 11/20: Medical Recall Sheet for the 11/19 OR case; filed to the tracker (November row 72), case sheet df-1119 (label covered). |
 | **Upcoming · Dr. Luetkehans** | STRAVIX&nbsp;3x6 · Dr.&nbsp;Luetkehans<br>**OR&nbsp;Wed&nbsp;11/18 · 1&nbsp;wk&nbsp;post-op** |   | OR case Wed 11/18 at Good Sam (Dr. Luetkehans), right foot: STRAVIX 3x6 LYU-260692\_36005 (exp 3/16/28) from the OR shelf. November row 73; Owens & Minor PO to come. No patient initials for this case (AJ 11/20).<br>_11/20:_ AJ 11/20: there are no initials for this case, leave them off. Typed case sheet made with the Patient line blank. |
 | **C.W.** | STRAVIX&nbsp;2x4 · Dr.&nbsp;Malik<br>**OR&nbsp;Mon&nbsp;11/16 · 1&nbsp;wk&nbsp;2&nbsp;d&nbsp;post-op** |   | OR case Mon 11/16 at Good Sam (Dr. Malik): STRAVIX 2x4 LYU-260474\_24001 (exp 2/16/28) from the OR shelf. PO006237839 in 11/17. Sticker photo from AJ 11/24; typed case sheet made 11/24 (cw-1116). Ready to submit.<br>_11/24:_ AJ 11/24: sticker photo sent (Stravix PL 2x4 LYU-260474\_24001, matches the PO); typed case sheet made at AJ's request. Ready to submit. |

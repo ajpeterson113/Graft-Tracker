@@ -2,16 +2,16 @@
 
 # This week
 
-**BIOT Chicago West** · 128 patients · updated Wed 11/25, 8:12 AM CT
+**BIOT Chicago West** · 129 patients · updated Wed 11/25, 11:57 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;128](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;129](../Patients.md) | <ins>**📅&nbsp;This&nbsp;week**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-[Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 42](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
+[Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 43](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -146,7 +146,7 @@
 **Covering this week:** Caroline 7
 
 
-<details><summary><b>Next week</b> · 15 visits booked so far</summary>
+<details><summary><b>Next week</b> · 16 visits booked so far</summary>
 
 <a name="next-mon"></a>
 ### Monday, Nov 30
@@ -211,5 +211,22 @@
 | **D.K.** | Alexian WCC | GRAFIX 16mm | Lucas | Verify: Assumed weekly (AJ 11/6): Tue 11:40 AM |
 | **H.P.** | Alexian Ambulatory | OASIS Wound 3x3.5 | Ramani | Verify: Assumed weekly (AJ 11/6): Thu 11/26 1:30 PM |
 | **J.C.** | St. Joseph Elgin | OASIS Wound 3x3.5 | Bhagat | Last appt 11/19 passed, nothing new booked |
+
+<a name="next-fri"></a>
+### Friday, Dec 4
+
+1 visit · **Grafts:** STRAVIX
+
+| Time | Patient | Visit | Clinic | Status |
+| :-- | :-- | :-- | :-- | :-- |
+| **12:00&nbsp;PM** | **Upcoming · Dr. Luetkehans** | **OR** · STRAVIX | Good&nbsp;Sam<br>Dr.&nbsp;Luetkehans |   |
+
+
+🔴 **No follow-up · usually seen Fridays** · 1
+
+
+| Patient | Clinic | Graft | Surgeon | Why |
+| :-- | :-- | :-- | :-- | :-- |
+| **D.N.** | St. Joseph Elgin | OASIS Wound Matrix 3x3.5 | Veronica Pappas | Last appt 11/20 passed, nothing new booked |
 
 </details>
