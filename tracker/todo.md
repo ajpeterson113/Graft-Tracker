@@ -2,7 +2,7 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 6:44 PM CT
+**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 7:16 PM CT
 
 | [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -70,6 +70,20 @@ Not in the sales number, quota, commission or projection (AJ 11/24). Listed so t
 | 11/24 | D.S. | Alexian WCC · Joshi | Grafix 3x4 | — | 0003081837 | \$1,140 |
 | 11/24 | [J.L.](../case-sheets/jl-1124.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003074927 | \$360 |
 
+<a name="submitted"></a>
+## 🔵 Submitted, not in SFDC yet · 6 · \$4,760
+
+Upload an SFDC report in the app and Claude marks what shows up.
+
+| Date | Pt | Account | Graft | PO | Amount |
+| :-- | :-- | :-- | :-- | :-- | --: |
+| 11/24 | — | NW Suburban F&A | OASIS Ultra 3x3.5 (2 boxes of 5) | Oasis11/27 | \$1,543.50 |
+| 11/24 | — | NW Suburban F&A | OASIS Wound 3x3.5 · 1 box of 10 | Oasis11/27 | \$1,126.50 |
+| 12/2 | D.R. | NW Suburban F&A · Goldkind | Grafix 3x3 | DR120226 | \$855 |
+| 12/3 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA120326 | \$190 |
+| 12/9 | D.R. | NW Suburban F&A · Goldkind | Grafix 3x3 | DR120926 | \$855 |
+| 12/10 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA121026 | \$190 |
+
 <a name="look"></a>
 ## 🔴 Needs a look · 3
 
@@ -80,7 +94,7 @@ Not in the sales number, quota, commission or projection (AJ 11/24). Listed so t
 | 11/4 | [S.G.](../case-sheets/sg-1104.md) | Romano Lombard · Rojas | Grafix 3x3 | Account not set up in SFDC yet · can't submit PO SG110426 |
 
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 3
+## ⏳ Case sheets to come · 7
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -89,6 +103,10 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | …286994 | Seen Thu 10/22 |
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
 | 11/24 | D.S. | Alexian WCC · Joshi | Grafix 3x4 |   | Seen Tue 11/24 |
+| 12/2 | D.R. | NW Suburban F&A · Goldkind | Grafix 3x3 | DR120226 | Coming up Wed 12/2 |
+| 12/9 | D.R. | NW Suburban F&A · Goldkind | Grafix 3x3 | DR120926 | Coming up Wed 12/9 |
+| 12/3 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA120326 | Coming up Thu 12/3 |
+| 12/10 | M.A. | NW Suburban F&A · Goldkind | Grafix 16mm | MA121026 | Coming up Thu 12/10 |
 
 <a name="stock"></a>
 ## 📦 Stock · 4
