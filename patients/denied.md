@@ -2,7 +2,7 @@
 
 # Denied
 
-**BIOT Chicago West** · 129 patients · updated Wed 11/25, 11:57 AM CT
+**BIOT Chicago West** · 129 patients · updated Wed 11/25, 11:59 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
