@@ -2,23 +2,19 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 7:26 PM CT
+**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 7:39 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;38**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 <a name="ready"></a>
-## 🟢 Submit to SFDC · 20 · \$41,813
+## 🟢 Submit to SFDC · 16 · \$34,131
 
 Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
 
 | Date | Pt | Account | Graft | PO | Amount |
 | :-- | :-- | :-- | :-- | :-- | --: |
-| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | Stravix 2x4 + 3x6 ×2 | 660040000287480 | \$4,022.10 |
-| 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000287280 | \$360 |
-| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 712063707 | \$1,650 |
-| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 712063705 | \$1,650 |
 | 11/9 | [C.P.](../case-sheets/cp-1109.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 660040000287281 | \$600 |
 | 11/9 | [C.B.](../case-sheets/cb-1109.md) | Alexian WCC · Goldkind | Grafix 2x3 | 660040000287282 | \$925.35 |
 | 11/10 | [D.S.](../case-sheets/ds-1110.md) | Alexian WCC · Joshi | Grafix 3x4 | 660040000287457 | \$1,140 |
@@ -71,12 +67,16 @@ Not in the sales number, quota, commission or projection (AJ 11/24). Listed so t
 | 11/24 | [J.L.](../case-sheets/jl-1124.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003074927 | \$360 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 6 · \$4,760
+## 🔵 Submitted, not in SFDC yet · 10 · \$12,442
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
 | Date | Pt | Account | Graft | PO | Amount |
 | :-- | :-- | :-- | :-- | :-- | --: |
+| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | Stravix 2x4 + 3x6 ×2 | …287480 | \$4,022.10 |
+| 11/6 | [G.H.](../case-sheets/gh-1106.md) | Alexian WCC · Lucas | Grafix 16mm | …287280 | \$360 |
+| 11/6 | [E.D.](../case-sheets/ed-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 712063707 | \$1,650 |
+| 11/6 | [K.C.](../case-sheets/kc-1106.md) | St. Joseph Elgin · Bryniczka | Stravix 2x4 | 712063705 | \$1,650 |
 | 11/24 | — | NW Suburban F&A | OASIS Ultra 3x3.5 (2 boxes of 5) | Oasis11/27 | \$1,543.50 |
 | 11/24 | — | NW Suburban F&A | OASIS Wound 3x3.5 · 1 box of 10 | Oasis11/27 | \$1,126.50 |
 | 12/2 | D.R. | NW Suburban F&A · Goldkind | Grafix 3x3 | DR120226 | \$855 |
