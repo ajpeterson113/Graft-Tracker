@@ -719,13 +719,16 @@ def render_home_image(tr, path, theme, narrow=False):
     # minis
     y += 31
     colw = (W1 - 2 * PAD - 16) / 3
-    # To go and current commission count what's In SFDC plus every PO in hand (submitted, or ready but not
+    # To go counts what's In SFDC plus every PO in hand (submitted, or ready but not
     # submitted yet); cases still waiting on a PO and projections don't count (AJ 11/5, same as Chi West)
     secured = sum(num(c.get('price')) or 0 for c in pcs0
                   if c.get('status') in ('insfdc', 'submitted') or (c.get('po') and c.get('status') not in ('stock', 'needspo')))
-    rate = hi if tgt and secured >= tgt else lo
+    # Current commission (AJ 11/24): only what's In SFDC + submitted; a PO in hand that isn't submitted yet
+    # doesn't count. 7% below target, 10% on everything once that reaches target. To go keeps the 11/5 base.
+    comm_base = sum(num(c.get('price')) or 0 for c in pcs0 if c.get('status') in ('insfdc', 'submitted'))
+    rate = hi if tgt and comm_base >= tgt else lo
     minis = [('TO GO', m0(max(0, tgt - secured)), 'to target'),
-             ('COMMISSION', m0(secured * rate), f"at {pc(rate)}"),
+             ('COMMISSION', m0(comm_base * rate), f"at {pc(rate)}"),
              ('PROJECTED', f"{mk(Fo.get('commDown'))}–{mk(Fo.get('commUp'))}", 'commission')]
     for i, (lab, val, small) in enumerate(minis):
         mx0 = x0 + i * (colw + 8)
@@ -1113,6 +1116,17 @@ def page_home(tr, pt, counts, sub_stamp, img_wh):
                '  <source media="(max-width: 700px)" srcset="view/home-narrow.png">\n'
                '  <source media="(prefers-color-scheme: dark)" srcset="view/home-dark.png">\n'
                f'  <img alt="{H(alt)}" src="view/home.png" width="{w}">\n</picture>\n')
+    # commission so far and where it comes from (AJ 11/24: In SFDC + submitted only, not POs in hand)
+    in_s = sum(num(c.get('price')) or 0 for c in tr.period_cases() if c.get('status') == 'insfdc')
+    sub_s = in_sub - in_s
+    crow = [['In SFDC', T(m2(in_s)), T(m2(round(in_s * rate + 1e-6, 2)))],
+            ['Submitted, not in SFDC yet', T(m2(sub_s)), T(m2(round(sub_s * rate + 1e-6, 2)))],
+            ['**Total**', f'**{T(m2(in_sub))}**', f'**{T(m2(round(in_sub * rate + 1e-6, 2)))}**']]
+    rnote = (f"{pc(hi)} on everything: target reached, {m2(in_sub - tgt)} over." if tgt and in_sub >= tgt else
+             f"{pc(lo)} below target; {m2(tgt - in_sub)} more submitted reaches target, which pays {pc(hi)} on everything.")
+    out.append(details(f"<b>Commission so far: {H(m2(round(in_sub * rate + 1e-6, 2)))}</b> · {H(pc(rate))} on {H(m0(in_sub))} in SFDC + submitted",
+                       table(['Counted', 'Sales', 'Commission'], crow, ['l', 'r', 'r']) + '\n\n' + T(rnote) +
+                       ' POs in hand that are not submitted yet, and cases waiting on a PO, are not counted.'))
     # to-do tiles, two by two like the app
     R = [c for c in tr.cases if c['status'] == 'ready']
     NP = [c for c in tr.cases if c['status'] == 'needspo']

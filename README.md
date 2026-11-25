@@ -2,7 +2,7 @@
 
 # Graft Tracker
 
-**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 8:15 PM CT
+**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 10:05 PM CT
 
 | <ins>**🏠&nbsp;Home**</ins> | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](tracker/todo.md) | [📋&nbsp;Cases](tracker/cases.md) | [📈&nbsp;Projection](tracker/projection.md) | [📦&nbsp;Stock](tracker/stock.md) | [👥&nbsp;Patients](Patients.md) | [🎯&nbsp;Targets](Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -14,6 +14,19 @@
   <source media="(prefers-color-scheme: dark)" srcset="view/home-dark.png">
   <img alt="P11: &#36;92,924 in SFDC + submitted, 100% of the &#36;92,891 target (&#36;113,568 booked). Forecast &#36;119,292 downside to &#36;121,118 upside. Shipping day 16 of 18." src="view/home.png" width="880">
 </picture>
+
+<details><summary><b>Commission so far: &#36;9,292.42</b> · 10% on &#36;92,924 in SFDC + submitted</summary>
+
+| Counted | Sales | Commission |
+| :-- | --: | --: |
+| In SFDC | \$46,350.70 | \$4,635.07 |
+| Submitted, not in SFDC yet | \$46,573.45 | \$4,657.35 |
+| **Total** | **\$92,924.15** | **\$9,292.42** |
+
+
+10% on everything: target reached, \$33.15 over. POs in hand that are not submitted yet, and cases waiting on a PO, are not counted.
+
+</details>
 
 ### To do
 
