@@ -383,6 +383,10 @@ class Tracker:
         P = self.snap.get('period') or {}
         cal = next((p for p in (P.get('calendar') or []) if p and p[0] == P.get('id')),
                    [P.get('id'), P.get('start'), P.get('end'), None])
+        if cal and cal[0] == P.get('id') and okd(P.get('end')) and cal[2] != P.get('end'):
+            # the tracker's period end (Projections B5) wins over the app's built-in calendar, e.g. when a period
+            # closes early (AJ 11/24: P11 ends Wed 11/25); the company's day count belongs to the old dates
+            cal = [cal[0], P.get('start') or cal[1], P.get('end'), None]
         hol = set(P.get('holidays') or [])
         total = done = 0
         if okd(cal[1]) and okd(cal[2]):

@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:39 PM CT
+**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 6:44 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -13,13 +13,13 @@
 | Sold so far (November tab) | \$108,088 | \$108,088 |
 | \+ Projected Grafix, net of WCC stock | \$3,100 | \$2,200 |
 | \+ Upcoming Stravix | \$0 | \$0 |
-| \+ Potential new starts | \$1,285 | \$0 |
+| \+ Potential new starts | \$925 | \$0 |
 | \+ OASIS reorders (estimated) | \$4,244 | \$4,244 |
-| **P11 forecast** | **\$116,718** | **\$114,532** |
+| **P11 forecast** | **\$116,358** | **\$114,532** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 126% | 123% |
-| Gap to target | ✅ over by \$23,827 | ✅ over by \$21,641 |
-| **Projected commission** | **\$11,672** | **\$11,453** |
+| % of target | 125% | 123% |
+| Gap to target | ✅ over by \$23,467 | ✅ over by \$21,641 |
+| **Projected commission** | **\$11,636** | **\$11,453** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/23.</sub>
@@ -31,7 +31,7 @@
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
 | [Good Sam](#good-sam) | \$26,816 | \$4,244 | \$4,244 | **\$31,059** | **\$31,059** |
-| [Alexian WCC](#alexian-wcc) | \$18,202 | \$3,531 | \$2,245 | **\$21,733** | **\$20,447** |
+| [Alexian WCC](#alexian-wcc) | \$18,202 | \$3,171 | \$2,245 | **\$21,373** | **\$20,447** |
 | [St. Alexius](#st-alexius) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [Alexian Ambulatory](#x) | \$10,064 | \$0 | \$0 | **\$10,064** | **\$10,064** |
@@ -43,7 +43,7 @@
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Sherman](#sherman) | \$426 | \$0 | \$0 | **\$426** | **\$426** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$108,088** | **\$8,629** | **\$6,444** | **\$116,718** | **\$114,532** |
+| **Total** | **\$108,088** | **\$8,269** | **\$6,444** | **\$116,358** | **\$114,532** |
 
 
 ## Account by account
@@ -64,17 +64,17 @@ Sold so far: **\$26,816** · 9 cases
 | **C.B. · Dr. Ayesh** | P11: A4 Thu 11/5 at 3x4 (LYA-250625\_34014 from the Good Sam shelf; AJ set the size to 3x4 on 11/5). | — | — |   |
 | **P.J. · Dr. Luetkehans** | 2× 16mm · Weekly · 1 visit | \$851 | \$851 | P11: A9 Tue 11/24 11:00 AM, (2) 16mm from the Good Sam WCC shelf (no PO, no new sale, AJ's Chi West tap; moved up from Thu 11/26); next Tue 12/1 11:00 AM (assumed weekly) \| P11: weekly from Thu 11/12 at 2 x 16mm, back f… |
 | **D.F. · Dr. Luetkehans** | ON HOLD 11/12 (AJ, Chi West): not grafted Thu 11/12 and set On hold, so nothing projected (upside or downside) until she's back on the schedule. | — | — |   |
-| **L.D. · Dr. Luetkehans** | 1.5x2 · Weekly · 1 visit → 16mm | \$780 | \$426 | Weekly 1.5x2 at the Good Sam WCC (Dr. Luetkehans): A27 Thu 11/5 2:45 PM, 1.5x2 LYA-260165\_15003 from the shelf (Grafted in Chi West 11/5). |
+| **L.D. · Dr. Luetkehans** | Weekly 1.5x2 at the Good Sam WCC (Dr. Luetkehans): A27 Thu 11/5 2:45 PM, 1.5x2 LYA-260165\_15003 from the shelf (Grafted in Chi West 11/5). | — | — |   |
 
 **Less Good Sam WCC stock already sold**
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
 | **WCC stock** | Grafix 5x5 · 1 on the shelf cover 0 projected · PO006025726 (10/9) + PO006063828 (10/16) + PO006102148 (10/23) + PO006130658 (10/29) + PO006180799 (11/6) + PO006220787 (11/16) | — | — |   |
-| **WCC stock** | Grafix 16mm · 4 on the shelf cover 2 projected · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658 + PO006180799 (11/6) + PO006220787 (11/16) + PO006257655 (11/20) | -\$851 | -\$1,277 | SFDC 11/24: PO006220787 shipped 11/16 with 3 x 16mm, then 1 x 16mm on PO006257655 (11/20), in November sales (already sold). |
+| **WCC stock** | Grafix 16mm · 4 on the shelf cover 2 projected · PO005986967 + PO006025726 + PO006063828 + PO006102148 + PO006130658 + PO006180799 (11/6) + PO006220787 (11/16) + PO006257655 (11/20) | -\$851 | -\$851 | SFDC 11/24: PO006220787 shipped 11/16 with 3 x 16mm, then 1 x 16mm on PO006257655 (11/20), in November sales (already sold). |
 | **WCC stock** | Grafix 3x4 · 3 on the shelf cover 0 projected · PO005986967 + earlier + PO006102148 (10/23) + PO006220787 (11/16) | — | — |   |
 | **WCC stock** | Grafix 2x3 · 1 on the shelf cover 0 projected · PO006130658 (10/29) | — | — |   |
-| **WCC stock** | Grafix 1.5x2 · 1 on the shelf cover 1 projected · PO006130658 (10/29) + PO006180799 (11/6) + PO006220787 (11/16) | -\$780 | \$0 | SFDC 11/24: PO006220787 shipped 11/16 with 1 x 1.5x2, in November sales (already sold). |
+| **WCC stock** | Grafix 1.5x2 · 1 on the shelf cover 0 projected · PO006130658 (10/29) + PO006180799 (11/6) + PO006220787 (11/16) | — | — |   |
 
 **Potential new starts**
 
@@ -94,7 +94,7 @@ Sold so far: **\$26,816** · 9 cases
 </details>
 
 <a name="alexian-wcc"></a>
-<details><summary><b>Alexian WCC</b> · upside &#36;21,733 · downside &#36;20,447</summary>
+<details><summary><b>Alexian WCC</b> · upside &#36;21,373 · downside &#36;20,447</summary>
 
 Sold so far: **\$18,202** · 27 cases
 
@@ -120,7 +120,7 @@ Sold so far: **\$18,202** · 27 cases
 | :-- | :-- | --: | --: | :-- |
 | **J.C. · Dr. Joshi** | On hold (moved in the app 10/11). | — | — |   |
 | **G.C. · Dr. Joshi** | Approved in the Patients app, no size or start date yet, so nothing projected. | — | — |   |
-| **G.H. · Dr. Lucas** | 16mm · Weekly · 1 visit · from 11/27 | \$360 | \$0 | P11: A3 Fri 11/20 12:40 PM 16mm LYA-260256\_16012 (November row 75, AJ's case sheet from Chi West 11/20, PO to come); next assumed Fri 11/27 (Alexian WCC weekly, not confirmed with the office). |
+| **G.H. · Dr. Lucas** | P11: A3 Fri 11/20 12:40 PM 16mm LYA-260256\_16012 (November row 75, AJ's case sheet from Chi West 11/20, PO to come); next assumed Fri 11/27 (Alexian WCC weekly, not conf… | — | — |   |
 | **V.T. · Dr. Halihan** | AJ moved the next visit to Thu 12/3 1:00 PM (Chi West 11/20), so nothing more in P11. | — | — |   |
 | **G.M. · Dr. Goldkind** | PA approved 10/27/26–2/15/27 (BCBS Illinois; OASIS Wound up to 130 sq cm / 12 applications, Dr. Goldkind). | — | — |   |
 | **D.L. · Dr. Joshi** | Approved (OASIS Burn, Dr. Joshi). | — | — |   |
@@ -308,10 +308,10 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 28 | \$6,747 | \$5,277 |
-| Less Good Sam WCC stock already sold | 8 | -\$3,647 | -\$3,077 |
+| Weekly and biweekly patients | 28 | \$5,967 | \$4,851 |
+| Less Good Sam WCC stock already sold | 8 | -\$2,867 | -\$2,651 |
 | Upcoming Stravix | 3 | \$0 | \$0 |
-| Potential new starts | 16 | \$1,285 | \$0 |
+| Potential new starts | 16 | \$925 | \$0 |
 | OASIS reorders (estimated) | 9 | \$4,244 | \$4,244 |
 
 

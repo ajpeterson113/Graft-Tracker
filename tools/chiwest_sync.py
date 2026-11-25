@@ -190,6 +190,19 @@ def build_tracker(gt):
     if not snap or not months:
         sys.exit('STOP: --gt needs meta/snap.json and months/*.json')
     core = {k: snap.get(k) for k in ('updated', 'today', 'period', 'sales', 'forecast', 'accounts', 'year', 'months', 'periods', 'tabs', 'weekly')}
+    # the tracker's period end (Projections B5) wins over the app's built-in calendar when a period closes early
+    # (AJ 11/24: P11 ends Wed 11/25), so Chi West's pace line counts to the real last day
+    P = core.get('period') or {}
+    if P.get('end') and P.get('calendar'):
+        P = dict(P, calendar=[[c[0], P.get('start') or c[1], P['end'], None] if c and c[0] == P.get('id') and c[2] != P['end'] else c
+                              for c in P['calendar']])
+        cal = [list(c) if c else c for c in P['calendar']]
+        for i, c in enumerate(cal[:-1]):
+            if c and c[0] == P.get('id') and cal[i + 1]:      # the next period starts the day after this one ends
+                import datetime as _dt
+                cal[i + 1][1] = (_dt.date.fromisoformat(P['end']) + _dt.timedelta(days=1)).isoformat()
+        P['calendar'] = cal
+        core['period'] = P
     # open to-dos, plus the ones done in the last 7 days so AJ can see and reopen them in Chi West (AJ 11/9: undo)
     done_lim = (dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=7)).isoformat()
 
