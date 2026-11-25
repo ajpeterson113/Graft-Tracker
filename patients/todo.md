@@ -2,13 +2,13 @@
 
 # Patient to-do
 
-**BIOT Chicago West** · 129 patients · updated Wed 11/25, 11:59 AM CT
+**BIOT Chicago West** · 129 patients · updated Wed 11/25, 12:52 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;129](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27**</ins> |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;129](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;29**</ins> |
 |:-:|:-:|:-:|
 
 [Grafting 36](../patients/grafting.md) · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 43](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
@@ -17,15 +17,16 @@
 
 <a name="verify"></a>
 
-## 🟠 Verify · 1
+## 🟠 Verify · 2
 
 | Patient | Clinic | Graft | Check |
 | :-- | :-- | :-- | :-- |
 | **D.S.** | Alexian WCC · Joshi | GRAFIX 3x4 | Not confirmed with the office yet: Tue 12/1 9:15 AM |
+| **E.N.** | Alexian WCC · Turayhi | OASIS Wound 3x3.5 | Not confirmed with the office yet: Wed 12/2 9:15 AM |
 
 <a name="nofu"></a>
 
-## 🔴 No Follow-Up · 23
+## 🔴 No Follow-Up · 24
 
 | Patient | Clinic | Graft | Why |
 | :-- | :-- | :-- | :-- |
@@ -52,6 +53,7 @@
 | **D.N.** | St. Joseph Elgin · Veronica Pappas | OASIS Wound Matrix 3x3.5 | Last appt 11/20 passed, nothing new booked · usually Fri |
 | **M.B.** | St. Joseph Elgin · Veronica Pappas | GRAFIX 2x3 | Verify: Assumed weekly (AJ 11/6): Tue 12/1 8:15 AM · usually Tue |
 | **P.H.** | St. Joseph Elgin · Veronica Pappas | GRAFIX 3x3 | Verify: Assumed weekly (AJ 11/6): Tue 9:15 AM · usually Tue |
+| **S.G.** | Romano Lombard · Rojas | GRAFIX 3x3 | Verify: Assumed weekly (AJ 11/6): Wed 12/2 10:00 AM · usually Wed |
 
 <a name="pending"></a>
 

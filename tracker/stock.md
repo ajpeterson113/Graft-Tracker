@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 17 of 18 · updated Wed 11/25, 11:59 AM CT
+**BIOT Chicago West** · P11 · day 17 of 18 · updated Wed 11/25, 12:52 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -16,9 +16,9 @@
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 11/3/26 · 35 grafts · 31 OASIS sheets
+**Consignment shelf** · counted 11/3/26 · 34 grafts · 31 OASIS sheets
 
-35 Grafix units on hand (\$44,546 consignment). 1 size(s) to reorder now. \$2,280 expiring before it can be used.
+34 Grafix units on hand (\$43,946 consignment). 1 size(s) to reorder now. \$2,280 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 2 expire 12/18/26** · 1 patient(s) on it · \$5,700 of consignment
@@ -29,7 +29,7 @@
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **16mm**<br>Grafix | 🟠 **1**<br>target&nbsp;5⁠–⁠15 | 🟠 Reorder now · order 14 | 4/wk · 0.2 wks left · out week of 11/23 · next exp 3/20/28 |
-| **1.5x2**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.5 wks left · out week of 12/14 · next exp 1/13/28<br><sub>C.P. started on 1.5x2 10/26.</sub> |
+| **1.5x2**<br>Grafix | **6**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.0 wks left · out week of 12/14 · next exp 1/13/28<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **6**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.0 wks left · out week of 12/14 · next exp 6/18/27 |
 | **3x3**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
 | **3x4**<br>Grafix | **5**<br>target&nbsp;5⁠–⁠10 | 🔴 2 expire before use | 1/wk · 5.0 wks left · out week of 12/28 · next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
@@ -40,17 +40,16 @@
 | **3x7**<br>OASIS&nbsp;Burn | **5** sheets | No patients on it | box of 5 · next exp 8/18/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
-<details><summary><b>Units on the shelf</b> · 35</summary>
+<details><summary><b>Units on the shelf</b> · 34</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 11/28 | On shelf |   |
 | Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/2 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15003 | 1/13/28 | 12/5 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15010 | 1/13/28 | 12/9 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15020 | 1/13/28 | 12/12 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15019 | 1/13/28 | 12/16 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15018 | 1/13/28 | 12/19 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15010 | 1/13/28 | 12/5 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15020 | 1/13/28 | 12/9 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15019 | 1/13/28 | 12/12 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15018 | 1/13/28 | 12/16 | On shelf |   |
 | Grafix | 16mm | LYA-260294\_16017 | 3/20/28 | 11/26 | On shelf |   |
 | Grafix | 2x3 | LYA-250625\_23013 | 6/18/27 | 11/28 | On shelf |   |
 | Grafix | 2x3 | LYA-250868\_23006 | 11/3/27 | 12/2 | On shelf |   |
@@ -140,7 +139,7 @@
 
 </details>
 
-<details><summary><b>Used since the count</b> · 53</summary>
+<details><summary><b>Used since the count</b> · 54</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
@@ -193,6 +192,7 @@
 | LYA-260256\_16010 | Grafix 16mm | Used Nov |
 | LYA-260256\_16011 | Grafix 16mm | Used Nov |
 | LYA-260256\_16012 | Grafix 16mm | Used Nov |
+| LYA-260159\_15003 | Grafix 1.5x2 | Used Nov |
 | LYA-260294\_16018 | Grafix 16mm | Used Nov |
 | LYA-260294\_16019 | Grafix 16mm | Used Nov |
 | LYA-260294\_16020 | Grafix 16mm | Used Nov |
