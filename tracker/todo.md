@@ -2,26 +2,11 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 8:02 PM CT
+**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 8:15 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;31**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
-
-<a name="ready"></a>
-## 🟢 Submit to SFDC · 7 · \$12,130
-
-Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker app (or tell Claude).
-
-| Date | Pt | Account | Graft | PO | Amount |
-| :-- | :-- | :-- | :-- | :-- | --: |
-| 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | 660040000288440 | \$2,469 |
-| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | PO006237157 | \$1,695 |
-| 11/16 | [C.P.](../case-sheets/cp-1116.md) | Alexian WCC · Joshi | Grafix 1.5x2 | 660040000287797 | \$600 |
-| 11/16 | [C.W.](../case-sheets/cw-1116.md) | Good Sam · Malik | Stravix 2x4 | PO006237839 | \$1,695 |
-| 11/18 | [—](../case-sheets/luetkehans-1118.md) | Good Sam · Luetkehans | Stravix 3x6 | PO006262218 | \$2,655.50 |
-| 11/19 | [D.F.](../case-sheets/df-1119.md) | Good Sam · Luetkehans | Stravix 3x6 | PO006262212 | \$2,655.50 |
-| 11/20 | [G.H.](../case-sheets/gh-1120.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000288174 | \$360 |
 
 <a name="versajet"></a>
 ## 🟣 VERSAJET · 1
@@ -60,7 +45,7 @@ Not in the sales number, quota, commission or projection (AJ 11/24). Listed so t
 | 11/24 | [D.K.](../case-sheets/dk-1124.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003096605 | \$360 |
 
 <a name="submitted"></a>
-## 🔵 Submitted, not in SFDC yet · 19 · \$34,443
+## 🔵 Submitted, not in SFDC yet · 26 · \$46,573
 
 Upload an SFDC report in the app and Claude marks what shows up.
 
@@ -79,6 +64,13 @@ Upload an SFDC report in the app and Claude marks what shows up.
 | 11/11 | [R.N.](../case-sheets/rn-1111.md) | GlenOaks · McKanna | Stravix 3x6 ×5 | PO-1001102396 | \$12,345 |
 | 11/11 | [D.M.](../case-sheets/dm-1111.md) | Good Sam · Luetkehans | Stravix 3x6 ×2 | PO006220374 | \$5,311 |
 | 11/12 | [V.T.](../case-sheets/vt-1112.md) | Alexian WCC · Halihan | Grafix 1.5x2 | …287571 | \$600 |
+| 11/13 | [M.C.](../case-sheets/mc-1113.md) | Alexian Ambulatory · Lucas | Stravix 3x6 | …288440 | \$2,469 |
+| 11/13 | [S.W.](../case-sheets/sw-1113.md) | Good Sam · Ayesh | Stravix 2x4 | PO006237157 | \$1,695 |
+| 11/16 | [C.P.](../case-sheets/cp-1116.md) | Alexian WCC · Joshi | Grafix 1.5x2 | …287797 | \$600 |
+| 11/16 | [C.W.](../case-sheets/cw-1116.md) | Good Sam · Malik | Stravix 2x4 | PO006237839 | \$1,695 |
+| 11/18 | [—](../case-sheets/luetkehans-1118.md) | Good Sam · Luetkehans | Stravix 3x6 | PO006262218 | \$2,655.50 |
+| 11/19 | [D.F.](../case-sheets/df-1119.md) | Good Sam · Luetkehans | Stravix 3x6 | PO006262212 | \$2,655.50 |
+| 11/20 | [G.H.](../case-sheets/gh-1120.md) | Alexian WCC · Lucas | Grafix 16mm | …288174 | \$360 |
 | 11/24 | — | NW Suburban F&A | OASIS Ultra 3x3.5 (2 boxes of 5) | Oasis11/27 | \$1,543.50 |
 | 11/24 | — | NW Suburban F&A | OASIS Wound 3x3.5 · 1 box of 10 | Oasis11/27 | \$1,126.50 |
 | 12/2 | D.R. | NW Suburban F&A · Goldkind | Grafix 3x3 | DR120226 | \$855 |
