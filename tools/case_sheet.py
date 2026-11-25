@@ -26,7 +26,8 @@ Writes OUT_BASENAME.jpg (1200 px wide, for the case-sheets page) and OUT_BASENAM
 300 DPI). AJ's rules: use the real sticker photos (typed lot/SN only when he asks); once a PO
 exists it goes on the Purchase Order line and the banner must not still say "PO pending";
 multi-piece cases put the stickers large across the middle of the table, date once, and
-"Each:" / "Total:" in the Unit Price column (pass "price": "Each: $x\\nTotal: $y").
+"Each:" / "Total:" in the Unit Price column (pass "price": "Each: $x\\nTotal: $y"). Pieces at different
+prices: one line per piece and a Total line ("2x4: $x\\n3x6: $y\\nTotal: $z"); the last line goes in row 2.
 """
 import json
 import os
@@ -142,7 +143,15 @@ def build(spec, out):
     # line item: date in column 1, price in column 5, stickers across the middle
     r0, r1 = top + ROWS[0], top + ROWS[1]
     centred(d, (COLS[0], r0, COLS[1], r1), spec.get('dos', ''), f)
-    centred(d, (COLS[4], r0, COLS[5], r1), spec.get('price', ''), f)
+    price = str(spec.get('price', ''))
+    lines = price.split('\n')
+    if len(lines) >= 3:
+        # pieces at different prices + a total don't fit one row: the piece prices go in row 1, the last line
+        # (the total) in row 2, so no grid line runs through a number
+        centred(d, (COLS[4], r0, COLS[5], r1), '\n'.join(lines[:-1]), f)
+        centred(d, (COLS[4], r1, COLS[5], top + ROWS[2]), lines[-1], f)
+    else:
+        centred(d, (COLS[4], r0, COLS[5], r1), price, f)
     stickers = []
     for s in spec.get('stickers') or []:
         im = ImageOps.exif_transpose(Image.open(s['image'])).convert('RGB')
