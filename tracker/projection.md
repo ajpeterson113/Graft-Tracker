@@ -2,24 +2,24 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:28 PM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:35 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$108,638 | \$108,638 |
+| Sold so far (November tab) | \$108,088 | \$108,088 |
 | \+ Projected Grafix, net of WCC stock | \$3,100 | \$2,200 |
 | \+ Upcoming Stravix | \$0 | \$0 |
 | \+ Potential new starts | \$1,285 | \$0 |
 | \+ OASIS reorders (estimated) | \$4,244 | \$4,244 |
-| **P11 forecast** | **\$117,268** | **\$115,082** |
+| **P11 forecast** | **\$116,718** | **\$114,532** |
 | P11 target | \$92,891 | \$92,891 |
-| % of target | 126% | 124% |
-| Gap to target | ✅ over by \$24,377 | ✅ over by \$22,191 |
-| **Projected commission** | **\$11,727** | **\$11,508** |
+| % of target | 126% | 123% |
+| Gap to target | ✅ over by \$23,827 | ✅ over by \$21,641 |
+| **Projected commission** | **\$11,672** | **\$11,453** |
 
 
 <sub>Scheduled visits this week count until they're filed; once a visit is in November sales it isn't projected again. Upside = current plan; a patient never goes back up a size once they move down. Downside: sizes &gt;16mm with more than 4 applications drop one size from next week; 16mm with more than 4 applications have one last application; Dr. Bach patients start next week, every 2 weeks. Projected from 11/23.</sub>
@@ -34,7 +34,7 @@
 | [Alexian WCC](#alexian-wcc) | \$18,202 | \$3,531 | \$2,245 | **\$21,733** | **\$20,447** |
 | [St. Alexius](#st-alexius) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
-| [Alexian Ambulatory](#x) | \$10,614 | \$0 | \$0 | **\$10,614** | **\$10,614** |
+| [Alexian Ambulatory](#x) | \$10,064 | \$0 | \$0 | **\$10,064** | **\$10,064** |
 | [St. Joseph Elgin](#st-joseph-elgin) | \$8,692 | \$0 | -\$900 | **\$8,692** | **\$7,792** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$7,788 | \$0 | \$0 | **\$7,788** | **\$7,788** |
 | [Elmhurst](#elmhurst) | \$4,883 | \$0 | \$0 | **\$4,883** | **\$4,883** |
@@ -43,7 +43,7 @@
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Sherman](#sherman) | \$426 | \$0 | \$0 | **\$426** | **\$426** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$108,638** | **\$8,629** | **\$6,444** | **\$117,268** | **\$115,082** |
+| **Total** | **\$108,088** | **\$8,629** | **\$6,444** | **\$116,718** | **\$114,532** |
 
 
 ## Account by account
@@ -164,9 +164,9 @@ Sold so far: **\$12,345** · 1 case
 </details>
 
 <a name="x"></a>
-<details><summary><b>Alexian Ambulatory</b> · upside &#36;10,614 · downside &#36;10,614</summary>
+<details><summary><b>Alexian Ambulatory</b> · upside &#36;10,064 · downside &#36;10,064</summary>
 
-Sold so far: **\$10,614** · 5 cases
+Sold so far: **\$10,064** · 4 cases
 
 **Potential new starts**
 

@@ -2,9 +2,9 @@
 
 # To do
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:28 PM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:35 PM CT
 
-| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | <ins>**✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42**</ins> | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -39,6 +39,15 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/19 | [D.F.](../case-sheets/df-1119.md) | Good Sam · Luetkehans | Stravix 3x6 | PO006262212 | \$2,655.50 |
 | 11/20 | [G.H.](../case-sheets/gh-1120.md) | Alexian WCC · Lucas | Grafix 16mm | 660040000288174 | \$360 |
 
+<a name="versajet"></a>
+## 🟣 VERSAJET · 1
+
+Not in the sales number, quota, commission or projection (AJ 11/24). Listed so the PO still gets submitted.
+
+| Date | Pt | Account | Item | PO | Amount | Status |
+| :-- | :-- | :-- | :-- | :-- | --: | :-- |
+| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | VERSAJET II Exact handpiece 45° 14 mm | 660040000287570 | \$550 | Ready to submit |
+
 <a name="needspo"></a>
 ## 🟡 Waiting on a PO · 19 · \$18,689
 
@@ -64,17 +73,8 @@ Case sheet and PO matched. Submit, then tap **Submitted** in the Graft Tracker a
 | 11/24 | D.S. | Alexian WCC · Joshi | Grafix 3x4 | — | 0003081837 | \$1,140 |
 | 11/24 | [J.L.](../case-sheets/jl-1124.md) | Alexian WCC · Lucas | Grafix 16mm | — | 0003074927 | \$360 |
 
-<a name="look"></a>
-## 🔴 Needs a look · 3
-
-| Date | Pt | Account | Graft | Why |
-| :-- | :-- | :-- | :-- | :-- |
-| 11/16 | [C.P.](../case-sheets/cp-1116.md) | Alexian WCC · Joshi | Grafix 1.5x2 | PO received, no graft matched yet |
-| 11/16 | [C.W.](../case-sheets/cw-1116.md) | Good Sam · Malik | Stravix 2x4 | PO received, no graft matched yet |
-| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | VERSAJET II Exact handpiece 45° 14 mm | Status unclear, open to check |
-
 <a name="sheets"></a>
-## ⏳ Case sheets to come · 4
+## ⏳ Case sheets to come · 3
 
 Sale orders already billed. Add the case sheet after the visit so the lot/SN gets filed.
 
@@ -82,7 +82,6 @@ Sale orders already billed. Add the case sheet after the visit so the lot/SN get
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | 10/22 | [H.P.](../case-sheets/hp-1022.md) | Alexian Ambulatory · Ramani | OASIS Wound 3x3.5 · 10 sheets = 1 box | …286994 | Seen Thu 10/22 |
 | 11/2 | J.S. | NW Suburban F&A | Grafix 1.5x2 | JS071626 | Seen Mon 11/2 |
-| 11/6 | [M.C.](../case-sheets/mc-1106.md) | Alexian Ambulatory · Lucas | VERSAJET II Exact handpiece 45° 14 mm | …287570 | Seen Fri 11/6 |
 | 11/24 | D.S. | Alexian WCC · Joshi | Grafix 3x4 |   | Seen Tue 11/24 |
 
 <a name="stock"></a>

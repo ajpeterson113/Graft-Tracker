@@ -351,6 +351,7 @@ class Tracker:
             if m and m.get('cases') is not None:
                 self.months[m.get('ym') or os.path.basename(f)[:-5]] = m
         self.cases = []
+        self.vj = []      # VERSAJET lines, outside the main number (AJ 11/24)
         for ym in sorted(self.months):
             M = self.months[ym]
             for c in M.get('cases') or []:
@@ -358,6 +359,16 @@ class Tracker:
                 c['ym'], c['tab'], c['period'] = ym, M.get('tab'), M.get('period')
                 if c.get('status') not in ST:
                     c['status'] = 'check'
+                if str(c.get('product') or '').upper().startswith('VERSAJET'):
+                    # VERSAJET (AJ 11/24): not in the main number (sales, quota, commission, projection), so it is
+                    # kept out of every list and sum here and shown in its own section. It has a lot but no SN,
+                    # which is not a reason for "Needs a look" or "Lot/SN to come".
+                    c['flags'] = [f for f in (c.get('flags') or []) if f != 'nolot']
+                    if (c['status'] == 'check' and c.get('match') == 'Certain' and c.get('po')
+                            and c.get('submitted') == 'No' and not c.get('outstanding')):
+                        c['status'] = 'ready'
+                    self.vj.append(c)
+                    continue
                 self.cases.append(c)
         self.repo = repo
         self.transfers = read_transfers(xlsx)
@@ -1283,6 +1294,10 @@ def page_cases(tr, counts, sub):
             out.append(anchor(ym) + f"## {T(title)}\n\n" + body)
         else:
             out.append(anchor(ym) + details(f"<b>{H(title)}</b> · {len(cs)} entries · {H(m0(tot))}", body))
+    if tr.vj:
+        out.append(anchor('versajet') + '## 🟣 VERSAJET\n')
+        out.append('VERSAJET sales have their own lines. They are not in the sales number, quota, commission or projection (AJ 11/24).\n')
+        out.append(cases_table(tr, tr.vj, page))
     # transfers
     if tr.transfers:
         out.append(anchor('transfers') + '## 🔁 Transfers\n')
@@ -1346,6 +1361,13 @@ def page_todo(tr, pt, counts, sub):
         out.append(table(['Date', 'Pt', 'Account', 'Graft', 'PO', 'Amount'], todo_item_rows(
             tr, R, page, lambda c: [T(c.get('po') or '') + (' · 🔁 transfer log on the sheet' if 'transfer' in (c.get('flags') or []) else ''),
                                     T(m2(c.get('price')))]), ['l', 'l', 'l', 'l', 'l', 'r']))
+    VJ = sorted([c for c in tr.vj if c['status'] != 'insfdc'], key=lambda c: c['date'] or '')
+    if VJ:
+        out.append(anchor('versajet') + f"## 🟣 VERSAJET · {len(VJ)}\n")
+        out.append('Not in the sales number, quota, commission or projection (AJ 11/24). Listed so the PO still gets submitted.\n')
+        out.append(table(['Date', 'Pt', 'Account', 'Item', 'PO', 'Amount', 'Status'], todo_item_rows(
+            tr, VJ, page, lambda c: [T(c.get('po') or ''), T(m2(c.get('price'))), T(ST[c['status']][0])]),
+            ['l', 'l', 'l', 'l', 'l', 'r', 'l']))
     if NP:
         tot = sum(num(c.get('outstanding')) or num(c.get('price')) or 0 for c in NP)
         out.append(anchor('needspo') + f"## 🟡 Waiting on a PO · {len(NP)} · {T(m0(tot))}\n")

@@ -2,9 +2,9 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:28 PM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:35 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;42](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -13,7 +13,7 @@
 <a name="2026-11"></a>
 ## P11 · November
 
-**79 entries · \$108,638** · 🟢 23 Ready · 🟡 19 Needs PO · 🔴 1 Check · 🟤 2 Clinic stock · ⚪ 34 In SFDC
+**78 entries · \$108,088** · 🟢 23 Ready · 🟡 19 Needs PO · 🟤 2 Clinic stock · ⚪ 34 In SFDC
 
 | Date | Case | Amount | Status |
 | :-- | :-- | --: | :-- |
@@ -70,7 +70,6 @@
 |   | [**G.H.**](../case-sheets/gh-1106.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · PO 660040000287280 · LYA-260256\_16008<details><summary><sub>Notes</sub></summary>App #1, Fri 11/6 12:40 PM, Dr. Lucas: new start. Grafix 16mm LYA-260256\_16008 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate). AJ's case sheet photo from Chi West 11/6 (with the Grafted tap). Bill-only PO to come (Alexian ID 0003095154, from the patient label). PO 660040000287280 (Ascension bill only, dated 11/10, \$360.00) received from AJ 11/10: matched by patient ID 0003095154 and date of service; ready to submit. The PO lists the physician as Dr. Ram Ramani; this row has Dr. Lucas (from the case sheet). Patient ID, date of service 11/6, 16mm and \$360 all match.</details> | \$360 | 🟢&nbsp;Ready |
 |   | [**E.D.**](../case-sheets/ed-1106.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · PO 712063707 · LYU-260236\_24001<details><summary><sub>Notes</sub></summary>OR case Fri 11/6 7:30 AM at St. Joseph Elgin (Dr. Greg Bryniczka): Stravix PL 2x4 LYU-260236\_24001 (exp 1/12/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Prime Healthcare vendor acct 296620. Case sheet: case-sheets/ed-1106 (patient label covered). PO 712063707 (Prime Healthcare / Saint Joseph Hospital bill only, PO date 11/20/26; proc date 11/06/2026, Dr. Gregory Bryniczka, PS61024 Stravix PL 2x4, qty 1 at \$1,650.00), matched by the patient ID on the PO (same as the label on AJ's Bill Only Request) and the date of service. PO screenshot from AJ 11/24. OR case, bill only: ready to submit.</details> | \$1,650 | 🟢&nbsp;Ready |
 |   | [**K.C.**](../case-sheets/kc-1106.md) 📄 · St. Joseph Elgin · Bryniczka<br>Stravix 2x4 · PO 712063705 · LYU-260638\_24001<details><summary><sub>Notes</sub></summary>Add-on OR case Fri 11/6 at St. Joseph Elgin (Dr. Greg Bryniczka), new OR patient: Stravix PL 2x4 LYU-260638\_24001 (exp 3/16/28), \$1,650 per AJ's Bill Only Request (Prime Healthcare). Case sheet: case-sheets/kc-1106 (patient label covered). PO 712063705 (Prime Healthcare / Saint Joseph Hospital bill only, PO date printed 11/06/26; proc date 11/06/2026, Dr. Gregory Bryniczka, PS61024 Stravix PL 2x4, qty 1 at \$1,650.00), matched by the patient ID on the PO (same as the label on AJ's Bill Only Request) and the date of service. PO screenshot from AJ 11/24. OR case, bill only: ready to submit.</details> | \$1,650 | 🟢&nbsp;Ready |
-|   | [**M.C.**](../case-sheets/mc-1106.md) 📄 · Alexian Ambulatory · Lucas<br>VERSAJET II Exact handpiece 45° 14 mm · PO 660040000287570<details><summary><sub>Notes</sub></summary>VERSAJET on its own line (AJ 11/17). Same OR case as row 30: Fri 11/6 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C. VERSAJET II Exact handpiece 45° 14 mm, REF 66800041 (the hospital's item 668000041), lot 51417253, qty 1. PO 660040000287570 (Ascension bill only, dated 11/12; patient ID 3004469 = the FIN on the hospital label, DOS 11/6, Dr. Lucas): \$550.00. The case sheet photo (case-sheets/mc-1106) lists the handpiece at \$695; filed at the PO's \$550. PO screenshot from AJ 11/17. AJ's separate VERSAJET case sheet is still to come. VERSAJET is not tissue: it is in the November total like OASIS, but not counted as a graft case.</details> | \$550 | 🔴&nbsp;Check<br>⏳&nbsp;Lot/SN&nbsp;to&nbsp;come |
 |   | **A.S.** · Central DuPage · Luetkehans<br>Grafix 16mm · PO AS110626 · LYA-260290\_16004<details><summary><sub>Notes</sub></summary>App #5, Fri 11/6 12:00 PM at CDFA (Grafted tap in Chi West 11/6): 16mm, \$190 (CDFA 16mm rate) on sale order AS110626, shipped/invoiced 11/4 (inv 0985908414, LYA-260290\_16004). In SFDC per AJ's SFDC P11 report 11/6 3:58 PM (\$5,589, 31 units). Case sheet to come. AJ's note: "Send one more in might not need it".</details> | \$190 | ⚪&nbsp;In&nbsp;SFDC |
 |   | **Grafix 5x5 ×1, 16mm ×1, 1.5x2 ×1** · Good Sam<br>PO PO006180799<details><summary><sub>Notes</sub></summary>WCC stock order on PO006180799 (the To Order block for the week of 11/9), shipped Fri 11/6 (FedEx Priority 10:30, per AJ's evening shipping report 11/6): 5x5 x1 \$2,500 + 16mm x1 \$425.50 + 1.5x2 x1 \$780 = \$3,705.50 (Good Sam rates). PO-only, no case sheet; lots/SNs to come. Shipped from SFDC, so In SFDC. WCC stock: a sale when shipped; the Projections WCC stock rows offset the visits it covers (Good Sam shelf after it lands: 1 x 5x5, 4 x 16mm, 1 x 1.5x2).</details> | \$3,705.50 | ⚪&nbsp;In&nbsp;SFDC |
 |   | [**T.B.**](../case-sheets/tb-1106.md) 📄 · St. Alexius · Singh<br>Stravix 3x6 ×3 · PO 660080000215557 · LYU-251434\_36001 (36002, 36004)<details><summary><sub>Notes</sub></summary>OR case Fri 11/6 at St. Alexius (Dr. Singh per AJ 11/12), left side, T.B.: 3 x Stravix PL 3x6 LYU-251434\_36002, \_36004 and \_36001 (exp 7/7/27) from the St. Alexius OR shelf: 3 x \$2,469 (St. Alexius 3x6 rate) = \$7,407. Implant record (Ascension Saint Alexius intraoperative implant and charge record, dated 11-6-2026) uploaded in Chi West 11/12; patient and surgeon per AJ 11/12. Bill & replace (AJ 11/12): the three serials came from the St. Alexius consignment (S+N direct order #10149227, package #10335688) and the implant record has Bill only checked, but AJ is relabeling them bill & replace, so the St. Alexius PO will be a bill & replace PO and 3 Stravix 3x6 replacements ship to the shelf. Case sheet page: case-sheets/tb-1106. PO 660080000215557 (Ascension St. Alexius, dated 11/21): 3 x PS61036 Stravix 3x6 at \$2,469.00 = \$7,407.00, lot LYU-251434 serials 36002, 36004, 36001 (the PO marks them Consigned Item), matches the implant record. Bill & replace: the PO posts to SFDC on its own, nothing to submit, Submitted (pending SFDC); SFDC may show the replacement serials. PO screenshot from AJ 11/23. In SFDC per AJ's SFDC P11 report 11/24 (\$46,350.70, 98 units): invoiced 11/23, inv 0985970230, \$7,407.00 for 3; SFDC lists serial LYU-251434\_36001 for all three (bill & replace, so the SFDC serial can differ from the case sheet).</details> | \$7,407 | ⚪&nbsp;In&nbsp;SFDC |
@@ -240,6 +239,15 @@
 | **8/20** | **W.L.** · Good Sam · Luetkehans<br>Stravix 3x6 · PO PO005829470 · LYU-260196\_36003<details><summary><sub>Notes</sub></summary>DOS in Aug; filed on Sept tab (red checkmark). Case sheet submitted. PO confirmed via dashboard serial</details> | \$2,655.50 | ⚪&nbsp;In&nbsp;SFDC |
 
 </details>
+
+<a name="versajet"></a>
+## 🟣 VERSAJET
+
+VERSAJET sales have their own lines. They are not in the sales number, quota, commission or projection (AJ 11/24).
+
+| Date | Case | Amount | Status |
+| :-- | :-- | --: | :-- |
+| **11/6** | [**M.C.**](../case-sheets/mc-1106.md) 📄 · Alexian Ambulatory · Lucas<br>VERSAJET II Exact handpiece 45° 14 mm · PO 660040000287570<details><summary><sub>Notes</sub></summary>VERSAJET on its own line (AJ 11/17). Same OR case as row 30: Fri 11/6 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C. VERSAJET II Exact handpiece 45° 14 mm, REF 66800041 (the hospital's item 668000041), lot 51417253, qty 1. PO 660040000287570 (Ascension bill only, dated 11/12; patient ID 3004469 = the FIN on the hospital label, DOS 11/6, Dr. Lucas): \$550.00. The case sheet photo (case-sheets/mc-1106) lists the handpiece at \$695; filed at the PO's \$550. PO screenshot from AJ 11/17. AJ's separate VERSAJET case sheet is still to come. VERSAJET is not tissue: it is in the November total like OASIS, but not counted as a graft case. AJ 11/24: VERSAJET does not count toward the main number, so this line is out of the month total, quota %, commission and the projections. It stays here for its PO.</details> | \$550 | 🟢&nbsp;Ready |
 
 <a name="transfers"></a>
 ## 🔁 Transfers
