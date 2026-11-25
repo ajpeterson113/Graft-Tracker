@@ -1391,6 +1391,9 @@ def page_todo(tr, pt, counts, sub):
 
         def why(c):
             f = c.get('flags') or []
+            if 'billing' not in f and str(c.get('match') or '').lower().startswith('account not set up'):
+                # AJ 11/24: PO in hand, but the account isn't set up in SFDC yet, so it can't be submitted
+                return ["Account not set up in SFDC yet · can't submit PO " + T(c.get('po') or '')]
             return ['Billing issue: see notes' if 'billing' in f else (f"PO match: {T(c.get('match'))}" if 'uncertain' in f else
                     ('PO received, no graft matched yet' if 'pono' in f else 'Status unclear, open to check'))]
         out.append(table(['Date', 'Pt', 'Account', 'Graft', 'Why'], todo_item_rows(tr, NL, page, why)))
