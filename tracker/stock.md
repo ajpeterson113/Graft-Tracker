@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 7:44 PM CT
+**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 7:52 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;37](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -109,7 +109,7 @@
 | **A.P.** | Hussain | Grafix 16mm | Done | — | Done: A8 Thu 11/5 LYA-260221\_16005 (the last one under the cap of 8; marked Done in Chi West 11/5). A7 Wed 10/28 LYA-260221\_16015 (case sheet in the Patients app 10/28; Dr. Joshi on the sheet). A6 Wed 10/21 LYA-260159\_16003. A5 10/14 LYA-260146\_16008 (filed 10/14) |
 | **D.C.** | Adelstein | Grafix 16mm | Done | — | Done for now (AJ 11/2): off the Thu 11/5 schedule. Held 10/29, 10/15 (wound got larger, vascular consult) and 10/8 · down to 16mm as of 9/24 |
 | **V.D.** | Ramani | Grafix 16mm | Done | — | Done 10/9 after 6 applications |
-| **O.O.** | Vedantham | Grafix 16mm | Active | 1 | A5 Tue 11/10 12:55 PM, 16mm LYA-260256\_16011 (case sheet oo-1110). A4 Tue 11/3 LYA-260221\_16011. A3 Tue 10/27 LYA-260221\_16002. A2 Tue 10/20 LYA-260146\_16006 (case sheet 10/27). A1 10/13 LYA-260174\_16006 |
+| **O.O.** | Vedantham | Grafix 16mm | Active | 1 | A6 Tue 11/24 12:50 PM, 16mm LYA-260309\_16007 (case sheet oo-1124). A5 Tue 11/10 12:55 PM, 16mm LYA-260256\_16011 (case sheet oo-1110). A4 Tue 11/3 LYA-260221\_16011. A3 Tue 10/27 LYA-260221\_16002. A2 Tue 10/20 LYA-260146\_16006 (case sheet 10/27). A1 10/13 LYA-260174\_16006 |
 | **J.C.** | Joshi | Grafix 16mm | Approved | — | Waiting on Mohs surgery |
 | **G.C.** | Joshi | Grafix | Pending | — | New 10/22 (pending); product and size not set, no visit booked. (Row was X.S., denied 10/11) |
 | **J.T.** | Lucas | Grafix | Done | — | Done per the Patients app (needed notes for prior auth; not grafting) |
@@ -118,7 +118,7 @@
 | **J.B.** | Adelstein | OASIS Burn 3x7 | Done | — | Done for now (AJ 11/2). A3 10/8 from the shelf (Burn 3x7); no-show Thu 10/15 (Caroline covered); not grafted 10/22 or 10/29 |
 | **B.P.** | Joshi | OASIS Burn 3x7 | Done | — | Done (AJ, Chi West 11/23): A8 Mon 11/23 OASIS Burn 3x7 from the shelf box, no PO. A6 Mon 11/9 (Grafted in Chi West; Burn 3x7 from the shelf box, no PO). Moved down to Burn 3x7 at A3 10/19 (never back up); A1 10/5 and A2 10/12 were Burn 5x7 meshed from the shelf. The only Burn 3x7 patient now (J.B. done for now 11/2) |
 | **J.B.** | Adelstein | Grafix 2x3 | Active | 1 | A2 Thu 11/5 8:00 AM, 2x3 LYA-250516\_23004 (case sheet in Chi West 11/5). Started: A1 Thu 10/29 8:00 AM, 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the Patients app; PO 660040000286395). Weekly. Not the OASIS Burn J.B. |
-| **D.K.** | Lucas | Grafix 16mm | Active | 1 | A4 Tue 11/17 11:40 AM with Dr. Lucas, 16mm LYA-260294\_16018 (case sheet dk-1117). A3 Thu 11/5, 16mm LYA-260221\_16004. Not grafted Thu 11/12 (holding; switching to Dr. Lucas, AJ 11/12). Next Tue 11/17 11:40 AM. A2 Thu 10/29 1:15 PM, 16mm LYA-260220\_16005 from the WCC shelf (case sheet in the Patients app; PO to come). A1 Thu 10/22 1:15 PM, 16mm LYA-260221\_16012. Weekly |
+| **D.K.** | Lucas | Grafix 16mm | Active | 1 | A5 Tue 11/24 11:40 AM, 16mm LYA-260309\_16008 (case sheet dk-1124). A4 Tue 11/17 11:40 AM with Dr. Lucas, 16mm LYA-260294\_16018 (case sheet dk-1117). A3 Thu 11/5, 16mm LYA-260221\_16004. Not grafted Thu 11/12 (holding; switching to Dr. Lucas, AJ 11/12). Next Tue 11/17 11:40 AM. A2 Thu 10/29 1:15 PM, 16mm LYA-260220\_16005 from the WCC shelf (case sheet in the Patients app; PO to come). A1 Thu 10/22 1:15 PM, 16mm LYA-260221\_16012. Weekly |
 | **D.S.** | Joshi | Grafix 3x4 | Active | 1 | A6 Tue 11/24 9:15 AM, 3x4 (Grafted tap in Chi West; lot/SN to come). A5 Tue 11/17 9:15 AM, 3x4 LYA-250008\_34005 (case sheet ds-1117). A4 Tue 11/10 9:15 AM, 3x4 LYA-250008\_34004 (size changed to 3x4 by AJ in Chi West 11/10). A2 Tue 10/27 LYA-250866\_55013. A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 |
 | **C.P.** | Joshi | Grafix 1.5x2 | Active | 1 | A4 Mon 11/16 1.5x2 per PO 660040000287797 (Caroline covered), LYA-250733\_15011 from the WCC shelf (AJ's case sheet photo 11/24; case sheet cp-1116). A3 Mon 11/9 1:15 PM, 1.5x2 LYA-250668\_15009 from the WCC shelf (AJ's case sheet photo in Chi West 11/9). A2 Mon 11/2 1:15 PM, 1.5x2 LYA-260068\_15005 from the WCC shelf (case sheet in the app 11/2). A1 Mon 10/26 LYA-260068\_15002. Weekly |
 | **D.L.** | Joshi | OASIS Burn | Approved | — | Approved 10/20; not grafted Tue 10/20 (out-of-pocket too high, office checking); next Tue 10/27 10:15 AM (verify with the office). OASIS suggested |

@@ -2,16 +2,16 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 7:44 PM CT
+**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 7:52 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;36](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;37](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 |  | Upside | Downside |
 | :-- | --: | --: |
-| Sold so far (November tab) | \$112,848 | \$112,848 |
-| \+ Projected Grafix, net of WCC stock | \$3,100 | \$2,200 |
+| Sold so far (November tab) | \$113,568 | \$113,568 |
+| \+ Projected Grafix, net of WCC stock | \$2,380 | \$1,480 |
 | \+ Upcoming Stravix | \$0 | \$0 |
 | \+ Potential new starts | \$925 | \$0 |
 | \+ OASIS reorders (estimated) | \$4,244 | \$4,244 |
@@ -31,7 +31,7 @@
 | Account | Sold | To come (up) | To come (down) | Upside | Downside |
 | :-- | --: | --: | --: | --: | --: |
 | [Good Sam](#good-sam) | \$26,816 | \$4,244 | \$4,244 | **\$31,059** | **\$31,059** |
-| [Alexian WCC](#alexian-wcc) | \$18,202 | \$3,171 | \$2,245 | **\$21,373** | **\$20,447** |
+| [Alexian WCC](#alexian-wcc) | \$18,922 | \$2,451 | \$1,525 | **\$21,373** | **\$20,447** |
 | [NW Suburban F&A](#nw-suburban-f-a) | \$12,548 | \$0 | \$0 | **\$12,548** | **\$12,548** |
 | [St. Alexius](#st-alexius) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
 | [GlenOaks](#glenoaks) | \$12,345 | \$0 | \$0 | **\$12,345** | **\$12,345** |
@@ -43,7 +43,7 @@
 | [Central DuPage](#central-dupage) | \$1,210 | \$0 | \$0 | **\$1,210** | **\$1,210** |
 | [Sherman](#sherman) | \$426 | \$0 | \$0 | **\$426** | **\$426** |
 | [Suburban F&A](#suburban-f-a) | \$190 | \$0 | \$0 | **\$190** | **\$190** |
-| **Total** | **\$112,848** | **\$8,269** | **\$6,444** | **\$121,118** | **\$119,292** |
+| **Total** | **\$113,568** | **\$7,549** | **\$5,724** | **\$121,118** | **\$119,292** |
 
 
 ## Account by account
@@ -96,7 +96,7 @@ Sold so far: **\$26,816** · 9 cases
 <a name="alexian-wcc"></a>
 <details><summary><b>Alexian WCC</b> · upside &#36;21,373 · downside &#36;20,447</summary>
 
-Sold so far: **\$18,202** · 27 cases
+Sold so far: **\$18,922** · 29 cases
 
 **Weekly and biweekly patients**
 
@@ -110,9 +110,9 @@ Sold so far: **\$18,202** · 27 cases
 | **D.C. · Dr. Adelstein** | P11: marked done for now (AJ 11/2) and off the Thu 11/5 schedule, so nothing projected (units/visit 0, upside and downside). | — | — |   |
 | **A.P. · Dr. Hussain** | Done: A8 Thu 11/5 (16mm LYA-260221\_16005) is in November sales — the last one under the Alexian cap of 8; marked Done in Chi West 11/5, nothing more projected \| P11: A7 … | — | — |   |
 | **C.P. · Dr. Joshi** | 1.5x2 · Weekly · 1 visit | \$600 | \$600 | P11: A4 Mon 11/16 1.5x2 is on the November tab (row 64, from PO 660040000287797, \$600; case sheet in 11/24, LYA-250733\_15011), so this week's visit is in current sales; weekly Mondays from 11/23 \| A3 Mon 11/9 (1.5x2 LYA… |
-| **O.O. · Dr. Vedantham** | 16mm · Weekly · 1 visit | \$360 | \$360 | P11: A5 Tue 11/10 16mm (November row 45); next assumed Tue 11/17 (weekly, not confirmed with the office) \| P11: weekly 16mm Tuesdays from 11/3 (A4); 3 applications to date \| A3 Tue 10/27 filed (LYA-260221\_16002). |
+| **O.O. · Dr. Vedantham** | P11: A5 Tue 11/10 16mm (November row 45); next assumed Tue 11/17 (weekly, not confirmed with the office) \| P11: weekly 16mm Tuesdays from 11/3 (A4); 3 applications to da… | — | — |   |
 | **D.S. · Dr. Joshi** | P11: A5 Tue 11/17 3x4 (November row 60); weekly 3x4 Tuesdays \| P11: A4 Tue 11/10 at 3x4 (AJ changed the size to 3x4 in Chi West 11/10; November row 42, \$1,140 per the ca… | — | — |   |
-| **D.K. · Dr. Lucas** | 16mm · Weekly · 1 visit | \$360 | \$360 | P11: A4 Tue 11/17 16mm with Dr. Lucas (November row 63); weekly 16mm Tuesdays from here (assumed, not confirmed with the office), Alexian cap 8 = 4 left \| P11: weekly 16mm Thursdays from 11/5 (A3); 2 applications to dat… |
+| **D.K. · Dr. Lucas** | P11: A4 Tue 11/17 16mm with Dr. Lucas (November row 63); weekly 16mm Tuesdays from here (assumed, not confirmed with the office), Alexian cap 8 = 4 left \| P11: weekly 16… | — | — |   |
 
 **Potential new starts**
 
@@ -308,7 +308,7 @@ Sold so far: **\$190** · 1 case
 
 | Type | Lines | Upside | Downside |
 | :-- | --: | --: | --: |
-| Weekly and biweekly patients | 28 | \$5,967 | \$4,851 |
+| Weekly and biweekly patients | 28 | \$5,247 | \$4,131 |
 | Less Good Sam WCC stock already sold | 8 | -\$2,867 | -\$2,651 |
 | Upcoming Stravix | 3 | \$0 | \$0 |
 | Potential new starts | 16 | \$925 | \$0 |
