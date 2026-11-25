@@ -2,7 +2,7 @@
 
 # Grafting
 
-**BIOT Chicago West** · 128 patients · updated Tue 11/24, 10:05 PM CT
+**BIOT Chicago West** · 128 patients · updated Wed 11/25, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -46,7 +46,7 @@
 | **J.L.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;12/1&nbsp;9:40&nbsp;AM** | 🟢 2 of 8 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 9:40 AM<br>A5 Tue 10/27 9:40 AM: 16mm LYA-260221\_16003 (case sheet photo 10/27, PO to come). A4 Tue 10/20: 16mm LYA-260146\_16007 (case sheet photo 10/27, PO …285610). A3 Tue 10/13: 16mm LYA-260174\_16008 (PO …285019; Pete covered). A2 10/6 (LYA-260159\_16001, PO …284467). Alexian WCC stops at 8. |
 | **D.K.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Tue&nbsp;12/1&nbsp;11:40&nbsp;AM** | 🟢 5 of 8 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 11:40 AM<br>Switched to Lucas care A2 Thu 10/29 1:15 PM, Dr. Halihan: Grafix 16mm LYA-260220\_16005 from the WCC shelf (case sheet in the app; filed in the tracker 10/29, October row 102). PO 660040000286413 (10/29, bill only) — ready to submit. A1 Thu 10/22 1:15 PM: 16mm LYA-260221\_16012 (PO 660040000285936, in SFDC). Weekly; next assumed Thu 11/5 1:15 PM — verify with the office. Alexian WCC stops at 8. |
 | **O.O.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Next&nbsp;Tue&nbsp;12/1&nbsp;12:50&nbsp;PM** | 🟢 6 of 8 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 12:50 PM<br>A3 Tue 10/27 12:50 PM: 16mm LYA-260221\_16002 (PO …286196). A2 Tue 10/20: 16mm LYA-260146\_16006 (case sheet photo sent 10/27, PO …285611). A1 Tue 10/13: 16mm LYA-260174\_16006 (PO …285021). |
-| **V.T.** | GRAFIX&nbsp;1.5x2 · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;12/3&nbsp;1:00&nbsp;PM** | 🟢 1 of 8 | _11/17:_ PO 660040000287571 (11/12) from AJ 11/17: matched to A1 11/12 by patient ID, ready to submit. |
+| **V.T.** | GRAFIX&nbsp;1.5x2 · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;12/3&nbsp;1:00&nbsp;PM** | 🟢 1 of 8 |   |
 
 </details>
 

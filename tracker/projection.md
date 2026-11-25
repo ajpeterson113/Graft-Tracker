@@ -2,7 +2,7 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 16 of 18 · updated Tue 11/24, 10:05 PM CT
+**BIOT Chicago West** · P11 · day 17 of 18 · updated Wed 11/25, 7:00 AM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;24](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -102,7 +102,7 @@ Sold so far: **\$18,922** · 29 cases
 
 | Who | Plan | Upside | Downside | Note |
 | :-- | :-- | --: | --: | :-- |
-| **J.B. · Dr. Adelstein** | 2x3 · Weekly · 1 visit · from 11/25 | \$925 | \$925 | P11: AJ moved the next visit to Wed 11/25 2:20 PM and confirmed it as A3 (Chi West 11/20); no visit Thu 11/19. |
+| **J.B. · Dr. Adelstein** | 2x3 · Weekly · 1 visit | \$925 | \$925 | P11: AJ moved the next visit to Wed 11/25 2:20 PM and confirmed it as A3 (Chi West 11/20); no visit Thu 11/19. |
 | **D.G. · Dr. Lucas** | DONE 11/17 (AJ, Chi West: healed, not grafted Tue 11/17); no more visits projected. | — | — |   |
 | **J.L. · Dr. Lucas** | P11: A1 on the right foot Tue 11/17 (November row 61; AJ set A#1, left foot A1-A5 healed 11/3); weekly 16mm Tuesdays, Alexian cap 8 \| P11: not grafted Tue 11/10 (insuran… | — | — |   |
 | **M.L. · Dr. Joshi** | DONE 11/17 (AJ, Chi West): A8 Tue 11/17 16mm (November row 62), the Alexian cap of 8; no more visits projected. | — | — |   |
