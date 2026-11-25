@@ -2,7 +2,7 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 5:34 PM CT
+**BIOT Chicago West** · P11 · day 16 of 19 · updated Tue 11/24, 6:28 PM CT
 
 | [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;43](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -16,9 +16,9 @@
 
 ## Alexian WCC
 
-**Consignment shelf** · counted 11/3/26 · 36 grafts · 31 OASIS sheets
+**Consignment shelf** · counted 11/3/26 · 35 grafts · 31 OASIS sheets
 
-36 Grafix units on hand (\$45,146 consignment). 1 size(s) to reorder now. \$2,280 expiring before it can be used.
+35 Grafix units on hand (\$44,546 consignment). 1 size(s) to reorder now. \$2,280 expiring before it can be used.
 
 > [!CAUTION]
 > - **Grafix 3x4: 2 expire 12/18/26** · 1 patient(s) on it · \$5,700 of consignment
@@ -29,7 +29,7 @@
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
 | **16mm**<br>Grafix | 🟠 **1**<br>target&nbsp;5⁠–⁠15 | 🟠 Reorder now · order 14 | 4/wk · 0.2 wks left · out week of 11/23 · next exp 3/20/28 |
-| **1.5x2**<br>Grafix | **8**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 4.0 wks left · out week of 12/21 · next exp 8/12/27<br><sub>C.P. started on 1.5x2 10/26.</sub> |
+| **1.5x2**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.5 wks left · out week of 12/14 · next exp 1/13/28<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **6**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.0 wks left · out week of 12/14 · next exp 6/18/27 |
 | **3x3**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
 | **3x4**<br>Grafix | **5**<br>target&nbsp;5⁠–⁠10 | 🔴 2 expire before use | 1/wk · 5.0 wks left · out week of 12/28 · next exp 12/18/26<br><sub>All 7 expire 12/18/26</sub> |
@@ -40,18 +40,17 @@
 | **3x7**<br>OASIS&nbsp;Burn | **5** sheets | No patients on it | box of 5 · next exp 8/18/27<br><sub>Box price from the 9/17 Alexian Ambulatory order</sub> |
 | **5x7 meshed**<br>OASIS&nbsp;Burn | **1** sheet | No patients on it | box of 5 · next exp 7/11/27 |
 
-<details><summary><b>Units on the shelf</b> · 36</summary>
+<details><summary><b>Units on the shelf</b> · 35</summary>
 
 | Product | Size | Lot / SN | Expiry | Est. use | Status | Flag |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| Grafix | 1.5x2 | LYA-250733\_15011 | 8/12/27 | 11/27 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 12/1 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/4 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15003 | 1/13/28 | 12/8 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15010 | 1/13/28 | 12/11 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15020 | 1/13/28 | 12/15 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15019 | 1/13/28 | 12/18 | On shelf |   |
-| Grafix | 1.5x2 | LYA-260159\_15018 | 1/13/28 | 12/22 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15005 | 1/13/28 | 11/27 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260108\_15006 | 1/13/28 | 12/1 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15003 | 1/13/28 | 12/4 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15010 | 1/13/28 | 12/8 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15020 | 1/13/28 | 12/11 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15019 | 1/13/28 | 12/15 | On shelf |   |
+| Grafix | 1.5x2 | LYA-260159\_15018 | 1/13/28 | 12/18 | On shelf |   |
 | Grafix | 16mm | LYA-260294\_16017 | 3/20/28 | 11/25 | On shelf |   |
 | Grafix | 2x3 | LYA-250625\_23013 | 6/18/27 | 11/27 | On shelf |   |
 | Grafix | 2x3 | LYA-250868\_23006 | 11/3/27 | 12/1 | On shelf |   |
@@ -121,7 +120,7 @@
 | **J.B.** | Adelstein | Grafix 2x3 | Active | 1 | A2 Thu 11/5 8:00 AM, 2x3 LYA-250516\_23004 (case sheet in Chi West 11/5). Started: A1 Thu 10/29 8:00 AM, 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the Patients app; PO 660040000286395). Weekly. Not the OASIS Burn J.B. |
 | **D.K.** | Lucas | Grafix 16mm | Active | 1 | A4 Tue 11/17 11:40 AM with Dr. Lucas, 16mm LYA-260294\_16018 (case sheet dk-1117). A3 Thu 11/5, 16mm LYA-260221\_16004. Not grafted Thu 11/12 (holding; switching to Dr. Lucas, AJ 11/12). Next Tue 11/17 11:40 AM. A2 Thu 10/29 1:15 PM, 16mm LYA-260220\_16005 from the WCC shelf (case sheet in the Patients app; PO to come). A1 Thu 10/22 1:15 PM, 16mm LYA-260221\_16012. Weekly |
 | **D.S.** | Joshi | Grafix 3x4 | Active | 1 | A6 Tue 11/24 9:15 AM, 3x4 (Grafted tap in Chi West; lot/SN to come). A5 Tue 11/17 9:15 AM, 3x4 LYA-250008\_34005 (case sheet ds-1117). A4 Tue 11/10 9:15 AM, 3x4 LYA-250008\_34004 (size changed to 3x4 by AJ in Chi West 11/10). A2 Tue 10/27 LYA-250866\_55013. A1 Tue 10/20 9:15 AM, 5x5 LYA-250866\_55009 |
-| **C.P.** | Joshi | Grafix 1.5x2 | Active | 1 | A4 Mon 11/16 1.5x2 per PO 660040000287797 (Caroline covered; lot/SN to come with the case sheet, so one 1.5x2 is still counted on the shelf list). A3 Mon 11/9 1:15 PM, 1.5x2 LYA-250668\_15009 from the WCC shelf (AJ's case sheet photo in Chi West 11/9). A2 Mon 11/2 1:15 PM, 1.5x2 LYA-260068\_15005 from the WCC shelf (case sheet in the app 11/2). A1 Mon 10/26 LYA-260068\_15002. Weekly |
+| **C.P.** | Joshi | Grafix 1.5x2 | Active | 1 | A4 Mon 11/16 1.5x2 per PO 660040000287797 (Caroline covered), LYA-250733\_15011 from the WCC shelf (AJ's case sheet photo 11/24; case sheet cp-1116). A3 Mon 11/9 1:15 PM, 1.5x2 LYA-250668\_15009 from the WCC shelf (AJ's case sheet photo in Chi West 11/9). A2 Mon 11/2 1:15 PM, 1.5x2 LYA-260068\_15005 from the WCC shelf (case sheet in the app 11/2). A1 Mon 10/26 LYA-260068\_15002. Weekly |
 | **D.L.** | Joshi | OASIS Burn | Approved | — | Approved 10/20; not grafted Tue 10/20 (out-of-pocket too high, office checking); next Tue 10/27 10:15 AM (verify with the office). OASIS suggested |
 | **E.N.** | Turayhi | OASIS Wound 3x3.5 | Active | 1 | A2 Wed 11/11 9:15 AM: OASIS Wound 3x3.5 lot LB1741499 (sticker in Chi West 11/11). Started: A1 Wed 11/4 9:15 AM (Patients app). Weekly; next Wed 11/18 9:15 AM (assumed weekly) |
 | **V.T.** | Halihan | Grafix 1.5x2 | Active | 1 | A1 Thu 11/12 1:50 PM, 1.5x2 LYA-260108\_15004 from the shelf (new start; AJ set Active and size 1.5x2 in Chi West 11/12). Weekly; next assumed Thu 11/19 (not confirmed with the office yet). |
@@ -141,7 +140,7 @@
 
 </details>
 
-<details><summary><b>Used since the count</b> · 52</summary>
+<details><summary><b>Used since the count</b> · 53</summary>
 
 | Lot / SN | Graft | Status |
 | :-- | :-- | :-- |
@@ -153,6 +152,7 @@
 | LYA-260068\_15003 | Grafix 1.5x2 | Transferred out |
 | LYA-260068\_15002 | Grafix 1.5x2 | Used Oct |
 | LYA-260068\_15005 | Grafix 1.5x2 | Used Nov |
+| LYA-250733\_15011 | Grafix 1.5x2 | Used Nov |
 | LYA-250668\_15009 | Grafix 1.5x2 | Used Nov |
 | LYA-260108\_15004 | Grafix 1.5x2 | Used Nov |
 | LYA-250516\_23003 | Grafix 2x3 | Used Oct |
