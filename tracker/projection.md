@@ -2,9 +2,9 @@
 
 # P11 projection
 
-**BIOT Chicago West** · P11 · day 18 of 18 · updated Fri 11/27, 7:01 AM CT
+**BIOT Chicago West** · P11 · day 18 of 18 · updated Fri 11/27, 1:07 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | <ins>**📈&nbsp;Projection**</ins> | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -131,6 +131,7 @@ Sold so far: **\$18,922** · 29 cases
 | **G.M. · Dr. Goldkind** | PA approved 10/27/26–2/15/27 (BCBS Illinois; OASIS Wound up to 130 sq cm / 12 applications, Dr. Goldkind). | — | — |   |
 | **D.L. · Dr. Joshi** | Approved (OASIS Burn, Dr. Joshi). | — | — |   |
 | **C.B. · Dr. Goldkind** | 2x3 · Weekly · 1 visit | \$925 | \$0 | Started Mon 11/9: A1 Grafix 2x3 LYA-250558\_23005 at 2:15 PM (Grafted in Chi West 11/9; November row 40, in current sales, PO to come; Alexian ID 0003103740). |
+| **E.J. · Dr. Lucas** | New start Fri 11/27 (AJ 11/27): A1 Grafix 16mm with Dr. Lucas (December tab, P12), covered by Ron Sangha; next Fri 12/4 1:40 PM. | — | — |   |
 
 **OASIS reorders (estimated)**
 
@@ -317,7 +318,7 @@ Sold so far: **\$190** · 1 case
 | Weekly and biweekly patients | 28 | \$4,392 | \$3,276 |
 | Less Good Sam WCC stock already sold | 8 | -\$2,867 | -\$2,651 |
 | Upcoming Stravix | 4 | \$0 | \$0 |
-| Potential new starts | 16 | \$925 | \$0 |
+| Potential new starts | 17 | \$925 | \$0 |
 | OASIS reorders (estimated) | 9 | \$4,244 | \$4,244 |
 
 

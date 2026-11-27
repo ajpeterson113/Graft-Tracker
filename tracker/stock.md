@@ -2,9 +2,9 @@
 
 # Stock
 
-**BIOT Chicago West** · P11 · day 18 of 18 · updated Fri 11/27, 7:01 AM CT
+**BIOT Chicago West** · P11 · day 18 of 18 · updated Fri 11/27, 1:07 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | <ins>**📦&nbsp;Stock**</ins> | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
@@ -28,7 +28,7 @@
 
 | Size | On hand | Status | Use and dates |
 | :-- | --: | :-- | :-- |
-| **16mm**<br>Grafix | 🟠 **1**<br>target&nbsp;5⁠–⁠15 | 🟠 Reorder now · order 14 | 4/wk · 0.2 wks left · out week of 11/23 · next exp 3/20/28 |
+| **16mm**<br>Grafix | 🟠 **1**<br>target&nbsp;5⁠–⁠15 | 🟠 Reorder now · order 14 | 5/wk · 0.2 wks left · out week of 11/23 · next exp 3/20/28 |
 | **1.5x2**<br>Grafix | **6**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.0 wks left · out week of 12/14 · next exp 1/13/28<br><sub>C.P. started on 1.5x2 10/26.</sub> |
 | **2x3**<br>Grafix | **6**<br>target&nbsp;5⁠–⁠10 | 🟢 OK | 2/wk · 3.0 wks left · out week of 12/14 · next exp 6/18/27 |
 | **3x3**<br>Grafix | **7**<br>target&nbsp;5⁠–⁠10 | No patients on it | next exp 5/2/27 |
@@ -96,7 +96,7 @@
 
 </details>
 
-<details><summary><b>Patients using this shelf</b> · 17 active</summary>
+<details><summary><b>Patients using this shelf</b> · 18 active</summary>
 
 | Pt | Surgeon | Graft | Status | Use / wk | Note |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -126,6 +126,7 @@
 | **G.M.** | Goldkind | OASIS Wound 3x3.5 | Approved | — | PA approved 10/27/26–2/15/27 (BCBS Illinois): OASIS Wound 3x3.5, one a visit, weekly once booked; no visit booked yet. (New 10/20) |
 | **G.H.** | Lucas | Grafix 16mm | Active | 1 | A3 Fri 11/20 12:40 PM, 16mm LYA-260256\_16012 from the WCC shelf (case sheet gh-1120). A2 Fri 11/13 12:40 PM, 16mm LYA-260294\_16021 from the WCC shelf (case sheet gh-1113). A1 Fri 11/6 12:40 PM, 16mm LYA-260256\_16008 from the WCC shelf (case sheet in Chi West 11/6). Weekly 16mm |
 | **C.B.** | Goldkind | Grafix 2x3 | Active | 1 | A3 Mon 11/23 2:00 PM, 16mm LYA-260306\_16030 (case sheet cb-1123; patient size still 2x3 in the Patients app). A1 Mon 11/9 2:15 PM, 2x3 LYA-250558\_23005 from the WCC shelf (case sheet in Chi West 11/9). Weekly 2x3; next Mon 11/16 (not confirmed with the office yet) |
+| **E.J.** | Lucas | Grafix 16mm | Active | 1 | New start Fri 11/27 (AJ 11/27): A1 Grafix 16mm with Dr. Lucas (December tab, P12), covered by Ron Sangha; next Fri 12/4 1:40 PM. Alexian cap 8. |
 | **** |   | OASIS Boxes |   | — |   |
 | **Lot** | REF | Product Size | Sheets left | — | Flag |
 | **LB1741499** | 8213-1000-33 | OASIS Wound 3x3.5 | 7 | 430 |   |

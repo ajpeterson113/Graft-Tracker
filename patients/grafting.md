@@ -2,16 +2,16 @@
 
 # Grafting
 
-**BIOT Chicago West** · 129 patients · updated Fri 11/27, 7:01 AM CT
+**BIOT Chicago West** · 130 patients · updated Fri 11/27, 1:07 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../tracker/todo.md) | [📋&nbsp;Cases](../tracker/cases.md) | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | <ins>**👥&nbsp;Patients**</ins> | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;129](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;34](../patients/todo.md) |
+| [👥&nbsp;All&nbsp;patients&nbsp;·&nbsp;130](../Patients.md) | [📅&nbsp;This&nbsp;week](../patients/week.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;35](../patients/todo.md) |
 |:-:|:-:|:-:|
 
-**Grafting 36** · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 43](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
+**Grafting 37** · [Potential New Start 0](../patients/potential-new-start.md) · [Pending 3](../patients/pending.md) · [Potential IVR 0](../patients/potential-ivr.md) · [On hold 12](../patients/on-hold.md) · [OR 43](../patients/or.md) · [Done 29](../patients/done.md) · [Denied 6](../patients/denied.md)
 
 <a href="https://github.com/ajpeterson113/Graft-Tracker/new/main/inbox/new-patients?filename=new-patient.md&value=Initials%3A%0AName%3A%0AAccount%3A%0ASurgeon%3A%0AStatus%3A+Pending%0AProduct%3A%0ASuggested+size%3A%0ANext+appointment+%28date+and+time%29%3A%0ANotes%3A%0A"><img src="../view/btn_new.png" width="139" alt="+ New patient"></a> <a href="https://github.com/ajpeterson113/Graft-Tracker/upload/main/inbox/associate-notes"><img src="../view/btn_notes.png" width="92" alt="+ Notes"></a>
 
@@ -32,7 +32,7 @@
 </details>
 
 <a name="alexian-wcc"></a>
-<details open><summary><b>Alexian WCC</b> · 11</summary>
+<details open><summary><b>Alexian WCC</b> · 12</summary>
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
@@ -45,6 +45,7 @@
 | **O.O.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Vedantham<br>**Next&nbsp;Tue&nbsp;12/1&nbsp;12:50&nbsp;PM** | 🟢 6 of 8 | 🔴 Verify: Assumed weekly (AJ 11/6): Tue 12:50 PM<br>A3 Tue 10/27 12:50 PM: 16mm LYA-260221\_16002 (PO …286196). A2 Tue 10/20: 16mm LYA-260146\_16006 (case sheet photo sent 10/27, PO …285611). A1 Tue 10/13: 16mm LYA-260174\_16006 (PO …285021). |
 | **E.N.**<br>🟠&nbsp;Verify | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Turayhi<br>**Next&nbsp;Wed&nbsp;12/2&nbsp;9:15&nbsp;AM** | 🟢 3 of 8 | 🟠 **Verify:** Not confirmed with the office yet: Wed 12/2 9:15 AM<br>Next assumed Wed 10/28 9:15 AM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. Suggest oasis |
 | **V.T.** | GRAFIX&nbsp;1.5x2 · Dr.&nbsp;Halihan<br>**Next&nbsp;Thu&nbsp;12/3&nbsp;1:00&nbsp;PM** | 🟢 1 of 8 |   |
+| **E.J.** | GRAFIX&nbsp;16mm · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;12/4&nbsp;1:40&nbsp;PM** | 🟢 1 of 8 | New start Fri 11/27 (AJ 11/27): A1 Grafix 16mm with Dr. Lucas, covered by Ron Sangha. Next Fri 12/4 1:40 PM (Ron's text 11/27). First name as Ron texted it; AJ's message spelled it differently (confirm).<br>_11/27:_ New start (AJ 11/27): A1 Grafix 16mm, Dr. Lucas. Next Fri 12/4 1:40 PM per Ron Sangha. |
 | **J.B.**<br>🔴&nbsp;No&nbsp;follow-up | GRAFIX&nbsp;2x3 · Weekly · Dr.&nbsp;Adelstein<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/25&nbsp;2:20&nbsp;PM** | 🟢 2 of 8 | 🔴 Last appt 11/25 passed, nothing new booked<br>Started: A1 Thu 10/29 8:00 AM, Dr. Adelstein: Grafix 2x3 LYA-250516\_23003 from the WCC shelf (case sheet in the app; filed in the tracker 10/29, October row 101). PO 660040000286395 (10/29, bill only, patient ID 0002601103) — ready to submit. Weekly; next assumed Thu 11/5 8:00 AM — verify with the office. PA UM108247795 approved for Q4133 × 60 units, 15275 × 12 units and 15276 × 36 units, 10/26/2026–1/25/2027 (approval letter attached). Alexian WCC stops at 8. |
 | **D.V.**<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x7&nbsp;(4&nbsp;sheets) · Weekly · Dr.&nbsp;Hussain<br>**Was&nbsp;due&nbsp;Wed&nbsp;11/25&nbsp;1:45&nbsp;PM** | 🟢 6 of 8 | 🔴 Last appt 11/25 passed, nothing new booked<br>Next assumed Wed 10/28 1:45 PM (same time as the Wed 10/21 visit; AJ 10/25) — verify with the office. A1 10/7: 3 sheets OASIS Wound 3x7 from the WCC shelf. 3 a visit, weekly. |
 
@@ -55,7 +56,7 @@
 
 | Patient | Graft · next visit | Apps | Notes |
 | :-- | :-- | :-- | :-- |
-| **M.C.** | STRAVIX&nbsp;3x6 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;11/27&nbsp;9:45&nbsp;AM** | 🔴 13 | Weekly OASIS Wound patient (A11 Fri 10/30: two OASIS Wound 3x3.5, the 3x7 wasn't delivered in time). OR case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas in place of his OASIS visit: Stravix PL 2x4 LYU-251827\_24004 + Stravix PL 3x6 LYU-251697\_36005 from the Alexian Ambulatory shelf + VERSAJET Exact assembly 45°, 14 mm; filed to the tracker 11/6 (November row 30), bill-only PO to come (FIN 3004469). One record for both (AJ 11/6). Next: Stravix follow up Fri 11/13 9:45 AM at Alexian Ambulatory (AJ 11/6). |
+| **M.C.**<br>🔴&nbsp;No&nbsp;follow-up | STRAVIX&nbsp;3x6 · Weekly · Dr.&nbsp;Lucas<br>**Next&nbsp;Fri&nbsp;12/4&nbsp;9:45&nbsp;AM** | 🔴 14 | 🔴 Verify: Assumed weekly (AJ 11/6): Fri 12/4 9:45 AM<br>Weekly OASIS Wound patient (A11 Fri 10/30: two OASIS Wound 3x3.5, the 3x7 wasn't delivered in time). OR case Fri 11/6 9:45 AM at Alexian Ambulatory with Dr. Lucas in place of his OASIS visit: Stravix PL 2x4 LYU-251827\_24004 + Stravix PL 3x6 LYU-251697\_36005 from the Alexian Ambulatory shelf + VERSAJET Exact assembly 45°, 14 mm; filed to the tracker 11/6 (November row 30), bill-only PO to come (FIN 3004469). One record for both (AJ 11/6). Next: Stravix follow up Fri 11/13 9:45 AM at Alexian Ambulatory (AJ 11/6). |
 | **H.P.**<br>🔴&nbsp;No&nbsp;follow-up | OASIS&nbsp;Wound&nbsp;3x3.5 · Weekly · Dr.&nbsp;Ramani<br>**Was&nbsp;due&nbsp;Thu&nbsp;11/26&nbsp;1:30&nbsp;PM** | 🟢 3 | 🔴 Verify: Assumed weekly (AJ 11/6): Thu 11/26 1:30 PM<br>A1 Thu 10/22 1:30 PM: OASIS Wound 3x3.5, lot LB1751182 (case sheet filed to the tracker 10/22, October row 76). Billed as the whole box of 10; PO to come. 9 sheets left in the box for this patient. Weekly; next Thu 10/29 1:30 PM. |
 
 </details>

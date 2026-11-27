@@ -2,16 +2,26 @@
 
 # Cases
 
-**BIOT Chicago West** · P11 · day 18 of 18 · updated Fri 11/27, 7:01 AM CT
+**BIOT Chicago West** · P11 · day 18 of 18 · updated Fri 11/27, 1:07 PM CT
 
-| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;25](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
+| [🏠&nbsp;Home](../README.md) | [✅&nbsp;To&nbsp;do&nbsp;·&nbsp;27](../tracker/todo.md) | <ins>**📋&nbsp;Cases**</ins> | [📈&nbsp;Projection](../tracker/projection.md) | [📦&nbsp;Stock](../tracker/stock.md) | [👥&nbsp;Patients](../Patients.md) | [🎯&nbsp;Targets](../Prospects.md) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
 🟢 ready to submit · 🟡 waiting on a PO · 🔵 submitted, not in SFDC yet · ⚪ in SFDC · 🟤 clinic stock (no new sale). Initials open the case sheet; Ctrl+F finds any initials, PO or lot.
 
+<a name="2026-12"></a>
+## P12 · December
+
+**2 entries · \$2,829** · 🟡 2 Needs PO
+
+| Date | Case | Amount | Status |
+| :-- | :-- | --: | :-- |
+| **11/27** | [**M.C.**](../case-sheets/mc-1127.md) 📄 · Alexian Ambulatory · Lucas<br>Stravix 3x6 · no PO yet · LYU-251697\_36004<details><summary><sub>Notes</sub></summary>Stravix follow up Fri 11/27 9:45 AM at Alexian Ambulatory (Dr. Lucas), M.C. A14: Stravix PL 3x6 LYU-251697\_36004 (exp 8/11/27) from the Alexian Ambulatory shelf, \$2,469.00 (Ascension rate, on the case sheet). Ron Sangha covered and signed the case sheet. Case sheet photo from AJ 11/27 (patient label covered on the copy). P12 (period from 11/26). Bill-only PO to come. Case sheet page: case-sheets/mc-1127.</details> | \$2,469 | 🟡&nbsp;Needs&nbsp;PO |
+|   | [**E.J.**](../case-sheets/ej-1127.md) 📄 · Alexian WCC · Lucas<br>Grafix 16mm · no PO yet · LYA-260309\_16006<details><summary><sub>Notes</sub></summary>NEW START. App #1, Fri 11/27, Dr. Lucas: Grafix 16mm LYA-260309\_16006 (exp 3/20/28) from the Alexian WCC shelf, \$360 (Alexian 16mm rate; case sheet \$360). Ron Sangha covered. Case sheet photo from AJ 11/27. Unit LYA-260309\_16006 isn't on the Stock tab's shelf list yet (from a newer restock, like D.K.'s 16008). Alexian patient ID to come (needed to match the PO). P12 (period from 11/26). Bill-only PO to come. Case sheet page: case-sheets/ej-1127.</details> | \$360 | 🟡&nbsp;Needs&nbsp;PO |
+
 <a name="2026-11"></a>
-## P11 · November
+<details><summary><b>P11 · November</b> · 87 entries · &#36;113,853</summary>
 
 **87 entries · \$113,853** · 🟡 22 Needs PO · 🔵 26 Submitted · 🔴 3 Check · 🟤 2 Clinic stock · ⚪ 34 In SFDC
 
@@ -104,6 +114,8 @@
 | **10/7** | [**M.W.**](../case-sheets/mw-1007.md) 📄 · Romano Lombard · Rojas<br>Grafix 16mm · PO MW100726 · LYA-260007\_16005<details><summary><sub>Notes</sub></summary>ACCOUNT NOT SET UP (AJ 11/24): this account is not set up in SFDC yet, so the PO can't be submitted. Under Needs a look until AJ says the account is live; then PO Match goes back to Certain and it is ready to submit. New start (A1) at Romano Orthopaedics, Lombard (Dr. Rojas). Weekly 16mm. Romano pricing \$95/cm2, so 16mm (2 cm2) = \$190. One-off PO MW100726 (future orders go on sale-order POs). Case sheet made 10/7. Ready to submit. TRANSFER: LYA-260007\_16005 on UChicago Medicine AdventHealth La Grange (198740) consignment per the BIOT Chicago district consignment report 10/11; transport log typed 10/11 (case-sheets/mw-1007-transport-log), Transfers tab — Moved to the November tab 10/30 (AJ): P10 closed with what was submitted; this counts in P11 once it's submitted.</details> | \$190 | 🔴&nbsp;Check<br>🔁&nbsp;Transfer |
 | **9/29** | [**Y.L.**](../case-sheets/yl-0929.md) 📄 · Suburban F&A · Grinberg<br>Grafix 16mm · PO YL092926 · LYA-260138\_16034<details><summary><sub>Notes</sub></summary>ACCOUNT NOT SET UP (AJ 11/24): this account is not set up in SFDC yet, so the PO can't be submitted. Under Needs a look until AJ says the account is live; then PO Match goes back to Certain and it is ready to submit. PO on case sheet. TRANSFER from the Alexian WCC shelf (253985), same lot as T.T./M.L./A.N. that day; transport log typed 10/11 (case-sheets/yl-0929-transport-log), Transfers tab — Moved to the November tab 10/30 (AJ): P10 closed with what was submitted; this counts in P11 once it's submitted.</details> | \$190 | 🔴&nbsp;Check<br>🔁&nbsp;Transfer |
 | **9/16** | [**A.P.**](../case-sheets/ap-0916.md) 📄 · Alexian WCC · Hussain<br>Grafix 1.5x2 · no PO yet · LYA-250733\_15013<details><summary><sub>Notes</sub></summary>App #1 of 3 (10/2 list). No PO yet (Patient ID per Sept tab) — Moved to the November tab 10/30 (AJ): P10 closed with what was submitted; this counts in P11 once it's submitted.</details> | \$600 | 🟡&nbsp;Needs&nbsp;PO |
+
+</details>
 
 <a name="2026-10"></a>
 <details><summary><b>P10 · October</b> · 89 entries · &#36;174,896</summary>
